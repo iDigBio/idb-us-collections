@@ -1,0 +1,5 @@
+language: R
+cache: packages
+r_binary_packages:
+ - testthat
+warnings_are_errors: false
