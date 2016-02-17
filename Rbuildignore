@@ -1,0 +1,8 @@
+^\.travis\.yml$
+^.*\.Rproj$
+^\.Rproj\.user$
+^collections$
+^collections\.json$
+^idb-collections-json\.R$
+^master\.csv$
+^stub\.json$
