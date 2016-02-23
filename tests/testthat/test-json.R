@@ -19,3 +19,7 @@ test_that("check each collection file for valid JSON", {
                 expect_true(validate(toJSON(fromJSON(paste("collections/",list.files("collections/")[i],sep="")),auto_unbox = TRUE,pretty = TRUE)))
         }
 })
+
+test_that("check for duplicate collection ID's", {
+    expect_true(anyDuplicated(list.files("collections/")) == 0)
+})
