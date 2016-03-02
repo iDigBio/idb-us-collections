@@ -1,5 +1,5 @@
 ## Test structure of collection JSON files
-setwd("/home/travis/build/iDigBio/idb-us-collections/data/")
+setwd("/home/travis/build/iDigBio/idb-us-collections/data-raw/")
 context("test attributes")
 test_that("check JSON file attributes against stub", {
         stub <- jsonlite::fromJSON("../stub.json")
