@@ -13,6 +13,6 @@ Imports:
   jsonlite,
   uuid
 License: MIT + file LICENSE
-LazyData: true
+LazyData: false
 Suggests:
   testthat
