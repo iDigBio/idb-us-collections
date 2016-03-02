@@ -1,6 +1,6 @@
 Package: idbCollections
 Title: Interface to the iDigBio Collections API
-Version: 0.0.1
+Version: 0.1.1
 Date: 2016-02-08
 Authors@R: c(person("Kevin", "Love", role=c("aut", "cre", "ctb"),
   email="imnotthatkevinlove@gmail.com"))
@@ -8,11 +8,12 @@ Description: An interface to iDigBio's collections data API that allows download
   collection records. See <https://www.idigbio.org> for information on iDigBio.
 URL: https://github.com/kevinlove/idb-us-collections
 Depends:
-  R (>= 3.0.1)
+  R (>= 3.0.1),
+  uuid
 Imports:
-  progress,
-  jsonlite
+  jsonlite,
+  uuid
 License: MIT + file LICENSE
-LazyData: true
+LazyData: false
 Suggests:
   testthat
