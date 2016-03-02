@@ -8,7 +8,8 @@ Description: An interface to iDigBio's collections data API that allows download
   collection records. See <https://www.idigbio.org> for information on iDigBio.
 URL: https://github.com/kevinlove/idb-us-collections
 Depends:
-  R (>= 3.0.1)
+  R (>= 3.0.1),
+  uuid
 Imports:
   jsonlite,
   uuid
