@@ -2,7 +2,7 @@
 setwd("/home/travis/build/iDigBio/idb-us-collections/data/")
 context("test attributes")
 test_that("check JSON file attributes against stub", {
-        stub <- jsonlite::fromJSON("stub.json")
+        stub <- jsonlite::fromJSON("../stub.json")
         stubAttr <- attr(stub,"names")
         for (i in 1:length(list.files("collections/"))){
        
@@ -16,7 +16,7 @@ test_that("check JSON file attributes against stub", {
 test_that("check each collection file for valid JSON", {
         for (i in 1:length(list.files("collections/"))){
 
-                expect_true(validate(toJSON(fromJSON(paste("collections/",list.files("collections/")[i],sep="")),auto_unbox = TRUE,pretty = TRUE)))
+                expect_true(jsonlite::validate(jsonlite::toJSON(jsonlite::fromJSON(paste("collections/",list.files("collections/")[i],sep="")),auto_unbox = TRUE,pretty = TRUE)))
         }
 })
 
