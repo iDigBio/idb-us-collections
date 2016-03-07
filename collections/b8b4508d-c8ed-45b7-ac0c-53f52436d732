@@ -1,7 +1,7 @@
 {
     "institution": "Field Museum of Natural History",
     "collection": "Fishes",
-    "recordsets": "",
+    "recordsets": "a7020dbf-35fc-46e8-a441-c0a6b957193c",
     "institution_code": "FMNH",
     "collection_code": "",
     "collection_uuid": "urn:uuid:b8b4508d-c8ed-45b7-ac0c-53f52436d732",
@@ -9,7 +9,7 @@
     "collection_url": "http://fieldmuseum.org/explore/department/zoology/fishes",
     "collection_catalog_url": "http://emuweb.fieldmuseum.org/fish/entire_database.php",
     "contact": "Caleb McMahan",
-    "contact_role": "Collections Manager",
+    "contact_role": "",
     "contact_email": "cmcmahan@fieldmuseum.org",
     "taxonomic_coverage": "",
     "geographic_range": "Worldwide",
