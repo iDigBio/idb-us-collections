@@ -14,14 +14,13 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
 
   #go into directory and copy data we're interested in to that directory
   cd collections
-  cp -Rf $HOME/collections/* .
   sed -s '$a------' * | sed '$d' > index.json
   sed -i '1i [' index.json
   sed -i '$a ]' index.json
 
   #add, commit and push files
   git add -f .
-  git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to josn-index"
+  git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to json-index"
   git push -fq origin json-index > /dev/null
 
   echo -e "Done magic with index\n"
