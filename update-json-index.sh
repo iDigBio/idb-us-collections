@@ -10,8 +10,8 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
   git clone --quiet --branch=json-index https://${GH_TOKEN}@github.com/iDigBio/idb-us-collections.git  json-index > /dev/null
 
   #go into directory and create our index file
-  cd collections
-  sed -s '$a------' * | sed '$d' > index.json
+  cd json-index/collections
+  sed -s '$a,' * | sed '$d' > index.json
   sed -i '1i [' index.json
   sed -i '$a ]' index.json
 
