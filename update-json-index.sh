@@ -1,9 +1,6 @@
 if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
   echo -e "Starting to update json-index\n"
 
-  #copy data we're interested in to other place
-  cp -R collections/ $HOME/collections
-
   #go to home and setup git
   cd $HOME
   git config --global user.email "travis@travis-ci.org"
@@ -12,7 +9,7 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
   #using token clone json-index branch
   git clone --quiet --branch=json-index https://${GH_TOKEN}@github.com/iDigBio/idb-us-collections.git  json-index > /dev/null
 
-  #go into directory and copy data we're interested in to that directory
+  #go into directory and create our index file
   cd collections
   sed -s '$a------' * | sed '$d' > index.json
   sed -i '1i [' index.json
