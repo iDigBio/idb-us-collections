@@ -1,5 +1,6 @@
 if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
   echo -e "Starting to update json-index\n"
+  df -h
 
   #go to home and setup git
   cd $HOME
