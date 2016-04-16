@@ -18,7 +18,7 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
   sed -i '$a ]' ../index.json
 
   #add, commit and push files
-  git add -f .
+  git add index.json
   git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to json-index"
   git push -fq origin json-index > /dev/null
 
