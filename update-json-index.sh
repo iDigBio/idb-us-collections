@@ -13,7 +13,7 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
 
   #go into directory and create our index file
   cd json-index/collections
-  sed -s '$a,' * index.json
+  sed -s '$a,' * > index.json
   sed -i '1i [' index.json
   sed -i '$a ]' index.json
 
