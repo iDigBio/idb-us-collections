@@ -1,4 +1,3 @@
-if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
   echo -e "Starting to update json-index\n"
 
   #go to home and setup git
@@ -18,9 +17,8 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
   sed -i '$a ]' ../index.json
 
   #add, commit and push files
-  git add ../index.json
+  git add -f .
   git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to gh-pages"
   git push -fq origin gh-pages > /dev/null
 
   echo -e "Done magic with GitHub pages\n"
-fi
