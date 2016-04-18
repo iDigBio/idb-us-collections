@@ -1,8 +1,8 @@
   echo -e "Starting to update json-index\n"
   
   #copy new files
-  ls  | head
-  cp -R collections/ $HOME/collections/
+  echo -e "Copy new files"
+  cp -R collections $HOME/collections
   
 
   #go to home and setup git
@@ -12,12 +12,11 @@
 
   #using token clone json-index branch
   git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/iDigBio/idb-us-collections.git  gh-pages > /dev/null
-
+  echo -e "Clone repo"
+ 
   #go into directory and create our index file
   cd gh-pages/collections
-  ls | head
-  cp -uv $HOME/collections/* .
-  ls -alh | head
+  cp -R $HOME/collections .
   sed -s '$a,' * > ../index.json
   sed -i '$ d' ../index.json
   sed -i '1i [' ../index.json
