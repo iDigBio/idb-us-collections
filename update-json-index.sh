@@ -16,7 +16,7 @@
  
   #go into directory and create our index file
   cd gh-pages/collections
-  cp -R $HOME/collections .
+  cp -R $HOME/collections/* .
   sed -s '$a,' * > ../index.json
   sed -i '$ d' ../index.json
   sed -i '1i [' ../index.json
