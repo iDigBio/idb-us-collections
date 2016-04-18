@@ -23,7 +23,7 @@
   sed -i '$a ]' ../index.json
 
   #add, commit and push files
-  git add -f .
+  git add -f ../index.json
   git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to gh-pages"
   git push -fq origin gh-pages > /dev/null
 
