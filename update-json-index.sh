@@ -17,13 +17,13 @@
   #go into directory and create our index file
   cd gh-pages/collections
   cp -R $HOME/collections/* .
-  sed -s '$a,' * > ../index.json
-  sed -i '$ d' ../index.json
-  sed -i '1i [' ../index.json
-  sed -i '$a ]' ../index.json
+  sed -s '$a,' * > ../collections.json
+  sed -i '$ d' ../collections.json
+  sed -i '1i [' ../collections.json
+  sed -i '$a ]' ../collections.json
 
   #add, commit and push files
-  git add -f ../index.json
+  git add -f ../collections.json
   git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to gh-pages"
   git push -fq origin gh-pages > /dev/null
 
