@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="Idb-us-collections : ">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Idb-us-collections</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/kevinlove/idb-us-collections">View on GitHub</a>
+
+          <h1 id="project_title">Idb-us-collections</h1>
+          <h2 id="project_tagline"></h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/kevinlove/idb-us-collections/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/kevinlove/idb-us-collections/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <p><a href="https://travis-ci.org/iDigBio/idb-us-collections"><img src="https://travis-ci.org/iDigBio/idb-us-collections.svg?branch=master" alt="Build Status"></a></p>
+
+<h1>
+<a id="idigbio-us-collections" class="anchor" href="#idigbio-us-collections" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>iDigBio: US Collections</h1>
+
+<p>iDigBio publishes a list of US Collections, via the <a href="https://www.idigbio.org/portal/collections">iDigBio Portal</a>, that is intended to be a comprehensive list of all natural history collections in the United States of America. This GitHub project provides an administrative interface for managing the publishing of this list and offers tools to those who would like to use these data programmatically. </p>
+
+<h2>
+<a id="api-endpoint" class="anchor" href="#api-endpoint" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>API Endpoint</h2>
+
+<p><a href="http://idigbio.github.io/idb-us-collections/collections.json">Published collections JSON Endpoint</a></p>
+
+<h2>
+<a id="project-structure" class="anchor" href="#project-structure" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Project Structure</h2>
+
+<p>Collections should each have their own JSON file, named by their collection UUID, and be formatted similar to this:</p>
+
+<div class="highlight highlight-source-json"><pre>[
+  {
+    <span class="pl-s"><span class="pl-pds">"</span>institution<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>Yale University, Peabody Museum of Natural History<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>collection<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>Historical Scientific Instruments<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>recordsets<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>institution_code<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>collection_code<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>collection_uuid<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>urn:uuid:09b5acf0-899b-4b4d-abd0-7dbb7799053c<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>collection_lsid<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>NA<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>collection_url<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>http://peabody.yale.edu/collections/historical-scientific-instruments<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>collection_catalog_url<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>http://peabody.yale.edu/collections/search-collections?hsi<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>contact<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>Paola Bertucci<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>contact_role<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>Assistant Curator<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>contact_email<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>paola.bertucci@yale.edu<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>taxonomic_coverage<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>geographic_range<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>collection_size<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>mailing_address<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>Yale University, PO Box 208118<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>mailing_city<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>New Haven<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>mailing_state<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>Connecticut<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>mailing_zip<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>06511-0000<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>physical_address<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>170-210 Whitney Avenue<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>physical_city<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>New Haven<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>physical_state<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>Connecticut<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>physical_zip<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>06511-0000<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>update_url<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>https://docs.google.com/forms/d/1slWOvxuLpuPdvDihSibLQq9BPsOqPzK8Hh93zCW3dRI/viewform?entry.823080433=the+collection+is+already+in+the+list&amp;entry.764919322=urn:uuid:09b5acf0-899b-4b4d-abd0-7dbb7799053c&amp;entry.326174790=Yale University, Peabody Museum of Natural History&amp;entry.2031121141=Historical Scientific Instruments&amp;entry.4068754=&amp;entry.1582913154=&amp;entry.1336841557=http://peabody.yale.edu/collections/historical-scientific-instruments&amp;entry.103879345=http://peabody.yale.edu/collections/search-collections?hsi&amp;entry.107456176=&amp;entry.879476273=&amp;entry.417603227=&amp;entry.1321049572=Paola Bertucci&amp;entry.1687847097=Assistant Curator&amp;entry.1086198428=paola.bertucci@yale.edu&amp;entry.246950189=Yale University, PO Box 208118&amp;entry.1584255348=New Haven&amp;entry.1966582743=Connecticut&amp;entry.256217142=06511-0000&amp;entry.447546773=170-210 Whitney Avenue&amp;entry.1565624766=New Haven&amp;entry.1920508789=Connecticut&amp;entry.1022645685=06511-0000<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>lat<span class="pl-pds">"</span></span>: <span class="pl-c1">41.3167</span>,
+    <span class="pl-s"><span class="pl-pds">"</span>lon<span class="pl-pds">"</span></span>: <span class="pl-c1">-72.9204</span>
+  }
+]</pre></div>
+
+<h2>
+<a id="metadata" class="anchor" href="#metadata" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Metadata</h2>
+
+<ul>
+<li>In general, institution and collection names should be spelled in full including the first/middle names of the people which the collections are named after. This is intended to facilitate full name search and avoid ambiguities, e.g.:
+-- Bernice Pauahi Bishop Museum and not B.P. Bishop Museum or Bishop Museum</li>
+<li>
+<code>institution:</code> name of the institution, ordered in decreasing hierarchy, separated by commas, e.g.:
+-- University of Florida, Florida Museum of Natural History
+-- Brigham Young University, Monte L. Bean Life Science Museum</li>
+<li>
+<code>collection:</code> name of the collection, ordered in decreasing hierarchy, separated by commas
+MAIN denotes the record for the institution itself rather than one of the collections
+If the institution itself is just an herbarium, it should be listed as Herbarium (not MAIN)</li>
+<li>
+<code>recordsets</code> the record sets for the collection in iDigBio. They should be separated by commas</li>
+<li>
+<code>institution_code</code> the institution code. We are using the GRbio convention of adding  as a suffix if it’s a collection listed in index herbariorum</li>
+<li>
+<code>collection_code</code> the prefix used by the collection in their catalog number</li>
+<li>
+<code>collection_uuid</code> generated by us, should be unique, with prefix urn:uuid:</li>
+<li>
+<code>institution_lsid</code> the GRbio LSID or coolURI for the collection, empty fields are collections that were not part of GRbio as of August 2014</li>
+<li>
+<code>collection_url</code> the URL of the website that lists general information about the collection</li>
+<li>
+<code>ccollection_catalog_url</code> the URL of the website that provides a search interface (or lists specimens) for the specimens housed by the collection</li>
+<li>
+<code>contact</code> preferred person to act as point of contact for the collection. Usually I have removed titles from this field to only keep the name</li>
+<li>
+<code>contact_role</code> role of the contact person for the collection</li>
+<li>
+<code>contact_email</code> email of the contact person</li>
+<li>
+<code>taxonomic_coverage</code> taxonomic strengths of the collection</li>
+<li>
+<code>geographic_range</code> the geographic range from which the specimens in the collection come from.</li>
+<li>
+<code>collection_size</code> the number of specimens/lots in the collection</li>
+<li>
+<code>mailing_address</code> mailing address for the collection</li>
+<li><code>mailing_city</code></li>
+<li><code>mailing_state</code></li>
+<li>
+<code>mailing_zip</code> to avoid conversion issue between spreadsheet formats, zip codes starting with a 0 have -0000 at the end: e.g., 02138-0000 for the MCZ</li>
+<li>
+<code>physical_address:</code> physical address for the collection</li>
+<li><code>physical_city</code></li>
+<li><code>physical_state</code></li>
+<li>
+<code>physical_zip</code> to avoid conversion issue between spreadsheet formats, zip codes starting with a 0 have -0000 at the end: e.g., 02138-0000 for the MCZ</li>
+<li>
+<code>lat</code> decimal latitude for the collection, should only be added for collection addresses that fail the geolocation lookup with the API</li>
+<li>
+<code>lon</code>  decimal longitude for the collection, should only be added for collection addresses that fail the geolocation lookup with the API</li>
+</ul>
+
+<h2>
+<a id="stub-records" class="anchor" href="#stub-records" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Stub records</h2>
+
+<p>Stub records can be generated using the function <code>r createCollStub</code> . A stub record will be generated and added to a directory called "stubs". These stub records will have UUID's and can be moved to the "collections" directory once they have been updated or are complete.</p>
+
+<div class="highlight highlight-source-json"><pre>{
+  <span class="pl-s"><span class="pl-pds">"</span>institution<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>collection<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>recordsets<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>institution_code<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>collection_code<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>collection_uuid<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>collection_lsid<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>collection_url<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>collection_catalog_url<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>contact<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>contact_role<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>contact_email<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>taxonomic_coverage<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>geographic_range<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>collection_size<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>mailing_address<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>mailing_city<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>mailing_state<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>mailing_zip<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>physical_address<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>physical_city<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>physical_state<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>physical_zip<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>update_url<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>lat<span class="pl-pds">"</span></span>: <span class="pl-c1">0</span>,
+  <span class="pl-s"><span class="pl-pds">"</span>lon<span class="pl-pds">"</span></span>: <span class="pl-c1">0</span>
+}</pre></div>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Idb-us-collections maintained by <a href="https://github.com/kevinlove">kevinlove</a></p>
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
