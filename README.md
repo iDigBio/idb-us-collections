@@ -1,10 +1,16 @@
 [![Build Status](https://travis-ci.org/iDigBio/idb-us-collections.svg?branch=master)](https://travis-ci.org/iDigBio/idb-us-collections)
 
-# idb-us-collections
+# iDigBio: US Collections 
 
-idb-collections-json.R to pull current list of US collections via iDigBio API and generate JSON files and CSV 
+iDigBio publishes a list of US Collections, via the [iDigBio Portal](https://www.idigbio.org/portal/collections), that is intended to be a comprehensive list of all natural history collections in the United States of America. This GitHub project provides an administrative interface for managing the publishing of this list and offers tools to those who would like to use these data programmatically. 
+
+## API Endpoint
+
+[Published collections JSON Endpoint](http://idigbio.github.io/idb-us-collections/collections.json)
 
 
+
+## Project Structure
 Collections should each have their own JSON file, named by their collection UUID, and be formatted similar to this:
 
 ```json
