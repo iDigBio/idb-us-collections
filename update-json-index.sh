@@ -10,9 +10,9 @@
   git config --global user.email "travis@travis-ci.org"
   git config --global user.name "Travis"
 
-  #using token clone json-index branch
+  #using token clone gh-pages branch
   git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/iDigBio/idb-us-collections.git  gh-pages > /dev/null
-  echo -e "Clone repo"
+  echo -e "Clone gh-pages repo"
  
   #go into directory and create our index file
   cd gh-pages/collections
@@ -26,5 +26,29 @@
   git add --all :/
   git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to gh-pages"
   git push -fq origin gh-pages > /dev/null
+  
+  
+  
+  #using token clone json-index branch
+  cd $HOME
+  git clone --quiet --branch=json-index https://${GH_TOKEN}@github.com/iDigBio/idb-us-collections.git  json-index > /dev/null
+  echo -e "Clone json-index repo"
+ 
+  #go into directory and create our index file
+  cd json-index/collections
+  cp -R $HOME/collections/* .
+  sed -s '$a,' * > ../collections.json
+  sed -i '$ d' ../collections.json
+  sed -i '1i [' ../collections.json
+  sed -i '$a ]' ../collections.json
+  cd ..
+  rm -rf collections/
+
+  #add, commit and push files
+  git add --all :/
+  git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to json-index"
+  git push -fq origin json-index > /dev/null
+  
+  
 
   echo -e "Done magic with GitHub pages\n"
