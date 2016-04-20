@@ -6730,7 +6730,7 @@
 {
     "institution": "Angelo State University, Angelo State Natural History Collections",
     "collection": "Herpetology",
-    "recordsets": "",
+    "recordsets": "13bac7f8-ff25-4d02-82d7-516dc6355beb",
     "institution_code": "ASNHC",
     "collection_code": "",
     "collection_uuid": "urn:uuid:27de81dd-afc0-4265-8f55-05c2db0081eb",
@@ -36745,7 +36745,7 @@
 {
     "institution": "South Dakota School of Mines and Technology",
     "collection": "Museum of Geology",
-    "recordsets": "db3181c9-48dd-489f-96ab-a5888f5a938c",
+    "recordsets": "db3181c9-48dd-489f-96ab-a5888f5a938c, 4dfb5828-3653-4604-ac00-db1e1da98b02, 7757c07f-18fd-45c2-84cc-60bd3742e100",
     "institution_code": "",
     "collection_code": "SDSM",
     "collection_uuid": "urn:uuid:e14d807a-6c28-11e5-bdab-180373b97bac",
@@ -40660,7 +40660,7 @@
 {
     "institution": "Angelo State University, Angelo State Natural History Collections",
     "collection": "Mammalogy",
-    "recordsets": "",
+    "recordsets": "c2dcb184-6c90-4aa3-9ebb-33b2d53837b9",
     "institution_code": "ASNHC",
     "collection_code": "",
     "collection_uuid": "urn:uuid:fb8e73d9-a803-4959-a239-b9f51558edad",
