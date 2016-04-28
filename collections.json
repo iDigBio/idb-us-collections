@@ -22910,8 +22910,8 @@
   }
 ,
 {
-    "institution": "Humboldt State University, Wildlife Museum",
-    "collection": "Herpetology/Ornithology",
+    "institution": "Humboldt State University, Vertebrate Museum",
+    "collection": "Herpetology/Ornithology/Mammalogy",
     "recordsets": "46be8190-0533-4fc7-9cab-1faa26d9906e, a3173073-2467-4365-9d32-17122929e27e",
     "institution_code": "HSU",
     "collection_code": "",
@@ -22922,8 +22922,8 @@
     "contact": "John Reiss",
     "contact_role": "Curator",
     "contact_email": "jor1@humboldt.edu",
-    "taxonomic_coverage": "",
-    "geographic_range": "",
+    "taxonomic_coverage": "Strengths in amphibians, reptiles, and mammals of the northern California area, marine mammals, and mammals of the Great Basin.",
+    "geographic_range": "Worldwide",
     "collection_size": "NA",
     "mailing_address": "Humboldt State University, 1 Harpst Street",
     "mailing_city": "Arcata",
