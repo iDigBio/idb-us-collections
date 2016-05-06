@@ -16619,7 +16619,7 @@
 {
     "institution": "Keene State College",
     "collection": "Herbarium",
-    "recordsets": "93e97f6c-0ab6-41a7-9b58-7e230a80ec1e",
+    "recordsets": "",
     "institution_code": "KESC<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:6295f25e-3505-442e-be6d-c6c1f3235d36",
@@ -31496,7 +31496,7 @@
 {
     "institution": "Louisiana State University, Museum of Natural Science",
     "collection": "Herpetology",
-    "recordsets": "",
+    "recordsets": "156e4092-a68c-4b6d-a3a8-a36edcd74867",
     "institution_code": "LSUMZ",
     "collection_code": "",
     "collection_uuid": "urn:uuid:c149bde9-4da2-472d-a8e9-356f7a14b488",
