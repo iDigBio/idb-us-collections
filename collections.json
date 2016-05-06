@@ -21518,10 +21518,10 @@
   }
 ,
 {
-    "institution": "Ohio University, Invertebrate Paleontology Collection",
-    "collection": "",
+    "institution": "Ohio University",
+    "collection": "Invertebrate Paleontology Collection",
     "recordsets": "0d05a365-36e8-4150-a350-23ed33f79b17",
-    "institution_code": "ORU<IH>",
+    "institution_code": "OUIP",
     "collection_code": "",
     "collection_uuid": "urn:uuid:83a1a32c-8e39-4c3a-ae98-8794ca2196fe",
     "collection_lsid": "http://grbio.org/cool/sbwd-ygzg",
