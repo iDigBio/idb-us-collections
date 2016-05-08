@@ -1,9 +1,9 @@
 {
     "institution": "University of Minnesota, James Ford Bell Museum of Natural History",
     "collection": "Fishes",
-    "recordsets": "81d00e23-92aa-45d7-b289-5cf045ddfbf4",
+    "recordsets": "",
     "institution_code": "JFBM, MIN",
-    "collection_code": "Fishes",
+    "collection_code": "JFBM",
     "collection_uuid": "urn:uuid:4537dc49-032e-400b-928e-1fabb97847ad",
     "collection_lsid": "NA",
     "collection_url": "http://www.bellmuseum.umn.edu/ResearchandTeaching/Collections/ScientificCollection/Fishes/index.htm",
