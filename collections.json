@@ -3801,7 +3801,7 @@
 {
     "institution": "Bernice Pauahi Bishop Museum",
     "collection": "Ichthyology",
-    "recordsets": "",
+    "recordsets": "a6e02b78-6fc6-4cb6-bb87-8d5a443f2c2a",
     "institution_code": "BPBM",
     "collection_code": "",
     "collection_uuid": "urn:uuid:1614381b-560f-4618-8ebb-c41a3bf52a46",
@@ -6556,7 +6556,7 @@
 {
     "institution": "Bernice Pauahi Bishop Museum",
     "collection": "Invertebrate Zoology",
-    "recordsets": "a6e02b78-6fc6-4cb6-bb87-8d5a443f2c2a",
+    "recordsets": "",
     "institution_code": "BPBM",
     "collection_code": "",
     "collection_uuid": "urn:uuid:27283e37-8041-45d7-9407-29ce6fddbbc6",
