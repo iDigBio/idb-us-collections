@@ -1,9 +1,9 @@
 {
     "institution": "University of Minnesota, James Ford Bell Museum of Natural History",
     "collection": "Mammals",
-    "recordsets": "adae5c6c-72f3-4cd8-a00b-3ea71d516abc",
-    "institution_code": "JFBM",
-    "collection_code": "Mammals",
+    "recordsets": "",
+    "institution_code": "MIN",
+    "collection_code": "",
     "collection_uuid": "urn:uuid:124c0f02-8c86-4945-94f3-b4ed6297f61a",
     "collection_lsid": "NA",
     "collection_url": "http://www.bellmuseum.umn.edu/ResearchandTeaching/Collections/ScientificCollection/Mammals/index.htm",
