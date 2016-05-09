@@ -24507,7 +24507,7 @@
 {
     "institution": "University of Oklahoma, Sam Noble Oklahoma State Museum of Natural History",
     "collection": "Invertebrate Paleontology",
-    "recordsets": "62c310ac-e1ff-47bc-860d-0471a84ed0d3",
+    "recordsets": "",
     "institution_code": "OMNH",
     "collection_code": "",
     "collection_uuid": "urn:uuid:974c5a2c-d006-4891-bd87-03a85ff4264f",
@@ -38195,7 +38195,7 @@
 {
     "institution": "University of Illinois, Illinois Natural History Survey",
     "collection": "Herbarium",
-    "recordsets": "f4214a7a-6793-48e0-ac41-9baff83096d3, 62f951c1-b6a8-430c-8652-5691f079152c",
+    "recordsets": "f4214a7a-6793-48e0-ac41-9baff83096d3, 62f951c1-b6a8-430c-8652-5691f079152c, f0174bc9-0cca-450e-a941-655d80040139",
     "institution_code": "ILLS",
     "collection_code": "",
     "collection_uuid": "urn:uuid:eb764b8b-e8e9-4541-a2e8-8bbef09fcc12",
