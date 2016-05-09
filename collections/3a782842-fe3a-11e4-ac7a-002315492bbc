@@ -1,9 +1,9 @@
 {
     "institution": "Denver Botanic Gardens, Collection of Arthropods",
     "collection": "",
-    "recordsets": "0395f3c4-0277-43b6-a36d-e07720588790",
-    "institution_code": "DBG",
-    "collection_code": "DBGA",
+    "recordsets": "",
+    "institution_code": "BDBGA",
+    "collection_code": "",
     "collection_uuid": "urn:uuid:3a782842-fe3a-11e4-ac7a-002315492bbc",
     "collection_lsid": "http://grbio.org/cool/vnsv-68mw",
     "collection_url": "",
