@@ -1,7 +1,7 @@
 {
     "institution": "Louisiana State University, Museum of Natural Science",
     "collection": "Herbarium",
-    "recordsets": "94dd2cee-ed7d-4f98-894f-efafeac92b5b, 40987883-03cf-494a-a5cf-7c77c7aadb79, 8e5fffb5-0b22-472d-8386-de291d17d513, 4523e216-ee13-4b15-a3f7-a6fd56431604",
+    "recordsets": "40987883-03cf-494a-a5cf-7c77c7aadb79, 8e5fffb5-0b22-472d-8386-de291d17d513, 4523e216-ee13-4b15-a3f7-a6fd56431604",
     "institution_code": "LSU",
     "collection_code": "",
     "collection_uuid": "urn:uuid:0e9bde1f-90e0-49eb-9ff3-476692345438",
