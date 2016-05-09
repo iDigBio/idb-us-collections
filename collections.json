@@ -3772,7 +3772,7 @@
 {
     "institution": "University of Illinois, Illinois Natural History Survey",
     "collection": "Fungarium",
-    "recordsets": "e7ac8c4a-64bd-491b-b764-232de9b4bfe5",
+    "recordsets": "ef637c01-c551-4d47-8a48-4442b8ad5ecd, e0e37702-32af-405b-b652-ee54b5bb94e2",
     "institution_code": "ILLS (fungi)",
     "collection_code": "",
     "collection_uuid": "urn:uuid:160908b4-3765-4594-bbae-ed5d5d9300c1",
@@ -31670,7 +31670,7 @@
 {
     "institution": "Idaho State University, Idaho Museum of Natural History",
     "collection": "Botany",
-    "recordsets": "",
+    "recordsets": "8728ef71-fdcc-4027-8139-38b2c0628fba",
     "institution_code": "IDS<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:c24db883-747e-4cac-9e64-8e9d6e11f011",
@@ -38195,7 +38195,7 @@
 {
     "institution": "University of Illinois, Illinois Natural History Survey",
     "collection": "Herbarium",
-    "recordsets": "f4214a7a-6793-48e0-ac41-9baff83096d3, 62f951c1-b6a8-430c-8652-5691f079152c",
+    "recordsets": "f4214a7a-6793-48e0-ac41-9baff83096d3, 62f951c1-b6a8-430c-8652-5691f079152c, f0174bc9-0cca-450e-a941-655d80040139",
     "institution_code": "ILLS",
     "collection_code": "",
     "collection_uuid": "urn:uuid:eb764b8b-e8e9-4541-a2e8-8bbef09fcc12",
