@@ -6672,7 +6672,7 @@
 {
     "institution": "Milwaukee Public Museum",
     "collection": "Invertebrate Zoology",
-    "recordsets": "",
+    "recordsets": "f885076c-a7ae-4a7b-9769-3f733c6a9ecf",
     "institution_code": "MPM",
     "collection_code": "",
     "collection_uuid": "urn:uuid:27601982-5488-4259-8203-6f9a6510de7c",
@@ -34628,7 +34628,7 @@
 {
     "institution": "New York State Museum",
     "collection": "Herbarium",
-    "recordsets": "",
+    "recordsets": "82bcf2f2-b2d6-45a5-b0ca-d70d8ab4ebf8, 237bd113-32f3-4091-9710-4a1b074fe26d",
     "institution_code": "NYS",
     "collection_code": "",
     "collection_uuid": "urn:uuid:d5073077-b5c2-421e-96ae-eeb318fe09cc",
