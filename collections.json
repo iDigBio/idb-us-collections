@@ -21317,8 +21317,8 @@
 {
     "institution": "University of Texas at Austin, Plant Resource Center",
     "collection": "Herbarium",
-    "recordsets": "6cc31636-c3e5-4887-bbee-2e56621771c4",
-    "institution_code": "TEX<IH>",
+    "recordsets": "6cc31636-c3e5-4887-bbee-2e56621771c4, c5b7dae8-b483-4742-9954-d7f9226daa34",
+    "institution_code": "TEX<IH>, LL<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:820454f7-dd42-4cf8-8f47-36eedd62d312",
     "collection_lsid": "urn:lsid:biocol.org:col:15684",
