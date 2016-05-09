@@ -6904,7 +6904,7 @@
 {
     "institution": "Michigan Technological University",
     "collection": "Herbarium",
-    "recordsets": "",
+    "recordsets": "d81c6ad6-fb8f-4c31-bba3-f2b65f780893, 4d89070b-5dea-4a12-8a09-3f65ba33dba1",
     "institution_code": "MCTC<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:293a7763-7286-48f5-91f0-4591cede35ae",
@@ -22214,7 +22214,7 @@
   }
 ,
 {
-    "institution": "Chicago Academy of Sciences",
+    "institution": "Chicago Academy of Sciences, The Peggy Notebaert Nature Museum",
     "collection": "Mammals",
     "recordsets": "50cfe20a-9100-4710-89f9-a97bc3aa53d7",
     "institution_code": "CHAS",
