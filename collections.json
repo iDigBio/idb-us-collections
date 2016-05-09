@@ -640,7 +640,7 @@
 {
     "institution": "Michigan State University, Herbarium",
     "collection": "Herbarium",
-    "recordsets": "181352ea-3598-4f32-b919-c8f6097f4c65, 05c029de-734c-450a-a41a-56061b7ebb18, f4bec217-9676-4fc0-be90-856b4b89d4d1, 196c4f1c-53f9-480f-a012-dc0522629047",
+    "recordsets": "181352ea-3598-4f32-b919-c8f6097f4c65, 1a8eea37-7c72-4032-a38a-254154449ad1, 05c029de-734c-450a-a41a-56061b7ebb18",
     "institution_code": "MSC<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:031969a0-48de-480e-aba5-156c54f0ed9a",
@@ -27291,7 +27291,7 @@
 {
     "institution": "Virginia Polytechnic Institute and State University, The Massey Herbarium",
     "collection": "",
-    "recordsets": "ec248223-f277-4c02-b1fa-60056b5a689a",
+    "recordsets": "ec248223-f277-4c02-b1fa-60056b5a689a, 538bdd33-b616-4825-8542-7033cc8a185f",
     "institution_code": "VPI<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:a76cca61-90c3-4983-acf0-a44183bf570f",
