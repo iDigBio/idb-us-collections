@@ -32714,7 +32714,7 @@
 {
     "institution": "Harvard University, The Gray Herbarium",
     "collection": "The Gray Herbarium",
-    "recordsets": "72019199-f449-48b4-a5bc-1aa892166d7a",
+    "recordsets": "7450a9e3-ef95-4f9e-8260-09b498d2c5e6",
     "institution_code": "GH",
     "collection_code": "",
     "collection_uuid": "urn:uuid:c920d125-4135-4fe1-8358-a3f54cbccda7",
@@ -37789,7 +37789,7 @@
 {
     "institution": "University of Connecticut Biodiversity Research Collections",
     "collection": "The George Safford Torrey Herbarium",
-    "recordsets": "abe3903e-ceba-4864-aa5d-bd985c70fa21, fc40fabd-0a70-48fa-b142-79990cd259a5, d1b25dcd-472e-4902-b53c-3b164269e049, e70af26a-fb9e-43ab-96a0-d62a2df37e6d",
+    "recordsets": "abe3903e-ceba-4864-aa5d-bd985c70fa21, fc40fabd-0a70-48fa-b142-79990cd259a5, d1b25dcd-472e-4902-b53c-3b164269e049",
     "institution_code": "CONN",
     "collection_code": "",
     "collection_uuid": "urn:uuid:e93344c2-0fc3-4e7e-ae9d-86bb37ba933b",
