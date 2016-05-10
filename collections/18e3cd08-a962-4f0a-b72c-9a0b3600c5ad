@@ -1,9 +1,9 @@
 {
     "institution": "National Museum of Natural History, Smithsonian Institution",
     "collection": "Entomology",
-    "recordsets": "",
+    "recordsets": "abb0a03c-4dcb-4f6f-a31d-55268f63d44c",
     "institution_code": "USNM",
-    "collection_code": "",
+    "collection_code": "USNMENT",
     "collection_uuid": "urn:uuid:18e3cd08-a962-4f0a-b72c-9a0b3600c5ad",
     "collection_lsid": "http://grbio.org/cool/1wcv-afpg",
     "collection_url": "http://entomology.si.edu/",
