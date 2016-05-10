@@ -1,9 +1,9 @@
 {
     "institution": "University of Illinois, Illinois Natural History Survey",
     "collection": "Insect collections",
-    "recordsets": "dde625e8-cc2a-4877-9ec4-0b8a20dfded9, 57b1a2a3-78ab-4e69-a77e-a8fd4394ee5a",
+    "recordsets": "dde625e8-cc2a-4877-9ec4-0b8a20dfded9",
     "institution_code": "INHS",
-    "collection_code": "Insect Collection",
+    "collection_code": "IC",
     "collection_uuid": "urn:uuid:adc89d3d-9aae-4175-904e-78b79571be54",
     "collection_lsid": "http://grbio.org/cool/6fqq-t4za",
     "collection_url": "http://wwx.inhs.illinois.edu/collections/insect",
