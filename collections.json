@@ -27726,9 +27726,9 @@
 {
     "institution": "University of Georgia, Georgia Museum of Natural History",
     "collection": "Invertebrate Collections",
-    "recordsets": "",
-    "institution_code": "",
-    "collection_code": "",
+    "recordsets": "879d475f-4b76-4d18-8cf6-a7e5a6d44926",
+    "institution_code": "UGCA",
+    "collection_code": "GMNH",
     "collection_uuid": "urn:uuid:a9a9f7df-3920-467b-b436-e5430302233a",
     "collection_lsid": "NA",
     "collection_url": "http://museum.nhm.uga.edu/index.php?page=content/researchcollections/collections#invertebrate",
@@ -35788,7 +35788,7 @@
 {
     "institution": "University of Hawaii, Joseph F. Rock Herbarium",
     "collection": "Herbarium",
-    "recordsets": "2e3058eb-adbb-4952-8c67-edfc365b9a45, 959c0dc4-fcf3-477e-af63-c00a005dbc0a, c359c2e5-cd20-4057-9179-35a7a5b5da72",
+    "recordsets": "2e3058eb-adbb-4952-8c67-edfc365b9a45, 959c0dc4-fcf3-477e-af63-c00a005dbc0a",
     "institution_code": "HAW",
     "collection_code": "",
     "collection_uuid": "urn:uuid:dc29453c-a158-4818-a55a-e0306324daae",
