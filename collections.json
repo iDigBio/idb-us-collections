@@ -30771,9 +30771,9 @@
 {
     "institution": "University of California Davis, Bohart Museum of Entomology",
     "collection": "",
-    "recordsets": "3c919328-94fd-4657-b81d-21f4707253ed",
+    "recordsets": "",
     "institution_code": "UCD",
-    "collection_code": "BMEC",
+    "collection_code": "",
     "collection_uuid": "urn:uuid:bca0e509-0a76-4c49-a89e-d7f69e2b1fd3",
     "collection_lsid": "",
     "collection_url": "http://bohart.ucdavis.edu/",
