@@ -10469,9 +10469,9 @@
   }
 ,
 {
-    "institution": "University of Alaska SE",
+    "institution": "University of Alaska Southeast",
     "collection": "Herbarium",
-    "recordsets": "",
+    "recordsets": "7cc1fb18-45c1-499f-8476-682daa14a4a3",
     "institution_code": "ALAJ<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:3ea7da31-9f01-454b-a547-0452efc27802",
@@ -15169,7 +15169,7 @@
 {
     "institution": "University of Alabama Herbarium",
     "collection": "Herbarium",
-    "recordsets": "5ddcbd44-1802-46b0-bae5-11126409c03d",
+    "recordsets": "",
     "institution_code": "UNA<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:583d5616-49bd-4a3e-bbe0-011cd048e19b",
