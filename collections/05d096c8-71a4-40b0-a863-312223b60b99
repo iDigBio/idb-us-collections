@@ -1,7 +1,7 @@
 {
     "institution": "William and Lynda Steere Herbarium of the New York Botanical Garden",
     "collection": "Herbarium",
-    "recordsets": "00d9fcc1-c8e2-4ef6-be64-9994ca6a32c3, ec4289d8-1114-43b9-9f04-ad809aa1dbe3, 29d217e3-754b-4a72-9e57-5cd05312e7c0, 36d35b23-113e-4633-90ec-19d265a3b5f6",
+    "recordsets": "00d9fcc1-c8e2-4ef6-be64-9994ca6a32c3, ec4289d8-1114-43b9-9f04-ad809aa1dbe3, 29d217e3-754b-4a72-9e57-5cd05312e7c0",
     "institution_code": "NY<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:05d096c8-71a4-40b0-a863-312223b60b99",
