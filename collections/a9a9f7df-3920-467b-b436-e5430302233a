@@ -1,9 +1,9 @@
 {
     "institution": "University of Georgia, Georgia Museum of Natural History",
     "collection": "Invertebrate Collections",
-    "recordsets": "879d475f-4b76-4d18-8cf6-a7e5a6d44926",
-    "institution_code": "UGCA",
-    "collection_code": "GMNH",
+    "recordsets": "",
+    "institution_code": "",
+    "collection_code": "",
     "collection_uuid": "urn:uuid:a9a9f7df-3920-467b-b436-e5430302233a",
     "collection_lsid": "NA",
     "collection_url": "http://museum.nhm.uga.edu/index.php?page=content/researchcollections/collections#invertebrate",
