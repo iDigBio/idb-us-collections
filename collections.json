@@ -31,9 +31,9 @@
 {
     "institution": "University of Delaware",
     "collection": "Insect collection",
-    "recordsets": "",
-    "institution_code": "UDCC",
-    "collection_code": "",
+    "recordsets": "2c662e9e-cdc6-4bbf-93a5-1566ceca1af3",
+    "institution_code": "UD",
+    "collection_code": "UDCC",
     "collection_uuid": "urn:uuid:002a70a8-ff18-11e4-9eb2-002315492bbc",
     "collection_lsid": "http://grbio.org/cool/jwkg-m8hx",
     "collection_url": "",
@@ -14154,7 +14154,7 @@
 {
     "institution": "University of Colorado Museum of Natural History",
     "collection": "Botany",
-    "recordsets": "7809d96b-7edf-4ef7-9f12-59967e9a01a6, 995cc7f1-69c3-4317-ab77-28fd48f1e535, a2b36fdf-50bc-44ef-a6a4-ca6dc1dc148a",
+    "recordsets": "7809d96b-7edf-4ef7-9f12-59967e9a01a6, 995cc7f1-69c3-4317-ab77-28fd48f1e535",
     "institution_code": "COLO<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:523cf0f7-4f34-4500-bba2-0a765e0ac2a4",
