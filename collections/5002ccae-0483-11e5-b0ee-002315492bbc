@@ -1,9 +1,9 @@
 {
     "institution": "University of Wisconsin Oshkosh",
     "collection": "Insect Collection",
-    "recordsets": "1d14acd1-20ef-4a55-8206-f04c8a75ea3e",
-    "institution_code": "UWO",
-    "collection_code": "UWOIC",
+    "recordsets": "",
+    "institution_code": "",
+    "collection_code": "",
     "collection_uuid": "urn:uuid:5002ccae-0483-11e5-b0ee-002315492bbc",
     "collection_lsid": "http://www.uwosh.edu/biology/department-facilities/insect-collection-and-museum-1",
     "collection_url": "",
