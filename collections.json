@@ -31496,9 +31496,9 @@
 {
     "institution": "University of Minnesota Insect Collection",
     "collection": "Insects",
-    "recordsets": "",
+    "recordsets": "833306f7-91b6-4ff7-bc16-0e406334d991",
     "institution_code": "UMSP",
-    "collection_code": "",
+    "collection_code": "UMIC",
     "collection_uuid": "urn:uuid:c06aa621-5bec-4cd7-9b0e-de159308e2e8",
     "collection_lsid": "NA",
     "collection_url": "http://insectcollection.umn.edu/",
