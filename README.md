@@ -79,6 +79,7 @@ If the institution itself is just an herbarium, it should be listed as Herbarium
 - ```physical_city```
 - ```physical_state```
 - ```physical_zip``` to avoid conversion issue between spreadsheet formats, zip codes starting with a 0 have -0000 at the end: e.g., 02138-0000 for the MCZ
+- ```update_url``` This field has been deprecated.
 - ```lat``` decimal latitude for the collection, should only be added for collection addresses that fail the geolocation lookup with the API
 - ```lon```  decimal longitude for the collection, should only be added for collection addresses that fail the geolocation lookup with the API
 
