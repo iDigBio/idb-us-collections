@@ -350,7 +350,7 @@
 {
     "institution": "University of Vermont, Zadock Thompson Zoological Collection-Invertebrates",
     "collection": "Invertebrate collection",
-    "recordsets": "96588aed-3b7a-4179-b92b-2159427f4fcb",
+    "recordsets": "",
     "institution_code": "UVM",
     "collection_code": "VTZT",
     "collection_uuid": "urn:uuid:013b0343-08e5-486a-9dcc-f45454536727",
@@ -5598,9 +5598,9 @@
 ,
 {
     "institution": "University of Wisconsin, Insect Research Collection",
-    "collection": "University of Wisconsin Insect Research Collection",
-    "recordsets": "",
-    "institution_code": "UW-Madison",
+    "collection": "Insect Research Collection",
+    "recordsets": "b761d317-a36e-4a05-a5f4-bd3e3963daf6",
+    "institution_code": "WISC",
     "collection_code": "WIRC",
     "collection_uuid": "urn:uuid:21672781-fef6-49e9-9c98-5843cb6e6e5e",
     "collection_lsid": "NA",
