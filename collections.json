@@ -31496,9 +31496,9 @@
 {
     "institution": "University of Minnesota Insect Collection",
     "collection": "Insects",
-    "recordsets": "833306f7-91b6-4ff7-bc16-0e406334d991",
+    "recordsets": "",
     "institution_code": "UMSP",
-    "collection_code": "UMIC",
+    "collection_code": "",
     "collection_uuid": "urn:uuid:c06aa621-5bec-4cd7-9b0e-de159308e2e8",
     "collection_lsid": "NA",
     "collection_url": "http://insectcollection.umn.edu/",
@@ -35411,7 +35411,7 @@
 {
     "institution": "University of New Hampshire, The Hodgdon Herbarium",
     "collection": "Herbarium",
-    "recordsets": "1da2a87d-4fc7-4233-b127-59cb8d1ca5ee, c6e89321-fc23-4cba-ad79-be3e52edfb6d, 7644703a-ce24-4f7b-b800-66ddf8812f86",
+    "recordsets": "1da2a87d-4fc7-4233-b127-59cb8d1ca5ee, c6e89321-fc23-4cba-ad79-be3e52edfb6d, 7644703a-ce24-4f7b-b800-66ddf8812f86, 61a1c0ce-8327-4e2a-9766-449751a49b7a",
     "institution_code": "NHA<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:d9c63f98-6a6b-4c1c-9c1c-936cbc77b7c4",
