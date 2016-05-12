@@ -9486,7 +9486,7 @@
     "institution": "Harvard University, Oakes Ames Orchid Herbarium",
     "collection": "Oakes Ames Orchid Herbarium",
     "recordsets": "7450a9e3-ef95-4f9e-8260-09b498d2c5e6",
-    "institution_code": "AMES<IH>",
+    "institution_code": "AMES",
     "collection_code": "",
     "collection_uuid": "urn:uuid:397c254f-71d2-42ec-b02d-a8d7c0f3af53",
     "collection_lsid": "NA",
@@ -9507,8 +9507,8 @@
     "physical_state": "Massachussetts",
     "physical_zip": "02138-0000",
     "update_url": "https://docs.google.com/forms/d/1slWOvxuLpuPdvDihSibLQq9BPsOqPzK8Hh93zCW3dRI/viewform?entry.823080433=the+collection+is+already+in+the+list&entry.764919322=urn:uuid:397c254f-71d2-42ec-b02d-a8d7c0f3af53&entry.326174790=Harvard University, Oakes Ames Orchid Herbarium&entry.2031121141=Oakes Ames Orchid Herbarium&entry.4068754=AMES&entry.1582913154=&entry.1336841557=http://www.huh.harvard.edu/collections/oakes.html&entry.103879345=http://kiki.huh.harvard.edu/databases/specimen_index.html&entry.107456176=Worldwide&entry.879476273=&entry.417603227=131000&entry.1321049572=Gustavo Romero&entry.1687847097=Collection's Keeper&entry.1086198428=romero@oeb.harvard.edu&entry.246950189=22 Divinity Ave.&entry.1584255348=Cambridge&entry.1966582743=Massachussetts&entry.256217142=02138-0000&entry.447546773=22 Divinity Ave.&entry.1565624766=Cambridge&entry.1920508789=Massachussetts&entry.1022645685=02138-0000",
-    "lat": "42.3780545",
-    "lon": "-71.1177787"
+    "lat": "NA",
+    "lon": "NA"
   }
 ,
 {
@@ -19578,7 +19578,7 @@
     "institution": "Harvard University, The Farlow Herbarium",
     "collection": "The Farlow Herbarium",
     "recordsets": "b000920c-6f7d-49d3-9d0f-2bb630d2e01a, 7450a9e3-ef95-4f9e-8260-09b498d2c5e6",
-    "institution_code": "FH<IH>",
+    "institution_code": "FH",
     "collection_code": "",
     "collection_uuid": "urn:uuid:7a03c43d-d759-4a2d-a531-6ae021d3e40e",
     "collection_lsid": "NA",
@@ -19599,8 +19599,8 @@
     "physical_state": "Massachussetts",
     "physical_zip": "02138-0000",
     "update_url": "https://docs.google.com/forms/d/1slWOvxuLpuPdvDihSibLQq9BPsOqPzK8Hh93zCW3dRI/viewform?entry.823080433=the+collection+is+already+in+the+list&entry.764919322=urn:uuid:7a03c43d-d759-4a2d-a531-6ae021d3e40e&entry.326174790=Harvard University, The Farlow Herbarium&entry.2031121141=The Farlow Herbarium&entry.4068754=FH&entry.1582913154=&entry.1336841557=http://www.huh.harvard.edu/collections/farlow.html&entry.103879345=http://kiki.huh.harvard.edu/databases/specimen_index.html&entry.107456176=&entry.879476273=Exsiccatae, Bryophytes and fungi from Again, entomogenous fungi, Antarctic lichens&entry.417603227=1400000&entry.1321049572=Donald H. Pfister&entry.1687847097=Curator&entry.1086198428=dpfister@oeb.harvard.edu&entry.246950189=22 Divinity Ave.&entry.1584255348=Cambridge&entry.1966582743=Massachussetts&entry.256217142=02138-0000&entry.447546773=22 Divinity Ave.&entry.1565624766=Cambridge&entry.1920508789=Massachussetts&entry.1022645685=02138-0000",
-    "lat": "42.3780545",
-    "lon": "-71.1177787"
+    "lat": "NA",
+    "lon": "NA"
   }
 ,
 {
@@ -19868,7 +19868,7 @@
     "institution": "Harvard University, Economic Herbarium of Oakes Ames",
     "collection": "Economic Herbarium of Oakes Ames",
     "recordsets": "c99c74cf-f13b-4128-bc5b-75aeea4be57d",
-    "institution_code": "ECON<IH>",
+    "institution_code": "ECON",
     "collection_code": "",
     "collection_uuid": "urn:uuid:7ba22d85-9d36-442e-9fbf-d7d30f0c9cc6",
     "collection_lsid": "b4640710-8e03-11d8-b956-b8a03c50a862",
@@ -19889,8 +19889,8 @@
     "physical_state": "Massachussetts",
     "physical_zip": "02138-0000",
     "update_url": "https://docs.google.com/forms/d/1slWOvxuLpuPdvDihSibLQq9BPsOqPzK8Hh93zCW3dRI/viewform?entry.823080433=the+collection+is+already+in+the+list&entry.764919322=urn:uuid:7ba22d85-9d36-442e-9fbf-d7d30f0c9cc6&entry.326174790=Harvard University, Economic Herbarium of Oakes Ames&entry.2031121141=Economic Herbarium of Oakes Ames&entry.4068754=ECON&entry.1582913154=&entry.1336841557=http://www.huh.harvard.edu/collections/economic.html&entry.103879345=http://kiki.huh.harvard.edu/databases/specimen_index.html&entry.107456176=Worldwide, Andes, Amazon&entry.879476273=&entry.417603227=40000&entry.1321049572=Charles Davis&entry.1687847097=Curator&entry.1086198428=cdavis@oeb.harvard.edu&entry.246950189=22 Divinity Ave.&entry.1584255348=Cambridge&entry.1966582743=Massachussetts&entry.256217142=02138-0000&entry.447546773=22 Divinity Ave.&entry.1565624766=Cambridge&entry.1920508789=Massachussetts&entry.1022645685=02138-0000",
-    "lat": "42.3780545",
-    "lon": "-71.1177787"
+    "lat": "NA",
+    "lon": "NA"
   }
 ,
 {
@@ -30743,7 +30743,7 @@
     "institution": "Harvard University, New England Botanical Club Herbarium",
     "collection": "New England Botanical Club Herbarium",
     "recordsets": "7450a9e3-ef95-4f9e-8260-09b498d2c5e6",
-    "institution_code": "NEBC<IH>",
+    "institution_code": "NEBC",
     "collection_code": "",
     "collection_uuid": "urn:uuid:c23a6c9e-bc67-4a51-930b-c0e31f685959",
     "collection_lsid": "NA",
@@ -30764,8 +30764,8 @@
     "physical_state": "Massachussetts",
     "physical_zip": "02138-0000",
     "update_url": "https://docs.google.com/forms/d/1slWOvxuLpuPdvDihSibLQq9BPsOqPzK8Hh93zCW3dRI/viewform?entry.823080433=the+collection+is+already+in+the+list&entry.764919322=urn:uuid:c23a6c9e-bc67-4a51-930b-c0e31f685959&entry.326174790=Harvard University, New England Botanical Club Herbarium&entry.2031121141=New England Botanical Club Herbarium&entry.4068754=NEBC&entry.1582913154=&entry.1336841557=http://www.huh.harvard.edu/collections/nebc.html&entry.103879345=http://kiki.huh.harvard.edu/databases/specimen_index.html&entry.107456176=New England&entry.879476273=&entry.417603227=253000&entry.1321049572=Charles Davis&entry.1687847097=Curator&entry.1086198428=cdavis@oeb.harvard.edu&entry.246950189=22 Divinity Ave.&entry.1584255348=Cambridge&entry.1966582743=Massachussetts&entry.256217142=02138-0000&entry.447546773=22 Divinity Ave.&entry.1565624766=Cambridge&entry.1920508789=Massachussetts&entry.1022645685=02138-0000",
-    "lat": "42.3780545",
-    "lon": "-71.1177787"
+    "lat": "NA",
+    "lon": "NA"
   }
 ,
 {
@@ -31787,7 +31787,7 @@
     "institution": "Harvard University, The Gray Herbarium",
     "collection": "The Gray Herbarium",
     "recordsets": "7450a9e3-ef95-4f9e-8260-09b498d2c5e6",
-    "institution_code": "GH",
+    "institution_code": "GH<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:c920d125-4135-4fe1-8358-a3f54cbccda7",
     "collection_lsid": "NA",
@@ -31808,8 +31808,8 @@
     "physical_state": "Massachussetts",
     "physical_zip": "02138-0000",
     "update_url": "https://docs.google.com/forms/d/1slWOvxuLpuPdvDihSibLQq9BPsOqPzK8Hh93zCW3dRI/viewform?entry.823080433=the+collection+is+already+in+the+list&entry.764919322=urn:uuid:c920d125-4135-4fe1-8358-a3f54cbccda7&entry.326174790=Harvard University, The Gray Herbarium&entry.2031121141=The Gray Herbarium&entry.4068754=GH&entry.1582913154=&entry.1336841557=http://www.huh.harvard.edu/collections/gray.html&entry.103879345=http://kiki.huh.harvard.edu/databases/specimen_index.html&entry.107456176=North America, Mexico, West Indies&entry.879476273=&entry.417603227=2000000&entry.1321049572=Charles Davis&entry.1687847097=Curator&entry.1086198428=cdavis@oeb.harvard.edu&entry.246950189=22 Divinity Ave.&entry.1584255348=Cambridge&entry.1966582743=Massachussetts&entry.256217142=02138-0000&entry.447546773=22 Divinity Ave.&entry.1565624766=Cambridge&entry.1920508789=Massachussetts&entry.1022645685=02138-0000",
-    "lat": "NA",
-    "lon": "NA"
+    "lat": "42.3780545",
+    "lon": "-71.1177787"
   }
 ,
 {
@@ -34716,7 +34716,7 @@
     "institution": "University of Hawaii, Joseph F. Rock Herbarium",
     "collection": "Herbarium",
     "recordsets": "2e3058eb-adbb-4952-8c67-edfc365b9a45, 959c0dc4-fcf3-477e-af63-c00a005dbc0a, c359c2e5-cd20-4057-9179-35a7a5b5da72",
-    "institution_code": "HAW<IH>",
+    "institution_code": "HAW",
     "collection_code": "",
     "collection_uuid": "urn:uuid:dc29453c-a158-4818-a55a-e0306324daae",
     "collection_lsid": "NA",
@@ -34737,8 +34737,8 @@
     "physical_state": "Hawaii",
     "physical_zip": "96822",
     "update_url": "https://docs.google.com/forms/d/1slWOvxuLpuPdvDihSibLQq9BPsOqPzK8Hh93zCW3dRI/viewform?entry.823080433=the+collection+is+already+in+the+list&entry.764919322=urn:uuid:dc29453c-a158-4818-a55a-e0306324daae&entry.326174790=University of Hawaii, Joseph F. Rock Herbarium&entry.2031121141=Herbarium&entry.4068754=HAW&entry.1582913154=&entry.1336841557=http://www.herbarium.hawaii.edu/&entry.103879345=http://www.herbarium.hawaii.edu&entry.107456176=Global, Hawaiian Islands, Pacific Islands&entry.879476273=vascular plants, Hawaiian Islands&entry.417603227=60000&entry.1321049572=Michael B. Thomas&entry.1687847097=Collection Manager&entry.1086198428=mbthomas@hawaii.edu&entry.246950189=Room 401 – St John Plant Science Laboratory, 3190 Maile Way&entry.1584255348=Honolulu&entry.1966582743=Hawaii&entry.256217142=96822&entry.447546773=Room 401 – St John Plant Science Laboratory, 3190 Maile Way&entry.1565624766=Honolulu&entry.1920508789=Hawaii&entry.1022645685=96822",
-    "lat": "21.3014917",
-    "lon": "-157.8169445"
+    "lat": "NA",
+    "lon": "NA"
   }
 ,
 {
