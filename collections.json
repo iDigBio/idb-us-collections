@@ -21405,7 +21405,7 @@
     "institution": "Ohio Wesleyan University",
     "collection": "Ornithology",
     "recordsets": "",
-    "institution_code": "",
+    "institution_code": "OWU",
     "collection_code": "",
     "collection_uuid": "urn:uuid:86141048-6c28-11e5-bdab-180373b97bac",
     "collection_lsid": "",
@@ -21426,8 +21426,8 @@
     "physical_state": "",
     "physical_zip": "",
     "update_url": "https://docs.google.com/forms/d/1slWOvxuLpuPdvDihSibLQq9BPsOqPzK8Hh93zCW3dRI/viewform?entry.823080433=the+collection+is+already+in+the+list&entry.764919322=urn:uuid:86141048-6c28-11e5-bdab-180373b97bac&entry.326174790=Ohio Wesleyan University&entry.2031121141=Ornithology&entry.4068754=&entry.1582913154=&entry.1336841557=&entry.103879345=&entry.107456176=&entry.879476273=&entry.417603227=&entry.1321049572=Jed Burtt&entry.1687847097=&entry.1086198428=ehburtt@owu.edu&entry.246950189=&entry.1584255348=&entry.1966582743=&entry.256217142=&entry.447546773=&entry.1565624766=&entry.1920508789=&entry.1022645685=",
-    "lat": "NA",
-    "lon": "NA"
+    "lat": 40.2924,
+    "lon": -83.0736
   }
 ,
 {
