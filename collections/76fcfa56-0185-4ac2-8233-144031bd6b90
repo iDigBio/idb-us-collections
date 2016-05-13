@@ -1,8 +1,8 @@
 {
     "institution": "Museum of Northern Arizona",
-    "collection": "Geology Collection",
+    "collection": "Paleontology Collection",
     "recordsets": "",
-    "institution_code": "",
+    "institution_code": "MNA",
     "collection_code": "",
     "collection_uuid": "urn:uuid:76fcfa56-0185-4ac2-8233-144031bd6b90",
     "collection_lsid": "NA",
