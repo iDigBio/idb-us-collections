@@ -39,7 +39,7 @@ Collections should each have their own JSON file, named by their collection UUID
     "physical_city": "New Haven",
     "physical_state": "Connecticut",
     "physical_zip": "06511-0000",
-    "update_url": "https://docs.google.com/forms/d/1slWOvxuLpuPdvDihSibLQq9BPsOqPzK8Hh93zCW3dRI/viewform?entry.823080433=the+collection+is+already+in+the+list&entry.764919322=urn:uuid:09b5acf0-899b-4b4d-abd0-7dbb7799053c&entry.326174790=Yale University, Peabody Museum of Natural History&entry.2031121141=Historical Scientific Instruments&entry.4068754=&entry.1582913154=&entry.1336841557=http://peabody.yale.edu/collections/historical-scientific-instruments&entry.103879345=http://peabody.yale.edu/collections/search-collections?hsi&entry.107456176=&entry.879476273=&entry.417603227=&entry.1321049572=Paola Bertucci&entry.1687847097=Assistant Curator&entry.1086198428=paola.bertucci@yale.edu&entry.246950189=Yale University, PO Box 208118&entry.1584255348=New Haven&entry.1966582743=Connecticut&entry.256217142=06511-0000&entry.447546773=170-210 Whitney Avenue&entry.1565624766=New Haven&entry.1920508789=Connecticut&entry.1022645685=06511-0000",
+    "update_url": "",
     "lat": 41.3167,
     "lon": -72.9204
   }
