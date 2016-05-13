@@ -23,7 +23,7 @@
   sed -i '$a ]' ../collections.json
 
   #add, commit and push files
-  git add --all :/
+  git add -A
   git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to gh-pages"
   git push -fq origin gh-pages > /dev/null
   
@@ -47,7 +47,7 @@
   rm -rf collections/
 
   #add, commit and push files
-  git add --all :/
+  git add -A
   git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to json-index"
   git push -fq origin json-index > /dev/null
   
