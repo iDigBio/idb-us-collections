@@ -1,6 +1,6 @@
 {
     "institution": "Arizona State University",
-    "collection": "Paleobotany",
+    "collection": "Fossil Plant Collection",
     "recordsets": "",
     "institution_code": "ASU",
     "collection_code": "",
@@ -11,8 +11,8 @@
     "contact": "Kathleen B. Pigg",
     "contact_role": "Director",
     "contact_email": "kpigg@asu.edu",
-    "taxonomic_coverage": "",
-    "geographic_range": "",
+    "taxonomic_coverage": "Paleozoic megafossils from North America, coal ball floras, Paleocene, Eocene and Miocene from western North America.",
+    "geographic_range": "International coverage of megafossil plants, coal and other palynomorph matrix samples; extant wood, pollen, and anatomical sections on microscope slides; photos and digital images.",
     "collection_size": "NA",
     "mailing_address": "School of Life Sciences, P.O. Box 874501",
     "mailing_city": "Tempe",
