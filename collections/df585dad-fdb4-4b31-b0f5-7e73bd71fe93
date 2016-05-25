@@ -1,8 +1,8 @@
 {
     "institution": "University of Michigan, Museum of Paleontology",
     "collection": "Invertebrate collection",
-    "recordsets": "UMMP",
-    "institution_code": "",
+    "recordsets": "",
+    "institution_code": "UMMP",
     "collection_code": "",
     "collection_uuid": "urn:uuid:df585dad-fdb4-4b31-b0f5-7e73bd71fe93",
     "collection_lsid": "NA",
