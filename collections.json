@@ -33700,7 +33700,7 @@
 {
     "institution": "University of Michigan, Museum of Paleontology",
     "collection": "Invertebrate collection",
-    "recordsets": "",
+    "recordsets": "UMMP",
     "institution_code": "",
     "collection_code": "",
     "collection_uuid": "urn:uuid:df585dad-fdb4-4b31-b0f5-7e73bd71fe93",
@@ -35905,7 +35905,7 @@
     "institution": "University of Michigan, Museum of Zoology",
     "collection": "Mollusks",
     "recordsets": "",
-    "institution_code": "UMMZ",
+    "institution_code": "",
     "collection_code": "",
     "collection_uuid": "urn:uuid:eea73f48-0204-4d6e-a475-edd0f794e1b0",
     "collection_lsid": "NA",
