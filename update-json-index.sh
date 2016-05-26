@@ -15,8 +15,10 @@
   echo -e "Clone gh-pages repo"
  
   #go into directory and create our index file
-  cd gh-pages/collections
-  cp -R $HOME/collections/* .
+  cd gh-pages/
+  rm -rf collections/
+  mkdir collections
+  cp -R $HOME/collections/* collections/
   sed -s '$a,' * > ../collections.json
   sed -i '$ d' ../collections.json
   sed -i '1i [' ../collections.json
