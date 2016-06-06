@@ -15256,7 +15256,7 @@
 {
   "institution": "Florida State University Coastal and Marine Laboratory",
   "collection": "Zoological Collection",
-  "recordsets": "",
+  "recordsets": "fa83c2bd-926c-42f1-8cd4-d57c5fd21f33",
   "institution_code": "",
   "collection_code": "FSUCML",
   "collection_uuid": "urn:uuid:61484044-6029-4542-9f7f-535fe3de1129",
@@ -23318,7 +23318,7 @@
 {
     "institution": "Tall Timbers Research Station",
     "collection": "Ornithology",
-    "recordsets": "2b03a9d6-3575-43ea-8f43-38cbe0ee72e6",
+    "recordsets": "d70edfe9-c358-4bf3-96d2-22fddc702994",
     "institution_code": "TTRS",
     "collection_code": "",
     "collection_uuid": "urn:uuid:99f805a3-48c4-4913-89c1-9a8a411a5e1d",
