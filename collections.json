@@ -2931,7 +2931,7 @@
 {
     "institution": "University of Connecticut Biodiversity Research Collections",
     "collection": "Mammals",
-    "recordsets": "",
+    "recordsets": "a2352be4-1126-4504-ac86-c36234f123fa",
     "institution_code": "UCONN, UCMS",
     "collection_code": "UCONN",
     "collection_uuid": "urn:uuid:10df3f45-89b2-4472-b320-cf2b71f2dd82",
@@ -2941,7 +2941,7 @@
     "contact": "Susan Hochgraf",
     "contact_role": "Collection Manager",
     "contact_email": "susan.hochgraf@uconn.edu",
-    "taxonomic_coverage": "Rodentia\nCarnivora\nCingulata\nArtiodactyla of South America",
+    "taxonomic_coverage": "Rodentia, Carnivora, Cingulata, Artiodactyla of South America",
     "geographic_range": "worldwide, focus areas in northeastern USA and Paraguay",
     "collection_size": "15,000",
     "mailing_address": "Biological Collections, Department of Ecology and Evolutionary Biology, University of Connecticut Unit 3040",
