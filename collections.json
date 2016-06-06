@@ -2931,7 +2931,7 @@
 {
     "institution": "University of Connecticut Biodiversity Research Collections",
     "collection": "Mammals",
-    "recordsets": "a2352be4-1126-4504-ac86-c36234f123fa",
+    "recordsets": "",
     "institution_code": "UCONN, UCMS",
     "collection_code": "UCONN",
     "collection_uuid": "urn:uuid:10df3f45-89b2-4472-b320-cf2b71f2dd82",
@@ -2941,7 +2941,7 @@
     "contact": "Susan Hochgraf",
     "contact_role": "Collection Manager",
     "contact_email": "susan.hochgraf@uconn.edu",
-    "taxonomic_coverage": "Rodentia, Carnivora, Cingulata, Artiodactyla of South America",
+    "taxonomic_coverage": "Rodentia\nCarnivora\nCingulata\nArtiodactyla of South America",
     "geographic_range": "worldwide, focus areas in northeastern USA and Paraguay",
     "collection_size": "15,000",
     "mailing_address": "Biological Collections, Department of Ecology and Evolutionary Biology, University of Connecticut Unit 3040",
@@ -8673,7 +8673,7 @@
 {
     "institution": "University of Illinois, Illinois Natural History Survey",
     "collection": "Mollusk Collection",
-    "recordsets": "97164605-d4b1-4b74-8cba-fddf834137e0",
+    "recordsets": "7370af7d-07b5-4fc6-9eca-0204b4d6e33e",
     "institution_code": "INHS",
     "collection_code": "",
     "collection_uuid": "urn:uuid:37b30112-830b-4a6d-9547-f25ffd77b462",
@@ -8702,7 +8702,7 @@
 {
   "institution": "University of Illinois",
   "collection": "Herbarium",
-  "recordsets": "e0e37702-32af-405b-b652-ee54b5bb94e2, ef637c01-c551-4d47-8a48-4442b8ad5ecd, aced32f9-e511-48c7-8e9e-b625777bdf7f, 09a3fcf2-55a1-488f-aa42-f103bdce0536",
+  "recordsets": "e0e37702-32af-405b-b652-ee54b5bb94e2, ef637c01-c551-4d47-8a48-4442b8ad5ecd, aced32f9-e511-48c7-8e9e-b625777bdf7f",
   "institution_code": "ILL<IH>",
   "collection_code": "",
   "collection_uuid": "urn:uuid:37d33345-d3ce-472d-80d4-248282590b0d",
@@ -9108,7 +9108,7 @@
 {
     "institution": "University of Illinois, Illinois Natural History Survey",
     "collection": "Crustacean Collection",
-    "recordsets": "ec135c9b-ff89-4f28-aa18-88b16d932d94",
+    "recordsets": "c50755ff-ca6d-4903-8e39-8b0e236c324f",
     "institution_code": "INHS",
     "collection_code": "",
     "collection_uuid": "urn:uuid:39d11e8f-0fd7-43c5-9f3d-574f3e63b0d1",
@@ -15256,7 +15256,7 @@
 {
   "institution": "Florida State University Coastal and Marine Laboratory",
   "collection": "Zoological Collection",
-  "recordsets": "fa83c2bd-926c-42f1-8cd4-d57c5fd21f33",
+  "recordsets": "",
   "institution_code": "",
   "collection_code": "FSUCML",
   "collection_uuid": "urn:uuid:61484044-6029-4542-9f7f-535fe3de1129",
@@ -27929,7 +27929,7 @@
 {
     "institution": "University of Kansas, Biodiversity Institute and Natural History Museum",
     "collection": "Entomology, Snow Entomological Museum",
-    "recordsets": "568e209f-d072-4fd6-8b64-27954b0fd731, 2e65e24b-b7e2-40a4-a40c-09edafc1e3f4",
+    "recordsets": "568e209f-d072-4fd6-8b64-27954b0fd731",
     "institution_code": "KU",
     "collection_code": "SEMC",
     "collection_uuid": "urn:uuid:b808e843-55d5-4662-b20e-0227015e2fad",
@@ -30307,7 +30307,7 @@
 {
     "institution": "University of Minnesota, James Ford Bell Museum of Natural History",
     "collection": "Plants",
-    "recordsets": "e2def7e2-1455-4856-9823-6d3738417d24",
+    "recordsets": "",
     "institution_code": "MIN",
     "collection_code": "",
     "collection_uuid": "urn:uuid:c8436f08-219b-49f5-aef6-cd96d720844f",
@@ -36687,7 +36687,7 @@
 {
     "institution": "University of Minnesota, James Ford Bell Museum of Natural History",
     "collection": "Fungi",
-    "recordsets": "ee9d38ef-c1db-44de-b8f2-62acb7049370",
+    "recordsets": "f6298100-86ae-458f-9fb1-bbb3bb325422",
     "institution_code": "MIN<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:f48ff072-1ce4-411f-b36a-fe8b975325e9",
