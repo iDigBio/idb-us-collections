@@ -5338,7 +5338,7 @@
 {
     "institution": "University of Nevada, Las Vegas",
     "collection": "Wesley E. Niles Herbarium",
-    "recordsets": "4900d7ce-9442-4305-9889-c9cbbb953eaa, 9b62118d-9b90-46b1-854d-06a5a9a22a90",
+    "recordsets": "4900d7ce-9442-4305-9889-c9cbbb953eaa",
     "institution_code": "UNLV",
     "collection_code": "",
     "collection_uuid": "urn:uuid:2251181d-fea9-4c62-95af-82f8e9d8a8b6",
@@ -8673,7 +8673,7 @@
 {
     "institution": "University of Illinois, Illinois Natural History Survey",
     "collection": "Mollusk Collection",
-    "recordsets": "97164605-d4b1-4b74-8cba-fddf834137e0",
+    "recordsets": "7370af7d-07b5-4fc6-9eca-0204b4d6e33e",
     "institution_code": "INHS",
     "collection_code": "",
     "collection_uuid": "urn:uuid:37b30112-830b-4a6d-9547-f25ffd77b462",
