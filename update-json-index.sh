@@ -19,6 +19,7 @@
   rm -rf collections/
   mkdir collections
   cp -R $HOME/collections/* collections/
+  cd collections
   sed -s '$a,' * > ../collections.json
   sed -i '$ d' ../collections.json
   sed -i '1i [' ../collections.json
