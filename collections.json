@@ -29234,7 +29234,7 @@
 {
     "institution": "Luther College",
     "collection": "Herbarium",
-    "recordsets": "b6d0f953-29b4-41da-a255-2ed07c83edf1",
+    "recordsets": "b6d0f953-29b4-41da-a255-2ed07c83edf1, 0a854fba-3da1-4d7b-88e1-1204a993ee00",
     "institution_code": "LCDI<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:c0416c8a-04ed-4a00-a569-c8eefc794223",
@@ -38079,7 +38079,7 @@
 {
     "institution": "University of Iowa, Museum of Natural History",
     "collection": "vertebrates, entomology, other invertebrates, archaeology, and cultural objects",
-    "recordsets": "d1c20e8e-d875-473b-bfbf-fecf35ed00d0",
+    "recordsets": "",
     "institution_code": "SUI",
     "collection_code": "",
     "collection_uuid": "urn:uuid:fefa6e0b-9d87-4040-bffd-4ea3352c9ebb",
