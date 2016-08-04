@@ -1,9 +1,9 @@
 {
     "institution": "Louisiana State University, Museum of Natural Science",
     "collection": "Ornithology",
-    "recordsets": "e33a1faa-5175-45bc-89b8-3ec9cdd63cfb",
+    "recordsets": "e33a1faa-5175-45bc-89b8-3ec9cdd63cfb, 2f484dca-4e55-4d29-ad96-56c96573444f",
     "institution_code": "LSUMZ",
-    "collection_code": "LSUMZ",
+    "collection_code": "Birds",
     "collection_uuid": "urn:uuid:a2fa0fba-538a-4b75-89a8-a052474d6065",
     "collection_lsid": "NA",
     "collection_url": "http://appl003.lsu.edu/natsci/lmns.nsf/$Content/Ornithology?OpenDocument",
