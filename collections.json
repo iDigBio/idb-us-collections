@@ -11427,10 +11427,10 @@
 ,
 {
     "institution": "George Mason University",
-    "collection": "Herbarium",
-    "recordsets": "",
+    "collection": "Ted R. Bradley Herbarium",
+    "recordsets": "e794b292-4a94-471e-ab84-6aaef1fea1b3",
     "institution_code": "GMUF<IH>",
-    "collection_code": "",
+    "collection_code": "Plants",
     "collection_uuid": "urn:uuid:484e23c9-f5ec-4c1b-bbff-dcce93b81c3d",
     "collection_lsid": "urn:lsid:biocol.org:col:15023",
     "collection_url": "http://www.gmu.edu/departments/espp/research/facilities/herbarium.html",
