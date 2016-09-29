@@ -26421,7 +26421,7 @@
 {
     "institution": "University of Washington, Burke Museum of Natural History and Culture",
     "collection": "University of Washington Herbarium",
-    "recordsets": "9368e302-f8e7-4714-aed4-db2faa861e5c, beecd160-a96c-46fc-bdce-7dcb7024d473, f1a78c0f-449c-45fa-9472-0b92cc2a58da",
+    "recordsets": "9368e302-f8e7-4714-aed4-db2faa861e5c, beecd160-a96c-46fc-bdce-7dcb7024d473, f1a78c0f-449c-45fa-9472-0b92cc2a58da, 4ef6540c-e6cf-4678-bc43-b57435354de0",
     "institution_code": "WTU<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:b059b2ea-8686-4ade-adde-276c6c66c817",
@@ -26431,7 +26431,7 @@
     "contact": "Richard Olmstead",
     "contact_role": "Curator",
     "contact_email": "olmstead@u.washington.edu",
-    "taxonomic_coverage": "Vascular Plants - Cyperaceae, Juncaceae, Lamiaceae, Orobanchaceae\n\nFungi - Cortinarius, Inocybe",
+    "taxonomic_coverage": "Vascular Plants - Cyperaceae, Juncaceae, Lamiaceae, Orobanchaceae; Fungi - Cortinarius, Inocybe",
     "geographic_range": "Primary geographic focus is Pacific Northwest (Alaska, Yukon Territory, British Columbia, Washington, Oregon, Idaho, Montana). Secondary geographic focus is remaining areas of western North America and Russian Far East.",
     "collection_size": 650000,
     "mailing_address": "Box 353010, University of Washington",
