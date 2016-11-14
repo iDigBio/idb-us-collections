@@ -21143,9 +21143,9 @@
 {
     "institution": "University of Michigan, Museum of Zoology",
     "collection": "Fishes",
-    "recordsets": "75c7a013-8dab-4f9c-ae6d-3a7cc24b67ce",
+    "recordsets": "",
     "institution_code": "UMMZ",
-    "collection_code": "F",
+    "collection_code": "",
     "collection_uuid": "urn:uuid:88f98732-8854-4a05-9c5e-01ce0e845607",
     "collection_lsid": "NA",
     "collection_url": "http://www.lsa.umich.edu/ummz/fishes/default.asp",
@@ -36049,9 +36049,9 @@
 {
     "institution": "University of Michigan, Museum of Zoology",
     "collection": "Mollusks",
-    "recordsets": "",
+    "recordsets": "c94a06a5-df24-4546-adba-4f7940661826",
     "institution_code": "UMMZ",
-    "collection_code": "",
+    "collection_code": "MOL",
     "collection_uuid": "urn:uuid:eea73f48-0204-4d6e-a475-edd0f794e1b0",
     "collection_lsid": "NA",
     "collection_url": "http://www.lsa.umich.edu/ummz/mollusks/default.asp",
