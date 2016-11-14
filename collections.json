@@ -21143,9 +21143,9 @@
 {
     "institution": "University of Michigan, Museum of Zoology",
     "collection": "Fishes",
-    "recordsets": "",
+    "recordsets": "75c7a013-8dab-4f9c-ae6d-3a7cc24b67ce",
     "institution_code": "UMMZ",
-    "collection_code": "",
+    "collection_code": "F",
     "collection_uuid": "urn:uuid:88f98732-8854-4a05-9c5e-01ce0e845607",
     "collection_lsid": "NA",
     "collection_url": "http://www.lsa.umich.edu/ummz/fishes/default.asp",
