@@ -1,9 +1,9 @@
 {
     "institution": "University of Wisconsin, Zoological Museum",
     "collection": "Malacology",
-    "recordsets": "",
-    "institution_code": "",
-    "collection_code": "",
+    "recordsets": "47e638be-2983-4d22-b05d-260dd5881e9c",
+    "institution_code": "UWZM",
+    "collection_code": "M",
     "collection_uuid": "urn:uuid:422d0e95-f09b-4f83-a643-ca7c7112a4de",
     "collection_lsid": "NA",
     "collection_url": "http://www.zoology.wisc.edu/uwzm/collections.html",
