@@ -5715,7 +5715,7 @@
 {
     "institution": "Longwood University",
     "collection": "Herbarium",
-    "recordsets": "",
+    "recordsets": "a16dc8d8-ff4a-4d62-a684-2937fb292b8d",
     "institution_code": "FARM<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:246ffa95-10ea-4e61-b379-6d8546ea2c96",
@@ -13516,7 +13516,7 @@
 {
     "institution": "Converse College",
     "collection": "Herbarium",
-    "recordsets": "",
+    "recordsets": "5486b66d-2082-433d-9223-bd789ebca29c",
     "institution_code": "CONV<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:5317a68e-bd2c-4efb-aa31-2b33629ae220",
