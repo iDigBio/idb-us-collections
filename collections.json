@@ -36049,9 +36049,9 @@
 {
     "institution": "University of Michigan, Museum of Zoology",
     "collection": "Mollusks",
-    "recordsets": "c94a06a5-df24-4546-adba-4f7940661826",
+    "recordsets": "",
     "institution_code": "UMMZ",
-    "collection_code": "MOL",
+    "collection_code": "",
     "collection_uuid": "urn:uuid:eea73f48-0204-4d6e-a475-edd0f794e1b0",
     "collection_lsid": "NA",
     "collection_url": "http://www.lsa.umich.edu/ummz/mollusks/default.asp",
