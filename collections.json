@@ -2003,7 +2003,7 @@
 {
     "institution": "College of Idaho, Harold M. Tucker Herbarium",
     "collection": "Herbarium",
-    "recordsets": "",
+    "recordsets": "ec4acc26-ff1b-4131-a1df-a950fe31bb0e",
     "institution_code": "CIC<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:0a1dd71d-99db-4d1c-aaa2-d19fc59981e1",
@@ -29611,7 +29611,7 @@
 {
     "institution": "Idaho State University, Idaho Museum of Natural History",
     "collection": "Botany",
-    "recordsets": "8728ef71-fdcc-4027-8139-38b2c0628fba",
+    "recordsets": "8728ef71-fdcc-4027-8139-38b2c0628fba, dd232f5c-7f53-48ec-9bb7-7205702c3dc8",
     "institution_code": "IDS<IH>",
     "collection_code": "IDS",
     "collection_uuid": "urn:uuid:c24db883-747e-4cac-9e64-8e9d6e11f011",
@@ -38398,7 +38398,7 @@
 {
     "institution": "Montana State University Herbarium",
     "collection": "Herbarium",
-    "recordsets": "9d2a4189-6048-46e9-bac4-e5ef566334bb",
+    "recordsets": "9d2a4189-6048-46e9-bac4-e5ef566334bb, 9b725e43-93c9-423b-adf8-a11d08a83d13",
     "institution_code": "MONT<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:ff39c535-b0c8-4956-b38b-1486985ed3e7",
