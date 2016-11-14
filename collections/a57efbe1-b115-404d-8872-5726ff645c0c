@@ -1,9 +1,9 @@
 {
     "institution": "Cincinnati Museum Center, Geier Collections & Research Center",
     "collection": "Invertebrate Paleontology",
-    "recordsets": "",
-    "institution_code": "",
-    "collection_code": "",
+    "recordsets": "41b119de-f745-482d-be42-a0155bc76e5d",
+    "institution_code": "CMC",
+    "collection_code": "Invertebrate Paleontology",
     "collection_uuid": "urn:uuid:a57efbe1-b115-404d-8872-5726ff645c0c",
     "collection_lsid": "http://grbio.org/cool/kmsw-z84p",
     "collection_url": "http://www.cincymuseum.org/research/invertebrate",
