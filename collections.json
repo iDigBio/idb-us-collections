@@ -3598,7 +3598,7 @@
 {
     "institution": "Eastern Kentucky University",
     "collection": "Herbarium",
-    "recordsets": "20360fae-574a-4d63-b9f6-47b1cc07fd22",
+    "recordsets": "20360fae-574a-4d63-b9f6-47b1cc07fd22, 20360fae-574a-4d63-b9f6-47b1cc07fd22",
     "institution_code": "EKY<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:16736c04-c79f-48a1-afc5-0bf9cc6d52f6",
@@ -11747,7 +11747,7 @@
 {
     "institution": "University of West Florida, Michael I. Cousens Herbarium",
     "collection": "Herbarium",
-    "recordsets": "314f66a9-2b8f-4085-b10c-0f083ce2f1eb, 4dce41dc-2af6-448c-99e1-abfd3a9cc3e5",
+    "recordsets": "314f66a9-2b8f-4085-b10c-0f083ce2f1eb, 4dce41dc-2af6-448c-99e1-abfd3a9cc3e5, e7016bd5-cb10-45b9-8959-0f5750f7a5db",
     "institution_code": "UWFP<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:4967e4b7-7059-4627-a930-9ffe72229675",
@@ -11756,7 +11756,7 @@
     "collection_catalog_url": "",
     "contact": "James R. Burkhalter",
     "contact_role": "Curator",
-    "contact_email": "NA",
+    "contact_email": "jburkhalter@uwf.edu",
     "taxonomic_coverage": "",
     "geographic_range": "",
     "collection_size": "NA",
