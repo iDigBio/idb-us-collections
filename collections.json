@@ -25870,7 +25870,7 @@
 {
     "institution": "Whitman College",
     "collection": "Herbarium",
-    "recordsets": "a4378725-7967-47bc-aada-0220e02e1f96",
+    "recordsets": "",
     "institution_code": "WCW<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:a9a8a571-3530-41fa-88ee-ff031b98eeae",
@@ -25878,8 +25878,8 @@
     "collection_url": "",
     "collection_catalog_url": "",
     "contact": "Heidi E. M. Dobson",
-    "contact_role": "Director",
-    "contact_email": "dobsonhe@whitman.edu",
+    "contact_role": "",
+    "contact_email": "",
     "taxonomic_coverage": "",
     "geographic_range": "",
     "collection_size": "NA",
@@ -32714,7 +32714,7 @@
 {
     "institution": "Duke University Herbarium",
     "collection": "Vascular Plants",
-    "recordsets": "",
+    "recordsets": "6258d160-a7aa-4937-bce3-3538eebd374f",
     "institution_code": "DUKE<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:d7ef3ba8-04f3-4d2b-9983-e670fa239190",
