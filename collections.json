@@ -33207,7 +33207,7 @@
 {
     "institution": "University of South Carolina",
     "collection": "A.C. Moore Herbarium",
-    "recordsets": "83ad8494-136b-485a-87d4-8ce01dd6a8de, 8e4ff036-d38e-455f-a0fe-4ac50823f4fb",
+    "recordsets": "83ad8494-136b-485a-87d4-8ce01dd6a8de",
     "institution_code": "USCH<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:dacac9c8-25ce-4bb3-90b7-fcd9dc5a5ad5",
@@ -34918,7 +34918,7 @@
 {
     "institution": "University of Massachusetts Amherst",
     "collection": "Herbarium",
-    "recordsets": "",
+    "recordsets": "0272afc1-36ee-4899-8c28-dde9d8a211d9",
     "institution_code": "MASS<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:e69e5d07-dc65-4b34-b762-dcf469433b86",
