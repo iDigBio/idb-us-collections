@@ -1539,7 +1539,7 @@
 {
     "institution": "University of North Carolina Wilmington",
     "collection": "Herbarium",
-    "recordsets": "",
+    "recordsets": "b00cf471-6bbe-4f94-846e-288900398b65",
     "institution_code": "WNC<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:07ad48a2-780d-4e1d-b87a-8a17e17f05e3",
@@ -33207,7 +33207,7 @@
 {
     "institution": "University of South Carolina",
     "collection": "A.C. Moore Herbarium",
-    "recordsets": "83ad8494-136b-485a-87d4-8ce01dd6a8de",
+    "recordsets": "83ad8494-136b-485a-87d4-8ce01dd6a8de, 8e4ff036-d38e-455f-a0fe-4ac50823f4fb",
     "institution_code": "USCH<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:dacac9c8-25ce-4bb3-90b7-fcd9dc5a5ad5",
