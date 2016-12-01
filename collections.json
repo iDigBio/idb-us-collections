@@ -7252,7 +7252,7 @@
 {
     "institution": "Duke University Herbarium",
     "collection": "Algae",
-    "recordsets": "4bec11d1-f8c3-43a7-9e70-ee0256fcedaf",
+    "recordsets": "",
     "institution_code": "DUKE<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:2d802681-9f66-49ee-8aae-ffd219883ab6",
@@ -9543,7 +9543,7 @@
 {
     "institution": "Hopkins Marine Station, Stanford University",
     "collection": "Gilbert M. Smith Herbarium",
-    "recordsets": "",
+    "recordsets": "e7db896a-c95b-4a18-99a4-866fff238ca5",
     "institution_code": "GMS<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:3ceed2bd-7cd2-4c10-a4f2-462a63504ed1",
@@ -21143,7 +21143,7 @@
 {
     "institution": "Butler University",
     "collection": "Herbarium",
-    "recordsets": "be31dfd1-c721-4697-8ee0-f7043c070810",
+    "recordsets": "be31dfd1-c721-4697-8ee0-f7043c070810, 7cea906d-ae65-420c-a6f7-a9a3ad64fb93",
     "institution_code": "BUT<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:88d5cf36-0656-4e0f-ac88-fde80aad62b3",
