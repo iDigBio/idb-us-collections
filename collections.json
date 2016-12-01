@@ -17025,7 +17025,7 @@
 {
     "institution": "University of South Florida",
     "collection": "USF Herbarium",
-    "recordsets": "0072bf11-a354-4998-8730-c0cb4cfc9517, 1c8ec291-8067-4b48-848b-410c2c768420, 07c47dd3-a0a9-434a-b144-71c32996f278, f1cf8457-237e-487a-9d13-5de7d81b9de4, 837d99c6-3045-4ba3-8951-643ddb3d6676",
+    "recordsets": "0072bf11-a354-4998-8730-c0cb4cfc9517, 1c8ec291-8067-4b48-848b-410c2c768420, 07c47dd3-a0a9-434a-b144-71c32996f278, f1cf8457-237e-487a-9d13-5de7d81b9de4",
     "institution_code": "USF<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:6dde3ee5-7c86-43e5-b596-a5a6e0898c95",
@@ -33207,7 +33207,7 @@
 {
     "institution": "University of South Carolina",
     "collection": "A.C. Moore Herbarium",
-    "recordsets": "83ad8494-136b-485a-87d4-8ce01dd6a8de",
+    "recordsets": "83ad8494-136b-485a-87d4-8ce01dd6a8de, 8e4ff036-d38e-455f-a0fe-4ac50823f4fb",
     "institution_code": "USCH<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:dacac9c8-25ce-4bb3-90b7-fcd9dc5a5ad5",
