@@ -4787,7 +4787,7 @@
 {
     "institution": "University of Guam",
     "collection": "Herbarium",
-    "recordsets": "",
+    "recordsets": "e77108de-88dd-4931-8085-0ea59d7ca4ee",
     "institution_code": "UGG",
     "collection_code": "GUAM<IH>",
     "collection_uuid": "urn:uuid:1d95772c-048c-11e5-b0ee-002315492bbc",
@@ -34918,7 +34918,7 @@
 {
     "institution": "University of Massachusetts Amherst",
     "collection": "Herbarium",
-    "recordsets": "0272afc1-36ee-4899-8c28-dde9d8a211d9",
+    "recordsets": "",
     "institution_code": "MASS<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:e69e5d07-dc65-4b34-b762-dcf469433b86",
