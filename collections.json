@@ -5483,7 +5483,7 @@
 {
     "institution": "University of Montana Herbarium",
     "collection": "Herbarium",
-    "recordsets": "7340c0df-8829-4197-9dc7-0328b8e7f5dd, 844875a9-9927-48a5-90b4-76c5f227f145",
+    "recordsets": "7340c0df-8829-4197-9dc7-0328b8e7f5dd",
     "institution_code": "MONTU<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:22de2610-315f-4e03-a45c-31defd9b8f45",
@@ -26566,7 +26566,7 @@
 {
     "institution": "University of Washington, Burke Museum of Natural History and Culture",
     "collection": "University of Washington Herbarium",
-    "recordsets": "9368e302-f8e7-4714-aed4-db2faa861e5c, beecd160-a96c-46fc-bdce-7dcb7024d473, f1a78c0f-449c-45fa-9472-0b92cc2a58da, 4ef6540c-e6cf-4678-bc43-b57435354de0",
+    "recordsets": "9368e302-f8e7-4714-aed4-db2faa861e5c, beecd160-a96c-46fc-bdce-7dcb7024d473, f1a78c0f-449c-45fa-9472-0b92cc2a58da, 4ef6540c-e6cf-4678-bc43-b57435354de0, 8b0c1f4b-9de7-4521-98c2-983e0bfd33c7",
     "institution_code": "WTU<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:b059b2ea-8686-4ade-adde-276c6c66c817",
