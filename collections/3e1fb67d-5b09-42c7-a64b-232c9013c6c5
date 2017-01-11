@@ -1,9 +1,9 @@
 {
     "institution": "University of California San Diego, Scripps Institution of Oceanography",
     "collection": "Marine Vertebrates",
-    "recordsets": "",
+    "recordsets": "d56c787a-7da2-438b-81c5-554442f97259",
     "institution_code": "SIO",
-    "collection_code": "SIO",
+    "collection_code": "Marine Vertebrates",
     "collection_uuid": "urn:uuid:3e1fb67d-5b09-42c7-a64b-232c9013c6c5",
     "collection_lsid": "urn:lsid:biocol.org:col:14844",
     "collection_url": "https://scripps.ucsd.edu/collections/mv",
