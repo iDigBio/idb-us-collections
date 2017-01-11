@@ -6498,9 +6498,9 @@
 {
     "institution": "North Carolina State University",
     "collection": "Herbarium",
-    "recordsets": "",
+    "recordsets": "aca26f37-3ec8-4e9e-b927-50b4944a0096",
     "institution_code": "NCSC<IH>",
-    "collection_code": "",
+    "collection_code": "NCSU",
     "collection_uuid": "urn:uuid:2830968f-ca8f-4513-a8ac-1eca5f89734a",
     "collection_lsid": "urn:lsid:biocol.org:col:15712",
     "collection_url": "http://www.cals.ncsu.edu/plantbiology/ncsc/index.htm",
