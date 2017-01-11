@@ -1,9 +1,9 @@
 {
     "institution": "Mississippi Museum of Natural Science",
-    "collection": "fishes",
-    "recordsets": "",
-    "institution_code": "",
-    "collection_code": "",
+    "collection": "Ichthyology",
+    "recordsets": "6aa085c5-7abf-4995-a3fc-91c49ad65b79",
+    "institution_code": "MMNS",
+    "collection_code": "Fishes",
     "collection_uuid": "urn:uuid:c4ce5e33-03c4-42ef-9e13-76d740e4fd41",
     "collection_lsid": "NA",
     "collection_url": "http://www.mdwfp.com/seek-study/bio-collections/fishes.aspx",
