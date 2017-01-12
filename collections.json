@@ -10152,7 +10152,7 @@
 {
     "institution": "Westfield State University",
     "collection": "Herbarium",
-    "recordsets": "",
+    "recordsets": "6d09cfc1-a17c-4067-b1a0-557b8e5334ea",
     "institution_code": "WSCH<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:3ff64d08-683d-4707-baff-4195103f2a7d",
@@ -11312,7 +11312,7 @@
 {
     "institution": "University of Rhode Island",
     "collection": "Herbarium",
-    "recordsets": "3501e0a6-1420-45b9-bbf9-77349e79e9d7, 86b2bfc9-ca99-4250-b93a-f86f3777236d",
+    "recordsets": "3501e0a6-1420-45b9-bbf9-77349e79e9d7",
     "institution_code": "KIRI<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:47086cad-b46c-4ac3-9a4a-ed70822b3c30",
