@@ -1,7 +1,7 @@
 {
     "institution": "Brown University",
     "collection": "Herbarium",
-    "recordsets": "e5f57bb0-07ec-4405-90b6-dc89647a1cb5, 347579f4-d44a-4c8e-a578-09c2a8132573",
+    "recordsets": "e5f57bb0-07ec-4405-90b6-dc89647a1cb5, 347579f4-d44a-4c8e-a578-09c2a8132573, 13510466-6232-4313-9e46-ea197b82750c",
     "institution_code": "BRU<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:f8dc372c-6742-49a2-a602-78a352adfc15",
@@ -10,7 +10,7 @@
     "collection_catalog_url": "",
     "contact": "Timothy Whitfeld",
     "contact_role": "Collections Manager",
-    "contact_email": "Timothy_Whitfield@brown.edu",
+    "contact_email": "Timothy_Whitfeld@brown.edu",
     "taxonomic_coverage": "",
     "geographic_range": "",
     "collection_size": "NA",
