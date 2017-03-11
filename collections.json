@@ -22680,7 +22680,7 @@
 {
     "institution": "Milwaukee Public Museum",
     "collection": "Botany",
-    "recordsets": "a748a0fe-a6ae-4ce7-b88f-4e4ec1dc080c",
+    "recordsets": "a748a0fe-a6ae-4ce7-b88f-4e4ec1dc080c, a748a0fe-a6ae-4ce7-b88f-4e4ec1dc080c",
     "institution_code": "MIL<IH>, MPM",
     "collection_code": "B",
     "collection_uuid": "urn:uuid:946fdb33-cb25-4411-8195-a4decb63963b",
@@ -32714,7 +32714,7 @@
 {
     "institution": "American Museum of Natural History",
     "collection": "Paleontology, fossil Invertebrates",
-    "recordsets": "2c2cc29c-3572-4568-a129-c8cbec34ccbe",
+    "recordsets": "4f418fcd-01d8-4162-8130-fa911e795949",
     "institution_code": "AMNH",
     "collection_code": "",
     "collection_uuid": "urn:uuid:d7af5ec8-fad7-4db2-9026-a90e396b87df",
