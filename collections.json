@@ -7658,7 +7658,7 @@
 {
     "institution": "Rutgers University, Chrysler Herbarium",
     "collection": "Herbarium",
-    "recordsets": "2eb8ff2f-4826-4fc3-be68-22d805bcae88, d6c6e57a-4ccb-4707-b87d-c91d01d6aa42, d6c6e57a-4ccb-4707-b87d-c91d01d6aa42",
+    "recordsets": "2eb8ff2f-4826-4fc3-be68-22d805bcae88, d6c6e57a-4ccb-4707-b87d-c91d01d6aa42, 0bc60df1-a162-4173-9a73-c51e09031843",
     "institution_code": "CHRB<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:2fbcf031-cdae-4c9d-9c4f-f2fe5db6ee2e",
@@ -37760,7 +37760,7 @@
 {
     "institution": "Louisiana State University, Museum of Natural Science",
     "collection": "Mammalogy",
-    "recordsets": "c6969e30-ca21-4576-954d-9c0e052bdde9, a986ff36-22a2-46a5-ac82-513b6fa90423",
+    "recordsets": "c6969e30-ca21-4576-954d-9c0e052bdde9",
     "institution_code": "LSUMZ",
     "collection_code": "",
     "collection_uuid": "urn:uuid:fa4976e4-2cd0-4649-94da-6b162f7c9f52",
