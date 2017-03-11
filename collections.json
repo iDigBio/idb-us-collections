@@ -7658,7 +7658,7 @@
 {
     "institution": "Rutgers University, Chrysler Herbarium",
     "collection": "Herbarium",
-    "recordsets": "2eb8ff2f-4826-4fc3-be68-22d805bcae88, d6c6e57a-4ccb-4707-b87d-c91d01d6aa42, 0bc60df1-a162-4173-9a73-c51e09031843",
+    "recordsets": "2eb8ff2f-4826-4fc3-be68-22d805bcae88, d6c6e57a-4ccb-4707-b87d-c91d01d6aa42, d6c6e57a-4ccb-4707-b87d-c91d01d6aa42",
     "institution_code": "CHRB<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:2fbcf031-cdae-4c9d-9c4f-f2fe5db6ee2e",
@@ -30858,7 +30858,7 @@
 {
     "institution": "National Museum of Natural History, Smithsonian Institution",
     "collection": "NMNH Biorepository",
-    "recordsets": "",
+    "recordsets": "a6eee223-cf3b-4079-8bb2-b77dad8cae9d, 6c6f34ed-58a4-4ba2-b9c7-34524f79a349",
     "institution_code": "USNM, US",
     "collection_code": "",
     "collection_uuid": "urn:uuid:cb47a591-0a5f-4fe0-9487-691aad029fa0",
