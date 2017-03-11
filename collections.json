@@ -21897,9 +21897,9 @@
 {
     "institution": "W.R. Enns Entomology Museum",
     "collection": "",
-    "recordsets": "",
-    "institution_code": "UMRM",
-    "collection_code": "",
+    "recordsets": "81dc7cdb-66be-4683-ae79-068a784378b1",
+    "institution_code": "UMOC",
+    "collection_code": "Insect Collection",
     "collection_uuid": "urn:uuid:8e2ab1b5-4ffa-4d4a-b313-1796af78390e",
     "collection_lsid": "",
     "collection_url": "http://www.museum.insecta.missouri.edu/",
@@ -37760,7 +37760,7 @@
 {
     "institution": "Louisiana State University, Museum of Natural Science",
     "collection": "Mammalogy",
-    "recordsets": "c6969e30-ca21-4576-954d-9c0e052bdde9, a986ff36-22a2-46a5-ac82-513b6fa90423",
+    "recordsets": "c6969e30-ca21-4576-954d-9c0e052bdde9",
     "institution_code": "LSUMZ",
     "collection_code": "",
     "collection_uuid": "urn:uuid:fa4976e4-2cd0-4649-94da-6b162f7c9f52",
