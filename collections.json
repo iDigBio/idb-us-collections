@@ -1,6 +1,6 @@
 [
 {
-    "institution": "University of South Carolina – Salkehatchie",
+    "institution": "University of South Carolina Salkehatchie",
     "collection": "Herbarium",
     "recordsets": "",
     "institution_code": "SALK<IH>",
@@ -10,11 +10,11 @@
     "collection_url": "",
     "collection_catalog_url": "",
     "contact": "Eran S. Kilpatrick",
-    "contact_role": "",
+    "contact_role": "Curator",
     "contact_email": "erankil@mailbox.sc.edu",
-    "taxonomic_coverage": "",
-    "geographic_range": "",
-    "collection_size": "NA",
+    "taxonomic_coverage": "The collection is composed primarily of graminoid, forb, and seedless vascular plant species from each physiographic province in South Carolina, with a minor component of specimens from Western North Carolina.",
+    "geographic_range": "The focus region of the collection includes the South Carolina counties bordering the Salkehatchie River watershed (Allendale, Barnwell, Bamberg, Colleton, and Hampton Counties). The collection includes specimens from 1996 to present.",
+    "collection_size": "800",
     "mailing_address": "PO Box 617",
     "mailing_city": "Allendale",
     "mailing_state": "South Carolina",
