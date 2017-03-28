@@ -1108,7 +1108,7 @@
     "institution_code": "CIS",
     "collection_code": "",
     "collection_uuid": "urn:uuid:0572d0e6-16e9-4572-b5b4-1bf9110124eb",
-    "collection_lsid": "",
+    "collection_lsid": "http://grbio.org/cool/4rdp-ggdq",
     "collection_url": "http://science.cranbrook.edu/science-central/collections/from-collections",
     "collection_catalog_url": "",
     "contact": "Cameron Wood",
