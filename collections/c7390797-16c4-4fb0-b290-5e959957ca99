@@ -3,7 +3,7 @@
     "collection": "Ichthyology",
     "recordsets": "2b946e47-7b37-48dd-83bb-fd892c026f9f",
     "institution_code": "MSUM",
-    "collection_code": "",
+    "collection_code": "IC",
     "collection_uuid": "urn:uuid:c7390797-16c4-4fb0-b290-5e959957ca99",
     "collection_lsid": "urn:lsid:biocol.org:col:34816",
     "collection_url": "http://www.museum.msu.edu/?q=natural",
