@@ -3,7 +3,7 @@
     "collection": "Herpetology",
     "recordsets": "271a9ce9-c6d3-4b63-a722-cb0adc48863f",
     "institution_code": "MCZ",
-    "collection_code": "Herp",
+    "collection_code": "Herp, HerpOBS",
     "collection_uuid": "urn:uuid:4bd47cb6-de20-49cd-b423-c03153374a67",
     "collection_lsid": "http://grbio.org/cool/4wwx-2fyd",
     "collection_url": "http://www.mcz.harvard.edu/Departments/Herpetology/index.html",
