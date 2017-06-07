@@ -16387,7 +16387,7 @@
 {
   "institution": "Texas A&M University, Biodiversity Research and Teaching Collections",
   "collection": "Vertebrates",
-  "recordsets": "",
+  "recordsets": "79dfdec6-3e24-489c-a7ce-85dcc52bc3f9",
   "institution_code": "TCWC",
   "collection_code": "",
   "collection_uuid": "urn:uuid:67feffee-968b-49f0-9b9d-356471b2449c",
@@ -18825,7 +18825,7 @@
     "collection": "Ornithology Collection",
     "recordsets": "9d8ced48-62c5-4ce0-99e7-a03550c674c0",
     "institution_code": "SBMNH",
-    "collection_code": "",
+    "collection_code": "av, os",
     "collection_uuid": "urn:uuid:78ab5e40-fe3f-11e4-ac7a-002315492bbc",
     "collection_lsid": "http://grbio.org/cool/hb5b-iykw",
     "collection_url": "http://www.sbnature.org/crc/49.html",
