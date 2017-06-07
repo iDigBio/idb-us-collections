@@ -3,7 +3,7 @@
     "collection": "Ichthyology",
     "recordsets": "a6e02b78-6fc6-4cb6-bb87-8d5a443f2c2a",
     "institution_code": "BPBM",
-    "collection_code": "",
+    "collection_code": "I",
     "collection_uuid": "urn:uuid:1614381b-560f-4618-8ebb-c41a3bf52a46",
     "collection_lsid": "http://biocol.org/urn:lsid:biocol.org:col:1001",
     "collection_url": "http://www.bishopmuseum.org/research/natsci/fish/index.html",
