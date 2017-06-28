@@ -1,8 +1,8 @@
 {
     "institution": "Milwaukee Public Museum",
     "collection": "Invertebrate Zoology",
-    "recordsets": "f885076c-a7ae-4a7b-9769-3f733c6a9ecf",
-    "recordsetQuery": "{\"recordset\":\"f885076c-a7ae-4a7b-9769-3f733c6a9ecf\"}",
+    "recordsets": "f885076c-a7ae-4a7b-9769-3f733c6a9ecf, aa69300e-e477-49eb-a054-229737655899",
+    "recordsetQuery": "{\"recordset\":\"f885076c-a7ae-4a7b-9769-3f733c6a9ecf\",\"aa69300e-e477-49eb-a054-229737655899\"}",
     "institution_code": "MPM",
     "collection_code": "",
     "collection_uuid": "urn:uuid:27601982-5488-4259-8203-6f9a6510de7c",
