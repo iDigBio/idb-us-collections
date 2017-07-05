@@ -30296,8 +30296,8 @@
 {
     "institution": "University of Pennsylvania, Morris Arboretum",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "6b2c3ca9-69ad-4316-a2d1-33399e9f547e",
+    "recordsetQuery": "{\"recordset\":\"6b2c3ca9-69ad-4316-a2d1-33399e9f547e\"}",
     "institution_code": "MOAR<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:ae5a7f90-a751-4d4b-996b-1ec8f446e20c",
