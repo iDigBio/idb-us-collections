@@ -1,6 +1,6 @@
 {
-    "institution": "Delaware State University, Claude E. Phililips Herbarium",
-    "collection": "Herbarium",
+    "institution": "Delaware State University",
+    "collection": "Claude E. Phililips Herbarium",
     "recordsets": "910eadc8-8131-428c-b28a-91d0e2890f1d",
     "recordsetQuery": "{\"recordset\":[\"910eadc8-8131-428c-b28a-91d0e2890f1d\"]}",
     "institution_code": "DOV<IH>",
