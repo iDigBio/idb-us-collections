@@ -1,8 +1,8 @@
 {
     "institution": "Montana State University Northern",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "8e2f9392-55ac-49f3-bcc2-131a00122626",
+    "recordsetQuery": "{\"recordset\":\"8e2f9392-55ac-49f3-bcc2-131a00122626\"}",
     "institution_code": "MSUNH<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:d1ee291e-c926-4d93-82fe-a49189f0a2d8",
