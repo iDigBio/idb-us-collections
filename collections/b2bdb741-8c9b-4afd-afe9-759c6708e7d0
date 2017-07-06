@@ -1,8 +1,8 @@
 {
     "institution": "Muhlenberg College",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "005ac06a-3d9a-46ad-ac3c-062aaa5b7059",
+    "recordsetQuery": "{\"recordset\":\"005ac06a-3d9a-46ad-ac3c-062aaa5b7059\"}",
     "institution_code": "MCA<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:b2bdb741-8c9b-4afd-afe9-759c6708e7d0",
