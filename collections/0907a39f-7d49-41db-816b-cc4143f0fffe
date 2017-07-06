@@ -1,8 +1,8 @@
 {
     "institution": "Arizona Western College",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "7e43ea77-d2e5-4bdc-a4f7-a4792866f53f",
+    "recordsetQuery": "{\"recordset\":\"7e43ea77-d2e5-4bdc-a4f7-a4792866f53f\"}",
     "institution_code": "AWC<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:0907a39f-7d49-41db-816b-cc4143f0fffe",
