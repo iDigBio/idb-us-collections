@@ -1,8 +1,8 @@
 {
     "institution": "Howard Payne University",
     "collection": "Herbarium",
-    "recordsets": "22436fe4-5049-4266-9849-335dd3f161aa",
-    "recordsetQuery": "{\"recordset\":\"22436fe4-5049-4266-9849-335dd3f161aa\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "HPC<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:769ed6de-261b-41d9-aebc-e9c16524dac6",
