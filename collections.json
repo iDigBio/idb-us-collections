@@ -11023,9 +11023,9 @@
 ,
 {
     "institution": "Museum of Northern Arizona",
-    "collection": "McDougall Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "collection": "Walter B. McDougall Herbarium",
+    "recordsets": "de5203b1-5a44-4010-948c-b7d33f46397a",
+    "recordsetQuery": "{\"recordset\":\"de5203b1-5a44-4010-948c-b7d33f46397a\"}",
     "institution_code": "MNA<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:3d09a989-abec-4e51-a7dd-3d229a849a1b",
@@ -31055,8 +31055,8 @@
 {
     "institution": "Muhlenberg College",
     "collection": "Herbarium",
-    "recordsets": "005ac06a-3d9a-46ad-ac3c-062aaa5b7059",
-    "recordsetQuery": "{\"recordset\":\"005ac06a-3d9a-46ad-ac3c-062aaa5b7059\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "MCA<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:b2bdb741-8c9b-4afd-afe9-759c6708e7d0",
