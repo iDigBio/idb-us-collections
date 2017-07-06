@@ -3894,8 +3894,8 @@
   }
 ,
 {
-    "institution": "Iowa State University, Ada Hayden Herbarium",
-    "collection": "Herbarium",
+    "institution": "Iowa State University",
+    "collection": "Ada Hayden Herbarium",
     "recordsets": "4b92de1f-866d-4b82-af69-37d46753f289, cf641fbf-fa31-481a-993b-9204f2ee1884, 531537fc-6349-4a20-ae42-540d61797086",
     "recordsetQuery": "{\"recordset\":[\"4b92de1f-866d-4b82-af69-37d46753f289\",\"cf641fbf-fa31-481a-993b-9204f2ee1884\",\"531537fc-6349-4a20-ae42-540d61797086\"]}",
     "institution_code": "ISC<IH>, IA<IH>",
@@ -19900,7 +19900,7 @@
 ,
 {
     "institution": "Pittsburg State University",
-    "collection": "Theodore M. Sperry Herbarium",
+    "collection": "Sperry Herbarium",
     "recordsets": "44328ef7-fc7f-4ff6-b51b-ed9049857e11, 664bd710-8791-4dba-a3b6-000a1b140951",
     "recordsetQuery": "{\"recordset\":[\"44328ef7-fc7f-4ff6-b51b-ed9049857e11\",\" 664bd710-8791-4dba-a3b6-000a1b140951\"]}",
     "institution_code": "KSP<IH>",
