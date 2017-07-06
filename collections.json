@@ -22803,8 +22803,8 @@
   }
 ,
 {
-    "institution": "Delaware State University, Claude E. Phililips Herbarium",
-    "collection": "Herbarium",
+    "institution": "Delaware State University",
+    "collection": "Claude E. Phililips Herbarium",
     "recordsets": "910eadc8-8131-428c-b28a-91d0e2890f1d",
     "recordsetQuery": "{\"recordset\":[\"910eadc8-8131-428c-b28a-91d0e2890f1d\"]}",
     "institution_code": "DOV<IH>",
@@ -31055,8 +31055,8 @@
 {
     "institution": "Muhlenberg College",
     "collection": "Herbarium",
-    "recordsets": "005ac06a-3d9a-46ad-ac3c-062aaa5b7059",
-    "recordsetQuery": "{\"recordset\":\"005ac06a-3d9a-46ad-ac3c-062aaa5b7059\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "MCA<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:b2bdb741-8c9b-4afd-afe9-759c6708e7d0",
