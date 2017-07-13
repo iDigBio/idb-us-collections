@@ -1,8 +1,8 @@
 {
     "institution": "North Carolina Zoological Park",
     "collection": "Herbarium",
-    "recordsets": "f3327705-8d69-4d9c-88b7-584a08c74653",
-    "recordsetQuery": "{\"recordset\":\"f3327705-8d69-4d9c-88b7-584a08c74653\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "NCZP<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:ddb8f62c-6d4a-4648-9459-3cc5003c01d4",
