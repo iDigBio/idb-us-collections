@@ -18218,8 +18218,8 @@
 {
     "institution": "University of West Georgia",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "a4babe52-5740-44e4-9ea2-acef4797f127",
+    "recordsetQuery": "{\"recordset\":\"a4babe52-5740-44e4-9ea2-acef4797f127\"}",
     "institution_code": "WGC<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:65dc78f6-ceb0-4f35-93bb-3d17995a1e5d",
