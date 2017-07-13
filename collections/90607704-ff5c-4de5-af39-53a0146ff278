@@ -1,8 +1,8 @@
 {
     "institution": "Emory University",
     "collection": "Herbarium",
-    "recordsets": "042dbdba-a449-4291-8777-577a5a4045de",
-    "recordsetQuery": "{\"recordset\":\"042dbdba-a449-4291-8777-577a5a4045de\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "GEO<IH>",
     "collection_code": "GEO",
     "collection_uuid": "urn:uuid:90607704-ff5c-4de5-af39-53a0146ff278",
