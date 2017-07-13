@@ -1,8 +1,8 @@
 {
-    "institution": "Northern Kentucky University, John W. Thieret Herbarium",
-    "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "institution": "Northern Kentucky University",
+    "collection": "John W. Thieret Herbarium",
+    "recordsets": "2941b767-e90b-41b9-9627-6e589e0c0c85",
+    "recordsetQuery": "{\"recordset\":\"2941b767-e90b-41b9-9627-6e589e0c0c85\"}",
     "institution_code": "KNK<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:a58e0dd1-af01-48a4-80d5-04b88a0481a2",
