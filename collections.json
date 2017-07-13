@@ -26468,8 +26468,8 @@
 {
     "institution": "University of Nebraska Kearney",
     "collection": "Herbarium",
-    "recordsets": "6aca6f67-a2e9-440d-a503-9501db6e6f36, c5d42fed-eed0-4e14-9625-f8a9c0ff6bb1",
-    "recordsetQuery": "{\"recordset\":[\"6aca6f67-a2e9-440d-a503-9501db6e6f36\",\"c5d42fed-eed0-4e14-9625-f8a9c0ff6bb1\"]}",
+    "recordsets": "6aca6f67-a2e9-440d-a503-9501db6e6f36, c5d42fed-eed0-4e14-9625-f8a9c0ff6bb1, 108cca70-4d1c-4882-843b-2d31ba8d6763",
+    "recordsetQuery": "{\"recordset\":[\"6aca6f67-a2e9-440d-a503-9501db6e6f36\",\" c5d42fed-eed0-4e14-9625-f8a9c0ff6bb1\",\" 108cca70-4d1c-4882-843b-2d31ba8d6763\"]}",
     "institution_code": "NEBK<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:96090409-fa09-4838-b73d-f5f4af0d203e",
