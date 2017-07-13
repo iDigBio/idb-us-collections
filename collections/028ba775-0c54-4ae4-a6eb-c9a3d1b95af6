@@ -1,8 +1,8 @@
 {
     "institution": "Santa Cruz Island Reserve, UCSB Natural Reserve System",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "99e84c7d-dd3c-40d9-9526-54f4342cda95",
+    "recordsetQuery": "{\"recordset\":\"99e84c7d-dd3c-40d9-9526-54f4342cda95\"}",
     "institution_code": "SCIR<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:028ba775-0c54-4ae4-a6eb-c9a3d1b95af6",
