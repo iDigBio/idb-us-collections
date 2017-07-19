@@ -6,13 +6,13 @@
     "institution_code": "UAFMC, UAM",
     "collection_code": "",
     "collection_uuid": "urn:uuid:6308037f-c1de-4b46-b6aa-e92f8b387e2b",
-    "collection_lsid": "NA",
+    "collection_lsid": "",
     "collection_url": "http://museum.uark.edu",
     "collection_catalog_url": "http://fulbright.uark.edu/deans-office/facilities/university-collections-facility/museum-collections.php",
     "description": " fossils and minerals with a particular emphasis on specimens from Arkansas",
     "descriptionForSpecialists": "",
-    "cataloguedSpecimens": "NA",
-    "knownToContainTypes": "Yes",
+    "cataloguedSpecimens": null,
+    "knownToContainTypes": true,
     "taxonCoverage": "",
     "geographic_range": "fossils and minerals with a particular emphasis on specimens from Arkansas",
     "collectionExtent": "NA",
@@ -29,4 +29,4 @@
     "physical_zip": "72701",
     "lat": 36.0426,
     "lon": -94.1656
-  }
+}
