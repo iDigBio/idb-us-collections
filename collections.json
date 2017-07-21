@@ -43397,8 +43397,8 @@
 {
     "institution": "Cleveland Museum of Natural History",
     "collection": "Invertebrate Zoology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "a8d88237-2f62-4ad5-b1f7-ab13ace304df",
+    "recordsetQuery": "{\"recordset\":\"a8d88237-2f62-4ad5-b1f7-ab13ace304df\"}",
     "institution_code": "CLEV",
     "collection_code": "Insects",
     "collection_uuid": "urn:uuid:f76b50c0-fc8c-41bb-b67d-278edad10d67",
