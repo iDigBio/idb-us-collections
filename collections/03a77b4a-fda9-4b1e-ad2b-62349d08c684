@@ -11,15 +11,15 @@
     "collection_catalog_url": "https://sioapps.ucsd.edu/collections/bi/",
     "description": "The Scripps Institution of Oceanography Benthic Invertebrate Collection (SIO BIC) is a research and teaching collection sourced through Scripps scientists, external researchers, and private collectors. SIO BIC holds approximately 45,000 lots with broad taxonomic and geographical coverage.",
     "descriptionForSpecialists": "",
-    "cataloguedSpecimens": "NA",
+    "cataloguedSpecimens": 45000,
     "knownToContainTypes": true,
     "taxonCoverage": "Taxonomic strengths include mollusks, crustaceans, annelids, and echinoderms, with all major marine invertebrate groups represented.",
     "geographic_range": "The geographic scope includes global marine benthic habitats, with strengths in the southern California region, eastern Pacific, Antarctica, deep sea (>1,000 m), and reducing ecosystems (vents, seeps, whalefalls).",
-    "collectionExtent": "NA",
+    "collectionExtent": "750,000+ specimens 45,000+ lots",
     "contact": "Greg Rouse",
     "contact_role": "Curator",
     "contact_email": "grouse@ucsd.edu",
-    "mailing_address": "9500 Gilman Drive, Dept. 0244, University of California, San Diego",
+    "mailing_address": "9500 Gilman Drive # 0244, University of California San Diego",
     "mailing_city": "La Jolla",
     "mailing_state": "California",
     "mailing_zip": "92093-0244",
@@ -27,6 +27,6 @@
     "physical_city": "La Jolla",
     "physical_state": "California",
     "physical_zip": "92037",
-    "lat": 32.865906,
-    "lon": -117.2553828
+    "lat": 32.865312,
+    "lon": -117.253
   }
