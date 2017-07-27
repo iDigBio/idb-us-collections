@@ -2,7 +2,7 @@
     "institution": "Buffalo Museum of Science",
     "collection": "Ornithology",
     "recordsets": "ee566f77-2d46-41cb-89e2-7c040d4ca44c",
-    "recordsetQuery": "{\"recordset\":\"ee566f77-2d46-41cb-89e2-7c040d4ca44c\"}",
+    "recordsetQuery": "{\"recordset\":\"ee566f77-2d46-41cb-89e2-7c040d4ca44c\",\"collectioncode\":\"Ornithology\"}",
     "institution_code": "BSNS",
     "collection_code": "Ornithology",
     "collection_uuid": "urn:uuid:fb8ccdf4-0a03-4687-94b9-f2d912e43c1c",
