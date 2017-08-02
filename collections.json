@@ -40528,7 +40528,7 @@
     "collection": "Vertebrate Paleontology",
     "recordsets": "",
     "recordsetQuery": "",
-    "institution_code": "",
+    "institution_code": "LACM",
     "collection_code": "",
     "collection_uuid": "urn:uuid:e54677e1-015c-48f1-8bd6-2b49ee680e16",
     "collection_lsid": "",
@@ -40554,7 +40554,7 @@
     "physical_zip": "90007",
     "lat": 34.0181,
     "lon": -118.289
-  }
+}
 ,
 {
     "institution": "Duke University Marine Lab",
