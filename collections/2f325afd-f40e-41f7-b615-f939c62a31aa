@@ -1,8 +1,8 @@
 {
     "institution": "Howard University",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "5ffc8bc6-e366-4157-b1ba-00859f1048a4",
+    "recordsetQuery": "{\"recordset\":\"5ffc8bc6-e366-4157-b1ba-00859f1048a4\"}",
     "institution_code": "HUDC<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:2f325afd-f40e-41f7-b615-f939c62a31aa",
