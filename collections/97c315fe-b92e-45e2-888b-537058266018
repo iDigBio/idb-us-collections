@@ -1,8 +1,8 @@
 {
     "institution": "University of South Alabama",
     "collection": "Herbarium",
-    "recordsets": "1f8c7572-5cda-44be-9a78-0658217fc279",
-    "recordsetQuery": "{\"recordset\":\"1f8c7572-5cda-44be-9a78-0658217fc279\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "USAM<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:97c315fe-b92e-45e2-888b-537058266018",
