@@ -1,10 +1,10 @@
 {
-    "institution": "Fort Hays State University, Stenberg Museum",
+    "institution": "Fort Hays State University, Sternberg Museum",
     "collection": "Mammalogy",
     "recordsets": "d0105f1d-a9a0-4cd4-817d-aebfb5512923",
     "recordsetQuery": "{\"recordset\":\"d0105f1d-a9a0-4cd4-817d-aebfb5512923\"}",
     "institution_code": "FHSM",
-    "collection_code": "",
+    "collection_code": "FHSM-M",
     "collection_uuid": "urn:uuid:dc2719a5-c726-4b2b-b4e8-465a09072110",
     "collection_lsid": "NA",
     "collection_url": "http://sternberg.fhsu.edu/wp/research-collections/collections/mammology/",
