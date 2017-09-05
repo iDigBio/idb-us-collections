@@ -1,10 +1,10 @@
 {
-    "institution": "Fort Hays State University, Stenberg Museum",
+    "institution": "Fort Hays State University, Sternberg Museum",
     "collection": "Ichthyology",
     "recordsets": "8960fcec-05c0-43c5-a83e-87ace7d3091d",
     "recordsetQuery": "{\"recordset\":\"8960fcec-05c0-43c5-a83e-87ace7d3091d\"}",
     "institution_code": "FHSM",
-    "collection_code": "",
+    "collection_code": "FHSM-I",
     "collection_uuid": "urn:uuid:6b1a91b3-e32d-401b-b50b-950fe5717eab",
     "collection_lsid": "NA",
     "collection_url": "http://sternberg.fhsu.edu/wp/research-collections/collections/ichthyology/",
