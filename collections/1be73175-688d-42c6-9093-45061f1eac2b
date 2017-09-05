@@ -1,5 +1,5 @@
 {
-    "institution": "Fort Hays State University, Stenberg Museum",
+    "institution": "Fort Hays State University, Sternberg Museum",
     "collection": "Paleontology",
     "recordsets": "",
     "recordsetQuery": "",
@@ -7,7 +7,7 @@
     "collection_code": "VP (vertebrate paleontology), IP (invertebrate paleontology)",
     "collection_uuid": "urn:uuid:1be73175-688d-42c6-9093-45061f1eac2b",
     "collection_lsid": "NA",
-    "collection_url": "http://sternberg.fhsu.edu/wp/research-collections/collections/paleontology/",
+    "collection_url": "http://sternberg.fhsu.edu/research-collections/collections/paleontology/",
     "collection_catalog_url": "NA",
     "description": "Late Cretaceous Western Interior Seaway faunas (sharks, bony fish, marine reptiles, seabirds, pterosaurs, sea turtles); Miocene terrestrial mammals (rhinos, horse, camel, carnivores); Neogene rodents Mostly western Kansas, with some reference specimens from across the western United States.",
     "descriptionForSpecialists": "",
