@@ -20163,11 +20163,11 @@
   }
 ,
 {
-    "institution": "Fort Hays State University, Stenberg Museum",
+    "institution": "Fort Hays State University, Sternberg Museum",
     "collection": "Invertebrate",
     "recordsets": "",
     "recordsetQuery": "",
-    "institution_code": "",
+    "institution_code": "FHSM",
     "collection_code": "",
     "collection_uuid": "urn:uuid:6f76cd5d-926c-4364-b5c4-5c6d8c89e2df",
     "collection_lsid": "NA",
