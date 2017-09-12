@@ -14225,8 +14225,8 @@
 {
     "institution": "Mississippi State University, Mississippi Entomological Museum",
     "collection": "Entomology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "8eabbc48-2b30-419d-bd8f-eece9185eca1",
+    "recordsetQuery": "{\"recordset\":\"8eabbc48-2b30-419d-bd8f-eece9185eca1\"}",
     "institution_code": "MISSA",
     "collection_code": "MEM",
     "collection_uuid": "urn:uuid:4b876779-0e68-4fdd-a733-f21a0388a095",
