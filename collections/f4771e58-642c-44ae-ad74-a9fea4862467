@@ -12,7 +12,7 @@
 	"description": "The Tom S. & Miwako K. Cooperrider Herbarium at Kent State University was founded in 1921 and houses approximately 81,000 specimens. The collection is primarily focused on the flora of northeastern Ohio. Important holdings include collections by Tom S. Cooperrider (vascular), Arthur Herrick (vascular), Dr. Barbara K. Andreas (bryophyte and vascular), Allison Cusick (vascular), and the historical collections of Almon N. Rood. ",
 	"descriptionForSpecialists": "",
 	"cataloguedSpecimens": 81000,
-	"knownToContainTypes": TRUE,
+	"knownToContainTypes": true,
 	"taxonCoverage": "The collection reflects an obvious focus on Ohio vascular flora, especially the flora of northeastern Ohio, including collections from many habitats considered rare in Ohio, such as bogs and fens. The bryophyte diversity of Ohio is also strongly represented in the extensive collections of Dr. Barbara K. Andreas.",
 	"geographic_range": "Global; primarily eastern United States with strong focus on Ohio.",
 	"collectionExtent": "Approx. 67,000 vascular specimens; 14,000 bryophyte specimens; 2,500  fruit and nut collections (collected by A.N. Rood during early 20th century and housed in small glass vials); small collections of algae, fungi, and lichens. ",
