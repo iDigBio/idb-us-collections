@@ -1,10 +1,10 @@
 {
     "institution": "University of Wisconsin-Stevens Point, Robert W. Freckmann Herbarium",
     "collection": "Vascular Plants",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "3998ec8d-4aae-46db-9370-179c19b69356",
+    "recordsetQuery": "{\"recordset\":\"3998ec8d-4aae-46db-9370-179c19b69356\"}",
     "institution_code": "UWSP<IH>",
-    "collection_code": "",
+    "collection_code": "VP",
     "collection_uuid": "urn:uuid:5d1ffc75-6099-454d-8908-ea9e2180d235",
     "collection_lsid": "urn:lsid:biocol.org:col:14667",
     "collection_url": "http://wisplants.uwsp.edu",
