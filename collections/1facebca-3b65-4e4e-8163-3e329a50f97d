@@ -1,8 +1,8 @@
 {
     "institution": "Indiana University",
-    "collection": "Herbarium",
-    "recordsets": "2e3a8e5c-eef9-462d-a690-3a91fe111e13, b3d53973-5bac-432a-90d3-7956baa09c5d",
-    "recordsetQuery": "{\"recordset\":[\"2e3a8e5c-eef9-462d-a690-3a91fe111e13\",\"b3d53973-5bac-432a-90d3-7956baa09c5d\"]}",
+    "collection": "Deam Herbarium",
+    "recordsets": "2e3a8e5c-eef9-462d-a690-3a91fe111e13, b3d53973-5bac-432a-90d3-7956baa09c5d, 0dab1fc7-ca99-456b-9985-76edbac003e0",
+    "recordsetQuery": "{\"recordset\":[\"2e3a8e5c-eef9-462d-a690-3a91fe111e13\",\" b3d53973-5bac-432a-90d3-7956baa09c5d\",\" 0dab1fc7-ca99-456b-9985-76edbac003e0\"]}",
     "institution_code": "IND<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:1facebca-3b65-4e4e-8163-3e329a50f97d",
