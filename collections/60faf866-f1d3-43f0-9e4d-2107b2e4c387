@@ -1,8 +1,8 @@
 {
     "institution": "Fort Lewis College, Herbarium",
     "collection": "Herbarium",
-    "recordsets": "241d64f1-480a-48ae-8ec2-cd12af4a16e9",
-    "recordsetQuery": "{\"recordset\":\"241d64f1-480a-48ae-8ec2-cd12af4a16e9\"}",
+    "recordsets": "241d64f1-480a-48ae-8ec2-cd12af4a16e9, 8295ea14-c4fd-499b-bc68-2907ed36badc",
+    "recordsetQuery": "{\"recordset\":[\"241d64f1-480a-48ae-8ec2-cd12af4a16e9\",\" 8295ea14-c4fd-499b-bc68-2907ed36badc\"]}",
     "institution_code": "FLD<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:60faf866-f1d3-43f0-9e4d-2107b2e4c387",
