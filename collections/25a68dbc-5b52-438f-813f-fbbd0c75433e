@@ -1,8 +1,8 @@
 {
   "institution": "Rocky Mountain Biological Laboratory",
   "collection": "Herbarium",
-  "recordsets": "",
-  "recordsetQuery": "",
+  "recordsets": "12018be6-3795-43a3-a073-a2b9d60c0af3",
+  "recordsetQuery": "{\"recordset\":\"12018be6-3795-43a3-a073-a2b9d60c0af3\"}",
   "institution_code": "RMBL",
   "collection_code": "",
   "collection_uuid": "urn:uuid:25a68dbc-5b52-438f-813f-fbbd0c75433e",
