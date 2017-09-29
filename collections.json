@@ -44816,8 +44816,8 @@
 {
     "institution": "South Dakota State University, Severin-McDaniel Insect Research Collection",
     "collection": "entomology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "e597a4f6-2be7-4538-8007-dec480dc4d6f",
+    "recordsetQuery": "{\"recordset\":\"e597a4f6-2be7-4538-8007-dec480dc4d6f\"}",
     "institution_code": "SDSU",
     "collection_code": "SMIRC",
     "collection_uuid": "urn:uuid:fea1c2e0-5fd6-4b92-afd3-f715d3f5009f",
