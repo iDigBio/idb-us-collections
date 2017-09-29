@@ -4290,12 +4290,12 @@
   }
 ,
 {
-    "institution": "Frost Entomological Museum",
-    "collection": "",
-    "recordsets": "",
-    "recordsetQuery": "",
-    "institution_code": "PSCU",
-    "collection_code": "",
+    "institution": "Penn State University, Frost Entomological Museum",
+    "collection": "Entomology",
+    "recordsets": "53feaa83-e3b6-4ad3-8597-293b153e7548",
+    "recordsetQuery": "{\"recordset\":\"53feaa83-e3b6-4ad3-8597-293b153e7548\"}",
+    "institution_code": "PSUC",
+    "collection_code": "ENTO",
     "collection_uuid": "urn:uuid:17391cff-f921-4e66-84ab-a96a243e8c0d",
     "collection_lsid": "NA",
     "collection_url": "http://ento.psu.edu/facilities/frost",
