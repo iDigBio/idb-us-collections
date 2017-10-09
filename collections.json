@@ -11785,7 +11785,7 @@
     "collection": "Herbarium",
     "recordsets": "997c4dda-0465-40c0-af8d-67f8f90dea3b",
     "recordsetQuery": "{\"recordset\":\"997c4dda-0465-40c0-af8d-67f8f90dea3b\"}",
-    "institution_code": "BLM<IH>",
+    "institution_code": "BLM",
     "collection_code": "TAFO",
     "collection_uuid": "urn:uuid:3f22c204-cabe-474c-b201-62ec4c156ae4",
     "collection_lsid": "",
