@@ -3,7 +3,7 @@
     "collection": "Herbarium",
     "recordsets": "a8cafd75-ca3b-42c6-8b8e-52aafa15753b",
     "recordsetQuery": "{\"recordset\":\"a8cafd75-ca3b-42c6-8b8e-52aafa15753b\"}",
-    "institution_code": "BLM<IH>",
+    "institution_code": "BLM",
     "collection_code": "LCDO",
     "collection_uuid": "urn:uuid:8a14fbc3-e309-480b-91c8-ac26acc7ff52",
     "collection_lsid": "",
