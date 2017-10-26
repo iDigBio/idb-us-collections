@@ -25973,8 +25973,8 @@
 {
     "institution": "University of Texas at El Paso Biodiversity Collections",
     "collection": "Fossils",
-    "recordsets": "b7a79601-c07b-46d5-bd09-d4472b0d9431​",
-    "recordsetQuery": "{\"recordset\":\"b7a79601-c07b-46d5-bd09-d4472b0d9431​\"}",
+    "recordsets": "b7a79601-c07b-46d5-bd09-d4472b0d9431",
+    "recordsetQuery": "{\"recordset\":\"b7a79601-c07b-46d5-bd09-d4472b0d9431\"}",
     "institution_code": "UTEP",
     "collection_code": "Earth Science",
     "collection_uuid": "urn:uuid:8d929577-4a06-4830-bc4f-053edbe3cdb9",
@@ -37325,8 +37325,8 @@
 {
     "institution": "University of Nebraska Lincoln, University of Nebraska State Museum",
     "collection": "Division of Entomology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "f83517ea-7b9f-443d-9371-d11a05ebc0a7",
+    "recordsetQuery": "{\"recordset\":\"f83517ea-7b9f-443d-9371-d11a05ebc0a7\"}",
     "institution_code": "UNSM",
     "collection_code": "UNSM",
     "collection_uuid": "urn:uuid:cf776df9-99bb-49b9-a106-888ffeec2924",
