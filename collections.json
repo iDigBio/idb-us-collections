@@ -22838,8 +22838,8 @@
 {
     "institution": "Florida Museum of Natural History",
     "collection": "McGuire Center for Lepidoptera & Biodiversity",
-    "recordsets": "4465a69a-eed1-4668-a61a-f7dfc68c1a81",
-    "recordsetQuery": "{\"recordset\":\"4465a69a-eed1-4668-a61a-f7dfc68c1a81\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "UF",
     "collection_code": "MGCL",
     "collection_uuid": "urn:uuid:7d28b18f-00c2-43e5-92d4-5e5d7be80f32",
