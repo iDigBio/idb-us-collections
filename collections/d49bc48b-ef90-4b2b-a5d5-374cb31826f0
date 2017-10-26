@@ -1,8 +1,8 @@
 {
     "institution": "University of Kansas, Biodiversity Institute and Natural History Museum",
     "collection": "Botany, R. L. McGregor Herbarium",
-    "recordsets": "cb2e732c-20a8-4037-9ab0-67a59faeafb8, cd5bc13d-ee5c-4b68-a550-37edb3e7899d, d7b285d4-2643-45ee-9302-b0c3d51dda5c, 9c1d51f2-067e-452b-a52b-ea7b03e50e25",
-    "recordsetQuery": "{\"recordset\":[\"cb2e732c-20a8-4037-9ab0-67a59faeafb8\",\" cd5bc13d-ee5c-4b68-a550-37edb3e7899d\",\" d7b285d4-2643-45ee-9302-b0c3d51dda5c\",\" 9c1d51f2-067e-452b-a52b-ea7b03e50e25\"]}",
+    "recordsets": "cd5bc13d-ee5c-4b68-a550-37edb3e7899d, 9c1d51f2-067e-452b-a52b-ea7b03e50e25, d7b285d4-2643-45ee-9302-b0c3d51dda5c",
+    "recordsetQuery": "{\"recordset\":[\"cd5bc13d-ee5c-4b68-a550-37edb3e7899d\",\" 9c1d51f2-067e-452b-a52b-ea7b03e50e25\",\" d7b285d4-2643-45ee-9302-b0c3d51dda5c\"]}",
     "institution_code": "KU",
     "collection_code": "KANU<IH>",
     "collection_uuid": "urn:uuid:d49bc48b-ef90-4b2b-a5d5-374cb31826f0",
