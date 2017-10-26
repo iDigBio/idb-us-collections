@@ -25577,8 +25577,8 @@
 {
     "institution": "Herbarium Amanitarum Rooseveltensis",
     "collection": "",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "7559ca29-1d2f-4a64-993f-41939ee40947",
+    "recordsetQuery": "{\"recordset\":\"7559ca29-1d2f-4a64-993f-41939ee40947\"}",
     "institution_code": "RET",
     "collection_code": "",
     "collection_uuid": "urn:uuid:8af1a2ce-7fd8-417b-9833-113d7fdc1fec",
