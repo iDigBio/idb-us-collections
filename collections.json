@@ -23597,10 +23597,10 @@
 {
     "institution": "North Carolina Museum of Natural Sciences",
     "collection": "Invertebrates",
-    "recordsets": "38b67ced-5220-44e9-bb4b-83736e7316a1",
-    "recordsetQuery": "{\"recordset\":\"38b67ced-5220-44e9-bb4b-83736e7316a1\"}",
+    "recordsets": "cf93f9ef-b45e-474c-9ca9-3edc4ad11a4d",
+    "recordsetQuery": "{\"recordset\":\"cf93f9ef-b45e-474c-9ca9-3edc4ad11a4d\"}",
     "institution_code": "NCSM",
-    "collection_code": "",
+    "collection_code": "NCSM-UNIO",
     "collection_uuid": "urn:uuid:810f672c-52bd-4642-9319-7a0f11cacf05",
     "collection_lsid": "http://grbio.org/cool/qqta-qfbq",
     "collection_url": "http://naturalsciences.org/research-collections/research-specialties/invertebrates",
