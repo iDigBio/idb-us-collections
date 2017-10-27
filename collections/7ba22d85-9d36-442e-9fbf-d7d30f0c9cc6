@@ -2,7 +2,7 @@
     "institution": "Harvard University, Economic Herbarium of Oakes Ames",
     "collection": "Economic Herbarium of Oakes Ames",
     "recordsets": "7450a9e3-ef95-4f9e-8260-09b498d2c5e6",
-    "recordsetQuery": "{\"recordset\":\"7450a9e3-ef95-4f9e-8260-09b498d2c5e6\"}",
+    "recordsetQuery": "{\"recordset\":\"7450a9e3-ef95-4f9e-8260-09b498d2c5e6\",\"collectioncode\":\"ECON\"}",
     "institution_code": "Harvard University",
     "collection_code": "ECON",
     "collection_uuid": "urn:uuid:7ba22d85-9d36-442e-9fbf-d7d30f0c9cc6",
