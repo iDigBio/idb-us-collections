@@ -12,7 +12,7 @@
     "description": "Vertebrate paleontology, invertebrate paleontology, paleobotanical, from Jurassic through Recent. Particularly strong in Miocene marine deposits. Orange County, California",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": "NA",
-    "knownToContainTypes": Yes,
+    "knownToContainTypes": true,
     "taxonCoverage": "Vertebrate paleontology, invertebrate paleontology, paleobotanical, from Jurassic through Recent. Particularly strong in Miocene marine deposits.",
     "geographic_range": "Orange County, California",
     "collectionExtent": "NA",
