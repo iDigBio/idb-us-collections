@@ -16203,11 +16203,11 @@
   }
 ,
 {
-  "institution": "",
+  "institution": "Dalton State College",
   "collection": "",
   "recordsets": "",
   "recordsetQuery": "",
-  "institution_code": "",
+  "institution_code": "DSC",
   "collection_code": "",
   "collection_uuid": "urn:uuid:536c2a29-9b32-4ba9-aac3-47ccb0714b27",
   "collection_lsid": "",
@@ -16223,16 +16223,16 @@
   "contact": "",
   "contact_role": "",
   "contact_email": "",
-  "mailing_address": "",
-  "mailing_city": "",
-  "mailing_state": "",
-  "mailing_zip": "",
-  "physical_address": "",
-  "physical_city": "",
-  "physical_state": "",
-  "physical_zip": "",
-  "lat": null,
-  "lon": null
+  "mailing_address": "650 College Dr",
+  "mailing_city": "Dalton",
+  "mailing_state": "Georgia",
+  "mailing_zip": "30720",
+  "physical_address": "650 College Dr",
+  "physical_city": "Dalton",
+  "physical_state": "Georgia",
+  "physical_zip": "30720",
+  "lat": 34.7733488,
+  "lon": -85.0032471
 }
 ,
 {
