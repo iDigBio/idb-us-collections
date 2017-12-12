@@ -10529,9 +10529,9 @@
 {
     "institution": "Clemson University",
     "collection": "Clemson University Arthropod Collection",
-    "recordsets": "",
-    "recordsetQuery": "",
-    "institution_code": "CUAC",
+    "recordsets": "385a58a2-ed0d-11e4-b70a-002315492bbc",
+    "recordsetQuery": "{\"recordset\":\"385a58a2-ed0d-11e4-b70a-002315492bbc\"}",
+    "institution_code": "CU",
     "collection_code": "CUAC",
     "collection_uuid": "urn:uuid:385a58a2-ed0d-11e4-b70a-002315492bbc",
     "collection_lsid": "urn:lsid:biocol.org:col:33168",
