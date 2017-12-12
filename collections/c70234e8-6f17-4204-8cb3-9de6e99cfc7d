@@ -1,9 +1,9 @@
 {
     "institution": "University of Idaho",
-    "collection": "William F Barr Entomological Museum",
-    "recordsets": "",
-    "recordsetQuery": "",
-    "institution_code": "",
+    "collection": "William F. Barr Entomological Museum",
+    "recordsets": "b985f284-eac5-4efe-8a7c-c726cdf7cf33",
+    "recordsetQuery": "{\"recordset\":\"b985f284-eac5-4efe-8a7c-c726cdf7cf33\"}",
+    "institution_code": "WFBM",
     "collection_code": "WFBM",
     "collection_uuid": "urn:uuid:c70234e8-6f17-4204-8cb3-9de6e99cfc7d",
     "collection_lsid": "http://grbio.org/cool/brtj-zfcn",
