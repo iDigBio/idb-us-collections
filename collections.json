@@ -33893,10 +33893,10 @@
 {
     "institution": "University of Oklahoma, Sam Noble Oklahoma State Museum of Natural History",
     "collection": "Vertebrate Paleontology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "84c24d87-e4ad-4165-8e86-5ae1a249c196",
+    "recordsetQuery": "{\"recordset\":\"84c24d87-e4ad-4165-8e86-5ae1a249c196\"}",
     "institution_code": "OMNH",
-    "collection_code": "OMNH",
+    "collection_code": "VP",
     "collection_uuid": "urn:uuid:b9c9116b-df1d-4067-938c-b3c931f3a633",
     "collection_lsid": "NA",
     "collection_url": "http://www.snomnh.ou.edu/collections-research/vertpaleo.htm",
