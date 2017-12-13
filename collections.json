@@ -132,8 +132,8 @@
   }
 ,
 {
-    "institution": "Dickinson State University Herbarium",
-    "collection": "",
+    "institution": "Dickinson State University",
+    "collection": "Herbarium",
     "recordsets": "6226705f-4867-464d-9fab-4e81ecee731f",
     "recordsetQuery": "{\"recordset\":\"6226705f-4867-464d-9fab-4e81ecee731f\"}",
     "institution_code": "DSUND",
