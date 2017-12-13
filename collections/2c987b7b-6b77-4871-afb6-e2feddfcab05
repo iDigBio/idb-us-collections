@@ -1,9 +1,9 @@
 {
   "institution": "Museum of Cultural and Natural History",
-  "collection": “Amphibians”,
+  "collection": "Amphibians",
   "recordsets": "a2845484-4243-44a3-8cd3-0a4866513ffc",
   "recordsetQuery": "{\"recordset\":\"a2845484-4243-44a3-8cd3-0a4866513ffc\"}",
-  "institution_code": “MCNH”,
+  "institution_code": "MCNH",
   "collection_code": "Amphibians",
   "collection_uuid": "urn:uuid:2c987b7b-6b77-4871-afb6-e2feddfcab05",
   "collection_lsid": "",

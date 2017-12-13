@@ -1,10 +1,10 @@
 {
   "institution": "Museum of Cultural and Natural History",
-  "collection": “Fish”,
+  "collection": "Fish",
   "recordsets": "b8e6077e-ae92-481f-a018-ed18bcefb62d",
   "recordsetQuery": "{\"recordset\":\"b8e6077e-ae92-481f-a018-ed18bcefb62d\"}",
-  "institution_code": “MCNH”,
-  "collection_code": “Fish”,
+  "institution_code": "MCNH",
+  "collection_code": "Fish",
   "collection_uuid": "urn:uuid:76042766-9a70-43e6-ba3b-014fcf72c6a6",
   "collection_lsid": "",
   "collection_url": "",
