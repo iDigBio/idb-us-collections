@@ -42372,8 +42372,8 @@
 }
 ,
 {
-    "institution": "Fort Hays State University, Sternberg Museum",
-    "collection": "Elam Bartholomew Herbarium",
+    "institution": "Fort Hays State University, Sternberg Museum, Elam Bartholomew Herbarium",
+    "collection": "Herbarium",
     "recordsets": "2fe53355-8ec5-4d00-ac6f-85d49c2af7a4",
     "recordsetQuery": "{\"recordset\":\"2fe53355-8ec5-4d00-ac6f-85d49c2af7a4\"}",
     "institution_code": "FHKSC<IH>",
