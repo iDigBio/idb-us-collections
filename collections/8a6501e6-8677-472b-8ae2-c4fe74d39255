@@ -1,10 +1,10 @@
 {
     "institution": "Academy of Natural Sciences of Drexel University",
     "collection": "Malacology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "774a153b-e556-47f6-95d1-bab49e61cc58",
+    "recordsetQuery": "{\"recordset\":\"774a153b-e556-47f6-95d1-bab49e61cc58\"}",
     "institution_code": "ANSP",
-    "collection_code": "",
+    "collection_code": "MAL",
     "collection_uuid": "urn:uuid:8a6501e6-8677-472b-8ae2-c4fe74d39255",
     "collection_lsid": "NA",
     "collection_url": "http://www.ansp.org/research/systematics-evolution/collections/malacology/",
