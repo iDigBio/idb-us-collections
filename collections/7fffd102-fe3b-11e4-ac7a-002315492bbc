@@ -1,10 +1,10 @@
 {
     "institution": "University of Illinois, Illinois Natural History Survey",
     "collection": "Bryophytes",
-    "recordsets": "f4214a7a-6793-48e0-ac41-9baff83096d3",
-    "recordsetQuery": "{\"recordset\":\"f4214a7a-6793-48e0-ac41-9baff83096d3\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "ILLS",
-    "collection_code": "ILLS",
+    "collection_code": "",
     "collection_uuid": "urn:uuid:7fffd102-fe3b-11e4-ac7a-002315492bbc",
     "collection_lsid": "http://grbio.org/cool/sf99-4dwm",
     "collection_url": "http://wwx.inhs.illinois.edu/collections/plants",
