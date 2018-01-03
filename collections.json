@@ -27093,7 +27093,7 @@
   }
 ,
 {
-    "institution": "Lake Forest College",
+    "institution": "Lake Forest College, Elizabeth Teter Lunn Herbarium",
     "collection": "Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
@@ -27110,9 +27110,9 @@
     "taxonCoverage": "",
     "geographic_range": "",
     "collectionExtent": "NA",
-    "contact": "",
-    "contact_role": "",
-    "contact_email": "",
+    "contact": "David Levinson",
+    "contact_role": "Systems Librarian",
+    "contact_email": "levinson@lakeforest.edu",
     "mailing_address": "555 North Sheridan Road",
     "mailing_city": "Lake Forest",
     "mailing_state": "Illinois",
