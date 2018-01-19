@@ -19239,8 +19239,8 @@
   }
 ,
 {
-    "institution": "University of Kentucky, Hymenoptera Institute Collection",
-    "collection": "Entomology",
+    "institution": "Hymenoptera Institute Collection",
+    "collection": "University of Kentucky",
     "recordsets": "d315c4a3-0bee-49d1-8d03-726358937cde",
     "recordsetQuery": "{\"recordset\":\"d315c4a3-0bee-49d1-8d03-726358937cde\"}",
     "institution_code": "UKY-HIC",
@@ -19249,7 +19249,7 @@
     "collection_lsid": "NA",
     "collection_url": "http://sharkeylab.org/sharkeylab/",
     "collection_catalog_url": "http://symbiota4.acis.ufl.edu/scan/portal/collections/misc/collprofiles.php?collid=44",
-    "description": "Braconidae, especially Agathidinae world distribution",
+    "description": "Braconidae, especially Agathidinae World",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": "NA",
     "knownToContainTypes": "",
