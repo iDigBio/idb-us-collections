@@ -19239,8 +19239,8 @@
   }
 ,
 {
-    "institution": "Hymenoptera Institute Collection",
-    "collection": "University of Kentucky",
+    "institution": "University of Kentucky, Hymenoptera Institute Collection",
+    "collection": "Entomology",
     "recordsets": "d315c4a3-0bee-49d1-8d03-726358937cde",
     "recordsetQuery": "{\"recordset\":\"d315c4a3-0bee-49d1-8d03-726358937cde\"}",
     "institution_code": "UKY-HIC",
@@ -19249,7 +19249,7 @@
     "collection_lsid": "NA",
     "collection_url": "http://sharkeylab.org/sharkeylab/",
     "collection_catalog_url": "http://symbiota4.acis.ufl.edu/scan/portal/collections/misc/collprofiles.php?collid=44",
-    "description": "Braconidae, especially Agathidinae World",
+    "description": "Braconidae, especially Agathidinae world distribution",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": "NA",
     "knownToContainTypes": "",
@@ -41811,15 +41811,15 @@
   }
 ,
 {
-    "institution": "University of California Santa Cruz, Kenneth F. Norris Center for Natural History",
+    "institution": "University of California Santa Cruz",
     "collection": "Insects",
     "recordsets": "",
     "recordsetQuery": "",
-    "institution_code": "UCSC",
+    "institution_code": "",
     "collection_code": "",
     "collection_uuid": "urn:uuid:e57b9b75-7677-4175-82e8-16acd0e97257",
     "collection_lsid": "NA",
-    "collection_url": "https://norriscenter.ucsc.edu/natural-history-resources/natural-history-links/entomology-links.html",
+    "collection_url": "http://mnhc.ucsc.edu/coll_res/collections/insects.shtml",
     "collection_catalog_url": "",
     "description": "",
     "descriptionForSpecialists": "",
