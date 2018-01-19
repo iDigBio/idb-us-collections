@@ -1,5 +1,5 @@
 {
-    "institution": "University of Hawaii at Manoa",
+    "institution": "University of Hawaii at Manoa, Insect Museum",
     "collection": "Insect",
     "recordsets": "cf42855e-a54a-4488-a79e-beac086ba1d4",
     "recordsetQuery": "{\"recordset\":\"cf42855e-a54a-4488-a79e-beac086ba1d4\"}",
@@ -7,8 +7,8 @@
     "collection_code": "",
     "collection_uuid": "urn:uuid:61c0a894-dcbf-11e4-ae1c-002315492bbc",
     "collection_lsid": "",
-    "collection_url": "",
-    "collection_catalog_url": "",
+    "collection_url": "https://www.ctahr.hawaii.edu/insectmuseum/",
+    "collection_catalog_url": "https://www.ctahr.hawaii.edu/insectmuseum/insectholdings.htm",
     "description": "",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": "NA",
