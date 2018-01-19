@@ -11097,7 +11097,7 @@
     "collection_uuid": "urn:uuid:3a782842-fe3a-11e4-ac7a-002315492bbc",
     "collection_lsid": "http://grbio.org/cool/vnsv-68mw",
     "collection_url": "",
-    "collection_catalog_url": "http://symbiota4.acis.ufl.edu/scan/portal/collections/misc/collprofiles.php?collid=57",
+    "collection_catalog_url": "",
     "description": "",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": "NA",
@@ -19569,7 +19569,7 @@
   }
 ,
 {
-    "institution": "Tall Timbers Research Station",
+    "institution": "Tall Timbers Research Station & Land Conservancy",
     "collection": "Mammals",
     "recordsets": "d9d38b3f-5173-4051-98a6-2efad16fc8da",
     "recordsetQuery": "{\"recordset\":\"d9d38b3f-5173-4051-98a6-2efad16fc8da\"}",
@@ -28314,7 +28314,7 @@
   }
 ,
 {
-    "institution": "Tall Timbers Research Station",
+    "institution": "Tall Timbers Research Station & Land Conservancy",
     "collection": "Ornithology",
     "recordsets": "2b03a9d6-3575-43ea-8f43-38cbe0ee72e6",
     "recordsetQuery": "{\"recordset\":\"2b03a9d6-3575-43ea-8f43-38cbe0ee72e6\"}",
