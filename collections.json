@@ -9207,8 +9207,8 @@
   }
 ,
 {
-    "institution": "Tall Timbers Research Station",
-    "collection": "Robert K. Godfrey Herbarium",
+    "institution": "Tall Timbers Research Station & Land Conservancy, Robert K. Godfrey Herbarium",
+    "collection": "Herbarium",
     "recordsets": "06c35934-1b75-4196-838d-29d509951bf9",
     "recordsetQuery": "{\"recordset\":\"06c35934-1b75-4196-838d-29d509951bf9\"}",
     "institution_code": "TTRS",
@@ -11097,7 +11097,7 @@
     "collection_uuid": "urn:uuid:3a782842-fe3a-11e4-ac7a-002315492bbc",
     "collection_lsid": "http://grbio.org/cool/vnsv-68mw",
     "collection_url": "",
-    "collection_catalog_url": "http://symbiota4.acis.ufl.edu/scan/portal/collections/misc/collprofiles.php?collid=57",
+    "collection_catalog_url": "",
     "description": "",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": "NA",
@@ -32010,7 +32010,7 @@
   }
 ,
 {
-    "institution": "Tall Timbers Research Station & Land Conservancy",
+    "institution": "Tall Timbers Research Station",
     "collection": "Archaeology-Paleontology",
     "recordsets": "",
     "recordsetQuery": "",
