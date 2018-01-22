@@ -44067,8 +44067,8 @@
     "collection_catalog_url": "http://nhnm.unm.edu/data/free_info.php",
     "description": "",
     "descriptionForSpecialists": "",
-    "cataloguedSpecimens": "NA",
-    "knownToContainTypes": "",
+    "cataloguedSpecimens": null,
+    "knownToContainTypes": null,
     "taxonCoverage": "",
     "geographic_range": "",
     "collectionExtent": "NA",
@@ -44083,8 +44083,8 @@
     "physical_city": "Albuquerque",
     "physical_state": "New Mexico",
     "physical_zip": "87131-0001",
-    "lat": 35.1976,
-    "lon": -106.7502
+    "lat": 35.0832,
+    "lon": -106.6218
   }
 ,
 {
