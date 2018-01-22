@@ -12,7 +12,7 @@
     "description": ">1650 species of all Orders, but primarily rodents, bats, soricomorphs, lagomorphs, and carnivores. Western North America, Latin America, Beringia, and Asia.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 272000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": ">1650 species of all Orders, but primarily rodents, bats, soricomorphs, lagomorphs, and carnivores.",
     "geographic_range": "Western North America, Latin America, Beringia, and Asia.",
     "collectionExtent": "272000",
@@ -27,6 +27,6 @@
     "physical_city": "Albuquerque",
     "physical_state": "New Mexico",
     "physical_zip": "87131-0001",
-    "lat": 35.1976,
-    "lon": -106.7502
+    "lat": 35.0832,
+    "lon": -106.6218
   }
