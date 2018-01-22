@@ -17964,8 +17964,8 @@
     "collection_catalog_url": "http://arctos.database.museum/SpecimenSearch.cfm",
     "description": "Mammals with more than 1500 species represented by multiple tissues for >160,000 individuals. Birds with representation primarily from western North America, Andean South America and Australia. Amphibians, Reptiles and Fishes primarily southwestern North America species. Worldwide with strengths in western North America, Latin America, Beringia, and Asia.",
     "descriptionForSpecialists": "",
-    "cataloguedSpecimens": "NA",
-    "knownToContainTypes": "",
+    "cataloguedSpecimens": null,
+    "knownToContainTypes": null,
     "taxonCoverage": "Mammals with more than 1500 species represented by multiple tissues for >160,000 individuals. Birds with representation primarily from western North America, Andean South America and Australia. Amphibians, Reptiles and Fishes primarily southwestern North America species.",
     "geographic_range": "Worldwide with strengths in western North America, Latin America, Beringia, and Asia.",
     "collectionExtent": "NA",
@@ -17980,8 +17980,8 @@
     "physical_city": "Albuquerque",
     "physical_state": "New Mexico",
     "physical_zip": "87131-0001",
-    "lat": 35.1976,
-    "lon": -106.7502
+    "lat": 35.0832,
+    "lon": -106.6218
   }
 ,
 {
