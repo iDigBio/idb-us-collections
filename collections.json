@@ -805,7 +805,7 @@
     "description": "The UNM Herbarium has particularly large holdings of Asteraceae and Cactaceae. American Southwest with emphasis on New Mexico.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 130000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "The UNM Herbarium has particularly large holdings of Asteraceae and Cactaceae.",
     "geographic_range": "American Southwest with emphasis on New Mexico.",
     "collectionExtent": "130000",
@@ -820,8 +820,8 @@
     "physical_city": "Albuquerque",
     "physical_state": "New Mexico",
     "physical_zip": "87131-0001",
-    "lat": 35.1976,
-    "lon": -106.7502
+	"lat": 35.0832,
+	"lon": -106.6218
   }
 ,
 {
