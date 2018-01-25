@@ -33924,8 +33924,8 @@
   }
 ,
 {
-    "institution": "Florida State Collection of Arthropods",
-    "collection": "The Museum of Entomology",
+    "institution": "Florida State Collection of Arthropods, The Museum of Entomology",
+    "collection": "Entomology",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "FSCA",
@@ -37257,8 +37257,8 @@
   }
 ,
 {
-    "institution": "Cornell University",
-    "collection": "Insects",
+    "institution": "Cornell University, Cornell University Insect Collection",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "CUIC",
