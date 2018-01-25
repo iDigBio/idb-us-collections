@@ -1,8 +1,8 @@
 {
     "institution": "University of Alaska Museum",
     "collection": "Herpetology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "061dfaff-0c45-459e-ac56-738fe4cbe213",
+    "recordsetQuery": "{\"recordset\":\"061dfaff-0c45-459e-ac56-738fe4cbe213\"}",
     "institution_code": "UAM",
     "collection_code": "",
     "collection_uuid": "urn:uuid:03588c24-fe50-11e4-ac7a-002315492bbc",
