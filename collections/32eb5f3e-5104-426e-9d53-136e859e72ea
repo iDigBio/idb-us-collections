@@ -27,6 +27,13 @@
     "physical_city": "Portal",
     "physical_state": "Arizona",
     "physical_zip": "85632",
-    "lat": 31.8839759,
-    "lon": -109.2060525
-}
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 31.884,
+    "lon": -109.2061
+  }

@@ -12,7 +12,7 @@
     "description": "Vascular Plants - Cyperaceae, Juncaceae, Lamiaceae, Orobanchaceae; Fungi - Cortinarius, Inocybe Primary geographic focus is Pacific Northwest (Alaska, Yukon Territory, British Columbia, Washington, Oregon, Idaho, Montana). Secondary geographic focus is remaining areas of western North America and Russian Far East.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 650000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Vascular Plants - Cyperaceae, Juncaceae, Lamiaceae, Orobanchaceae; Fungi - Cortinarius, Inocybe",
     "geographic_range": "Primary geographic focus is Pacific Northwest (Alaska, Yukon Territory, British Columbia, Washington, Oregon, Idaho, Montana). Secondary geographic focus is remaining areas of western North America and Russian Far East.",
     "collectionExtent": "650000",
@@ -27,6 +27,13 @@
     "physical_city": "Seattle",
     "physical_state": "Washington",
     "physical_zip": "98195-3010",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 47.6649,
     "lon": -122.3131
   }

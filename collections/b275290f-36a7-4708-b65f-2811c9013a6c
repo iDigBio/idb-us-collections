@@ -27,6 +27,13 @@
     "physical_city": "Reedley",
     "physical_state": "California",
     "physical_zip": "93654",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 36.693,
     "lon": -120.0382
   }

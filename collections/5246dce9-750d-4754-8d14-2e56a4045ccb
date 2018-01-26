@@ -15,7 +15,7 @@
     "knownToContainTypes": null,
     "taxonCoverage": "",
     "geographic_range": "",
-    "collectionExtent": "NA",
+    "collectionExtent": "",
     "contact": "Kyle Piller",
     "contact_role": "Curator of Vertebrates",
     "contact_email": "kyle.piller@southeastern.edu",
@@ -27,6 +27,13 @@
     "physical_city": "Hammond",
     "physical_state": "Louisiana",
     "physical_zip": "70402",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 30.5162,
     "lon": -90.4701
-}
+  }

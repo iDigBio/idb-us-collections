@@ -12,7 +12,7 @@
     "description": "Coleoptera (general) - North America; Coleoptera (Curculionidae-Scolytinae) - World; Lepidoptera - Michigan, North America, South America, India; Hymenoptera - Great Lakes Region; Collembola - North America Michigan, Great Lakes Region (well covered), North America (mostly eastern U.S.), World (some holdings from Mexico, Central America, South America, India and others)",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 1500000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Coleoptera (general) - North America; Coleoptera (Curculionidae-Scolytinae) - World; Lepidoptera - Michigan, North America, South America, India; Hymenoptera - Great Lakes Region; Collembola - North America",
     "geographic_range": "Michigan, Great Lakes Region (well covered), North America (mostly eastern U.S.), World (some holdings from Mexico, Central America, South America, India and others)",
     "collectionExtent": "1500000",
@@ -27,6 +27,13 @@
     "physical_city": "East Lansing",
     "physical_state": "Michigan",
     "physical_zip": "48824-5634",
+    "UniqueNameUUID": "urn:uuid:d0e33f75-e7b5-46e2-a80b-3d087fd452d9",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 42.6451,
     "lon": -84.0432
   }

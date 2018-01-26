@@ -27,6 +27,13 @@
     "physical_city": "El Dorado Hills",
     "physical_state": "California",
     "physical_zip": "95762",
+    "UniqueNameUUID": "urn:uuid:103dc587-6e30-4b56-a680-ddd01f760b60",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 38.6204,
     "lon": -121.0608
   }

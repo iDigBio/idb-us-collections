@@ -16,7 +16,7 @@
     "taxonCoverage": "",
     "geographic_range": "",
     "collectionExtent": "",
-    "contact": "Rosa A. Franqui ",
+    "contact": "Rosa A. Franqui",
     "contact_role": "",
     "contact_email": "rosa.franqui@upr.edu",
     "mailing_address": "",
@@ -27,6 +27,13 @@
     "physical_city": "San Juan",
     "physical_state": "Puerto Rico",
     "physical_zip": "",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 18.3896,
     "lon": -66.0561
   }

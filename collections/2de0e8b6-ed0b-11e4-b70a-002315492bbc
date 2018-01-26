@@ -12,7 +12,7 @@
     "description": "North American and tropical worldwide Worldwide",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 6500000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "North American and tropical worldwide",
     "geographic_range": "Worldwide",
     "collectionExtent": "6500000",
@@ -27,6 +27,13 @@
     "physical_city": "Saint Louis",
     "physical_state": "Missouri",
     "physical_zip": "63110",
+    "UniqueNameUUID": "urn:uuid:c203364b-cd39-4435-996d-94ff2e93edc1",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 38.611,
     "lon": -90.2627
   }

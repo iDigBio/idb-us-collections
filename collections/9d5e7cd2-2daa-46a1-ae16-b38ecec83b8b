@@ -12,7 +12,7 @@
     "description": "Opisthobranchia, Octocorallia, Cirripedia, Echinoidea Eastern North America, Papua New Guinea, the Philippines, Central Pacific, Antarctica",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 150000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Opisthobranchia, Octocorallia, Cirripedia, Echinoidea",
     "geographic_range": "Eastern North America, Papua New Guinea, the Philippines, Central Pacific, Antarctica",
     "collectionExtent": "150000",
@@ -27,6 +27,13 @@
     "physical_city": "San Francisco",
     "physical_state": "California",
     "physical_zip": "94118",
+    "UniqueNameUUID": "urn:uuid:702bbb12-b872-4bdf-b862-c3e9a55c42cb",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 37.7848,
     "lon": -122.464
   }

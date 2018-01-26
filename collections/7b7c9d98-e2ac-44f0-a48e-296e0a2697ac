@@ -12,7 +12,7 @@
     "description": "Strength is tracheophytes, especially those of freshwater habitats. Minor coverage of bryophytes, algae, fungi. Primarily continental U. S., Canada, Greenland.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 49000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Strength is tracheophytes, especially those of freshwater habitats. Minor coverage of bryophytes, algae, fungi.",
     "geographic_range": "Primarily continental U. S., Canada, Greenland.",
     "collectionExtent": "49000",
@@ -27,6 +27,13 @@
     "physical_city": "Duluth",
     "physical_state": "Minnesota",
     "physical_zip": "55812-3009",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 46.8149,
     "lon": -92.0861
   }

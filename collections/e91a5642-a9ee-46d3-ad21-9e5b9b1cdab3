@@ -1,5 +1,5 @@
 {
-    "institution": "Oregon Department of Agriculture ",
+    "institution": "Oregon Department of Agriculture",
     "collection": "Entomology",
     "recordsets": "",
     "recordsetQuery": "",
@@ -27,6 +27,13 @@
     "physical_city": "Salem",
     "physical_state": "Oregon",
     "physical_zip": "97301",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 44.9438,
     "lon": -123.0288
   }

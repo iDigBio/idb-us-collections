@@ -12,7 +12,7 @@
     "description": "Scrophulariaceae, Polemoniaceae, Pandanaceae, Rutaceae, Cyperacea North America",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 1450840,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Scrophulariaceae, Polemoniaceae, Pandanaceae, Rutaceae, Cyperacea",
     "geographic_range": "North America",
     "collectionExtent": "1450840",
@@ -27,6 +27,13 @@
     "physical_city": "Philadelphia",
     "physical_state": "Pennsylvania",
     "physical_zip": "19103",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 39.958,
     "lon": -75.1714
   }

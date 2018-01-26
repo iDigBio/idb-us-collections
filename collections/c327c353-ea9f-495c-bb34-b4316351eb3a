@@ -12,7 +12,7 @@
     "description": "Flora of Crater Lake National Park. Dates of collection span 1928 to present, with majority collected 1930s to 1950s. Crater Lake National Park and vicinity",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 4500,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Flora of Crater Lake National Park. Dates of collection span 1928 to present, with majority collected 1930s to 1950s.",
     "geographic_range": "Crater Lake National Park and vicinity",
     "collectionExtent": "4500",
@@ -27,6 +27,13 @@
     "physical_city": "Crater Lake",
     "physical_state": "Oregon",
     "physical_zip": "97604-0007",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 42.5625,
     "lon": -121.91
   }

@@ -12,7 +12,7 @@
     "description": "The collection represents a broad taxonomic cross-section, with emphasis on endangered, rare, unusual, and ecologically critical marine organisms. Global marine coverage",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 22500,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "The collection represents a broad taxonomic cross-section, with emphasis on endangered, rare, unusual, and ecologically critical marine organisms.",
     "geographic_range": "Global marine coverage",
     "collectionExtent": "22500",
@@ -27,6 +27,13 @@
     "physical_city": "Nahant",
     "physical_state": "Massachussetts",
     "physical_zip": "01908-1638",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 42.4186,
     "lon": -70.9062
   }

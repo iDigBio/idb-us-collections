@@ -12,7 +12,7 @@
     "description": "Global Marchantiophyta & Bryophyta; North American Monilophyta; North American Spermatophyta, but particularly strong in northeastern North America and western United States",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 360000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Global Marchantiophyta & Bryophyta; North American Monilophyta; North American Spermatophyta, but particularly strong in northeastern North America and western United States",
     "geographic_range": "Global",
     "collectionExtent": "360,000",
@@ -27,6 +27,13 @@
     "physical_city": "New Haven",
     "physical_state": "Connecticut",
     "physical_zip": "06511-0000",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 41.3167,
     "lon": -72.9204
   }

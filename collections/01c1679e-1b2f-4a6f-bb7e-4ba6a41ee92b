@@ -1,5 +1,5 @@
 {
-    "institution": "U.S. National Park Service at the George Washington Memorial Parkway Headquarters ",
+    "institution": "U.S. National Park Service at the George Washington Memorial Parkway Headquarters",
     "collection": "Entomology",
     "recordsets": "",
     "recordsetQuery": "",
@@ -27,6 +27,13 @@
     "physical_city": "McLean",
     "physical_state": "Virginia",
     "physical_zip": "22101",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 38.9635,
     "lon": -77.1542
   }

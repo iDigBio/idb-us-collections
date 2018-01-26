@@ -12,7 +12,7 @@
     "description": "Coleoptera: Staphylinidae, Ptiliidae; Silphidae, Histeridae, Dryopoidea; Lepidoptera; Vertebrate Ectoparasites; Formicidae; Arachnida; Myriapoda. Worldwide",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 4100000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Coleoptera: Staphylinidae, Ptiliidae; Silphidae, Histeridae, Dryopoidea; Lepidoptera; Vertebrate Ectoparasites; Formicidae; Arachnida; Myriapoda.",
     "geographic_range": "Worldwide",
     "collectionExtent": "4100000",
@@ -27,6 +27,13 @@
     "physical_city": "Chicago",
     "physical_state": "Illinois",
     "physical_zip": "60605-2496",
+    "UniqueNameUUID": "urn:uuid:ea4f0640-ef20-40aa-b359-166f07c7492a",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 41.8691,
     "lon": -87.6176
   }

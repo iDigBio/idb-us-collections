@@ -12,7 +12,7 @@
     "description": "South Carolina RTE species; Stachys (Lamiaceae); Henry W. Ravenel Collection of Converse College South Carolina; North America; Europe; Iran; Vietnam",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 125000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "South Carolina RTE species; Stachys (Lamiaceae); Henry W. Ravenel Collection of Converse College",
     "geographic_range": "South Carolina; North America; Europe; Iran; Vietnam",
     "collectionExtent": "125000",
@@ -27,6 +27,13 @@
     "physical_city": "Columbia",
     "physical_state": "South Carolina",
     "physical_zip": "29208",
+    "UniqueNameUUID": "urn:uuid:deaf023d-d858-47ad-8012-7e87b43ebbd4",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 33.9976,
     "lon": -81.0301
   }

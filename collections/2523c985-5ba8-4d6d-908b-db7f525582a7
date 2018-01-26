@@ -27,6 +27,13 @@
     "physical_city": "Staten Island",
     "physical_state": "New York",
     "physical_zip": "10301-1998",
+    "UniqueNameUUID": "urn:uuid:8d3ca827-8fa0-4537-ba0b-5c83ad3f9774",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 40.6275,
     "lon": -74.0944
   }

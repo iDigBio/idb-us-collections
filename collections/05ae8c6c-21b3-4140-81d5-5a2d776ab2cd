@@ -12,7 +12,7 @@
     "description": "Apiaceae; Bromeliaceae; Cyperaceae; Liliaceae; Scrophulariaceae; Asteraceae Vascular plants and bryophytes of Pacific Northwest",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 365000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Apiaceae; Bromeliaceae; Cyperaceae; Liliaceae; Scrophulariaceae; Asteraceae",
     "geographic_range": "Vascular plants and bryophytes of Pacific Northwest",
     "collectionExtent": "365000",
@@ -27,6 +27,13 @@
     "physical_city": "Pullman",
     "physical_state": "Washington",
     "physical_zip": "99164-4236",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 46.7275,
     "lon": -117.1763
   }

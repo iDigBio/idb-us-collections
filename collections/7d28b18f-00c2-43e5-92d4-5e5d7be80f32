@@ -12,7 +12,7 @@
     "description": "Collection covers worldwide Lepidoptera fauna and represent well all regions and families. For many genera, for which comparable collections were compared, such as Natural History Museum of London (British Museum) and Smithsonian, MGCL  has the most complete holdings in the world.  While historically MGCL had stronger holdings for the New World Lepidoptera, in the last ten years it acquired many Palearctic collections that makes it one of the best for Palearctic butterflies and for some of the moth groups. Another strength of the collection that it has many recent specimens that are good source of DNA for barcoding and other work. World wide collection especially North and South America and Eurasia with 97% genera in butterflies represented.  We do have an excellent African collection in butterflies.  In moths excellent Sphingidae, Saturniidae, Castniidae, and North American and Central American Pyralioidea.  Excellent Catocala collection.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 8,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Collection covers worldwide Lepidoptera fauna and represent well all regions and families. For many genera, for which comparable collections were compared, such as Natural History Museum of London (British Museum) and Smithsonian, MGCL  has the most complete holdings in the world.  While historically MGCL had stronger holdings for the New World Lepidoptera, in the last ten years it acquired many Palearctic collections that makes it one of the best for Palearctic butterflies and for some of the moth groups. Another strength of the collection that it has many recent specimens that are good source of DNA for barcoding and other work.",
     "geographic_range": "World wide collection especially North and South America and Eurasia with 97% genera in butterflies represented.  We do have an excellent African collection in butterflies.  In moths excellent Sphingidae, Saturniidae, Castniidae, and North American and Central American Pyralioidea.  Excellent Catocala collection.",
     "collectionExtent": "8 million plus",
@@ -27,6 +27,13 @@
     "physical_city": "Gainesville",
     "physical_state": "Florida",
     "physical_zip": "32611-2710",
+    "UniqueNameUUID": "urn:uuid:7d736005-0375-4b30-8724-555fa4ed1b46",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 29.6377,
     "lon": -82.3706
   }

@@ -1,5 +1,5 @@
 {
-    "institution": "Pennsylvania Department of Agriculture ",
+    "institution": "Pennsylvania Department of Agriculture",
     "collection": "Entomology",
     "recordsets": "",
     "recordsetQuery": "",
@@ -27,6 +27,13 @@
     "physical_city": "Harrisburg",
     "physical_state": "Pennsylvania",
     "physical_zip": "17110",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 40.2869,
     "lon": -76.8874
   }

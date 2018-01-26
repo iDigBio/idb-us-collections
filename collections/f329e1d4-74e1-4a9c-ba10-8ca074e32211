@@ -27,6 +27,13 @@
     "physical_city": "Stamford",
     "physical_state": "Connecticut",
     "physical_zip": "06903",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 41.1261,
     "lon": -73.5455
   }

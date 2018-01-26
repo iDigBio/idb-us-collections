@@ -12,7 +12,7 @@
     "description": "Intermountain Juncaceae, Cyperaceae, and Great Basin forbs Central and southern Idaho",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 8807,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Intermountain Juncaceae, Cyperaceae, and Great Basin forbs",
     "geographic_range": "Central and southern Idaho",
     "collectionExtent": "8807",
@@ -27,6 +27,13 @@
     "physical_city": "Boise",
     "physical_state": "Idaho",
     "physical_zip": "83702",
+    "UniqueNameUUID": "urn:uuid:23366d12-85a5-42b7-8133-0054d246db91",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 43.6088,
     "lon": -116.1962
   }

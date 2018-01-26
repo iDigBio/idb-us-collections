@@ -27,6 +27,13 @@
     "physical_city": "Salt Lake City",
     "physical_state": "Utah",
     "physical_zip": "84108-1214",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 40.7615,
     "lon": -111.8266
-}
+  }

@@ -12,7 +12,7 @@
     "description": "Strong regional holdings and synoptic representation Worldwide",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 55000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Strong regional holdings and synoptic representation",
     "geographic_range": "Worldwide",
     "collectionExtent": "55000",
@@ -27,6 +27,13 @@
     "physical_city": "Ithaca",
     "physical_state": "New York",
     "physical_zip": "14850-1923",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 42.4793,
     "lon": -76.4505
   }

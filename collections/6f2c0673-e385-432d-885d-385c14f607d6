@@ -12,7 +12,7 @@
     "description": "Pontederiaceae, Euphorbiaceae, Cyperaceae Mostly of southeastern North America",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 21000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Pontederiaceae, Euphorbiaceae, Cyperaceae",
     "geographic_range": "Mostly of southeastern North America",
     "collectionExtent": "21000",
@@ -27,6 +27,13 @@
     "physical_city": "Newberry",
     "physical_state": "South Carolina",
     "physical_zip": "29108",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 34.2837,
     "lon": -81.6228
   }

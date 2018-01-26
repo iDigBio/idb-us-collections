@@ -12,7 +12,7 @@
     "description": "Aquatic and wetland plants Mostly southeastern United States of America",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 25000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Aquatic and wetland plants",
     "geographic_range": "Mostly southeastern United States of America",
     "collectionExtent": "25000",
@@ -27,6 +27,13 @@
     "physical_city": "Hattiesburg",
     "physical_state": "Mississippi",
     "physical_zip": "39406",
+    "UniqueNameUUID": "urn:uuid:a6648f6c-7cf8-4d9f-9f9a-e4449569d7d6",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 31.3282,
     "lon": -89.3307
   }

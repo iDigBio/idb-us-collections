@@ -27,6 +27,13 @@
     "physical_city": "Santa Fe",
     "physical_state": "New Mexico",
     "physical_zip": "87505",
-    "lat": 35.6617249,
-    "lon": -105.9286379
-}
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 35.6617,
+    "lon": -105.9286
+  }

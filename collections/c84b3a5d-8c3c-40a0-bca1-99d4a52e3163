@@ -27,6 +27,13 @@
     "physical_city": "Caliente",
     "physical_state": "Nevada",
     "physical_zip": "89008",
-    "lat": 37.6112678,
-    "lon": -114.5296747
-}
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 37.6113,
+    "lon": -114.5297
+  }

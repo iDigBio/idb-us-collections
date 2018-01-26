@@ -12,7 +12,7 @@
     "description": "Acanthaceae, Brassicaceae, Carex, Eriogonum, Hydrophyllaceae, Lupinus, Madinae, Malvaceae, Melastomataceae, Onagraceae, Penstemon, Poaceae, Polemoniaceae, Quercus North and Latin America, Galapagos Islands",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 2000000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Acanthaceae, Brassicaceae, Carex, Eriogonum, Hydrophyllaceae, Lupinus, Madinae, Malvaceae, Melastomataceae, Onagraceae, Penstemon, Poaceae, Polemoniaceae, Quercus",
     "geographic_range": "North and Latin America, Galapagos Islands",
     "collectionExtent": "2000000",
@@ -27,6 +27,13 @@
     "physical_city": "San Francisco",
     "physical_state": "California",
     "physical_zip": "94118",
+    "UniqueNameUUID": "urn:uuid:702bbb12-b872-4bdf-b862-c3e9a55c42cb",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 37.7848,
     "lon": -122.464
   }

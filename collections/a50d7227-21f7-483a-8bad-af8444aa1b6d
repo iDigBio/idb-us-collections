@@ -27,6 +27,13 @@
     "physical_city": "Scranton",
     "physical_state": "Pennsylvania",
     "physical_zip": "18510-2390",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 41.4006,
     "lon": -75.6456
   }

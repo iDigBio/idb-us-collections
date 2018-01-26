@@ -12,7 +12,7 @@
     "description": "Plants and micro-algae Worldwide, but greatest coverage in southeastern U.S. (especially Florida), Central America (especially Costa Rica and Panama), and Gulf of Mexico",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 220000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Plants and micro-algae",
     "geographic_range": "Worldwide, but greatest coverage in southeastern U.S. (especially Florida), Central America (especially Costa Rica and Panama), and Gulf of Mexico",
     "collectionExtent": "220000",
@@ -27,6 +27,13 @@
     "physical_city": "Tallahassee",
     "physical_state": "Florida",
     "physical_zip": "32306-4370",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 30.4402,
     "lon": -84.2955
   }

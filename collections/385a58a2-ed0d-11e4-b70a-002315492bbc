@@ -12,7 +12,7 @@
     "description": "Main strengths are aquatic insects, especially caddisflies (Trichoptera) Primarily covers the southeastern United States, but has reasonable representation from other areas of North America. There is less, but some material from the Neotropical and Palearctic regions.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 1000000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Main strengths are aquatic insects, especially caddisflies (Trichoptera)",
     "geographic_range": "Primarily covers the southeastern United States, but has reasonable representation from other areas of North America. There is less, but some material from the Neotropical and Palearctic regions.",
     "collectionExtent": "1000000",
@@ -27,6 +27,13 @@
     "physical_city": "Clemson",
     "physical_state": "South Carolina",
     "physical_zip": "29634",
+    "UniqueNameUUID": "urn:uuid:8b572ce2-3fa6-4c9f-86b7-bf4bdf6364ae",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 34.8101,
     "lon": -82.3875
   }

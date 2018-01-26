@@ -27,6 +27,13 @@
     "physical_city": "88061",
     "physical_state": "New Mexico",
     "physical_zip": "88061",
-    "lat": 32.7902232,
-    "lon": -108.2458091
-}
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 32.7902,
+    "lon": -108.2458
+  }

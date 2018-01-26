@@ -27,6 +27,13 @@
     "physical_city": "Harrisonburg",
     "physical_state": "Virginia",
     "physical_zip": "22807",
+    "UniqueNameUUID": "urn:uuid:3e743715-8b9e-4deb-a0ed-ff30a7c7b7f5",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 38.4409,
     "lon": -78.8742
   }

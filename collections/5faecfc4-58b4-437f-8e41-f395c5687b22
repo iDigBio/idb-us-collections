@@ -12,7 +12,7 @@
     "description": "Plants of Yavapai County Mogollon Highlands of Arizona and New Mexico and surrounding ecoregions",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 9000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Plants of Yavapai County",
     "geographic_range": "Mogollon Highlands of Arizona and New Mexico and surrounding ecoregions",
     "collectionExtent": "9000",
@@ -27,6 +27,13 @@
     "physical_city": "Prescott",
     "physical_state": "Arizona",
     "physical_zip": "86301",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 34.5444,
     "lon": -112.4764
   }

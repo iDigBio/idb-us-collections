@@ -12,7 +12,7 @@
     "description": "All taxa of plants, fungi, lichens, algae, bryophytes Worldwide",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 675000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "All taxa of plants, fungi, lichens, algae, bryophytes",
     "geographic_range": "Worldwide",
     "collectionExtent": "675000",
@@ -27,6 +27,13 @@
     "physical_city": "Oxford",
     "physical_state": "Ohio",
     "physical_zip": "45056-1879",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 39.5062,
     "lon": -84.7536
   }

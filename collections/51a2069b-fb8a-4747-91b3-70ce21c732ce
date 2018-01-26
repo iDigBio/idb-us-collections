@@ -12,7 +12,7 @@
     "description": "Coleoptera, especially Carabidae Arkansas and other south central states, with a lot of material (especially Coleoptera) from Panama.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 750000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Coleoptera, especially Carabidae",
     "geographic_range": "Arkansas and other south central states, with a lot of material (especially Coleoptera) from Panama.",
     "collectionExtent": "750000",
@@ -27,6 +27,13 @@
     "physical_city": "Fayetteville",
     "physical_state": "Arkansas",
     "physical_zip": "72701",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 35.9746,
     "lon": -94.191
   }

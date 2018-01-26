@@ -27,6 +27,13 @@
     "physical_city": "Santa Barbara",
     "physical_state": "California",
     "physical_zip": "93105",
+    "UniqueNameUUID": "urn:uuid:55f075d8-8f18-4bdc-a710-f26bfbdb6ebd",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 34.4409,
     "lon": -119.7167
   }

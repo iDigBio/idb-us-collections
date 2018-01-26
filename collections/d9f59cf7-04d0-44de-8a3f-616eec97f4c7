@@ -27,6 +27,13 @@
     "physical_city": "El Paso",
     "physical_state": "Texas",
     "physical_zip": "79968",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 31.77,
     "lon": -106.5054
-}
+  }

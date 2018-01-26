@@ -12,7 +12,7 @@
     "description": "",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 40000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "",
     "geographic_range": "",
     "collectionExtent": "40,000",
@@ -27,6 +27,13 @@
     "physical_city": "Huntington",
     "physical_state": "West Virginia",
     "physical_zip": "25755",
+    "UniqueNameUUID": "urn:uuid:c14ca67d-255e-4b69-8ba2-88f6090f1b6b",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 38.4234,
     "lon": -82.432
   }

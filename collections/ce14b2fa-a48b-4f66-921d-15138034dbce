@@ -12,7 +12,7 @@
     "description": "Many historic specimens dating from the 1860's and later; herbarium includes specimens from more recent taxonomic studies of the Finger Lakes region of NYS; collection also includes many specimens acquired through herbarium exchanges from a wide range of locations (collection of Warren Matthews). Includes thousands of specimens collected by Milton Baxter throughout his long life.Grasses and sedges are a strong component of the collection. Very strong representation of specimens from western NY; also contains specimens from other parts of the US, as well as specimens from Central America, Arctic regions,and Russia",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 60000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Many historic specimens dating from the 1860's and later; herbarium includes specimens from more recent taxonomic studies of the Finger Lakes region of NYS; collection also includes many specimens acquired through herbarium exchanges from a wide range of locations (collection of Warren Matthews). Includes thousands of specimens collected by Milton Baxter throughout his long life.Grasses and sedges are a strong component of the collection.",
     "geographic_range": "Very strong representation of specimens from western NY; also contains specimens from other parts of the US, as well as specimens from Central America, Arctic regions,and Russia",
     "collectionExtent": "60000",
@@ -27,6 +27,13 @@
     "physical_city": "Rochester",
     "physical_state": "New York",
     "physical_zip": "14692-0642",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 43.2517,
     "lon": -77.6016
   }

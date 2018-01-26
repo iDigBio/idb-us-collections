@@ -27,6 +27,13 @@
     "physical_city": "La Jolla",
     "physical_state": "California",
     "physical_zip": "92037",
-    "lat": 32.865312,
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 32.8653,
     "lon": -117.253
   }

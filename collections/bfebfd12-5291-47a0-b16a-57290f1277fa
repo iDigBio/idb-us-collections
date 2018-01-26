@@ -12,7 +12,7 @@
     "description": "Salmanoids Worldwide, with emphasis on Colorado species",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 1963,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Salmanoids",
     "geographic_range": "Worldwide, with emphasis on Colorado species",
     "collectionExtent": "1963",
@@ -27,6 +27,13 @@
     "physical_city": "Boulder",
     "physical_state": "Colorado",
     "physical_zip": "80309-0218",
+    "UniqueNameUUID": "urn:uuid:95b63d9a-13b5-4124-8fb1-54d3ab4be3bc",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 40.0082,
     "lon": -105.2693
   }

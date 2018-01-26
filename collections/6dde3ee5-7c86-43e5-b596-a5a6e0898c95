@@ -12,7 +12,7 @@
     "description": "Particularly well represented groups include Apocynaceae, Begoniaceae, Bromeliaceae, Fabaceae, Orchidaceae, marine algae Worldwide in scope, especially Florida, rest of the continental U.S.A., and the Neotropics",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 285000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Particularly well represented groups include Apocynaceae, Begoniaceae, Bromeliaceae, Fabaceae, Orchidaceae, marine algae",
     "geographic_range": "Worldwide in scope, especially Florida, rest of the continental U.S.A., and the Neotropics",
     "collectionExtent": "285000",
@@ -27,6 +27,13 @@
     "physical_city": "Tampa",
     "physical_state": "Florida",
     "physical_zip": "33620-5150",
+    "UniqueNameUUID": "urn:uuid:32d13f79-8ccb-45f3-b733-d22fe2971025",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 28.0125,
     "lon": -82.4605
   }

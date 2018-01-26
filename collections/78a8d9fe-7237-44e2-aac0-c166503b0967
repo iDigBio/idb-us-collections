@@ -12,7 +12,7 @@
     "description": "Cyperaceae, pteridophytes, bryophytes Primarily southeastern United States with emphasis on Georgia",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 71000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Cyperaceae, pteridophytes, bryophytes",
     "geographic_range": "Primarily southeastern United States with emphasis on Georgia",
     "collectionExtent": "71000",
@@ -27,6 +27,13 @@
     "physical_city": "Valdosta",
     "physical_state": "Georgia",
     "physical_zip": "31698-0015",
+    "UniqueNameUUID": "urn:uuid:baecdfdb-d57a-4e68-ac1a-ddb58bbca26b",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 30.8485,
     "lon": -83.2878
   }

@@ -6,7 +6,7 @@
     "institution_code": "DMNS",
     "collection_code": "ZA",
     "collection_uuid": "urn:uuid:f74f334a-d4a6-47a9-8d21-a1bd32489855",
-    "collection_lsid": "NA",
+    "collection_lsid": "",
     "collection_url": "http://www.dmns.org/science/collections/dmns-zoology-collections/",
     "collection_catalog_url": "http://symbiota4.acis.ufl.edu/scan/portal/index.php",
     "description": "Worldwide in scope though with a focus on the American West, the Arachnology collection at the Denver Museum of Nature & Science comprises over 50,000 specimen lots and is growing every year. The holdings include primary types and paratypes. Holdings are particularly strong in Colorado species and in Solifugae, with 13 primary types and 65 paratypes. The Colorado Spider Survey, initiated at DMNS in 1999, has vastly expanded our knowledge of the Colorado spider fauna. The collection is housed in the Avenir Collections Center - an onsite state-of-the-art museum collections facility.",
@@ -27,6 +27,13 @@
     "physical_city": "Denver",
     "physical_state": "Colorado",
     "physical_zip": "80205",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 39.7583,
     "lon": -104.9406
   }

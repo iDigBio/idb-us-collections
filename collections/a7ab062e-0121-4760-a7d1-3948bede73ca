@@ -27,6 +27,13 @@
     "physical_city": "Durham",
     "physical_state": "New Hampshire",
     "physical_zip": "03824-2617",
+    "UniqueNameUUID": "urn:uuid:e6de03f6-62a6-4c74-82fd-360ad883aa25",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 43.3726,
     "lon": -70.9848
   }

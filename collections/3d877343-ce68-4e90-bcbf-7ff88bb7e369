@@ -12,7 +12,7 @@
     "description": "Vascular plants of Arkansas collected during the course of statewide ecological and biological inventory work conducted by the Arkansas Natural Heritage Program. Aims to provide an Arkansas flora reference collection available to Natural Heritage Commission staff and conservation partners; to house vouchers for rare plant records in the Natural Heritage Program database; to house vouchers from ecologically sensitive or otherwise significant lands; and to house a reference collection of plants from surrounding states that are not presently known from Arkansas but may be found there. Primarily Arkansas, but also compiling a reference collection of rare plants of the Southeastern and Midwestern U.S.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 7100,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Vascular plants of Arkansas collected during the course of statewide ecological and biological inventory work conducted by the Arkansas Natural Heritage Program. Aims to provide an Arkansas flora reference collection available to Natural Heritage Commission staff and conservation partners; to house vouchers for rare plant records in the Natural Heritage Program database; to house vouchers from ecologically sensitive or otherwise significant lands; and to house a reference collection of plants from surrounding states that are not presently known from Arkansas but may be found there.",
     "geographic_range": "Primarily Arkansas, but also compiling a reference collection of rare plants of the Southeastern and Midwestern U.S.",
     "collectionExtent": "7100",
@@ -27,6 +27,13 @@
     "physical_city": "Little Rock",
     "physical_state": "Arkansas",
     "physical_zip": "72201",
+    "UniqueNameUUID": "urn:uuid:a87f00d1-444a-4ed0-8791-f621f82ce5a7",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 34.7474,
     "lon": -92.2729
   }

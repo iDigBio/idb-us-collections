@@ -27,6 +27,13 @@
     "physical_city": "Buffalo",
     "physical_state": "New York",
     "physical_zip": "14211",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 42.9058,
     "lon": -78.8434
-}
+  }

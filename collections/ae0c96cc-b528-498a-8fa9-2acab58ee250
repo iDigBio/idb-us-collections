@@ -27,6 +27,13 @@
     "physical_city": "Huntington",
     "physical_state": "Indiana",
     "physical_zip": "46750",
-    "lat": 40.8988334,
-    "lon": -85.4991407
-}
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 40.8988,
+    "lon": -85.4991
+  }

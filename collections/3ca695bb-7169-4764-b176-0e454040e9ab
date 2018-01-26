@@ -12,7 +12,7 @@
     "description": "Vascular plants North coast region of California.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 25000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Vascular plants",
     "geographic_range": "North coast region of California.",
     "collectionExtent": "25000",
@@ -27,6 +27,13 @@
     "physical_city": "Rohnert Park",
     "physical_state": "California",
     "physical_zip": "94928-3609",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 38.3297,
     "lon": -122.7049
   }

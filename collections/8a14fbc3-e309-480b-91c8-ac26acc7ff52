@@ -27,6 +27,13 @@
     "physical_city": "Las Cruces",
     "physical_state": "New Mexico",
     "physical_zip": "88005-3371",
-    "lat": 32.2880026,
-    "lon": -106.7799622
-}
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 32.288,
+    "lon": -106.78
+  }

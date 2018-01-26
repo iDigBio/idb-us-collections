@@ -12,7 +12,7 @@
     "description": "Vascular plants only. Campanulaceae well represented. World, especially North America.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 120000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Vascular plants only. Campanulaceae well represented.",
     "geographic_range": "World, especially North America.",
     "collectionExtent": "120000",
@@ -27,6 +27,13 @@
     "physical_city": "Oshkosh",
     "physical_state": "Wisconsin",
     "physical_zip": "54901-8640",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 44.0293,
     "lon": -88.551
   }

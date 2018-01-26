@@ -1,5 +1,5 @@
 {
-    "institution": "University of Kentucky, College of Agriculture, Department of Entomology ",
+    "institution": "University of Kentucky, College of Agriculture, Department of Entomology",
     "collection": "Entomology",
     "recordsets": "",
     "recordsetQuery": "",
@@ -27,6 +27,13 @@
     "physical_city": "Lexington",
     "physical_state": "Kentucky",
     "physical_zip": "40546-0091",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 37.3554,
     "lon": -84.3423
   }

@@ -27,6 +27,13 @@
     "physical_city": "Park City",
     "physical_state": "Utah",
     "physical_zip": "84098",
-    "lat": 40.7217182,
-    "lon": -111.5377472
-}
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 40.7217,
+    "lon": -111.5377
+  }

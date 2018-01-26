@@ -12,7 +12,7 @@
     "description": "",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 1800,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "",
     "geographic_range": "",
     "collectionExtent": "1800",
@@ -27,6 +27,13 @@
     "physical_city": "Asheboro",
     "physical_state": "North Carolina",
     "physical_zip": "27205",
+    "UniqueNameUUID": "urn:uuid:ce118ca8-faea-4ac3-9483-dcc1d162a949",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 35.6275,
     "lon": -79.7595
   }

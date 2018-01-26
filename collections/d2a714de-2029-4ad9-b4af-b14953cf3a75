@@ -27,6 +27,13 @@
     "physical_city": "Raleigh",
     "physical_state": "North Carolina",
     "physical_zip": "27601",
+    "UniqueNameUUID": "urn:uuid:7941acfb-400a-48e9-b2b8-615850ef912f",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 35.7826,
     "lon": -78.6389
-}
+  }

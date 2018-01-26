@@ -27,6 +27,13 @@
     "physical_city": "Prescott",
     "physical_state": "Arizona",
     "physical_zip": "86301",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 34.5444,
     "lon": -112.4764
   }

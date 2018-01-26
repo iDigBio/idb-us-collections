@@ -12,7 +12,7 @@
     "description": "Asteraceae, Lupinus USA, with a focus on California, and a focus on San Luis Obispo County.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 80000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Asteraceae, Lupinus",
     "geographic_range": "USA, with a focus on California, and a focus on San Luis Obispo County.",
     "collectionExtent": "80000",
@@ -27,6 +27,13 @@
     "physical_city": "San Luis Obispo",
     "physical_state": "California",
     "physical_zip": "93407",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 35.3471,
     "lon": -120.4553
   }

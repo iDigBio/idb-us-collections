@@ -1,5 +1,5 @@
 {
-    "institution": "Black Rock Forest Collection ",
+    "institution": "Black Rock Forest Collection",
     "collection": "Entomology",
     "recordsets": "",
     "recordsetQuery": "",
@@ -27,6 +27,13 @@
     "physical_city": "Cornwall",
     "physical_state": "New York",
     "physical_zip": "12518",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 41.4199,
     "lon": -74.0093
   }

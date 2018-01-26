@@ -12,7 +12,7 @@
     "description": "Rubiaceae, Asteraceae, Palmae, Fabaceae, Piperaceae and Solanaceae Central America: Guatemala, Honduras and Costa Rica; South America: Venezuela, Colombia, Ecuador and Peru; North America: Missouri, Illinois",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 2700000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Rubiaceae, Asteraceae, Palmae, Fabaceae, Piperaceae and Solanaceae",
     "geographic_range": "Central America: Guatemala, Honduras and Costa Rica; South America: Venezuela, Colombia, Ecuador and Peru; North America: Missouri, Illinois",
     "collectionExtent": "2700000",
@@ -27,6 +27,13 @@
     "physical_city": "Chicago",
     "physical_state": "Illinois",
     "physical_zip": "60605-2496",
+    "UniqueNameUUID": "urn:uuid:ea4f0640-ef20-40aa-b359-166f07c7492a",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 41.8691,
     "lon": -87.6176
   }

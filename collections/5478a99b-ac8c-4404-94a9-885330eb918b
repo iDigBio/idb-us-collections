@@ -12,7 +12,7 @@
     "description": "Poaceae, Cyperaceae, and Juncaceae worldwide; Poaceae types; bryophytes and lichens of the southern US Primarily Texas, the southern U.S., and Mexico",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 300000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Poaceae, Cyperaceae, and Juncaceae worldwide; Poaceae types; bryophytes and lichens of the southern US",
     "geographic_range": "Primarily Texas, the southern U.S., and Mexico",
     "collectionExtent": "300000",
@@ -27,6 +27,13 @@
     "physical_city": "College Station",
     "physical_state": "Texas",
     "physical_zip": "77843-2138",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 30.7737,
     "lon": -95.954
   }

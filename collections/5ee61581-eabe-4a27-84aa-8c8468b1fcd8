@@ -15,7 +15,7 @@
     "knownToContainTypes": null,
     "taxonCoverage": "Mammals with more than 1500 species represented by multiple tissues for >160,000 individuals. Birds with representation primarily from western North America, Andean South America and Australia. Amphibians, Reptiles and Fishes primarily southwestern North America species.",
     "geographic_range": "Worldwide with strengths in western North America, Latin America, Beringia, and Asia.",
-    "collectionExtent": "NA",
+    "collectionExtent": "",
     "contact": "Joseph A. Cook",
     "contact_role": "Curator",
     "contact_email": "tucojoe@gmail.com",
@@ -27,6 +27,13 @@
     "physical_city": "Albuquerque",
     "physical_state": "New Mexico",
     "physical_zip": "87131-0001",
+    "UniqueNameUUID": "urn:uuid:83441270-bc50-4e1d-9eb9-42d4e3255bf4",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 35.0832,
     "lon": -106.6218
   }

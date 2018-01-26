@@ -12,7 +12,7 @@
     "description": "Coleoptera has received the greatest attention (species level identifications) but efforts continue towards the goal of having identified representatives of all ~8,400 nonmarine arthropod species in Alaska. Currently (2015) we have 2,869 species represented by identified specimens. A DNA barcode library of these is being built - we have DNA barcodes in the BOLD database for 1,138 species. Although a young collection (begun in 2000), we have recently surpassed 200,000 records representing over 1.2 million specimens (as of April 2015). Over 99% of these records have been georeferenced. Over 75% of the pinned collection has been databased; approximately 10% of the wet collection has been databased. At least one specimen of every lowest identification, in both the pinned and wet collections, has been databased so we have a complete online taxon inventory of the collection. 141,047 specimens have been identified to the species level - these represent 2,885 species Primarily (>95%) Alaska.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 228217,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Coleoptera has received the greatest attention (species level identifications) but efforts continue towards the goal of having identified representatives of all ~8,400 nonmarine arthropod species in Alaska. Currently (2015) we have 2,869 species represented by identified specimens. A DNA barcode library of these is being built - we have DNA barcodes in the BOLD database for 1,138 species. Although a young collection (begun in 2000), we have recently surpassed 200,000 records representing over 1.2 million specimens (as of April 2015). Over 99% of these records have been georeferenced. Over 75% of the pinned collection has been databased; approximately 10% of the wet collection has been databased. At least one specimen of every lowest identification, in both the pinned and wet collections, has been databased so we have a complete online taxon inventory of the collection. 141,047 specimens have been identified to the species level - these represent 2,885 species",
     "geographic_range": "Primarily (>95%) Alaska.",
     "collectionExtent": "228217",
@@ -27,6 +27,13 @@
     "physical_city": "Fairbanks",
     "physical_state": "Alaska",
     "physical_zip": "99775-6960",
+    "UniqueNameUUID": "urn:uuid:447d59d3-b1e3-4419-a2a9-ea5b36b3f26e",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 64.858,
     "lon": -147.8261
   }

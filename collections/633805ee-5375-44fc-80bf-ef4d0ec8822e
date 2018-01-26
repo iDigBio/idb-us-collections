@@ -27,6 +27,13 @@
     "physical_city": "Huntsville",
     "physical_state": "Texas",
     "physical_zip": "77340",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 30.7132,
     "lon": -95.5525
   }

@@ -12,7 +12,7 @@
     "description": "North American birds, D. H. Talbot Collection, W. T. Hornaday Collection, John B. Bowles Collection, Charles C. Nutting Collection, Midwestern archaeology, Philippine objects from 1904 World's Fair, Frank Russell and Vilhjalmur Stefansson Arctic/Subarctic Collections global",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 130000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "North American birds, D. H. Talbot Collection, W. T. Hornaday Collection, John B. Bowles Collection, Charles C. Nutting Collection, Midwestern archaeology, Philippine objects from 1904 World's Fair, Frank Russell and Vilhjalmur Stefansson Arctic/Subarctic Collections",
     "geographic_range": "global",
     "collectionExtent": "130000",
@@ -27,6 +27,13 @@
     "physical_city": "Iowa City",
     "physical_state": "Iowa",
     "physical_zip": "52240",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 41.6611,
     "lon": -91.5347
   }

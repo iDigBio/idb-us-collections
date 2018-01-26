@@ -12,7 +12,7 @@
     "description": "North American and tropical bryophytes Worldwide",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 555667,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "North American and tropical bryophytes",
     "geographic_range": "Worldwide",
     "collectionExtent": "555667",
@@ -27,6 +27,13 @@
     "physical_city": "Saint Louis",
     "physical_state": "Missouri",
     "physical_zip": "63166-0299",
+    "UniqueNameUUID": "urn:uuid:c203364b-cd39-4435-996d-94ff2e93edc1",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 38.5811,
     "lon": -90.2256
   }

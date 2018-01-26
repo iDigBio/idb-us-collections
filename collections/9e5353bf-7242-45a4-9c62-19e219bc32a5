@@ -12,7 +12,7 @@
     "description": "Vascular plants, bryophytes and lichens from the alvar communities of northern New York. Significant collection of aquatic macrophytes from the Finger Lakes region. Aquatic and terrestrial invasive species for the Finger Lakes region of New York State. Finger Lakes region of New York State",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 17000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Vascular plants, bryophytes and lichens from the alvar communities of northern New York. Significant collection of aquatic macrophytes from the Finger Lakes region. Aquatic and terrestrial invasive species for the Finger Lakes region of New York State.",
     "geographic_range": "Finger Lakes region of New York State",
     "collectionExtent": "17000",
@@ -27,6 +27,13 @@
     "physical_city": "Canandaigua",
     "physical_state": "New York",
     "physical_zip": "14424",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 42.8672,
     "lon": -77.241
   }

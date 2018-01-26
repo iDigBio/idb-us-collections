@@ -1,5 +1,5 @@
 {
-    "institution": "Rocky Mountain Biological Laboratory ",
+    "institution": "Rocky Mountain Biological Laboratory",
     "collection": "Entomology",
     "recordsets": "",
     "recordsetQuery": "",
@@ -27,6 +27,13 @@
     "physical_city": "Crested Butte",
     "physical_state": "Colorado",
     "physical_zip": "81224",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 38.9592,
     "lon": -106.9898
   }

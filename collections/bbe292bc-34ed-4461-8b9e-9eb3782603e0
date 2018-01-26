@@ -27,6 +27,13 @@
     "physical_city": "",
     "physical_state": "Arizona",
     "physical_zip": "",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": null,
     "lon": null
-}
+  }

@@ -12,7 +12,7 @@
     "description": "",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": null,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "",
     "geographic_range": "",
     "collectionExtent": "",
@@ -27,6 +27,13 @@
     "physical_city": "Williams",
     "physical_state": "Arizona",
     "physical_zip": "86046",
-    "lat": 35.2414185,
-    "lon": -112.194457
-}
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 35.2414,
+    "lon": -112.1945
+  }

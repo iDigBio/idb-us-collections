@@ -27,6 +27,13 @@
     "physical_city": "Normal",
     "physical_state": "Illinois",
     "physical_zip": "61790-4120",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 40.5625,
     "lon": -88.6167
   }

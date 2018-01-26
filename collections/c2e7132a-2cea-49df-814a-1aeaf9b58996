@@ -12,7 +12,7 @@
     "description": "The collection contains only seeds and fruits. worldwide",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 140000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "The collection contains only seeds and fruits.",
     "geographic_range": "worldwide",
     "collectionExtent": "140000",
@@ -27,6 +27,13 @@
     "physical_city": "Washington",
     "physical_state": "Maryland",
     "physical_zip": "20002-1958",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 38.9073,
     "lon": -77.0008
   }

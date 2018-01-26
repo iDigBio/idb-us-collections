@@ -27,6 +27,13 @@
     "physical_city": "Augusta",
     "physical_state": "Maine",
     "physical_zip": "",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 44.3059,
     "lon": -69.7828
   }

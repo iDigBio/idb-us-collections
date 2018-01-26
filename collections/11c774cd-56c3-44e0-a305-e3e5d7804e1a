@@ -12,7 +12,7 @@
     "description": "Exsiccatae Worldwide",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 220000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Exsiccatae",
     "geographic_range": "Worldwide",
     "collectionExtent": "220000",
@@ -27,6 +27,13 @@
     "physical_city": "Philadelphia",
     "physical_state": "Pennsylvania",
     "physical_zip": "19103",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 39.958,
     "lon": -75.1767
   }

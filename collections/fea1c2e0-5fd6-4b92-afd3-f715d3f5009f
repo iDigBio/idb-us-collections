@@ -27,6 +27,13 @@
     "physical_city": "Brookings",
     "physical_state": "South Dakota",
     "physical_zip": "57007",
-    "lat": 44.3189457,
-    "lon": -96.783968
-}
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 44.3189,
+    "lon": -96.784
+  }

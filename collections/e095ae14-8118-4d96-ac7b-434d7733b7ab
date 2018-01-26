@@ -27,6 +27,13 @@
     "physical_city": "San Juan",
     "physical_state": "Puerto Rico",
     "physical_zip": "00931-3360",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 18.3996,
     "lon": -66.0797
   }
