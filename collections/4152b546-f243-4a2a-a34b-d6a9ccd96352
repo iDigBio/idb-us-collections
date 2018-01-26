@@ -15,7 +15,7 @@
     "knownToContainTypes": false,
     "taxonCoverage": "",
     "geographic_range": "",
-    "collectionExtent": "NA",
+    "collectionExtent": "",
     "contact": "Suellen Jacob",
     "contact_role": "Vertebrate Collections Manager",
     "contact_email": "Suellen.Jacob@csulb.edu",
@@ -27,6 +27,13 @@
     "physical_city": "Long Beach",
     "physical_state": "California",
     "physical_zip": "90840-3702",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 33.7843,
     "lon": -118.1157
-}
+  }

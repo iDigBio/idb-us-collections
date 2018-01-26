@@ -18,7 +18,7 @@
     "collectionExtent": "",
     "contact": "Jefferson Vaughan",
     "contact_role": "",
-    "contact_email": " jefferson.vaughan@UND.edu",
+    "contact_email": "jefferson.vaughan@UND.edu",
     "mailing_address": "Biology Department, Stop 9019",
     "mailing_city": "Grand Forks",
     "mailing_state": "North Dakota",
@@ -27,6 +27,13 @@
     "physical_city": "Grand Forks",
     "physical_state": "North Dakota",
     "physical_zip": "58202-9019",
+    "UniqueNameUUID": "urn:uuid:25ac9e83-1223-47b7-8be5-ad54187dc7c2",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 48.4226,
     "lon": -97.4111
   }

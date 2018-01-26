@@ -12,7 +12,7 @@
     "description": "",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 5000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "",
     "geographic_range": "",
     "collectionExtent": "5000",
@@ -27,6 +27,13 @@
     "physical_city": "McMinnville",
     "physical_state": "Oregon",
     "physical_zip": "97128",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 45.2006,
     "lon": -123.1992
   }

@@ -27,6 +27,13 @@
     "physical_city": "Kingston",
     "physical_state": "Rhode Island",
     "physical_zip": "02881",
+    "UniqueNameUUID": "urn:uuid:06d5dff9-65a3-44a4-b43f-b8d442c082b4",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 41.4829,
     "lon": -71.5243
   }

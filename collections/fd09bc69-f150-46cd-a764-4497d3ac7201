@@ -27,6 +27,13 @@
     "physical_city": "Las Vegas",
     "physical_state": "Nevada",
     "physical_zip": "89154",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 36.1042,
     "lon": -115.1485
   }

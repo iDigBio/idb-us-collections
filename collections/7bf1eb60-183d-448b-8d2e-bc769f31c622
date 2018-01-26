@@ -27,6 +27,13 @@
     "physical_city": "Hayward",
     "physical_state": "California",
     "physical_zip": "94542",
-    "lat": 37.6563446,
-    "lon": -122.0588652
-}
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 37.6563,
+    "lon": -122.0589
+  }

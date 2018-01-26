@@ -12,7 +12,7 @@
     "description": "The collection includes only vascular plants. The collection has mostly plants from the eastern US from Maine to Wisconsin to Texas to Florida, the but primary collection is central Vermont and New England.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 13827,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "The collection includes only vascular plants.",
     "geographic_range": "The collection has mostly plants from the eastern US from Maine to Wisconsin to Texas to Florida, the but primary collection is central Vermont and New England.",
     "collectionExtent": "13827",
@@ -27,6 +27,13 @@
     "physical_city": "Northfield",
     "physical_state": "Vermont",
     "physical_zip": "05663-0000",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 44.0894,
     "lon": -72.7489
   }

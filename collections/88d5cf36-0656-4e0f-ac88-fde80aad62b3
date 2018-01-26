@@ -12,7 +12,7 @@
     "description": "",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 100000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "",
     "geographic_range": "",
     "collectionExtent": "100000",
@@ -27,6 +27,13 @@
     "physical_city": "Indianapolis",
     "physical_state": "Indiana",
     "physical_zip": "46208",
+    "UniqueNameUUID": "urn:uuid:2d9db091-5073-4338-9bed-b98e77ce0951",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 39.8394,
     "lon": -86.1689
   }

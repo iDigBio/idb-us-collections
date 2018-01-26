@@ -27,6 +27,13 @@
     "physical_city": "Cincinnati",
     "physical_state": "Ohio",
     "physical_zip": "45203",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 39.11,
     "lon": -84.54
   }

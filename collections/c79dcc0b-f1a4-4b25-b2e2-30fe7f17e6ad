@@ -12,7 +12,7 @@
     "description": "Poaceae, Cyperaceae West Texas",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 80000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Poaceae, Cyperaceae",
     "geographic_range": "West Texas",
     "collectionExtent": "80000",
@@ -27,6 +27,13 @@
     "physical_city": "San Angelo",
     "physical_state": "Texas",
     "physical_zip": "76909",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 31.8854,
     "lon": -100.2922
   }

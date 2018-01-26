@@ -15,7 +15,7 @@
     "knownToContainTypes": null,
     "taxonCoverage": "",
     "geographic_range": "",
-    "collectionExtent": "NA",
+    "collectionExtent": "",
     "contact": "Sam Loker",
     "contact_role": "Curator",
     "contact_email": "esloker@unm.edu",
@@ -27,6 +27,13 @@
     "physical_city": "Albuquerque",
     "physical_state": "New Mexico",
     "physical_zip": "87131-0001",
+    "UniqueNameUUID": "urn:uuid:83441270-bc50-4e1d-9eb9-42d4e3255bf4",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 35.0832,
     "lon": -106.6218
   }

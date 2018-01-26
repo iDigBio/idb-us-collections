@@ -12,7 +12,7 @@
     "description": "",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 15500,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "",
     "geographic_range": "",
     "collectionExtent": "15500",
@@ -27,6 +27,13 @@
     "physical_city": "Portland",
     "physical_state": "Oregon",
     "physical_zip": "97207-0751",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 45.5131,
     "lon": -122.6885
   }

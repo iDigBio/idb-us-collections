@@ -12,7 +12,7 @@
     "description": "This collection covers the majority of flora species that are known to exist within the Black Rock Forest Preserve. This collection covers several towns in the United States of America, New York State, Orange County, including Cornwall, West Point, Highland Mills and Newburgh.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 623,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "This collection covers the majority of flora species that are known to exist within the Black Rock Forest Preserve.",
     "geographic_range": "This collection covers several towns in the United States of America, New York State, Orange County, including Cornwall, West Point, Highland Mills and Newburgh.",
     "collectionExtent": "623",
@@ -27,6 +27,13 @@
     "physical_city": "Cornwall",
     "physical_state": "NY",
     "physical_zip": "12518",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 41.4199,
     "lon": -74.0093
   }

@@ -12,7 +12,7 @@
     "description": "Also 11000 eggs and nests Western North America, Mexico, Central America, Galapagos, Salomon Islands, China, Myanmar, the Philippines, Eastern Africa",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 96000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Also 11000 eggs and nests",
     "geographic_range": "Western North America, Mexico, Central America, Galapagos, Salomon Islands, China, Myanmar, the Philippines, Eastern Africa",
     "collectionExtent": "96000",
@@ -27,6 +27,13 @@
     "physical_city": "San Francisco",
     "physical_state": "California",
     "physical_zip": "94118",
+    "UniqueNameUUID": "urn:uuid:702bbb12-b872-4bdf-b862-c3e9a55c42cb",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 37.7848,
     "lon": -122.464
   }

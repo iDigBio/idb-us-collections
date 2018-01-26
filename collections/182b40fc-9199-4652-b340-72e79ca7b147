@@ -27,6 +27,13 @@
     "physical_city": "",
     "physical_state": "",
     "physical_zip": "",
-    "lat": 35.7650567,
-    "lon": -106.3220515
-}
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 35.7651,
+    "lon": -106.3221
+  }

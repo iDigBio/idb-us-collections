@@ -12,7 +12,7 @@
     "description": "",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 21000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "",
     "geographic_range": "",
     "collectionExtent": "21000",
@@ -27,6 +27,13 @@
     "physical_city": "Wilmington",
     "physical_state": "North Carolina",
     "physical_zip": "28403-5915",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 34.2401,
     "lon": -77.8709
   }

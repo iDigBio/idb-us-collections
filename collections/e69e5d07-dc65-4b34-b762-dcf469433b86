@@ -12,7 +12,7 @@
     "description": "",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 279400,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "",
     "geographic_range": "",
     "collectionExtent": "279400",
@@ -27,6 +27,13 @@
     "physical_city": "Amherst",
     "physical_state": "Massachusetts",
     "physical_zip": "01003-0000",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 42.3908,
     "lon": -72.5251
   }

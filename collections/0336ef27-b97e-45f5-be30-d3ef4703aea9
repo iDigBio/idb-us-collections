@@ -12,7 +12,7 @@
     "description": "The CHAS Botany Collection focuses on vascular species of North America, particularly the Midwest/Great Lakes region, from 1834 to the present. There are also a small number of lichen and bryophyte specimens, as well as vascular species from South America and Europe. Over 15,000 specimens have been digitally inventoried and 2,000 have been imaged. The un-digitized backlog is estimated to be approximately 5,000 sheets. Notable collectors include: Henry H. Babcock, H. R. Bennett, A. Chase, W. P. Conant, George B. Grant, F. H. Hosford, H. F. Jaeger, Anna Pederson Kummer, C. G. Lloyd, W. S. Moffatt, E. L. Moseley, Walter L. Necker, E. Palmer, R. S. Schmidt, E. Stimpson, F. A. Swink, L. M. Umbach, H. Van Heurck, Dora Wilken, J. Wolfe, Elizabeth Emerson Atwater, W. W. Calkins, and Herman Silas Pepoon.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 15500,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "vascular plants; lichens; mosses",
     "geographic_range": "North America, particularly the Midwest / Great Lakes region",
     "collectionExtent": "15,500",
@@ -27,6 +27,13 @@
     "physical_city": "Chicago",
     "physical_state": "Illinois",
     "physical_zip": "60614",
+    "UniqueNameUUID": "urn:uuid:93877ee6-76bc-4ca0-8ee6-7eae72061ed6",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 41.9146,
     "lon": -87.6276
   }

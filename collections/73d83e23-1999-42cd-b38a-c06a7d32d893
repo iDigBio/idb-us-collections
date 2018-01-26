@@ -12,7 +12,7 @@
     "description": "90% of all Avian taxa. Strengths in New World, and Asian taxa. Worldwide. Strengths in North America, South America, and Asia.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 625000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "90% of all Avian taxa. Strengths in New World, and Asian taxa.",
     "geographic_range": "Worldwide. Strengths in North America, South America, and Asia.",
     "collectionExtent": "625000",
@@ -27,6 +27,13 @@
     "physical_city": "Suitland",
     "physical_state": "Maryland",
     "physical_zip": "20746",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 38.8304,
     "lon": -76.9017
   }

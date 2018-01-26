@@ -27,6 +27,13 @@
     "physical_city": "Los Angeles",
     "physical_state": "California",
     "physical_zip": "90007",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 34.0181,
     "lon": -118.289
   }

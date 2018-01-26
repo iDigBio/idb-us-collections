@@ -12,7 +12,7 @@
     "description": "",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": null,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "",
     "geographic_range": "",
     "collectionExtent": "",
@@ -27,6 +27,13 @@
     "physical_city": "85006",
     "physical_state": "Arizona",
     "physical_zip": "85006",
-    "lat": 33.466629,
-    "lon": -112.0340767
-}
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 33.4666,
+    "lon": -112.0341
+  }

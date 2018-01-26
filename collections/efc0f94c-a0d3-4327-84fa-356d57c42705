@@ -12,7 +12,7 @@
     "description": "Brassicaceae, Arabidopsis Worldwide",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 959000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Brassicaceae, Arabidopsis",
     "geographic_range": "Worldwide",
     "collectionExtent": "959000",
@@ -27,6 +27,13 @@
     "physical_city": "Columbus",
     "physical_state": "Ohio",
     "physical_zip": "43210",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 40.0033,
     "lon": -83.0344
   }

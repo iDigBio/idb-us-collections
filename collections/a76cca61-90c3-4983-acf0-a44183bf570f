@@ -12,7 +12,7 @@
     "description": "Pteridophytes, Poaceae, Cyperaceae (esp. Carex), Asteraceae (Eupatorium, Solidago) Mostly North America, specializing in central Appalachian and Mid-Atlantic regions.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 110000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Pteridophytes, Poaceae, Cyperaceae (esp. Carex), Asteraceae (Eupatorium, Solidago)",
     "geographic_range": "Mostly North America, specializing in central Appalachian and Mid-Atlantic regions.",
     "collectionExtent": "110,000 (vascular plants)",
@@ -27,6 +27,13 @@
     "physical_city": "Blacksburg",
     "physical_state": "Virginia",
     "physical_zip": "24061-0406",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 36.7227,
     "lon": -79.9147
   }

@@ -15,7 +15,7 @@
     "knownToContainTypes": true,
     "taxonCoverage": "",
     "geographic_range": "Worldwide",
-    "collectionExtent": "NA",
+    "collectionExtent": "",
     "contact": "Steven A. Nadler",
     "contact_role": "Chair",
     "contact_email": "sanadler@ucdavis.edu",
@@ -27,6 +27,13 @@
     "physical_city": "Davis",
     "physical_state": "California",
     "physical_zip": "95616",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 38.5571,
     "lon": -121.7565
-}
+  }

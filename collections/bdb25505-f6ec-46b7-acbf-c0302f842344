@@ -18,7 +18,7 @@
     "collectionExtent": "1300",
     "contact": "James Pitts",
     "contact_role": "",
-    "contact_email": "\njames.pitts@usu.edu",
+    "contact_email": "james.pitts@usu.edu",
     "mailing_address": "5305 Old Main Hill",
     "mailing_city": "Logan",
     "mailing_state": "Utah",
@@ -27,6 +27,13 @@
     "physical_city": "Logan",
     "physical_state": "Utah",
     "physical_zip": "84322",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 41.3881,
     "lon": -112.033
   }

@@ -12,7 +12,7 @@
     "description": "Coleoptera (Buprestidae, Cleridae, Cicindelidae, Cerambycidae), Lepidoptera (butterflies), aquatic insects. Mainly Nearctic",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 1,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Coleoptera (Buprestidae, Cleridae, Cicindelidae, Cerambycidae), Lepidoptera (butterflies), aquatic insects.",
     "geographic_range": "Mainly Nearctic",
     "collectionExtent": "over 1 million",
@@ -27,6 +27,13 @@
     "physical_city": "Moscow",
     "physical_state": "Idaho",
     "physical_zip": "83844-2339",
+    "UniqueNameUUID": "urn:uuid:24f9d2d6-dfd5-4d3b-8f6c-37430596debb",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 46.729,
     "lon": -117.014
   }

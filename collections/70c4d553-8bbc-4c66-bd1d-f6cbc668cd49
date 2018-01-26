@@ -12,7 +12,7 @@
     "description": "The herbarium is particularly strong in woody plants of the temperate zone, as well as Quercus (Fagaceae) and Carex (Cyperaceae). We hold ca. 17,000 lichen specimens, with a strong regional focus. Global, with a strong emphasis on North America and the northern temperate zone; particularly strong collections for the greater Chicago region",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 197000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "The herbarium is particularly strong in woody plants of the temperate zone, as well as Quercus (Fagaceae) and Carex (Cyperaceae). We hold ca. 17,000 lichen specimens, with a strong regional focus.",
     "geographic_range": "Global, with a strong emphasis on North America and the northern temperate zone; particularly strong collections for the greater Chicago region",
     "collectionExtent": "197000",
@@ -27,6 +27,13 @@
     "physical_city": "Lisle",
     "physical_state": "Illinois",
     "physical_zip": "60532-1293",
+    "UniqueNameUUID": "urn:uuid:53d130dc-a4e9-4642-9a5d-13025ecf46a7",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 41.7927,
     "lon": -88.0933
   }

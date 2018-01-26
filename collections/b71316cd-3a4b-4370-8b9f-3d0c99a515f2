@@ -16,7 +16,7 @@
     "taxonCoverage": "",
     "geographic_range": "",
     "collectionExtent": "",
-    "contact": "David Hayes ",
+    "contact": "David Hayes",
     "contact_role": "",
     "contact_email": "David.Hayes@eku.edu",
     "mailing_address": "",
@@ -27,6 +27,13 @@
     "physical_city": "Richmond",
     "physical_state": "Kentucky",
     "physical_zip": "40475-3102",
+    "UniqueNameUUID": "urn:uuid:02e8a104-5073-482a-9c63-f9c34ac9c0f0",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 37.7649,
     "lon": -84.2969
   }

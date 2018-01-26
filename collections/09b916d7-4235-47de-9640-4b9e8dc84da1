@@ -5,7 +5,7 @@
     "recordsetQuery": "{\"recordset\":\"5277e72c-9e53-4c98-85f1-ee413bc473cd\"}",
     "institution_code": "NAVA",
     "collection_code": "",
-  "collection_uuid": "urn:uuid:09b916d7-4235-47de-9640-4b9e8dc84da1",
+    "collection_uuid": "urn:uuid:09b916d7-4235-47de-9640-4b9e8dc84da1",
     "collection_lsid": "",
     "collection_url": "",
     "collection_catalog_url": "",
@@ -27,6 +27,13 @@
     "physical_city": "Flagstaff",
     "physical_state": "Arizona",
     "physical_zip": "",
+    "UniqueNameUUID": "urn:uuid:01dbe73c-9476-445d-a5ef-a232cea71566",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": null,
     "lon": null
-}
+  }

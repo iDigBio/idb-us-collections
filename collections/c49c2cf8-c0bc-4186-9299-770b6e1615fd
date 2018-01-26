@@ -12,7 +12,7 @@
     "description": "Algae, Annelida, Arthropoda, Brachiopoda, Bryozoa, Cnidaria, Conodonta, Echinodermata, Graptolithina, Mollusca, Porifera, Trace Fossils Ohio, Indiana, Kentucky",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 100000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Algae, Annelida, Arthropoda, Brachiopoda, Bryozoa, Cnidaria, Conodonta, Echinodermata, Graptolithina, Mollusca, Porifera, Trace Fossils",
     "geographic_range": "Ohio, Indiana, Kentucky",
     "collectionExtent": "100,000",
@@ -27,6 +27,13 @@
     "physical_city": "Oxford",
     "physical_state": "Ohio",
     "physical_zip": "45056-3656",
+    "UniqueNameUUID": "urn:uuid:94083150-2512-4114-ba36-644fcd870edb",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 39.5076,
     "lon": -84.7311
   }

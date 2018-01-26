@@ -12,7 +12,7 @@
     "description": "Our Mollusk collection is mainly freshwater mollusks from the Unionidae, but we do have a large marine collection from te Institute of Marine Sciences. We cover 62 countries from all over the world, but our focus is the Southeastern United States.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 2000000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Our Mollusk collection is mainly freshwater mollusks from the Unionidae, but we do have a large marine collection from te Institute of Marine Sciences.",
     "geographic_range": "We cover 62 countries from all over the world, but our focus is the Southeastern United States.",
     "collectionExtent": "2000000",
@@ -27,6 +27,13 @@
     "physical_city": "Raleigh",
     "physical_state": "North Carolina",
     "physical_zip": "27601",
+    "UniqueNameUUID": "urn:uuid:7941acfb-400a-48e9-b2b8-615850ef912f",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 35.7826,
     "lon": -78.6389
   }

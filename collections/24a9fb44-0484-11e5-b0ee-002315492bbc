@@ -12,7 +12,7 @@
     "description": "Ephemeroptera, Coleoptera, some Hymenopteran groups Global, emphasis on Indiana.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 2000000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Ephemeroptera, Coleoptera, some Hymenopteran groups",
     "geographic_range": "Global, emphasis on Indiana.",
     "collectionExtent": "2000000",
@@ -27,6 +27,13 @@
     "physical_city": "West Lafayette",
     "physical_state": "Indiana",
     "physical_zip": "47907",
+    "UniqueNameUUID": "urn:uuid:f7c9ea64-aaae-43e0-8ed4-1dfcb68c1ba6",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 40.4241,
     "lon": -86.9149
   }

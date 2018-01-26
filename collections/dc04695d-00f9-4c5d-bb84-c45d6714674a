@@ -27,6 +27,13 @@
     "physical_city": "Davidson",
     "physical_state": "North Carolina",
     "physical_zip": "28035",
-    "lat": 35.5017318,
-    "lon": -80.8467793
-}
+    "UniqueNameUUID": "urn:uuid:84b15f7f-6897-402b-8b9e-18186e54c657",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 35.5017,
+    "lon": -80.8468
+  }

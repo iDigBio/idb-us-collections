@@ -12,7 +12,7 @@
     "description": "Coleoptera Southeastern USA, some neotropical material",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 10000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Coleoptera",
     "geographic_range": "Southeastern USA, some neotropical material",
     "collectionExtent": "10000",
@@ -27,6 +27,13 @@
     "physical_city": "Chattanooga",
     "physical_state": "Tennessee",
     "physical_zip": "37403",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 35.045,
     "lon": -85.299
   }

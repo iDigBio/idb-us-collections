@@ -12,7 +12,7 @@
     "description": "Granite rock outcrop collection, medical botany collection SE USA, Italy, Balkans, Australia",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 20000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Granite rock outcrop collection, medical botany collection",
     "geographic_range": "SE USA, Italy, Balkans, Australia",
     "collectionExtent": "20000",
@@ -27,6 +27,13 @@
     "physical_city": "Atlanta",
     "physical_state": "Georgia",
     "physical_zip": "30322",
+    "UniqueNameUUID": "urn:uuid:a11d8f2f-1415-4974-963b-07e01fd951db",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 33.7952,
     "lon": -84.3248
   }

@@ -27,6 +27,13 @@
     "physical_city": "Laramie",
     "physical_state": "Wyoming",
     "physical_zip": "82071",
+    "UniqueNameUUID": "urn:uuid:ba3885c3-c78e-46c0-94b3-99eb0bf3d778",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 41.3149,
     "lon": -105.5666
   }

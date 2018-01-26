@@ -27,6 +27,13 @@
     "physical_city": "Pomona",
     "physical_state": "California",
     "physical_zip": "91768-4032",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 34.0498,
     "lon": -117.8156
   }

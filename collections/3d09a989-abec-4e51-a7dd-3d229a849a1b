@@ -12,7 +12,7 @@
     "description": "Cataloged specimens represent 142 vascular plant families, 933 genera, and 2,716 species as well as a significant collection of nonvascular plants including mosses, liverworts, and hornworts. Colorado Plateau, southwestern United States",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 35600,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Cataloged specimens represent 142 vascular plant families, 933 genera, and 2,716 species as well as a significant collection of nonvascular plants including mosses, liverworts, and hornworts.",
     "geographic_range": "Colorado Plateau, southwestern United States",
     "collectionExtent": "35600",
@@ -27,6 +27,13 @@
     "physical_city": "Flagstaff",
     "physical_state": "Arizona",
     "physical_zip": "86001",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 35.2354,
     "lon": -111.6654
   }

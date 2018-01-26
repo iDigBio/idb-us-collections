@@ -12,7 +12,7 @@
     "description": "strong regional representation North America",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 25000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "strong regional representation",
     "geographic_range": "North America",
     "collectionExtent": "25000",
@@ -27,6 +27,13 @@
     "physical_city": "Ithaca",
     "physical_state": "New York",
     "physical_zip": "14850-1923",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 42.4793,
     "lon": -76.4505
   }

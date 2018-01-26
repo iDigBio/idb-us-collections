@@ -27,6 +27,13 @@
     "physical_city": "Martinsville",
     "physical_state": "Virginia",
     "physical_zip": "24112",
+    "UniqueNameUUID": "urn:uuid:906d26a2-01e3-42a8-a099-614cb2e1ca83",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 36.6873,
     "lon": -79.8646
   }

@@ -12,7 +12,7 @@
     "description": "Macroinvertebrates. Mostly Mississippi.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 7016,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Macroinvertebrates.",
     "geographic_range": "Mostly Mississippi.",
     "collectionExtent": "7016",
@@ -27,6 +27,13 @@
     "physical_city": "Jackson",
     "physical_state": "Mississippi",
     "physical_zip": "39202-1353",
+    "UniqueNameUUID": "urn:uuid:bf10a742-42e9-44cd-9750-a3105c9c6c76",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 32.3233,
     "lon": -90.1601
   }

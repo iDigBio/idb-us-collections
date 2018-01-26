@@ -27,6 +27,13 @@
     "physical_city": "Dugway",
     "physical_state": "Utah",
     "physical_zip": "",
+    "UniqueNameUUID": "urn:uuid:068621ea-b76a-41c7-ab09-4d1266984c57",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 40.2123,
     "lon": -112.9798
   }

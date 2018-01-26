@@ -12,7 +12,7 @@
     "description": "taxonomic strength: Gamasina, basal Parasitiformes, Lepidoptera associated mites, Harpirhynchidae global",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 110000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "taxonomic strength: Gamasina, basal Parasitiformes, Lepidoptera associated mites, Harpirhynchidae",
     "geographic_range": "global",
     "collectionExtent": "110000",
@@ -27,6 +27,13 @@
     "physical_city": "Columbus",
     "physical_state": "Ohio",
     "physical_zip": "43212",
+    "UniqueNameUUID": "urn:uuid:5f0e4e8a-184f-49fb-95b5-09af872598f2",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 39.9871,
     "lon": -83.0428
   }

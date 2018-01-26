@@ -12,7 +12,7 @@
     "description": "Triassic Corals (Scleractinia), Cenozoic Mammals (Oligo-Miocene), Mississippian marine fauna (Bear Gulch Limestone), Cambrian Trilobites (Rocky Mountains/Continental Divide) Focus on the NW USA, but also contains material from Peru, Mexico, and Europe.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 40000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Triassic Corals (Scleractinia), Cenozoic Mammals (Oligo-Miocene), Mississippian marine fauna (Bear Gulch Limestone), Cambrian Trilobites (Rocky Mountains/Continental Divide)",
     "geographic_range": "Focus on the NW USA, but also contains material from Peru, Mexico, and Europe.",
     "collectionExtent": "~40,000",
@@ -27,6 +27,13 @@
     "physical_city": "Missoula",
     "physical_state": "Montana",
     "physical_zip": "59812",
+    "UniqueNameUUID": "urn:uuid:b097d202-890b-43ab-b634-7c6605ae858c",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 46.8601,
     "lon": -113.9874
   }

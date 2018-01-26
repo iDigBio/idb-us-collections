@@ -27,6 +27,13 @@
     "physical_city": "Florissant",
     "physical_state": "Colorado",
     "physical_zip": "80816",
+    "UniqueNameUUID": "urn:uuid:936fcef4-5236-4d27-b54c-d8e09c6f1485",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 38.9136,
     "lon": -105.2876
   }

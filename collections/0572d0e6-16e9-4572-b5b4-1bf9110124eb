@@ -12,7 +12,7 @@
     "description": "vascular plants mostly Michigan",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 59000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "vascular plants",
     "geographic_range": "mostly Michigan",
     "collectionExtent": "59,000",
@@ -27,6 +27,13 @@
     "physical_city": "Bloomfield Hills",
     "physical_state": "Michigan",
     "physical_zip": "48303-0801",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 42.5963,
     "lon": -83.2575
   }

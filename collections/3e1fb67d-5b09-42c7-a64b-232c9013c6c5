@@ -12,7 +12,7 @@
     "description": "All marine fishes Worldwide for deep-sea and pelagic fishes\nEastern Pacific for coastal marine fishes",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 120000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "All marine fishes",
     "geographic_range": "Worldwide for deep-sea and pelagic fishes\nEastern Pacific for coastal marine fishes",
     "collectionExtent": "120000",
@@ -27,6 +27,13 @@
     "physical_city": "La Jolla",
     "physical_state": "California",
     "physical_zip": "92037",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 32.8657,
     "lon": -117.2522
   }

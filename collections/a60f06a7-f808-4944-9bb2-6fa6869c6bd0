@@ -12,7 +12,7 @@
     "description": "Taxonomic strengths: Boraginaceae, especially Cryptantha and allies. Mostly southern California, but some collections from other parts of the United States, Chile, Argentina, Mexico, Australia, South Africa, and southern Pacific.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 22000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Taxonomic strengths: Boraginaceae, especially Cryptantha and allies.",
     "geographic_range": "Mostly southern California, but some collections from other parts of the United States, Chile, Argentina, Mexico, Australia, South Africa, and southern Pacific.",
     "collectionExtent": "22000",
@@ -27,6 +27,13 @@
     "physical_city": "San Diego",
     "physical_state": "California",
     "physical_zip": "92182-4614",
+    "UniqueNameUUID": "urn:uuid:1ac5f7fb-fb54-4e80-bf12-eaf69bbab252",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 32.7449,
     "lon": -117.0622
   }

@@ -15,7 +15,7 @@
     "knownToContainTypes": false,
     "taxonCoverage": "",
     "geographic_range": "",
-    "collectionExtent": "NA",
+    "collectionExtent": "",
     "contact": "Teresa Mayfield",
     "contact_role": "Collection Manager",
     "contact_email": "tmayfield@utep.edu",
@@ -27,6 +27,13 @@
     "physical_city": "El Paso",
     "physical_state": "Texas",
     "physical_zip": "79968",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 31.77,
     "lon": -106.5054
-}
+  }

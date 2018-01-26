@@ -12,7 +12,7 @@
     "description": "Extensive collections from the montane, subalpine and alpine zones dating back to the late 1800's. Montana and the northern Rocky Mountains",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 130000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Extensive collections from the montane, subalpine and alpine zones dating back to the late 1800's.",
     "geographic_range": "Montana and the northern Rocky Mountains",
     "collectionExtent": "130000",
@@ -27,6 +27,13 @@
     "physical_city": "Missoula",
     "physical_state": "Montana",
     "physical_zip": "59812-1002",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 47.116,
     "lon": -114.0498
   }

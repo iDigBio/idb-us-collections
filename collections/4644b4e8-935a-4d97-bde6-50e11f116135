@@ -12,7 +12,7 @@
     "description": "",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 38500,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Tracheophyta",
     "geographic_range": "Connecticut",
     "collectionExtent": "38,500",
@@ -27,6 +27,13 @@
     "physical_city": "New Haven",
     "physical_state": "Connecticut",
     "physical_zip": "06532-0004",
+    "UniqueNameUUID": "urn:uuid:b2b7748a-7daf-466c-8719-7493ac40beda",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 41.3657,
     "lon": -72.9275
   }

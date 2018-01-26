@@ -12,7 +12,7 @@
     "description": "Portulaca, Sarracenia, Helianthus, Astilbe, Aruncus Primarily southeastern U.S.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 45000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Portulaca, Sarracenia, Helianthus, Astilbe, Aruncus",
     "geographic_range": "Primarily southeastern U.S.",
     "collectionExtent": "45000",
@@ -27,6 +27,13 @@
     "physical_city": "Charlotte",
     "physical_state": "North Carolina",
     "physical_zip": "28215",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 35.245,
     "lon": -80.6935
   }

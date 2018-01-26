@@ -12,7 +12,7 @@
     "description": "Bacteria from the genus Bacillus sensu lato Worldwide",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 7000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Bacteria from the genus Bacillus sensu lato",
     "geographic_range": "Worldwide",
     "collectionExtent": "7000",
@@ -27,6 +27,13 @@
     "physical_city": "Columbus",
     "physical_state": "Ohio",
     "physical_zip": "43210-1214",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 39.9968,
     "lon": -83.0074
   }

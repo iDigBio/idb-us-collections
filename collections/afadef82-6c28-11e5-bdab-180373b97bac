@@ -12,7 +12,7 @@
     "description": "Butterflies and moths of Nevada in progress of cataloging, herbarium collection is composed of host plants for Nevada butterflies. We house the Nevada State fossil Shonisarus popularis (ichthyosaur), we are the National Park Service repository for Tule Springs Fossil Bed National Park Pliestocene mammal collection, we are a Southern Nevada BLM paleontological repository that includes Northrotheriops shastensis (Devils Peak Giant Ground Sloth) specimen. We also have material consists of parts of dromaeosaurus, sauropod, tyrannosauroid and an iguanodont from Southern nevada. Our collections come from the State of Nevada and surrounding geographical areas such as the Great Basin, Mojave, and Sonoran deserts",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 40000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Butterflies and moths of Nevada in progress of cataloging, herbarium collection is composed of host plants for Nevada butterflies. We house the Nevada State fossil Shonisarus popularis (ichthyosaur), we are the National Park Service repository for Tule Springs Fossil Bed National Park Pliestocene mammal collection, we are a Southern Nevada BLM paleontological repository that includes Northrotheriops shastensis (Devils Peak Giant Ground Sloth) specimen. We also have material consists of parts of dromaeosaurus, sauropod, tyrannosauroid and an iguanodont from Southern nevada.",
     "geographic_range": "Our collections come from the State of Nevada and surrounding geographical areas such as the Great Basin, Mojave, and Sonoran deserts",
     "collectionExtent": "40000",
@@ -27,6 +27,13 @@
     "physical_city": "Las Vegas",
     "physical_state": "Nevada",
     "physical_zip": "89107",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 36.1698,
     "lon": -115.1925
   }

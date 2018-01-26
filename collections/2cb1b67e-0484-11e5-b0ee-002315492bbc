@@ -12,7 +12,7 @@
     "description": "Coleoptera: Chrysomelidae, Cicindellidae, Curculionidae.\nLepidoptera\nThysanoptera Primarily the upper Great Plains with some holdings from throughout North America, and some International collections.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 1000000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Coleoptera: Chrysomelidae, Cicindellidae, Curculionidae.\nLepidoptera\nThysanoptera",
     "geographic_range": "Primarily the upper Great Plains with some holdings from throughout North America, and some International collections.",
     "collectionExtent": "1000000",
@@ -27,6 +27,13 @@
     "physical_city": "Fargo",
     "physical_state": "North Dakota",
     "physical_zip": "58108",
+    "UniqueNameUUID": "urn:uuid:944c09c6-773c-4a48-bfb4-87f0bc48bbab",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 46.9346,
     "lon": -97.2297
   }

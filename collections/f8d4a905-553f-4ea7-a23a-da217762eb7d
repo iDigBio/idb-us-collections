@@ -27,6 +27,13 @@
     "physical_city": "Richmond",
     "physical_state": "Indiana",
     "physical_zip": "47374",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 39.8253,
     "lon": -84.9097
   }

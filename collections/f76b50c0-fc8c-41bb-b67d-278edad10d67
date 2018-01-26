@@ -15,7 +15,7 @@
     "knownToContainTypes": true,
     "taxonCoverage": "",
     "geographic_range": "",
-    "collectionExtent": "NA",
+    "collectionExtent": "",
     "contact": "Gavin Svenson",
     "contact_role": "Curator",
     "contact_email": "gsvenson@cmnh.org",
@@ -27,6 +27,13 @@
     "physical_city": "Cleveland",
     "physical_state": "Ohio",
     "physical_zip": "44106",
+    "UniqueNameUUID": "urn:uuid:459bfca4-320a-4625-8eb1-ee54c6d1ef81",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 41.5074,
     "lon": -81.6072
-}
+  }

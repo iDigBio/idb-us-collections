@@ -27,6 +27,13 @@
     "physical_city": "Sparks",
     "physical_state": "Nevada",
     "physical_zip": "89431",
-    "lat": 39.5310613,
-    "lon": -119.7747647
-}
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 39.5311,
+    "lon": -119.7748
+  }

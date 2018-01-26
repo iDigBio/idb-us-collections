@@ -12,7 +12,7 @@
     "description": "Iowa plants (all taxa), fungi and lichens; Poaceae (including Bambusoideae, worldwide); Fabaceae of the United States; bryophytes of North America Iowa; Midwestern United States; North America; worldwide",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 640000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Iowa plants (all taxa), fungi and lichens; Poaceae (including Bambusoideae, worldwide); Fabaceae of the United States; bryophytes of North America",
     "geographic_range": "Iowa; Midwestern United States; North America; worldwide",
     "collectionExtent": "640000",
@@ -27,6 +27,13 @@
     "physical_city": "Ames",
     "physical_state": "Iowa",
     "physical_zip": "50011-1020",
+    "UniqueNameUUID": "urn:uuid:60c390ff-96ec-4703-9f22-fc21cdf9fc39",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 42.0364,
     "lon": -93.6447
   }

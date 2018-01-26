@@ -27,6 +27,13 @@
     "physical_city": "Albuquerque",
     "physical_state": "New Mexico",
     "physical_zip": "87104",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 35.098,
     "lon": -106.6657
   }

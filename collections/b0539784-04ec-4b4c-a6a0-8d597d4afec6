@@ -27,6 +27,13 @@
     "physical_city": "Durango",
     "physical_state": "Colorado",
     "physical_zip": "81301",
+    "UniqueNameUUID": "urn:uuid:f23e8e41-3d01-434b-bd8f-eae9e7642967",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 37.4411,
     "lon": -107.8528
   }

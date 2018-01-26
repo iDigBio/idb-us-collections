@@ -27,6 +27,13 @@
     "physical_city": "Alpine",
     "physical_state": "Texas",
     "physical_zip": "79832",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 30.3631,
     "lon": -103.6539
   }

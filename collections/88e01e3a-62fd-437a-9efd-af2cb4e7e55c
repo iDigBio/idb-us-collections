@@ -27,6 +27,13 @@
     "physical_city": "Notre Dame",
     "physical_state": "Indiana",
     "physical_zip": "46556",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 41.7009,
     "lon": -86.2319
   }

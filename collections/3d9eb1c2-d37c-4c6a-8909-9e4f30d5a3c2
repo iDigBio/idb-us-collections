@@ -12,7 +12,7 @@
     "description": "Apocynaceae, Asteraceae, Poaceae, Solanaceae Worldwide, emphasis on North America",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 152000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Apocynaceae, Asteraceae, Poaceae, Solanaceae",
     "geographic_range": "Worldwide, emphasis on North America",
     "collectionExtent": "152000",
@@ -27,6 +27,13 @@
     "physical_city": "Stillwater",
     "physical_state": "Oklahoma",
     "physical_zip": "74078-3013",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 36.1241,
     "lon": -97.0705
   }

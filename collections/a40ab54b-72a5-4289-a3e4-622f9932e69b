@@ -1,5 +1,5 @@
 {
-    "institution": "William Paterson University ",
+    "institution": "William Paterson University",
     "collection": "Entomology",
     "recordsets": "",
     "recordsetQuery": "",
@@ -21,12 +21,19 @@
     "contact_email": "",
     "mailing_address": "300 Pompton Rd,",
     "mailing_city": "Wayne",
-    "mailing_state": "New Jersey ",
+    "mailing_state": "New Jersey",
     "mailing_zip": "07470",
     "physical_address": "300 Pompton Rd,",
     "physical_city": "Wayne",
-    "physical_state": "New Jersey ",
+    "physical_state": "New Jersey",
     "physical_zip": "07470",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 40.946,
     "lon": -74.1981
   }

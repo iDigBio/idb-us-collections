@@ -27,6 +27,13 @@
     "physical_city": "Grand Canyon",
     "physical_state": "Arizona",
     "physical_zip": "86023-0129",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 35.2316,
     "lon": -111.6592
   }

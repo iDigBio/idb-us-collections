@@ -12,7 +12,7 @@
     "description": "Strengths - Dicots: Asteraceae, Rosaceae, Fabaceae. Monocots: Poaceae, Cyperacea United States: Major components are from Iowa & Illinois (primarily Scott & Muscatine Cos., Iowa, & Rock Island Co., Illinois), North Eastern US (primarily New York, Massachusetts, New Jersey & Pennsylvania), California, Oregon, Colorado, Montana. Smaller collections from outside the US: Canada, Europe and South America.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 17600,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Strengths - Dicots: Asteraceae, Rosaceae, Fabaceae. Monocots: Poaceae, Cyperacea",
     "geographic_range": "United States: Major components are from Iowa & Illinois (primarily Scott & Muscatine Cos., Iowa, & Rock Island Co., Illinois), North Eastern US (primarily New York, Massachusetts, New Jersey & Pennsylvania), California, Oregon, Colorado, Montana. Smaller collections from outside the US: Canada, Europe and South America.",
     "collectionExtent": "17600",
@@ -27,6 +27,13 @@
     "physical_city": "Davenport",
     "physical_state": "Iowa",
     "physical_zip": "52804",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 41.5317,
     "lon": -90.6024
   }

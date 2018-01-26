@@ -12,7 +12,7 @@
     "description": "Focus on red algae, with some green and brown seaweeds The Hawaiian Islands",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 3000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Focus on red algae, with some green and brown seaweeds",
     "geographic_range": "The Hawaiian Islands",
     "collectionExtent": "3000",
@@ -27,6 +27,13 @@
     "physical_city": "Honolulu",
     "physical_state": "Hawaii",
     "physical_zip": "96822",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 21.3074,
     "lon": -157.8166
   }

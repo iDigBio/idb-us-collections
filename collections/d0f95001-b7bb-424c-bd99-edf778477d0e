@@ -27,6 +27,13 @@
     "physical_city": "University",
     "physical_state": "Mississippi",
     "physical_zip": "38677",
+    "UniqueNameUUID": "urn:uuid:7e59349e-c94d-423d-965b-be9426734cce",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 34.3647,
     "lon": -89.5384
   }

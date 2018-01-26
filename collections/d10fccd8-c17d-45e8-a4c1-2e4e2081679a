@@ -27,6 +27,13 @@
     "physical_city": "Laurel",
     "physical_state": "Maryland",
     "physical_zip": "20708-4039",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 39.0543,
     "lon": -76.8192
   }

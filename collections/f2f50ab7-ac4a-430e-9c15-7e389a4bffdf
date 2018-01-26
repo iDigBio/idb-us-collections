@@ -12,7 +12,7 @@
     "description": "Arthropoda and Mollusca Puerto Rico and the Caribbean",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 150000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Arthropoda and Mollusca",
     "geographic_range": "Puerto Rico and the Caribbean",
     "collectionExtent": "150,000",
@@ -27,6 +27,13 @@
     "physical_city": "Mayagüez",
     "physical_state": "Puerto Rico",
     "physical_zip": "00681-9000",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 18.2095,
     "lon": -67.1405
   }

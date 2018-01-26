@@ -27,6 +27,13 @@
     "physical_city": "Taos",
     "physical_state": "New Mexico",
     "physical_zip": "87571-5983",
-    "lat": 36.3868966,
-    "lon": -105.5810434
-}
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 36.3869,
+    "lon": -105.581
+  }

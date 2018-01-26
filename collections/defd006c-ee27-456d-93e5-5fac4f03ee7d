@@ -27,6 +27,13 @@
     "physical_city": "Walla Walla",
     "physical_state": "Washington",
     "physical_zip": "99362",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 46.0706,
     "lon": -118.3263
   }

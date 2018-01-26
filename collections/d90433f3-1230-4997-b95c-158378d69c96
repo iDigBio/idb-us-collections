@@ -12,7 +12,7 @@
     "description": "Herpetology Worldwide",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 150000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Herpetology",
     "geographic_range": "Worldwide",
     "collectionExtent": "150000",
@@ -27,6 +27,13 @@
     "physical_city": "Arlington",
     "physical_state": "Texas",
     "physical_zip": "76019-0498",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 32.7714,
     "lon": -97.2915
   }

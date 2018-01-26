@@ -12,7 +12,7 @@
     "description": "Herbarium\nInvertebrates Southwest Virginia and beyond",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 25000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Herbarium\nInvertebrates",
     "geographic_range": "Southwest Virginia and beyond",
     "collectionExtent": "25000",
@@ -27,6 +27,13 @@
     "physical_city": "Radford",
     "physical_state": "Virginia",
     "physical_zip": "24142",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 37.1385,
     "lon": -80.5471
   }

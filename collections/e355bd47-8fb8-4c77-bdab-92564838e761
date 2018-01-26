@@ -12,7 +12,7 @@
     "description": "Vouchers for many state-rare species and some globally rare species. The Cyperaceae is well represented with the genus Carex comprising nearly 1000 sheets. Maryland. Focusing on the rare flora.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 5100,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Vouchers for many state-rare species and some globally rare species. The Cyperaceae is well represented with the genus Carex comprising nearly 1000 sheets.",
     "geographic_range": "Maryland. Focusing on the rare flora.",
     "collectionExtent": "5100",
@@ -27,6 +27,13 @@
     "physical_city": "Annapolis",
     "physical_state": "Maryland",
     "physical_zip": "21401",
+    "UniqueNameUUID": "urn:uuid:98553b56-796a-4a58-8e53-f2295e46f1bb",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 38.9765,
     "lon": -76.5048
   }

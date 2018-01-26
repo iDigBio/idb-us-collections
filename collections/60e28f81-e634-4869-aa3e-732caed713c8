@@ -12,7 +12,7 @@
     "description": "Plants, algae, lichens, diatoms Global",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 5000000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Plants, algae, lichens, diatoms",
     "geographic_range": "Global",
     "collectionExtent": "5,000,000",
@@ -27,6 +27,13 @@
     "physical_city": "Washington",
     "physical_state": "DC",
     "physical_zip": "20013-7012",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 38.8304,
     "lon": -76.9017
   }

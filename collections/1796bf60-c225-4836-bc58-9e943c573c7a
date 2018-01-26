@@ -12,7 +12,7 @@
     "description": "Entomology, herbaria, ornithology, mammalogy, geology, paleontology, malacology Focuses primarily on North America with particular strengths in Florida. Some global specimens.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 10000,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "Entomology, herbaria, ornithology, mammalogy, geology, paleontology, malacology",
     "geographic_range": "Focuses primarily on North America with particular strengths in Florida. Some global specimens.",
     "collectionExtent": "10000",
@@ -27,6 +27,13 @@
     "physical_city": "Jacksonville",
     "physical_state": "Florida",
     "physical_zip": "32207",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 30.3189,
     "lon": -81.6598
   }

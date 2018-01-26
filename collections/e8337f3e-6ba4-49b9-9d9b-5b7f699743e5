@@ -12,7 +12,7 @@
     "description": "North American mammals, particularly rodents, hares, and rabbits Worldwide (over 25 countries), with over 70% of the collection comprised of Colorado species",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 16500,
-    "knownToContainTypes": "",
+    "knownToContainTypes": null,
     "taxonCoverage": "North American mammals, particularly rodents, hares, and rabbits",
     "geographic_range": "Worldwide (over 25 countries), with over 70% of the collection comprised of Colorado species",
     "collectionExtent": "16500",
@@ -27,6 +27,13 @@
     "physical_city": "Boulder",
     "physical_state": "Colorado",
     "physical_zip": "80309-0218",
+    "UniqueNameUUID": "urn:uuid:95b63d9a-13b5-4124-8fb1-54d3ab4be3bc",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 40.0082,
     "lon": -105.2693
   }

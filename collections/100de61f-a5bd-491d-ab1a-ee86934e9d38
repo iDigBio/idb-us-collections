@@ -27,6 +27,13 @@
     "physical_city": "Price",
     "physical_state": "Utah",
     "physical_zip": "84501",
-    "lat": 39.6078198,
-    "lon": -110.8019275
-}
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 39.6078,
+    "lon": -110.8019
+  }
