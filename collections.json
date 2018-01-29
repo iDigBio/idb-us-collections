@@ -46802,8 +46802,8 @@
 {
     "institution": "National Museum of Natural History, Smithsonian Institution",
     "collection": "NMNH Biorepository",
-    "recordsets": "a6eee223-cf3b-4079-8bb2-b77dad8cae9d, 6c6f34ed-58a4-4ba2-b9c7-34524f79a349",
-    "recordsetQuery": "{\"recordset\":[\"a6eee223-cf3b-4079-8bb2-b77dad8cae9d\",\"6c6f34ed-58a4-4ba2-b9c7-34524f79a349\"]}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "USNM, US",
     "collection_code": "",
     "collection_uuid": "urn:uuid:cb47a591-0a5f-4fe0-9487-691aad029fa0",
