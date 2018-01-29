@@ -55482,10 +55482,10 @@
 {
     "institution": "National Museum of Natural History, Smithsonian Institution",
     "collection": "Invertebrate Zoology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "a6eee223-cf3b-4079-8bb2-b77dad8cae9d",
+    "recordsetQuery": "{\"recordset\":\"a6eee223-cf3b-4079-8bb2-b77dad8cae9d\",\"collectioncode\":\"Invertebrate Zoology\"}",
     "institution_code": "USNM",
-    "collection_code": "",
+    "collection_code": "Invertebrate Zoology",
     "collection_uuid": "urn:uuid:f14c21a9-8cbf-4c8b-817f-d19d427e2dd6",
     "collection_lsid": "http://grbio.org/cool/abck-1zsq",
     "collection_url": "http://invertebrates.si.edu/",
