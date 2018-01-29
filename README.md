@@ -28,7 +28,7 @@ Collections should each have their own JSON file, named by their collection UUID
     "description": "",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": null,
-    "knownToContainTypes": true,
+    "knownToContainTypes": null,
     "taxonCoverage": "",
     "geographic_range": "",
     "collectionExtent": "",
@@ -43,9 +43,16 @@ Collections should each have their own JSON file, named by their collection UUID
     "physical_city": "New Haven",
     "physical_state": "Connecticut",
     "physical_zip": "06511-0000",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": 41.3167,
     "lon": -72.9204
-}
+  }
 ```
 
 
@@ -84,6 +91,13 @@ Collections should each have their own JSON file, named by their collection UUID
 - ```physical_city```
 - ```physical_state```
 - ```physical_zip``` to avoid conversion issue between spreadsheet formats, zip codes starting with a 0 have -0000 at the end: e.g., 02138-0000 for the MCZ
+- ```UniqueNameUUID``` this property is used by iDigBio staff to maintain a hierarchical relationship between institutions and collections
+- ```attributionLogoURL``` http://rs.tdwg.org/ac/terms/attributionLogoURL
+- ```providerManagedID```  http://rs.tdwg.org/ac/terms/providerManagedID
+- ```derivedFrom``` http://rs.tdwg.org/ac/terms/derivedFrom
+- ```sameAs``` http://schema.org/sameAs
+- ```flag``` this property is used by iDigBio staff
+- ```portalDisplay``` this property is used by iDigBio staff
 - ```lat``` decimal latitude for the collection
 - ```lon```  decimal longitude for the collection
 
@@ -107,7 +121,7 @@ Stub records can be generated using the function ```r createCollStub``` . A stub
     "description": "",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": null,
-    "knownToContainTypes": false,
+    "knownToContainTypes": null,
     "taxonCoverage": "",
     "geographic_range": "",
     "collectionExtent": "",
@@ -122,7 +136,14 @@ Stub records can be generated using the function ```r createCollStub``` . A stub
     "physical_city": "",
     "physical_state": "",
     "physical_zip": "",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
     "lat": null,
     "lon": null
-}
+  } 
 ```
