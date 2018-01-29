@@ -19120,12 +19120,12 @@
   }
 ,
 {
-    "institution": "University of Alaska Museum of the North",
+    "institution": "University of Alaska Museum",
     "collection": "Ornithology",
     "recordsets": "3451a762-d117-430e-968c-dd747ed53887",
     "recordsetQuery": "{\"recordset\":\"3451a762-d117-430e-968c-dd747ed53887\"}",
     "institution_code": "UAM",
-    "collection_code": "Bird specimens",
+    "collection_code": "",
     "collection_uuid": "urn:uuid:4eb454d4-5d27-4ec1-b177-74de7107770b",
     "collection_lsid": "",
     "collection_url": "http://www.uaf.edu/museum/collections/bird/",
@@ -35920,12 +35920,12 @@
   }
 ,
 {
-    "institution": "University of Alaska Museum",
+    "institution": "University of Alaska Museum of the North",
     "collection": "Fishes and Marine Invertebrates",
     "recordsets": "e7bc6545-f14f-4fc4-9902-1aa38040f184, 3617a6a3-d384-48de-948d-2d1e1c54e090",
     "recordsetQuery": "{\"recordset\":[\"e7bc6545-f14f-4fc4-9902-1aa38040f184\",\"3617a6a3-d384-48de-948d-2d1e1c54e090\"]}",
     "institution_code": "UAM",
-    "collection_code": "",
+    "collection_code": "Fish specimens, Invertebrate specimens",
     "collection_uuid": "urn:uuid:9b120484-d4cb-48af-bffc-e29ae067613b",
     "collection_lsid": "http://grbio.org/cool/m7qy-skrc",
     "collection_url": "http://www.uaf.edu/museum/collections/aqua/",
