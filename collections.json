@@ -47362,10 +47362,10 @@
 {
     "institution": "National Museum of Natural History, Smithsonian Institution",
     "collection": "Paleobiology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "6c6f34ed-58a4-4ba2-b9c7-34524f79a349",
+    "recordsetQuery": "{\"recordset\":\"6c6f34ed-58a4-4ba2-b9c7-34524f79a349\",\"collectioncode\":\"Paleobiology\"}",
     "institution_code": "USNM",
-    "collection_code": "USNM PAL",
+    "collection_code": "Paleobiology",
     "collection_uuid": "urn:uuid:ce595e88-ceba-42c0-a3ff-cd55b694f2ac",
     "collection_lsid": "",
     "collection_url": "http://paleobiology.si.edu/",
