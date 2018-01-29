@@ -50480,12 +50480,12 @@
   }
 ,
 {
-    "institution": "University of Alaska Museum",
+    "institution": "University of Alaska Museum of the North",
     "collection": "Entomology",
     "recordsets": "eaa5f19e-ff6f-4d09-8b55-4a6810e77a6c",
     "recordsetQuery": "{\"recordset\":\"eaa5f19e-ff6f-4d09-8b55-4a6810e77a6c\"}",
     "institution_code": "UAM",
-    "collection_code": "UAM",
+    "collection_code": "Insect specimens",
     "collection_uuid": "urn:uuid:db38fdb9-9273-41e3-83b6-194645fb1c45",
     "collection_lsid": "http://grbio.org/cool/h1ke-esxn",
     "collection_url": "http://www.uaf.edu/museum/collections/ento/",
