@@ -1,10 +1,10 @@
 {
     "institution": "National Museum of Natural History, Smithsonian Institution",
     "collection": "Vertebrate Zoology, Mammals",
-    "recordsets": "a6eee223-cf3b-4079-8bb2-b77dad8cae9d",
-    "recordsetQuery": "{\"recordset\":\"a6eee223-cf3b-4079-8bb2-b77dad8cae9d\",\"collectioncode\":\"Mammals\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "USNM",
-    "collection_code": "Mammals",
+    "collection_code": "",
     "collection_uuid": "urn:uuid:59e56a59-8615-4e0c-841d-eb88f3876b22",
     "collection_lsid": "http://grbio.org/cool/cy7i-ptxq",
     "collection_url": "http://vertebrates.si.edu/mammals/",
