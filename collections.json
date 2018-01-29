@@ -46720,8 +46720,8 @@
   }
 ,
 {
-    "institution": "University of Florida, Florida Museum of Natural History",
-    "collection": "Herbarium",
+    "institution": "Florida Museum of Natural History",
+    "collection": "University of Florida Herbarium",
     "recordsets": "1f2b44b8-8556-4d6e-8247-4611689551cf, b5e5c781-765f-4981-af2a-c19c250e2cf0, fccc3c1d-d9df-4ffd-b7e1-1b9eb11f95b1, 781fd581-7b93-471e-a025-413e4bcd8491, e85a9948-9c9e-451d-9485-b2b4cb7b73d5",
     "recordsetQuery": "{\"recordset\":[\"1f2b44b8-8556-4d6e-8247-4611689551cf\",\"b5e5c781-765f-4981-af2a-c19c250e2cf0\",\"fccc3c1d-d9df-4ffd-b7e1-1b9eb11f95b1\",\"781fd581-7b93-471e-a025-413e4bcd8491\",\"e85a9948-9c9e-451d-9485-b2b4cb7b73d5\"]}",
     "institution_code": "FLAS<IH>",
