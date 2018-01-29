@@ -3240,12 +3240,12 @@
   }
 ,
 {
-    "institution": "Florida Museum of Natural History",
+    "institution": "University of Florida, Florida Museum of Natural History",
     "collection": "Mammalogy",
     "recordsets": "48e1b8c1-91aa-4b87-8ca0-de1f81232eaf",
     "recordsetQuery": "{\"recordset\":\"48e1b8c1-91aa-4b87-8ca0-de1f81232eaf\"}",
     "institution_code": "UF",
-    "collection_code": "",
+    "collection_code": "Mammals",
     "collection_uuid": "urn:uuid:0cc4a143-daa1-45b1-8466-7cf695583a3b",
     "collection_lsid": "",
     "collection_url": "http://www.flmnh.ufl.edu/mammals/",
@@ -3880,7 +3880,7 @@
   }
 ,
 {
-    "institution": "Florida Museum of Natural History",
+    "institution": "University of Florida, Florida Museum of Natural History",
     "collection": "Herpetology",
     "recordsets": "bd7cfd55-bf55-46fc-878d-e6e11f574ccd",
     "recordsetQuery": "{\"recordset\":\"bd7cfd55-bf55-46fc-878d-e6e11f574ccd\",\"collectioncode\":\"Herp\"}",
@@ -33320,7 +33320,7 @@
   }
 ,
 {
-    "institution": "University of Florida, Florida Museum of Natural History",
+    "institution": "Florida Museum of Natural History",
     "collection": "Invertebrate Paleontology",
     "recordsets": "1ba0bbad-28a7-4c50-8992-a028f79d1dc5",
     "recordsetQuery": "{\"recordset\":\"1ba0bbad-28a7-4c50-8992-a028f79d1dc5\"}",
