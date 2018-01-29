@@ -2802,10 +2802,10 @@
 {
     "institution": "National Museum of Natural History, Smithsonian Institution",
     "collection": "Vertebrate Zoology, Fishes",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "a6eee223-cf3b-4079-8bb2-b77dad8cae9d",
+    "recordsetQuery": "{\"recordset\":\"a6eee223-cf3b-4079-8bb2-b77dad8cae9d\",\"collectioncode\":\"Fishes\"}",
     "institution_code": "USNM",
-    "collection_code": "",
+    "collection_code": "Fishes",
     "collection_uuid": "urn:uuid:09c9cf5f-f5d3-48cc-b5c8-cd9b9fbd631f",
     "collection_lsid": "http://grbio.org/cool/22s5-q4hk",
     "collection_url": "http://vertebrates.si.edu/fishes/",
