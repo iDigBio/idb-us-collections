@@ -19120,12 +19120,12 @@
   }
 ,
 {
-    "institution": "University of Alaska Museum",
+    "institution": "University of Alaska Museum of the North",
     "collection": "Ornithology",
     "recordsets": "3451a762-d117-430e-968c-dd747ed53887",
     "recordsetQuery": "{\"recordset\":\"3451a762-d117-430e-968c-dd747ed53887\"}",
     "institution_code": "UAM",
-    "collection_code": "",
+    "collection_code": "Bird specimens",
     "collection_uuid": "urn:uuid:4eb454d4-5d27-4ec1-b177-74de7107770b",
     "collection_lsid": "",
     "collection_url": "http://www.uaf.edu/museum/collections/bird/",
