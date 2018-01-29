@@ -9280,7 +9280,7 @@
   }
 ,
 {
-    "institution": "Rocky Mountain Research Station, USDA Forest Service (Montana)",
+    "institution": "Rocky Mountain Research Station (Montana)",
     "collection": "Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
@@ -29320,7 +29320,7 @@
   }
 ,
 {
-    "institution": "Rocky Mountain Research Station",
+    "institution": "Rocky Mountain Research Station, USDA Forest Service (Idaho)",
     "collection": "Herbarium",
     "recordsets": "3c6f1ea5-f2e7-4203-9cfe-74ec2fb1b035",
     "recordsetQuery": "{\"recordset\":\"3c6f1ea5-f2e7-4203-9cfe-74ec2fb1b035\"}",
