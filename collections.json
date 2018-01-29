@@ -2828,7 +2828,7 @@
     "physical_city": "Suitland",
     "physical_state": "Maryland",
     "physical_zip": "20746",
-    "UniqueNameUUID": "urn:uuid:4fcd6058-bf89-4770-a692-60334160e449",
+    "UniqueNameUUID": "",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
@@ -12480,7 +12480,7 @@
   }
 ,
 {
-    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "institution": "Smithsonian Institution",
     "collection": "Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
@@ -33800,7 +33800,7 @@
   }
 ,
 {
-    "institution": "Andrews University",
+    "institution": "Andrews University, Museum of Natural History",
     "collection": "Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
@@ -33817,9 +33817,9 @@
     "taxonCoverage": "",
     "geographic_range": "",
     "collectionExtent": "",
-    "contact": "",
-    "contact_role": "",
-    "contact_email": "",
+    "contact": "Dennis Woodland",
+    "contact_role": "Curator",
+    "contact_email": "woody@andrews.edu",
     "mailing_address": "Museum of Natural History",
     "mailing_city": "Berrien Springs",
     "mailing_state": "Michigan",
@@ -33828,7 +33828,7 @@
     "physical_city": "Berrien Springs",
     "physical_state": "Michigan",
     "physical_zip": "49104-0410",
-    "UniqueNameUUID": "urn:uuid:e47a2db5-a228-47a7-a192-f7d74c4cbd4f",
+    "UniqueNameUUID": "",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
