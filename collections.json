@@ -960,7 +960,7 @@
   }
 ,
 {
-    "institution": "University of Alaska Museum",
+    "institution": "University of Alaska Museum of the North",
     "collection": "Herpetology",
     "recordsets": "061dfaff-0c45-459e-ac56-738fe4cbe213",
     "recordsetQuery": "{\"recordset\":\"061dfaff-0c45-459e-ac56-738fe4cbe213\"}",
@@ -9840,12 +9840,12 @@
   }
 ,
 {
-    "institution": "University of Alaska Museum of the North",
+    "institution": "University of Alaska Museum",
     "collection": "Earth Sciences",
     "recordsets": "2ec3b31e-c86b-4ce9-b265-77c8c3f9643c",
     "recordsetQuery": "{\"recordset\":\"2ec3b31e-c86b-4ce9-b265-77c8c3f9643c\"}",
     "institution_code": "UAM",
-    "collection_code": "Earth Science",
+    "collection_code": "",
     "collection_uuid": "urn:uuid:28dd3d7c-d921-4c37-ad4b-093cf687f0a7",
     "collection_lsid": "http://grbio.org/cool/2q8w-b5qt",
     "collection_url": "http://www.uaf.edu/museum/collections/earth/",
