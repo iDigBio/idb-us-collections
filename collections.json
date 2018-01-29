@@ -26925,7 +26925,7 @@
     "recordsets": "a6eee223-cf3b-4079-8bb2-b77dad8cae9d",
     "recordsetQuery": "{\"recordset\":\"a6eee223-cf3b-4079-8bb2-b77dad8cae9d\",\"collectioncode\":\"Birds\"}",
     "institution_code": "USNM",
-    "collection_code": "Birds",
+    "collection_code": "USNM",
     "collection_uuid": "urn:uuid:73d83e23-1999-42cd-b38a-c06a7d32d893",
     "collection_lsid": "http://grbio.org/cool/e49n-75xd",
     "collection_url": "http://vertebrates.si.edu/birds/",
