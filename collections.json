@@ -1560,12 +1560,12 @@
   }
 ,
 {
-    "institution": "University of Florida Herbarium, Florida Museum of Natural History",
+    "institution": "Florida Museum of Natural History",
     "collection": "Malacology & Invertebrate Zoology",
-    "recordsets": "6bb853ab-e8ea-43b1-bd83-47318fc4c345",
-    "recordsetQuery": "{\"recordset\":\"6bb853ab-e8ea-43b1-bd83-47318fc4c345\"}",
+    "recordsets": "6bb853ab-e8ea-43b1-bd83-47318fc4c345, 252a0a12-f114-4fb5-aa9a-678c523d6dcd",
+    "recordsetQuery": "{\"recordset\":[\"6bb853ab-e8ea-43b1-bd83-47318fc4c345\",\"252a0a12-f114-4fb5-aa9a-678c523d6dcd\"]}",
     "institution_code": "UF",
-    "collection_code": "Invertebrate Zoology",
+    "collection_code": "",
     "collection_uuid": "urn:uuid:056f2097-c584-4ea6-b15b-52b92e781769",
     "collection_lsid": "",
     "collection_url": "http://www.flmnh.ufl.edu/malacology/",
@@ -34560,12 +34560,12 @@
   }
 ,
 {
-    "institution": "Florida Museum of Natural History",
+    "institution": "University of Florida, Florida Museum of Natural History",
     "collection": "Paleobotany",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "0e162e0a-bf3e-4710-9357-44258ca12abb",
+    "recordsetQuery": "{\"recordset\":\"0e162e0a-bf3e-4710-9357-44258ca12abb\"}",
     "institution_code": "UF",
-    "collection_code": "",
+    "collection_code": "Paleobotany",
     "collection_uuid": "urn:uuid:95d1da3f-97c0-4b6c-bf71-a8b56232c90a",
     "collection_lsid": "",
     "collection_url": "http://www.flmnh.ufl.edu/paleobotany/",
