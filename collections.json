@@ -51040,12 +51040,12 @@
   }
 ,
 {
-    "institution": "University of Alaska Museum",
+    "institution": "University of Alaska Museum of the North",
     "collection": "Mammals",
     "recordsets": "b4d4e884-a2ef-4967-b4cb-2072fc465eaf",
     "recordsetQuery": "{\"recordset\":\"b4d4e884-a2ef-4967-b4cb-2072fc465eaf\"}",
     "institution_code": "UAM",
-    "collection_code": "",
+    "collection_code": "Mammal specimens",
     "collection_uuid": "urn:uuid:dd93a64b-119d-4090-8e96-47ec28fba837",
     "collection_lsid": "http://grbio.org/cool/c0mn-bw3i",
     "collection_url": "http://www.uaf.edu/museum/collections/mammal/",
