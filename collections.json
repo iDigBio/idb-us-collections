@@ -2720,7 +2720,7 @@
   }
 ,
 {
-    "institution": "Navajo Nation Department of Fish and Wildlife",
+    "institution": "Navajo Nation",
     "collection": "Herbarium",
     "recordsets": "5277e72c-9e53-4c98-85f1-ee413bc473cd",
     "recordsetQuery": "{\"recordset\":\"5277e72c-9e53-4c98-85f1-ee413bc473cd\"}",
@@ -47840,7 +47840,7 @@
   }
 ,
 {
-    "institution": "Evergreen State College",
+    "institution": "Evergreen State College Natural History Museum",
     "collection": "Herbarium",
     "recordsets": "0bada388-4adf-4b8c-b733-0a1bfc7c233c, ccba425a-25e0-4d94-8fde-3890be03ae1b, 85ae9fb4-de87-41ce-abb3-44fda2fb24a8",
     "recordsetQuery": "{\"recordset\":[\"0bada388-4adf-4b8c-b733-0a1bfc7c233c\",\"ccba425a-25e0-4d94-8fde-3890be03ae1b\",\"85ae9fb4-de87-41ce-abb3-44fda2fb24a8\"]}",
