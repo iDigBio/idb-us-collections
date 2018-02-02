@@ -16080,7 +16080,7 @@
   }
 ,
 {
-    "institution": "Denver Museum of Nature and Science",
+    "institution": "Denver Museum of Nature & Science",
     "collection": "Parasite",
     "recordsets": "abf5b4f3-ed39-4bb9-acd6-9ee50acac0ad",
     "recordsetQuery": "{\"recordset\":\"abf5b4f3-ed39-4bb9-acd6-9ee50acac0ad\"}",
@@ -16108,7 +16108,7 @@
     "physical_city": "Denver",
     "physical_state": "Colorado",
     "physical_zip": "80205",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:75a457ae-5214-4b6a-9eab-178d6cf4a780",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
@@ -56720,7 +56720,7 @@
   }
 ,
 {
-    "institution": "Denver Museum of Nature & Science",
+    "institution": "Denver Museum of Nature and Science",
     "collection": "Arachnids",
     "recordsets": "",
     "recordsetQuery": "",
@@ -56748,7 +56748,7 @@
     "physical_city": "Denver",
     "physical_state": "Colorado",
     "physical_zip": "80205",
-    "UniqueNameUUID": "urn:uuid:75a457ae-5214-4b6a-9eab-178d6cf4a780",
+    "UniqueNameUUID": "",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
