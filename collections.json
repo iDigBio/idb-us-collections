@@ -1920,7 +1920,7 @@
   }
 ,
 {
-    "institution": "Denver Museum of Nature & Science",
+    "institution": "Denver Museum of Nature and Science",
     "collection": "Invertebrate Paleontology",
     "recordsets": "",
     "recordsetQuery": "",
@@ -1948,7 +1948,7 @@
     "physical_city": "Denver",
     "physical_state": "Colorado",
     "physical_zip": "80205",
-    "UniqueNameUUID": "urn:uuid:75a457ae-5214-4b6a-9eab-178d6cf4a780",
+    "UniqueNameUUID": "",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
@@ -13840,8 +13840,8 @@
   }
 ,
 {
-    "institution": "Denver Botanic Gardens, Collection of Arthropods",
-    "collection": "",
+    "institution": "Denver Botanic Gardens",
+    "collection": "Arthropods",
     "recordsets": "0395f3c4-0277-43b6-a36d-e07720588790",
     "recordsetQuery": "{\"recordset\":\"0395f3c4-0277-43b6-a36d-e07720588790\"}",
     "institution_code": "DBG",
@@ -24120,7 +24120,7 @@
   }
 ,
 {
-    "institution": "Denver Museum of Nature and Science",
+    "institution": "Denver Museum of Nature & Science",
     "collection": "Birds",
     "recordsets": "bcbae485-1286-4452-bbc9-bcb38c6c3573",
     "recordsetQuery": "{\"recordset\":\"bcbae485-1286-4452-bbc9-bcb38c6c3573\"}",
@@ -24148,7 +24148,7 @@
     "physical_city": "Denver",
     "physical_state": "Colorado",
     "physical_zip": "80205",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:75a457ae-5214-4b6a-9eab-178d6cf4a780",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
