@@ -1,6 +1,6 @@
 {
-    "institution": "University of Central Florida, The Bug Closet",
-    "collection": "Arthropods",
+    "institution": "University of Central Florida Collection of Arthropods",
+    "collection": "The Bug Closet",
     "recordsets": "84006c59-fead-4b84-b3b5-cedf28f67ea9",
     "recordsetQuery": "{\"recordset\":\"84006c59-fead-4b84-b3b5-cedf28f67ea9\"}",
     "institution_code": "UCFC",
@@ -27,7 +27,7 @@
     "physical_city": "Orlando",
     "physical_state": "Florida",
     "physical_zip": "32816-2368",
-    "UniqueNameUUID": "urn:uuid:7bfc97ce-e937-4f27-8d70-464a06e70ec0",
+    "UniqueNameUUID": "",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
