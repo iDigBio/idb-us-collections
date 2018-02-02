@@ -1,5 +1,5 @@
 {
-    "institution": "University of Utah, Utah Museum of Natural History",
+    "institution": "University of Utah, Natural History Museum of Utah",
     "collection": "Entomology",
     "recordsets": "6539877e-82dc-485c-ad3d-038f383d5431",
     "recordsetQuery": "{\"recordset\":\"6539877e-82dc-485c-ad3d-038f383d5431\"}",
@@ -27,7 +27,7 @@
     "physical_city": "Salt Lake City",
     "physical_state": "Utah",
     "physical_zip": "84108-1214",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:26f00cec-b7d6-4676-8e37-0b189db7636e",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
