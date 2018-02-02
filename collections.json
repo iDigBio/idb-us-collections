@@ -21522,8 +21522,8 @@
 {
     "institution": "Morehead State University",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "79aa7602-a963-44f3-82dd-e141a387adb8",
+    "recordsetQuery": "{\"recordset\":\"79aa7602-a963-44f3-82dd-e141a387adb8\"}",
     "institution_code": "MDKY<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:5913f0ac-cd39-491b-abd2-f8df1c33a331",
