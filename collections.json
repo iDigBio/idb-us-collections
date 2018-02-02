@@ -24120,7 +24120,7 @@
   }
 ,
 {
-    "institution": "Denver Museum of Nature & Science",
+    "institution": "Denver Museum of Nature and Science",
     "collection": "Birds",
     "recordsets": "bcbae485-1286-4452-bbc9-bcb38c6c3573",
     "recordsetQuery": "{\"recordset\":\"bcbae485-1286-4452-bbc9-bcb38c6c3573\"}",
@@ -24148,7 +24148,7 @@
     "physical_city": "Denver",
     "physical_state": "Colorado",
     "physical_zip": "80205",
-    "UniqueNameUUID": "urn:uuid:75a457ae-5214-4b6a-9eab-178d6cf4a780",
+    "UniqueNameUUID": "",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
@@ -37880,7 +37880,7 @@
   }
 ,
 {
-    "institution": "Denver Museum of Nature and Science",
+    "institution": "Denver Museum of Nature & Science",
     "collection": "Eggs & Nests",
     "recordsets": "a8add96d-651c-488e-8ca3-ed3f85c7a117",
     "recordsetQuery": "{\"recordset\":\"a8add96d-651c-488e-8ca3-ed3f85c7a117\"}",
@@ -37908,7 +37908,7 @@
     "physical_city": "Denver",
     "physical_state": "Colorado",
     "physical_zip": "80205",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:75a457ae-5214-4b6a-9eab-178d6cf4a780",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
