@@ -58520,7 +58520,7 @@
   }
 ,
 {
-    "institution": "Black Hills State University, Herbarium",
+    "institution": "Black Hills State University",
     "collection": "Herbarium",
     "recordsets": "4db72a36-c08b-4a6b-8c68-ab45ebb0efce",
     "recordsetQuery": "{\"recordset\":\"4db72a36-c08b-4a6b-8c68-ab45ebb0efce\"}",
@@ -58548,7 +58548,7 @@
     "physical_city": "Spearfish",
     "physical_state": "South Dakota",
     "physical_zip": "57799-9003",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:47567442-b772-4dc5-b1a7-c178b4759390",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
