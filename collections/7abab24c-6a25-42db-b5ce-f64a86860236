@@ -1,5 +1,5 @@
 {
-    "institution": "Denver Museum of Nature & Science",
+    "institution": "Denver Museum of Nature and Science",
     "collection": "Insects",
     "recordsets": "5aac25d2-bcfb-4084-a700-584311ea539d",
     "recordsetQuery": "{\"recordset\":\"5aac25d2-bcfb-4084-a700-584311ea539d\"}",
@@ -27,7 +27,7 @@
     "physical_city": "Denver",
     "physical_state": "Colorado",
     "physical_zip": "80205",
-    "UniqueNameUUID": "urn:uuid:75a457ae-5214-4b6a-9eab-178d6cf4a780",
+    "UniqueNameUUID": "",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
