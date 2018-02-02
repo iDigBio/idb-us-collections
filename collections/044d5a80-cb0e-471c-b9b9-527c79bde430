@@ -1,8 +1,8 @@
 {
     "institution": "Campbell University",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "6f470382-cb0b-4634-a796-2248bfa97fdc",
+    "recordsetQuery": "{\"recordset\":\"6f470382-cb0b-4634-a796-2248bfa97fdc\"}",
     "institution_code": "CAU<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:044d5a80-cb0e-471c-b9b9-527c79bde430",
