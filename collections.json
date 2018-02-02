@@ -20440,8 +20440,8 @@
   }
 ,
 {
-    "institution": "University of California Berkeley, The University and Jepson Herbaria",
-    "collection": "Herbaria",
+    "institution": "University of California Berkeley",
+    "collection": "The University and Jepson Herbaria",
     "recordsets": "02fceae6-c71c-4db9-8b2f-e235ced6624a, 1bb33d2d-0714-4fc9-968e-b66bab1cf3d3, 35c43eda-1f4a-4713-bb69-e3fbe1bf792f",
     "recordsetQuery": "{\"recordset\":[\"02fceae6-c71c-4db9-8b2f-e235ced6624a\",\"1bb33d2d-0714-4fc9-968e-b66bab1cf3d3\",\"35c43eda-1f4a-4713-bb69-e3fbe1bf792f\"]}",
     "institution_code": "UC",
@@ -20468,7 +20468,7 @@
     "physical_city": "Berkeley",
     "physical_state": "California",
     "physical_zip": "94720-2465",
-    "UniqueNameUUID": "urn:uuid:6e341c48-340e-4abc-8fe8-7d71f7fc3d67",
+    "UniqueNameUUID": "",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
@@ -23680,8 +23680,8 @@
   }
 ,
 {
-    "institution": "University of Central Florida Collection of Arthropods",
-    "collection": "The Bug Closet",
+    "institution": "University of Central Florida, The Bug Closet",
+    "collection": "Arthropods",
     "recordsets": "84006c59-fead-4b84-b3b5-cedf28f67ea9",
     "recordsetQuery": "{\"recordset\":\"84006c59-fead-4b84-b3b5-cedf28f67ea9\"}",
     "institution_code": "UCFC",
@@ -23708,7 +23708,7 @@
     "physical_city": "Orlando",
     "physical_state": "Florida",
     "physical_zip": "32816-2368",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:7bfc97ce-e937-4f27-8d70-464a06e70ec0",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
