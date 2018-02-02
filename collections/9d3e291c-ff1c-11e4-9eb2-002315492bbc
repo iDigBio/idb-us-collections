@@ -1,5 +1,5 @@
 {
-    "institution": "University of Texas Austin, Vertebrate Paleontology Laboratory",
+    "institution": "University of Texas at Austin, Vertebrate Paleontology Laboratory",
     "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
@@ -27,7 +27,7 @@
     "physical_city": "Austin",
     "physical_state": "Texas",
     "physical_zip": "78758",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:59ac3cdc-5938-49b0-9429-2cb1e80d22b6",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
