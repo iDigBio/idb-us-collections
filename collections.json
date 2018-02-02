@@ -5480,7 +5480,7 @@
   }
 ,
 {
-    "institution": "Pennsylvania State University, Frost Entomological Museum",
+    "institution": "Penn State University, Frost Entomological Museum",
     "collection": "Entomology",
     "recordsets": "53feaa83-e3b6-4ad3-8597-293b153e7548",
     "recordsetQuery": "{\"recordset\":\"53feaa83-e3b6-4ad3-8597-293b153e7548\"}",
@@ -19760,7 +19760,7 @@
   }
 ,
 {
-    "institution": "Norton Brown Herbarium, University of Maryland",
+    "institution": "University of Maryland, Norton Brown Herbarium",
     "collection": "Herbarium",
     "recordsets": "e6eba8cd-fa2c-4ba2-bec0-6841e7633695",
     "recordsetQuery": "{\"recordset\":\"e6eba8cd-fa2c-4ba2-bec0-6841e7633695\"}",
@@ -19788,7 +19788,7 @@
     "physical_city": "College Park",
     "physical_state": "Maryland",
     "physical_zip": "20742-4452",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:583c0822-2ff4-4be0-966d-48e04ac1ca6c",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
