@@ -34880,7 +34880,7 @@
   }
 ,
 {
-    "institution": "Denver Museum of Nature & Science",
+    "institution": "Denver Museum of Nature and Science",
     "collection": "Mammals",
     "recordsets": "0e2f3962-e905-48f2-a1c6-19d16e2bd5ba",
     "recordsetQuery": "{\"recordset\":\"0e2f3962-e905-48f2-a1c6-19d16e2bd5ba\"}",
@@ -34908,7 +34908,7 @@
     "physical_city": "Denver",
     "physical_state": "Colorado",
     "physical_zip": "80205",
-    "UniqueNameUUID": "urn:uuid:75a457ae-5214-4b6a-9eab-178d6cf4a780",
+    "UniqueNameUUID": "",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
@@ -41760,7 +41760,7 @@
   }
 ,
 {
-    "institution": "Denver Museum of Nature and Science",
+    "institution": "Denver Museum of Nature & Science",
     "collection": "Health Sciences Collection images",
     "recordsets": "",
     "recordsetQuery": "",
@@ -41788,7 +41788,7 @@
     "physical_city": "Denver",
     "physical_state": "Colorado",
     "physical_zip": "80205",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:75a457ae-5214-4b6a-9eab-178d6cf4a780",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
