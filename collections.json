@@ -3800,7 +3800,7 @@
   }
 ,
 {
-    "institution": "University of Texas Austin, Non-vertebrate Paleontology Lab",
+    "institution": "University of Texas at Austin, Non-vertebrate Paleontology Lab",
     "collection": "Type Collection",
     "recordsets": "",
     "recordsetQuery": "",
@@ -3828,7 +3828,7 @@
     "physical_city": "Austin",
     "physical_state": "Texas",
     "physical_zip": "78713",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:59ac3cdc-5938-49b0-9429-2cb1e80d22b6",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
@@ -23680,8 +23680,8 @@
   }
 ,
 {
-    "institution": "University of Central Florida Collection of Arthropods",
-    "collection": "The Bug Closet",
+    "institution": "University of Central Florida, The Bug Closet",
+    "collection": "Arthropods",
     "recordsets": "84006c59-fead-4b84-b3b5-cedf28f67ea9",
     "recordsetQuery": "{\"recordset\":\"84006c59-fead-4b84-b3b5-cedf28f67ea9\"}",
     "institution_code": "UCFC",
@@ -23708,7 +23708,7 @@
     "physical_city": "Orlando",
     "physical_state": "Florida",
     "physical_zip": "32816-2368",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:7bfc97ce-e937-4f27-8d70-464a06e70ec0",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
