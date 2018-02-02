@@ -34520,7 +34520,7 @@
   }
 ,
 {
-    "institution": "St. Andrews University",
+    "institution": "St. Andrews Presbyterian College",
     "collection": "Herbarium",
     "recordsets": "3d4401cb-b3dd-48bd-912a-709bb4ecf5f8",
     "recordsetQuery": "{\"recordset\":\"3d4401cb-b3dd-48bd-912a-709bb4ecf5f8\"}",
@@ -34548,7 +34548,7 @@
     "physical_city": "Laurinburg",
     "physical_state": "North Carolina",
     "physical_zip": "28352",
-    "UniqueNameUUID": "urn:uuid:e47a2db5-a228-47a7-a192-f7d74c4cbd4f",
+    "UniqueNameUUID": "",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
@@ -43520,7 +43520,7 @@
   }
 ,
 {
-    "institution": "BLM Mother Lode Field Office",
+    "institution": "Bureau of Land Management, Mother Lode Field Office",
     "collection": "Bees",
     "recordsets": "0df55e93-0fce-4ba6-a344-1d9918b60816",
     "recordsetQuery": "",
