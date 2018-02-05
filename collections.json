@@ -18481,7 +18481,7 @@
 ,
 {
     "institution": "Oregon State University, Department of Fisheries Wildlife's Birds, Mammals, and Fishes Collections",
-    "collection": "Ichthyology",
+    "collection": "Oregon State Ichthyology Collection",
     "recordsets": "4a1f1862-cb5f-42c5-b3c8-bfc51b1fd140",
     "recordsetQuery": "{\"recordset\":\"4a1f1862-cb5f-42c5-b3c8-bfc51b1fd140\"}",
     "institution_code": "OS",
@@ -26281,7 +26281,7 @@
 ,
 {
     "institution": "Cornell University, Museum of Vertebrates",
-    "collection": "Bird Collection",
+    "collection": "Birds",
     "recordsets": "e506c5e0-99b6-4e97-b7b4-4536cb80209b",
     "recordsetQuery": "{\"recordset\":\"e506c5e0-99b6-4e97-b7b4-4536cb80209b\"}",
     "institution_code": "CUMV",
