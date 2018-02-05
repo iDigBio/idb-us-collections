@@ -2200,8 +2200,8 @@
   }
 ,
 {
-    "institution": "University of North Carolina Wilmington, David J. Sieren Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of North Carolina Wilmington",
+    "collection": "David J. Sieren Herbarium",
     "recordsets": "b00cf471-6bbe-4f94-846e-288900398b65",
     "recordsetQuery": "{\"recordset\":\"b00cf471-6bbe-4f94-846e-288900398b65\"}",
     "institution_code": "WNC<IH>",
@@ -42681,7 +42681,7 @@
 ,
 {
     "institution": "Buffalo Museum of Science, The Clinton Herbarium",
-    "collection": "Botany Collections",
+    "collection": "Botany",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "BUF<IH>",
@@ -42696,7 +42696,7 @@
     "knownToContainTypes": null,
     "taxonCoverage": "",
     "geographic_range": "",
-    "collectionExtent": "",
+    "collectionExtent": "115000",
     "contact": "Kathy Leacock",
     "contact_role": "Curator",
     "contact_email": "kleacock@sciencebuff.org",
