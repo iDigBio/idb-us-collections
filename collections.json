@@ -8081,7 +8081,7 @@
 ,
 {
     "institution": "New York State Museum",
-    "collection": "Ornithology Collection",
+    "collection": "Ornithology",
     "recordsets": "a8f0fbaf-68b3-4e73-83d7-24d238ac966d",
     "recordsetQuery": "{\"recordset\":\"a8f0fbaf-68b3-4e73-83d7-24d238ac966d\"}",
     "institution_code": "NYSM",
@@ -40921,7 +40921,7 @@
 ,
 {
     "institution": "Ohio State University, Museum of Biological Diversity",
-    "collection": "Tetrapods, Birds",
+    "collection": "Tetrapods, Birds Collection",
     "recordsets": "3b9ecf1e-3c04-4d8b-84cd-9ae48e70e13a",
     "recordsetQuery": "{\"recordset\":\"3b9ecf1e-3c04-4d8b-84cd-9ae48e70e13a\"}",
     "institution_code": "OSU",
