@@ -1,6 +1,6 @@
 {
     "institution": "Buffalo Museum of Science, The Clinton Herbarium",
-    "collection": "Botany Collections",
+    "collection": "Botany",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "BUF<IH>",
@@ -15,7 +15,7 @@
     "knownToContainTypes": null,
     "taxonCoverage": "",
     "geographic_range": "",
-    "collectionExtent": "",
+    "collectionExtent": "115000",
     "contact": "Kathy Leacock",
     "contact_role": "Curator",
     "contact_email": "kleacock@sciencebuff.org",
