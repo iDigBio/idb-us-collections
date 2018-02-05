@@ -1,6 +1,6 @@
 {
-    "institution": "University of North Carolina Wilmington, David J. Sieren Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of North Carolina Wilmington",
+    "collection": "David J. Sieren Herbarium",
     "recordsets": "b00cf471-6bbe-4f94-846e-288900398b65",
     "recordsetQuery": "{\"recordset\":\"b00cf471-6bbe-4f94-846e-288900398b65\"}",
     "institution_code": "WNC<IH>",
