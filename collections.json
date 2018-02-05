@@ -8081,7 +8081,7 @@
 ,
 {
     "institution": "New York State Museum",
-    "collection": "Ornithology Collection",
+    "collection": "Ornithology",
     "recordsets": "a8f0fbaf-68b3-4e73-83d7-24d238ac966d",
     "recordsetQuery": "{\"recordset\":\"a8f0fbaf-68b3-4e73-83d7-24d238ac966d\"}",
     "institution_code": "NYSM",
@@ -26281,7 +26281,7 @@
 ,
 {
     "institution": "Cornell University, Museum of Vertebrates",
-    "collection": "Birds",
+    "collection": "Bird Collection",
     "recordsets": "e506c5e0-99b6-4e97-b7b4-4536cb80209b",
     "recordsetQuery": "{\"recordset\":\"e506c5e0-99b6-4e97-b7b4-4536cb80209b\"}",
     "institution_code": "CUMV",
