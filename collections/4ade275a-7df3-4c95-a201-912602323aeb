@@ -11,7 +11,7 @@
     "collection_catalog_url": "http://mczbase.mcz.harvard.edu",
     "description": "The MCZ is comprised of ten research collections representing approximately 21-million living and fossil invertebrate and vertebrate specimens. The specific collections are Entomology, Herpetology, Ichthyology, Invertebrate Paleontology, Invertebrate Zoology, Malacology, Mammalogy, Marine Invertebrates, Ornithology, and Vertebrate Paleontology. Worldwide",
     "descriptionForSpecialists": "",
-    "cataloguedSpecimens": 21000000,
+    "cataloguedSpecimens": null,
     "knownToContainTypes": null,
     "taxonCoverage": "The MCZ is comprised of ten research collections representing approximately 21-million living and fossil invertebrate and vertebrate specimens. The specific collections are Entomology, Herpetology, Ichthyology, Invertebrate Paleontology, Invertebrate Zoology, Malacology, Mammalogy, Marine Invertebrates, Ornithology, and Vertebrate Paleontology.",
     "geographic_range": "Worldwide",
