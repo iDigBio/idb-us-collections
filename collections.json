@@ -31960,8 +31960,8 @@
   }
 ,
 {
-    "institution": "Carter Herbarium of Colorado College",
-    "collection": "",
+    "institution": "Colorado College, Carter Herbarium",
+    "collection": "Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "COCO",
@@ -31988,7 +31988,7 @@
     "physical_city": "Colorado Springs",
     "physical_state": "Colorado",
     "physical_zip": "80903",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:929c7989-fd3b-4c55-8c95-ef7e88a42589",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
