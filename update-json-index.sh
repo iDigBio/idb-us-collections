@@ -48,7 +48,7 @@
   sed -i '$a ]' ../collections.json
   cd ..
   rm -rf collections/
-  cp $HOME/buildCSV.R .
+  cp $HOME/iDigBio/idb-us-collections/buildCSV.R .
   Rscript buildCSV.R
   rm -rf buildCSV.R
 
