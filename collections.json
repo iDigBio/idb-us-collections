@@ -14680,7 +14680,7 @@
   }
 ,
 {
-    "institution": "Virginia Institute of Marine Sciences, Nunnally Ichtyology Collection",
+    "institution": "Virginia Institute of Marine Science, Nunnally Ichtyology Collection",
     "collection": "Fishes",
     "recordsets": "",
     "recordsetQuery": "",
@@ -14708,7 +14708,7 @@
     "physical_city": "Gloucester Point",
     "physical_state": "Virginia",
     "physical_zip": "23062-1346",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:92fb6969-1b45-470d-8fa7-d644117793ad",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
@@ -58708,7 +58708,7 @@
     "physical_city": "Edinburg",
     "physical_state": "Texas",
     "physical_zip": "78539-2999",
-    "UniqueNameUUID": "urn:uuid:a87419fe-33ab-4121-9e10-2e70b0c6a50f",
+    "UniqueNameUUID": "",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
