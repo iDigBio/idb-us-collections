@@ -2348,7 +2348,7 @@
     "physical_city": "Wichita",
     "physical_state": "Kansas",
     "physical_zip": "67260",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:5948c340-c83a-4160-99d7-1e12ce5c8564",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
@@ -50280,7 +50280,7 @@
   }
 ,
 {
-    "institution": "University of Louisiana at Lafayette, Ornamental Horticulture",
+    "institution": "University of Louisiana Lafayette",
     "collection": "Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
@@ -57442,8 +57442,8 @@
 {
     "institution": "American Museum of Natural History",
     "collection": "Invertebrate Zoology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "5975bbda-cd92-4084-8a09-ce1e28e6164f",
+    "recordsetQuery": "{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"amnh\"}",
     "institution_code": "AMNH",
     "collection_code": "IZC",
     "collection_uuid": "urn:uuid:fa60c2cd-29bd-4f76-a338-12fe7f8024d9",
