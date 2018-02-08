@@ -3,7 +3,7 @@
   #copy new files
   echo -e "Copy new files"
   cp -R collections $HOME/collections
-  
+  cp buildCSV.R $HOME/.
 
   #go to home and setup git
   cd $HOME
@@ -48,7 +48,7 @@
   sed -i '$a ]' ../collections.json
   cd ..
   rm -rf collections/
-  cp $HOME/iDigBio/idb-us-collections/buildCSV.R .
+  cp $HOME/buildCSV.R .
   Rscript buildCSV.R
   rm -rf buildCSV.R
 
