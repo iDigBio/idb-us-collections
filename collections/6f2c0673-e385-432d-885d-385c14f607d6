@@ -1,5 +1,5 @@
 {
-    "institution": "Newberry College",
+    "institution": "Newberry College Herbarium",
     "collection": "Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
@@ -27,7 +27,7 @@
     "physical_city": "Newberry",
     "physical_state": "South Carolina",
     "physical_zip": "29108",
-    "UniqueNameUUID": "urn:uuid:2f34120a-dbfc-49a8-a914-b346754021f8",
+    "UniqueNameUUID": "",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
