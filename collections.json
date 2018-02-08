@@ -21508,7 +21508,7 @@
     "physical_city": "Southern Pines",
     "physical_state": "North Carolina",
     "physical_zip": "28387",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:aa4cace8-d2e7-4505-8670-e7dc3267941b",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
@@ -50280,7 +50280,7 @@
   }
 ,
 {
-    "institution": "University of Louisiana at Lafayette, Ornamental Horticulture",
+    "institution": "University of Louisiana Lafayette",
     "collection": "Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
