@@ -25880,7 +25880,7 @@
   }
 ,
 {
-    "institution": "Newberry College Herbarium",
+    "institution": "Newberry College",
     "collection": "Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
@@ -25908,7 +25908,7 @@
     "physical_city": "Newberry",
     "physical_state": "South Carolina",
     "physical_zip": "29108",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:2f34120a-dbfc-49a8-a914-b346754021f8",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
