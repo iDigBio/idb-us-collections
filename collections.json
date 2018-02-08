@@ -45600,7 +45600,7 @@
   }
 ,
 {
-    "institution": "Western State College",
+    "institution": "Western State Colorado University",
     "collection": "Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
@@ -45628,7 +45628,7 @@
     "physical_city": "Gunnison",
     "physical_state": "Colorado",
     "physical_zip": "81231",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:8a5bd9cf-9bda-4572-b6bd-0e3c3ae68f8e",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
@@ -50280,7 +50280,7 @@
   }
 ,
 {
-    "institution": "University of Louisiana Lafayette",
+    "institution": "University of Louisiana at Lafayette, Ornamental Horticulture",
     "collection": "Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
