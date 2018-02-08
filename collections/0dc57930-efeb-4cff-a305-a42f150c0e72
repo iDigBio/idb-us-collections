@@ -1,6 +1,6 @@
 {
-    "institution": "Berkshire Museum",
-    "collection": "Herbarium",
+    "institution": "Berkshire Museum, Herbarium",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -27,7 +27,7 @@
     "physical_city": "Pittsfield",
     "physical_state": "Massachusetts",
     "physical_zip": "01201-0000",
-    "UniqueNameUUID": "urn:uuid:c7f71564-5521-41fc-89fc-0e131cb5376f",
+    "UniqueNameUUID": "",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",

@@ -3600,8 +3600,8 @@
   }
 ,
 {
-    "institution": "Berkshire Museum",
-    "collection": "Herbarium",
+    "institution": "Berkshire Museum, Herbarium",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -3628,7 +3628,7 @@
     "physical_city": "Pittsfield",
     "physical_state": "Massachusetts",
     "physical_zip": "01201-0000",
-    "UniqueNameUUID": "urn:uuid:c7f71564-5521-41fc-89fc-0e131cb5376f",
+    "UniqueNameUUID": "",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
@@ -29120,7 +29120,7 @@
   }
 ,
 {
-    "institution": "Chadron State College, Entomology Collection",
+    "institution": "Chadron State University",
     "collection": "Entomology",
     "recordsets": "",
     "recordsetQuery": "",
@@ -29148,7 +29148,7 @@
     "physical_city": "Chadron",
     "physical_state": "Nebraska",
     "physical_zip": "69337-2690",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:239b9d25-3b8a-4194-ba13-0f8ff5c92f27",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
