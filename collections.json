@@ -44148,7 +44148,7 @@
     "physical_city": "Monroe",
     "physical_state": "Louisiana",
     "physical_zip": "71209-0520",
-    "UniqueNameUUID": "urn:uuid:d155e05f-6c39-4c56-b01e-b986af526da8",
+    "UniqueNameUUID": "",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
@@ -50280,7 +50280,7 @@
   }
 ,
 {
-    "institution": "University of Louisiana Lafayette",
+    "institution": "University of Louisiana at Lafayette, Ornamental Horticulture",
     "collection": "Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
@@ -57442,8 +57442,8 @@
 {
     "institution": "American Museum of Natural History",
     "collection": "Invertebrate Zoology",
-    "recordsets": "5975bbda-cd92-4084-8a09-ce1e28e6164f",
-    "recordsetQuery": "{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"amnh\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "AMNH",
     "collection_code": "IZC",
     "collection_uuid": "urn:uuid:fa60c2cd-29bd-4f76-a338-12fe7f8024d9",
