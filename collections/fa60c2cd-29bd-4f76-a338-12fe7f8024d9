@@ -1,8 +1,8 @@
 {
     "institution": "American Museum of Natural History",
     "collection": "Invertebrate Zoology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "5975bbda-cd92-4084-8a09-ce1e28e6164f",
+    "recordsetQuery": "{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"amnh\"}",
     "institution_code": "AMNH",
     "collection_code": "IZC",
     "collection_uuid": "urn:uuid:fa60c2cd-29bd-4f76-a338-12fe7f8024d9",
