@@ -23004,7 +23004,7 @@
     "collection": "Botany, United States National Herbarium",
     "recordsets": "a6eee223-cf3b-4079-8bb2-b77dad8cae9d",
     "recordsetQuery": "{\"recordset\":\"a6eee223-cf3b-4079-8bb2-b77dad8cae9d\",\"collectioncode\":\"Botany\"}",
-    "institution_code": "NMNH",
+    "institution_code": "US",
     "collection_code": "Botany",
     "collection_uuid": "urn:uuid:60e28f81-e634-4869-aa3e-732caed713c8",
     "collection_lsid": "http://grbio.org/cool/i75d-97nn",
