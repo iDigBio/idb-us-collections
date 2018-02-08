@@ -1,5 +1,5 @@
 {
-    "institution": "University of California Riverside, Herbarium",
+    "institution": "University of California Riverside",
     "collection": "Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
@@ -27,7 +27,7 @@
     "physical_city": "Riverside",
     "physical_state": "California",
     "physical_zip": "92521-0124",
-    "UniqueNameUUID": "",
+    "UniqueNameUUID": "urn:uuid:5eb51140-80e9-4d65-bb14-3e753daed011",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
