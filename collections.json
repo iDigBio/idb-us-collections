@@ -28840,7 +28840,7 @@
   }
 ,
 {
-    "institution": "Adams State University",
+    "institution": "Adams State College",
     "collection": "Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
@@ -28868,7 +28868,7 @@
     "physical_city": "Alamosa",
     "physical_state": "Colorado",
     "physical_zip": "81102",
-    "UniqueNameUUID": "urn:uuid:1e99f00e-7199-4140-9a6c-edfe3b74de3e",
+    "UniqueNameUUID": "",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
