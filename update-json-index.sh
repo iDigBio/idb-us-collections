@@ -48,6 +48,7 @@
   sed -i '$a ]' ../collections.json
   cd ..
   rm -rf collections/
+  Rscript buildCSV.R
 
   #add, commit and push files
   git add --all 
