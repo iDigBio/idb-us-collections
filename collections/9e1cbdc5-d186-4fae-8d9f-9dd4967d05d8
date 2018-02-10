@@ -1,8 +1,8 @@
 {
     "institution": "Navajo Nation Department of Fish and Wildlife",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "5277e72c-9e53-4c98-85f1-ee413bc473cd",
+    "recordsetQuery": "{"recordset":"5277e72c-9e53-4c98-85f1-ee413bc473cd"}",
     "institution_code": "NAVA<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:9e1cbdc5-d186-4fae-8d9f-9dd4967d05d8",
