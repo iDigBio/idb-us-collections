@@ -1,8 +1,8 @@
 {
     "institution": "University of Kansas, Biodiversity Institute and Natural History Museum",
-    "collection": "Ichthyology",
-    "recordsets": "598cda6a-75a8-4ba3-b169-3fa4a285ed86",
-    "recordsetQuery": "{\"recordset\":\"598cda6a-75a8-4ba3-b169-3fa4a285ed86\"}",
+    "collection": "Ichthyology Tissue",
+    "recordsets": "0f53b3e3-c248-4026-a070-15c3fefdbbc0",
+    "recordsetQuery": "{\"recordset\":\"0f53b3e3-c248-4026-a070-15c3fefdbbc0\"}",
     "institution_code": "KU",
     "collection_code": "KUIT",
     "collection_uuid": "urn:uuid:0ac080fa-fdb7-11e4-93db-002315492bbc",
