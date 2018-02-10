@@ -21242,8 +21242,8 @@
 {
     "institution": "California Department of Food and Agriculture",
     "collection": "California State Collection of Arthropods",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "5975bbda-cd92-4084-8a09-ce1e28e6164f",
+    "recordsetQuery": "{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"csca\"}",
     "institution_code": "CDFA",
     "collection_code": "CSCA",
     "collection_uuid": "urn:uuid:56ae332b-35f8-44d5-ba94-e2a0c8ea26dd",
