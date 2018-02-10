@@ -1,10 +1,10 @@
 {
     "institution": "University of Kansas, Biodiversity Institute and Natural History Museum",
     "collection": "Ichthyology",
-    "recordsets": "0f53b3e3-c248-4026-a070-15c3fefdbbc0, 598cda6a-75a8-4ba3-b169-3fa4a285ed86",
-    "recordsetQuery": "{\"recordset\":[\"0f53b3e3-c248-4026-a070-15c3fefdbbc0\",\"598cda6a-75a8-4ba3-b169-3fa4a285ed86\"]}",
+    "recordsets": "598cda6a-75a8-4ba3-b169-3fa4a285ed86",
+    "recordsetQuery": "{\"recordset\":\"598cda6a-75a8-4ba3-b169-3fa4a285ed86\"}",
     "institution_code": "KU",
-    "collection_code": "",
+    "collection_code": "KUI",
     "collection_uuid": "urn:uuid:f50da0e9-cfe3-4d2a-af93-c20a8864602b",
     "collection_lsid": "http://grbio.org/cool/a2i3-djem",
     "collection_url": "http://ichthyology.biodiversity.ku.edu/",
