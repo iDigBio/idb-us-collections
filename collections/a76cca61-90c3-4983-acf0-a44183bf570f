@@ -1,6 +1,6 @@
 {
     "institution": "Virginia Polytechnic Institute and State University, The Massey Herbarium",
-    "collection": "Herbarium",
+    "collection": "Massey Herbarium",
     "recordsets": "ec248223-f277-4c02-b1fa-60056b5a689a, 538bdd33-b616-4825-8542-7033cc8a185f, 471835cc-feb6-4d05-a8d1-62ce71399326",
     "recordsetQuery": "{\"recordset\":[\"ec248223-f277-4c02-b1fa-60056b5a689a\",\"538bdd33-b616-4825-8542-7033cc8a185f\",\"471835cc-feb6-4d05-a8d1-62ce71399326\"]}",
     "institution_code": "VPI<IH>",
