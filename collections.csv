@@ -952,7 +952,85 @@
 "Maturango Museum","","","","","","urn:uuid:a284b64b-dd43-4a9a-87a3-0265ef2fe4e0","","http://www.maturango.org/","","","",NA,NA,"","","","Maria Getusky","Curator","matmus8@maturango.org","100 East Las Flores Ave","Ridgecrest","California","93555","100 East Las Flores Ave","Ridgecrest","California","93555","","","","","","","",35.6298,-117.6699
 "Paleontological Research Institution and its Museum of the Earth","","e27f0218-47e0-41bc-9086-9d9169096e90","{""recordset"":""e27f0218-47e0-41bc-9086-9d9169096e90""}","PRI","","urn:uuid:a2ef72d1-2747-4632-8c3b-c8b4c9c85325","","https://www.priweb.org","http://www.pricollectionsdatabase.org/","","",NA,NA,"","","","Warren D. Allmon","Director","allmon@priweb.org","1259 Trumansburg Road","Ithaca","New York","14850","1259 Trumansburg Road","Ithaca","New York","14850","urn:uuid:81d8ab0d-281c-443d-8131-4ce9b098b7ae","","","","","","",42.4665,-76.5395
 "California Polytechnic University, San Luis Obispo","Reptile and Amphibian Collection","","","","","urn:uuid:a2f0e394-f706-436c-8a6c-604af6c59b8b","","http://bio.calpoly.edu/content/field-study-sites-specimen-collections#preserved","","","",NA,NA,"","","","Emily Taylor","Curator","etaylor@calpoly.edu","Biological Science Department","San Luis Obispo","California","93407","Biological Science Department","San Luis Obispo","California","93407","","","","","","","",35.3471,-120.4553
-"Louisiana State University, Museum of Natural Science","Ornithology","e33a1faa-5175-45bc-89b8-3ec9cdd63cfb, 2f484dca-4e55-4d29-ad96-56c96573444f","{""recordset"":[""e33a1faa-5175-45bc-89b8-3ec9cdd63cfb"",""2f484dca-4e55-4d29-ad96-56c96573444f""]}","LSUMZ","Birds","urn:uuid:a2fa0fba-538a-4b75-89a8-a052474d6065","","http://appl003.lsu.edu/natsci/lmns.nsf/$Content/Ornithology?OpenDocument","http://appl024.lsu.edu/natsci/collections/natscicolsearch.nsf/OpenMainPage?OpenAgent&ID=1026","Neotropical landbirds I. GEOGRAPHIC BREAKDOWN (catalogued specimens only): North America 42,000(= 24% of all specimens); Louisiana 25,000. Texas 3,600. California 3,000. Tennessee 2,190. Mississippi 1,575. Arizona 1,200. Washington 750. Canada 690. Florida 680. New Mexico 530. West Indies (largest in world) 7,475(= 4% of all specimens). Middle America 32,800(= 19% of all specimens). Mexico 20,600. Costa Rica 3,050. Honduras 2,675. Panama 2,650. Guatemala 1,880. South America 79,700(=46% of all specimens). Peru 44,200. Bolivia 19,100. Argentina 8,300. Brazil 3,285. Ecuador 2,525. Colombia 1,615. Venezuela 410. Africa 5,300(= 3% of all specimens) Borneo 1050. Kuwait 675","",175000,NA,"Neotropical landbirds","I. GEOGRAPHIC BREAKDOWN (catalogued specimens only): North America 42,000(= 24% of all specimens); Louisiana 25,000. Texas 3,600. California 3,000. Tennessee 2,190. Mississippi 1,575. Arizona 1,200. Washington 750. Canada 690. Florida 680. New Mexico 530. West Indies (largest in world) 7,475(= 4% of all specimens). Middle America 32,800(= 19% of all specimens). Mexico 20,600. Costa Rica 3,050. Honduras 2,675. Panama 2,650. Guatemala 1,880. South America 79,700(=46% of all specimens). Peru 44,200. Bolivia 19,100. Argentina 8,300. Brazil 3,285. Ecuador 2,525. Colombia 1,615. Venezuela 410. Africa 5,300(= 3% of all specimens). Borneo 1050. Kuwait 675","175000","J.V. Remsen","Curator of Birds","najames@lsu.edu","119 Foster Hall, Louisiana State University","Baton Rouge","Louisiana","70803","119 Foster Hall, Louisiana State University","Baton Rouge","Louisiana","70803","urn:uuid:ecfba5c5-0fb4-4f5d-93bc-990238b33589","","","","","","",30.5293,-91.1081
+"Louisiana State University, Museum of Natural Science","Ornithology","e33a1faa-5175-45bc-89b8-3ec9cdd63cfb, 2f484dca-4e55-4d29-ad96-56c96573444f","{""recordset"":[""e33a1faa-5175-45bc-89b8-3ec9cdd63cfb"",""2f484dca-4e55-4d29-ad96-56c96573444f""]}","LSUMZ","Birds","urn:uuid:a2fa0fba-538a-4b75-89a8-a052474d6065","","http://appl003.lsu.edu/natsci/lmns.nsf/$Content/Ornithology?OpenDocument","http://appl024.lsu.edu/natsci/collections/natscicolsearch.nsf/OpenMainPage?OpenAgent&ID=1026","Neotropical landbirds I. GEOGRAPHIC BREAKDOWN (catalogued specimens only):
+
+North America42,000(= 24% of all specimens)
+
+Louisiana25,000
+Texas3,600
+California3,000
+Tennessee2,190
+Mississippi1,575
+Arizona1,200
+Washington750
+Canada690
+Florida680
+New Mexico530
+
+West Indies (largest in world)7,475(= 4% of all specimens) 
+
+Middle America32,800(= 19% of all specimens) 
+
+Mexico20,600
+Costa Rica3,050
+Honduras2,675
+Panama2,650
+Guatemala1,880
+
+South America79,700(=46% of all specimens) 
+
+Peru 44,200
+Bolivia19,100
+Argentina8,300
+Brazil3,285
+Ecuador2,525
+Colombia1,615
+Venezuela410
+
+Africa5,300(= 3% of all specimens)
+
+Borneo1050 
+
+Kuwait675","",175000,NA,"Neotropical landbirds","I. GEOGRAPHIC BREAKDOWN (catalogued specimens only):
+
+North America42,000(= 24% of all specimens)
+
+Louisiana25,000
+Texas3,600
+California3,000
+Tennessee2,190
+Mississippi1,575
+Arizona1,200
+Washington750
+Canada690
+Florida680
+New Mexico530
+
+West Indies (largest in world)7,475(= 4% of all specimens) 
+
+Middle America32,800(= 19% of all specimens) 
+
+Mexico20,600
+Costa Rica3,050
+Honduras2,675
+Panama2,650
+Guatemala1,880
+
+South America79,700(=46% of all specimens) 
+
+Peru 44,200
+Bolivia19,100
+Argentina8,300
+Brazil3,285
+Ecuador2,525
+Colombia1,615
+Venezuela410
+
+Africa5,300(= 3% of all specimens)
+
+Borneo1050 
+
+Kuwait675","175000","J.V. Remsen","Curator of Birds","najames@lsu.edu","119 Foster Hall, Louisiana State University","Baton Rouge","Louisiana","70803","119 Foster Hall, Louisiana State University","Baton Rouge","Louisiana","70803","urn:uuid:ecfba5c5-0fb4-4f5d-93bc-990238b33589","","","","","","",30.5293,-91.1081
 "Rhode Island School of Design, Edna Lawrence Nature Lab","Edna Lawrence Nature Lab","","","RISD","","urn:uuid:a2fba1e4-6c28-11e5-bdab-180373b97bac","","http://naturelab.risd.edu/collections/edna-w-lawrence-natural-history-collection/","","","",NA,NA,"","","","","","","The Edna Lawrence Nature Lab, Rhode Island School of Design, 2 College Street","Providence","RI","02903","13 Waterman Street","Providence","RI","02903","","","","","","","",41.8259,-71.4099
 "University of Arkansas","Herbarium","5e8863ea-56ec-40f3-8075-d42b35d12e72","{""recordset"":""5e8863ea-56ec-40f3-8075-d42b35d12e72""}","UARK<IH>","","urn:uuid:a33083e8-a237-4731-83a7-2b7ea78eef8d","urn:lsid:biocol.org:col:15499","http://uark.edu/~arkflora","","","",NA,NA,"","","","Johnnie L. Gentry","Coordinator","gentry@uark.edu","Biomass Research Center Room 139","Fayetteville","Arkansas","72701","Biomass Research Center Room 139","Fayetteville","Arkansas","72701","urn:uuid:f936ccc2-c8e2-4847-8e9c-72a1072eed2b","","","","http://sweetgum.nybg.org/science/ih/herbarium_details.php?irn=126592","","",36.0426,-94.1656
 "North Carolina Museum of Natural Sciences","Paleobotany","","","NCSM","","urn:uuid:a33bcfb8-f373-11e4-b342-002315492bbc","http://grbio.org/cool/k577-pycz","http://naturalsciences.org/research-collections/research-specialties/paleontology","http://collections.naturalsciences.org/searchPaleoBotany.aspx","","",NA,NA,"","","","Vince Schneider","Curator","vince.schneider@naturalsciences.org","11 West Jones St.","Raleigh","North Carolina","27601","11 West Jones St.","Raleigh","North Carolina","27601","urn:uuid:7941acfb-400a-48e9-b2b8-615850ef912f","","","","","","",35.7826,-78.6389
@@ -1100,11 +1178,7 @@ good collection of crocodiles from Belize","","Stanlee Miller","Curator","smmll@
 "Roanoke College","Herbarium","","","SARC<IH>","","urn:uuid:bb55737f-6ec5-4ab1-bf08-7fe5780d5592","urn:lsid:biocol.org:col:13929","","","","",NA,NA,"","","","Dorothy Belle Poli","Director","poli@roanoke.edu","Biology Department","Salem","Virginia","24153-3794","","Salem","Virginia","24153-3794","","","","","http://sweetgum.nybg.org/science/ih/herbarium_details.php?irn=125786","","",37.2881,-80.0678
 "Muskegon Community College","Herbarium","","","MUSK<IH>","","urn:uuid:bb75e9a5-8989-4faf-9f6c-8bdebf9905b3","urn:lsid:biocol.org:col:13676","","","","",NA,NA,"","","","","","","Life Science Department, 221 South Quarterline Road","Muskegon","Michigan","49442","","Muskegon","Michigan","49442","","","","","http://sweetgum.nybg.org/science/ih/herbarium_details.php?irn=125400","","",43.2373,-86.1477
 "University of Washington, Burke Museum of Natural History and Culture","Malacology","","","UWBM","","urn:uuid:bb9de132-a573-423c-8b6d-6bcbdf7c1557","","https://www.burkemuseum.org/malacology","","","",NA,NA,"","","","Kristen Rowell","Curator","rowellk@u.washington.edu","Box 353010, University of Washington","Seattle","Washington","98195-3010","17th Avenue NE and NE 45th Street., University of Washington","Seattle","Washington","98195-3010","urn:uuid:fd2c8337-ad3e-485e-93ba-7b0292dbd2eb","","","","","","",47.6649,-122.3131
-"University of California Santa Barbara, Cheadle Center for Biodiversity and Ecological Restoration","Algae","","","CCBER","UCSB","urn:uuid:bbb32936-3469-433b-b9be-8b7622ac8fe4","","http://ccber.ucsb.edu/collections-botanical-collections/algae","","The phycological collection is an important resource for marine biodiversity and biogeography studies of the Pacific Rim region. The collections provide an excellent 125-year record of the marine flora of the Santa Barbara region and Channel Islands, and include a special collection from Santa Cruz Island. The specimens and collection information are of particular importance because of the adjacency of this region to Point Conception, California, a major biogeographic boundary.
-
-In addition to California, there are specimens from Oregon, Washington, Alaska, north central and northeast United States, British Columbia, Nova Scotia, Pacific Mexico, Chile, Great Britain, Jamaica, Japan, New Zealand, Queensland, Scandinavia, Spain, South Africa, South Australia, and Tasmania.","",8000,NA,"","The phycological collection is an important resource for marine biodiversity and biogeography studies of the Pacific Rim region. The collections provide an excellent 125-year record of the marine flora of the Santa Barbara region and Channel Islands, and include a special collection from Santa Cruz Island. The specimens and collection information are of particular importance because of the adjacency of this region to Point Conception, California, a major biogeographic boundary.
-
-In addition to California, there are specimens from Oregon, Washington, Alaska, north central and northeast United States, British Columbia, Nova Scotia, Pacific Mexico, Chile, Great Britain, Jamaica, Japan, New Zealand, Queensland, Scandinavia, Spain, South Africa, South Australia, and Tasmania.","8000","Mireia Beas-Moix","Collection Manager","beas-moix@ccber.ucsb.edu","Cheadle Center for Biodiversity and Ecological Restoration, Harder South, Building 578, MS-9615, University of California Santa Barbara","Santa Barbara","California","93106","Cheadle Center for Biodiversity and Ecological Restoration, Harder South, Building 578, MS-9615, University of California Santa Barbara","Santa Barbara","California","93106","urn:uuid:2a74fd30-dea3-4927-8bd7-3c1a275da8ae","","","","","","",34.4453,-119.8034
+"University of California Santa Barbara, Cheadle Center for Biodiversity and Ecological Restoration","Algae","","","CCBER","UCSB","urn:uuid:bbb32936-3469-433b-b9be-8b7622ac8fe4","","http://ccber.ucsb.edu/collections-botanical-collections/algae","","The phycological collection is an important resource for marine biodiversity and biogeography studies of the Pacific Rim region. The collections provide an excellent 125-year record of the marine flora of the Santa Barbara region and Channel Islands, and include a special collection from Santa Cruz Island. The specimens and collection information are of particular importance because of the adjacency of this region to Point Conception, California, a major biogeographic boundary. In addition to California, there are specimens from Oregon, Washington, Alaska, north central and northeast United States, British Columbia, Nova Scotia, Pacific Mexico, Chile, Great Britain, Jamaica, Japan, New Zealand, Queensland, Scandinavia, Spain, South Africa, South Australia, and Tasmania.","",8000,NA,"","The phycological collection is an important resource for marine biodiversity and biogeography studies of the Pacific Rim region. The collections provide an excellent 125-year record of the marine flora of the Santa Barbara region and Channel Islands, and include a special collection from Santa Cruz Island. The specimens and collection information are of particular importance because of the adjacency of this region to Point Conception, California, a major biogeographic boundary. In addition to California, there are specimens from Oregon, Washington, Alaska, north central and northeast United States, British Columbia, Nova Scotia, Pacific Mexico, Chile, Great Britain, Jamaica, Japan, New Zealand, Queensland, Scandinavia, Spain, South Africa, South Australia, and Tasmania.","8000","Mireia Beas-Moix","Collection Manager","beas-moix@ccber.ucsb.edu","Cheadle Center for Biodiversity and Ecological Restoration, Harder South, Building 578, MS-9615, University of California Santa Barbara","Santa Barbara","California","93106","Cheadle Center for Biodiversity and Ecological Restoration, Harder South, Building 578, MS-9615, University of California Santa Barbara","Santa Barbara","California","93106","urn:uuid:2a74fd30-dea3-4927-8bd7-3c1a275da8ae","","","","","","",34.4453,-119.8034
 "Texas A&M University, Biodiversity Research and Teaching Collections","Mammals","79dfdec6-3e24-489c-a7ce-85dcc52bc3f9","{""recordset"":[""79dfdec6-3e24-489c-a7ce-85dcc52bc3f9""],""collectioncode"":[""Mammals""]}","TCWC","Mammals","urn:uuid:bbc87117-f170-43c5-b5c9-d2958105ce95","","http://brtc.tamu.edu/collections/mammals/","http://manisnet.org/","","",NA,NA,"","","","Jessica Light","Curator","jlight2@tamu.edu","Biodiversity Research and Teaching Collections, Department of Wildlife and Fisheries Sciences, TAMU 2258","College Station","Texas","77843","Biodiversity Research and Teaching Collections, Department of Wildlife and Fisheries Sciences, TAMU 2258","College Station","Texas","77843","urn:uuid:67ed2c89-ad4a-402e-8296-78107b9f148b","","","","","","",30.1484,-96.3107
 "Yellowstone National Park","Herbarium","","","YELLO<IH>","","urn:uuid:bbd45780-aa62-4dd0-8149-76f4cf1043de","urn:lsid:biocol.org:col:15050","","","","",NA,NA,"","","","","","","Yellowstone Center for Resources, P.O. Box 168","Yellowstone National Park","Wyoming","82190","Heritage Research Center","Yellowstone National Park","Wyoming","82190","","","","","http://sweetgum.nybg.org/science/ih/herbarium_details.php?irn=127081","","",44.7957,-110.6137
 "Coconino National Forest","Herbarium","0fb6618f-f8d6-4361-8b2d-0923d4aa3c09","{""recordset"":""0fb6618f-f8d6-4361-8b2d-0923d4aa3c09""}","USFS<IH>","COC","urn:uuid:bbe292bc-34ed-4461-8b9e-9eb3782603e0","","","","","",NA,NA,"","","","Debra Crisp","Collection Manager","dcrisp@fs.fed.us","","","Arizona","","","","Arizona","","","","","","http://sweetgum.nybg.org/science/ih/herbarium_details.php?irn=125798","","",NA,NA
