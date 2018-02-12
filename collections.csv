@@ -849,9 +849,7 @@
 "University of Maine Herbarium","Algae","","","","","urn:uuid:8f1db751-b4a3-4727-ae3a-71e0bda335a8","","http://herbaria.umaine.edu/index.php?action=collections","http://herbaria.umaine.edu/index.php?action=algae","","",NA,NA,"","","","Christopher S. Campbell","Curator","campbell@maine.edu","School of Biology and Ecology, 261 Hitchner Hall","Orono","Maine","04469-5735","Hannibal Hamlin Hall.","Orono","Maine","04469-5735","urn:uuid:6deb519e-8492-4694-a705-b8055857c15f","","","","","","",44.806,-68.7919
 "University of Nebraska Lincoln, University of Nebraska State Museum","Division of Vertebrate Paleontology","","","","","urn:uuid:8f452d58-efe5-4979-8739-324a68f6f13d","","http://museum.unl.edu/research/vertpaleo/index.html","http://ris-2006d.unl.edu/VPSpecifyWeb/advanced.jsp","","",NA,NA,"","","","Ross Secord","Curator","rsecord2@unl.edu","W436 Nebraska Hall","Lincoln","Nebraska","68588-0514","W436 Nebraska Hall","Lincoln","Nebraska","68588-0514","urn:uuid:d791cb1e-ae22-4118-a0f6-a437bc7564ef","","","","","","",40.8643,-96.6819
 "North Carolina State University Insect Museum","Insects","5975bbda-cd92-4084-8a09-ce1e28e6164f","{""recordset"":""5975bbda-cd92-4084-8a09-ce1e28e6164f"",""institutioncode"":""ncsu""}","NCSU","","urn:uuid:8fb49210-2017-4e0c-9d86-eecacfab1b0a","","http://insectmuseum.org","http://specimens.insectmuseum.org/public/specimen","","",NA,NA,"","","","Robert Blinn","Collection Manager","bob_blinn@ncsu.edu","Department of Entomology, NC State University, Box 7613","Raleigh","North Carolina","27695","Department of Entomology, NC State University, 4321 Gardner Hall","Raleigh","North Carolina","27695","","","","","","","",35.7884,-78.671
-"Radford University, Museum","Herbarium, Animals","","","RUHV<IH>","","urn:uuid:8ff4adab-46e6-42ff-8364-16e0eae366da","urn:lsid:biocol.org:col:13906","http://www.radford.edu/content/csat/home/biology/facilities/natural-history-collection.html","http://www.radford.edu/content/csat/home/biology/facilities/natural-history-collection.html","Herbarium
-Invertebrates Southwest Virginia and beyond","",25000,NA,"Herbarium
-Invertebrates","Southwest Virginia and beyond","25000","Karen E. Powers","Curator","kpowers4@radford.edu","Biology Department, Box 6931","Radford","Virginia","24142","East Main St., 235 Curie Hall","Radford","Virginia","24142","","","","","http://sweetgum.nybg.org/science/ih/herbarium_details.php?irn=125752","","",37.1385,-80.5471
+"Radford University, Museum","Herbarium, Invertebrates","","","RUHV<IH>","","urn:uuid:8ff4adab-46e6-42ff-8364-16e0eae366da","urn:lsid:biocol.org:col:13906","http://www.radford.edu/content/csat/home/biology/facilities/natural-history-collection.html","http://www.radford.edu/content/csat/home/biology/facilities/natural-history-collection.html","Herbarium, Invertebrates: Southwest Virginia and beyond","",25000,NA,"Herbarium, Invertebrates","Southwest Virginia and beyond","25000","Karen E. Powers","Curator","kpowers4@radford.edu","Biology Department, Box 6931","Radford","Virginia","24142","East Main St., 235 Curie Hall","Radford","Virginia","24142","","","","","http://sweetgum.nybg.org/science/ih/herbarium_details.php?irn=125752","","",37.1385,-80.5471
 "Emory University","Herbarium","042dbdba-a449-4291-8777-577a5a4045de","{""recordset"":""042dbdba-a449-4291-8777-577a5a4045de"",""collectioncode"":[""General Collection"","" Thorne Flora"","" Medical Botany"","" Granite Outcrop"","" Eyles Florae"","" Southern Appalachian Botanical Club""]}","GEO<IH>","General Collection, Thorne Flora, Medical Botany, Granite Outcrop, Eyles Florae, Southern Appalachian Botanical Club","urn:uuid:90607704-ff5c-4de5-af39-53a0146ff278","urn:lsid:biocol.org:col:15480","https://scholarblogs.emory.edu/emoryherbarium/","","Granite rock outcrop collection, medical botany collection SE USA, Italy, Balkans, Australia","",20000,NA,"Granite rock outcrop collection, medical botany collection","SE USA, Italy, Balkans, Australia","20000","Cassandra Quave","Curator","cquave@emory.edu","Biology Department, O. Wayne Rollins Research Center, 1510 Clifton Road NE","Atlanta","Georgia","30322","","Atlanta","Georgia","30322","urn:uuid:a11d8f2f-1415-4974-963b-07e01fd951db","","","","http://sweetgum.nybg.org/science/ih/herbarium_details.php?irn=124475","","",33.7952,-84.3248
 "New Mexico State University, Range Science Herbarium","Herbarium","","","NMCR<IH>","","urn:uuid:909a77c9-3c94-4e42-aa16-1dc85fddebb5","urn:lsid:biocol.org:col:14936","http://aces.nmsu.edu/academics/rangescienceherbarium/","","","",NA,NA,"","","","Amy Ganguli","Curator","ganguli@nmsu.edu","Department of Animal and Range Sciences, Box 3-I, 202 Knox Hall","Las Cruces","New Mexico","88003","Espina Street, 340 Knox Hall.","Las Cruces","New Mexico","88003-0003","","","","","http://sweetgum.nybg.org/science/ih/herbarium_details.php?irn=125523","","",32.2669,-106.7497
 "Smith College","Herbarium","","","SCHN<IH>","","urn:uuid:90a7da35-dedd-4360-915a-458beaa9df22","urn:lsid:biocol.org:col:14070","","","","",NA,NA,"","","","Elaine Chittenden","Manager of living collections","echitten@email.smith.edu","Biological Sciences Department","Northampton","Massachusetts","01063-0000","Clark Science Center.","Northampton","Massachusetts","01063-0000","","","","","http://sweetgum.nybg.org/science/ih/herbarium_details.php?irn=125975","","",42.2854,-72.4143
@@ -954,85 +952,7 @@ Invertebrates","Southwest Virginia and beyond","25000","Karen E. Powers","Curato
 "Maturango Museum","","","","","","urn:uuid:a284b64b-dd43-4a9a-87a3-0265ef2fe4e0","","http://www.maturango.org/","","","",NA,NA,"","","","Maria Getusky","Curator","matmus8@maturango.org","100 East Las Flores Ave","Ridgecrest","California","93555","100 East Las Flores Ave","Ridgecrest","California","93555","","","","","","","",35.6298,-117.6699
 "Paleontological Research Institution and its Museum of the Earth","","e27f0218-47e0-41bc-9086-9d9169096e90","{""recordset"":""e27f0218-47e0-41bc-9086-9d9169096e90""}","PRI","","urn:uuid:a2ef72d1-2747-4632-8c3b-c8b4c9c85325","","https://www.priweb.org","http://www.pricollectionsdatabase.org/","","",NA,NA,"","","","Warren D. Allmon","Director","allmon@priweb.org","1259 Trumansburg Road","Ithaca","New York","14850","1259 Trumansburg Road","Ithaca","New York","14850","urn:uuid:81d8ab0d-281c-443d-8131-4ce9b098b7ae","","","","","","",42.4665,-76.5395
 "California Polytechnic University, San Luis Obispo","Reptile and Amphibian Collection","","","","","urn:uuid:a2f0e394-f706-436c-8a6c-604af6c59b8b","","http://bio.calpoly.edu/content/field-study-sites-specimen-collections#preserved","","","",NA,NA,"","","","Emily Taylor","Curator","etaylor@calpoly.edu","Biological Science Department","San Luis Obispo","California","93407","Biological Science Department","San Luis Obispo","California","93407","","","","","","","",35.3471,-120.4553
-"Louisiana State University, Museum of Natural Science","Ornithology","e33a1faa-5175-45bc-89b8-3ec9cdd63cfb, 2f484dca-4e55-4d29-ad96-56c96573444f","{""recordset"":[""e33a1faa-5175-45bc-89b8-3ec9cdd63cfb"",""2f484dca-4e55-4d29-ad96-56c96573444f""]}","LSUMZ","Birds","urn:uuid:a2fa0fba-538a-4b75-89a8-a052474d6065","","http://appl003.lsu.edu/natsci/lmns.nsf/$Content/Ornithology?OpenDocument","http://appl024.lsu.edu/natsci/collections/natscicolsearch.nsf/OpenMainPage?OpenAgent&ID=1026","Neotropical landbirds I. GEOGRAPHIC BREAKDOWN (catalogued specimens only):
-
-North America42,000(= 24% of all specimens)
-
-Louisiana25,000
-Texas3,600
-California3,000
-Tennessee2,190
-Mississippi1,575
-Arizona1,200
-Washington750
-Canada690
-Florida680
-New Mexico530
-
-West Indies (largest in world)7,475(= 4% of all specimens) 
-
-Middle America32,800(= 19% of all specimens) 
-
-Mexico20,600
-Costa Rica3,050
-Honduras2,675
-Panama2,650
-Guatemala1,880
-
-South America79,700(=46% of all specimens) 
-
-Peru 44,200
-Bolivia19,100
-Argentina8,300
-Brazil3,285
-Ecuador2,525
-Colombia1,615
-Venezuela410
-
-Africa5,300(= 3% of all specimens)
-
-Borneo1050 
-
-Kuwait675","",175000,NA,"Neotropical landbirds","I. GEOGRAPHIC BREAKDOWN (catalogued specimens only):
-
-North America42,000(= 24% of all specimens)
-
-Louisiana25,000
-Texas3,600
-California3,000
-Tennessee2,190
-Mississippi1,575
-Arizona1,200
-Washington750
-Canada690
-Florida680
-New Mexico530
-
-West Indies (largest in world)7,475(= 4% of all specimens) 
-
-Middle America32,800(= 19% of all specimens) 
-
-Mexico20,600
-Costa Rica3,050
-Honduras2,675
-Panama2,650
-Guatemala1,880
-
-South America79,700(=46% of all specimens) 
-
-Peru 44,200
-Bolivia19,100
-Argentina8,300
-Brazil3,285
-Ecuador2,525
-Colombia1,615
-Venezuela410
-
-Africa5,300(= 3% of all specimens)
-
-Borneo1050 
-
-Kuwait675","175000","J.V. Remsen","Curator of Birds","najames@lsu.edu","119 Foster Hall, Louisiana State University","Baton Rouge","Louisiana","70803","119 Foster Hall, Louisiana State University","Baton Rouge","Louisiana","70803","urn:uuid:ecfba5c5-0fb4-4f5d-93bc-990238b33589","","","","","","",30.5293,-91.1081
+"Louisiana State University, Museum of Natural Science","Ornithology","e33a1faa-5175-45bc-89b8-3ec9cdd63cfb, 2f484dca-4e55-4d29-ad96-56c96573444f","{""recordset"":[""e33a1faa-5175-45bc-89b8-3ec9cdd63cfb"",""2f484dca-4e55-4d29-ad96-56c96573444f""]}","LSUMZ","Birds","urn:uuid:a2fa0fba-538a-4b75-89a8-a052474d6065","","http://appl003.lsu.edu/natsci/lmns.nsf/$Content/Ornithology?OpenDocument","http://appl024.lsu.edu/natsci/collections/natscicolsearch.nsf/OpenMainPage?OpenAgent&ID=1026","Neotropical landbirds I. GEOGRAPHIC BREAKDOWN (catalogued specimens only): North America 42,000(= 24% of all specimens); Louisiana 25,000. Texas 3,600. California 3,000. Tennessee 2,190. Mississippi 1,575. Arizona 1,200. Washington 750. Canada 690. Florida 680. New Mexico 530. West Indies (largest in world) 7,475(= 4% of all specimens). Middle America 32,800(= 19% of all specimens). Mexico 20,600. Costa Rica 3,050. Honduras 2,675. Panama 2,650. Guatemala 1,880. South America 79,700(=46% of all specimens). Peru 44,200. Bolivia 19,100. Argentina 8,300. Brazil 3,285. Ecuador 2,525. Colombia 1,615. Venezuela 410. Africa 5,300(= 3% of all specimens) Borneo 1050. Kuwait 675","",175000,NA,"Neotropical landbirds","I. GEOGRAPHIC BREAKDOWN (catalogued specimens only): North America 42,000(= 24% of all specimens); Louisiana 25,000. Texas 3,600. California 3,000. Tennessee 2,190. Mississippi 1,575. Arizona 1,200. Washington 750. Canada 690. Florida 680. New Mexico 530. West Indies (largest in world) 7,475(= 4% of all specimens). Middle America 32,800(= 19% of all specimens). Mexico 20,600. Costa Rica 3,050. Honduras 2,675. Panama 2,650. Guatemala 1,880. South America 79,700(=46% of all specimens). Peru 44,200. Bolivia 19,100. Argentina 8,300. Brazil 3,285. Ecuador 2,525. Colombia 1,615. Venezuela 410. Africa 5,300(= 3% of all specimens). Borneo 1050. Kuwait 675","175000","J.V. Remsen","Curator of Birds","najames@lsu.edu","119 Foster Hall, Louisiana State University","Baton Rouge","Louisiana","70803","119 Foster Hall, Louisiana State University","Baton Rouge","Louisiana","70803","urn:uuid:ecfba5c5-0fb4-4f5d-93bc-990238b33589","","","","","","",30.5293,-91.1081
 "Rhode Island School of Design, Edna Lawrence Nature Lab","Edna Lawrence Nature Lab","","","RISD","","urn:uuid:a2fba1e4-6c28-11e5-bdab-180373b97bac","","http://naturelab.risd.edu/collections/edna-w-lawrence-natural-history-collection/","","","",NA,NA,"","","","","","","The Edna Lawrence Nature Lab, Rhode Island School of Design, 2 College Street","Providence","RI","02903","13 Waterman Street","Providence","RI","02903","","","","","","","",41.8259,-71.4099
 "University of Arkansas","Herbarium","5e8863ea-56ec-40f3-8075-d42b35d12e72","{""recordset"":""5e8863ea-56ec-40f3-8075-d42b35d12e72""}","UARK<IH>","","urn:uuid:a33083e8-a237-4731-83a7-2b7ea78eef8d","urn:lsid:biocol.org:col:15499","http://uark.edu/~arkflora","","","",NA,NA,"","","","Johnnie L. Gentry","Coordinator","gentry@uark.edu","Biomass Research Center Room 139","Fayetteville","Arkansas","72701","Biomass Research Center Room 139","Fayetteville","Arkansas","72701","urn:uuid:f936ccc2-c8e2-4847-8e9c-72a1072eed2b","","","","http://sweetgum.nybg.org/science/ih/herbarium_details.php?irn=126592","","",36.0426,-94.1656
 "North Carolina Museum of Natural Sciences","Paleobotany","","","NCSM","","urn:uuid:a33bcfb8-f373-11e4-b342-002315492bbc","http://grbio.org/cool/k577-pycz","http://naturalsciences.org/research-collections/research-specialties/paleontology","http://collections.naturalsciences.org/searchPaleoBotany.aspx","","",NA,NA,"","","","Vince Schneider","Curator","vince.schneider@naturalsciences.org","11 West Jones St.","Raleigh","North Carolina","27601","11 West Jones St.","Raleigh","North Carolina","27601","urn:uuid:7941acfb-400a-48e9-b2b8-615850ef912f","","","","","","",35.7826,-78.6389
@@ -1073,7 +993,13 @@ Kuwait675","175000","J.V. Remsen","Curator of Birds","najames@lsu.edu","119 Fost
 "University of California Santa Cruz","Fish","","","","","urn:uuid:a9a318dc-33c4-4152-b309-d20ed72470f7","","http://mnhc.ucsc.edu/coll_res/collections/fish.shtml","","","",NA,NA,"","","","Chris Lay","Curator","cml@ucsc.edu","Department of Environmental Studies, Museum of Natural History, 1156 High St.","Santa Cruz","California","95064","1156 High Street, Natural Sciences 2 building","Santa Cruz","California","95064","urn:uuid:7732a3ac-43ed-4a69-aa0a-d0c99c415e80","","","","","","",36.9775,-122.0559
 "Whitman College","Herbarium","a4378725-7967-47bc-aada-0220e02e1f96","{""recordset"":""a4378725-7967-47bc-aada-0220e02e1f96""}","WCW<IH>","","urn:uuid:a9a8a571-3530-41fa-88ee-ff031b98eeae","urn:lsid:biocol.org:col:12527","","","","",NA,NA,"","","","Heidi E. M. Dobson","Director","dobsonhe@whitman.edu","Department of Biology","Walla Walla","Washington","99362","345 Boyer Avenue.","Walla Walla","Washington","99362","","","","","http://sweetgum.nybg.org/science/ih/herbarium_details.php?irn=127025","","",46.0706,-118.3263
 "University of Georgia, Georgia Museum of Natural History","Invertebrate Collections","","","UGCA","GMNH","urn:uuid:a9a9f7df-3920-467b-b436-e5430302233a","","http://museum.nhm.uga.edu/index.php?page=content/researchcollections/collections#invertebrate","","","",NA,NA,"","","","Bud Freeman","Curator","bud@hemip.nhm.uga.edu","Natural History Building, University of Georgia","Athens","Georgia","30602-7882","101 Cedar Street, Natural History Building, University of Georgia","Athens","Georgia","30602-7882","urn:uuid:34fd0447-b11a-4a1f-b864-30c6eb6e28e9","","","","","","",33.9453,-83.3711
-"Clemson University, Bob and Betsy Campbell Museum of Natural History","Vertebrate Zoology","","","CUSC","","urn:uuid:aa37599b-af1f-4838-ab3b-7d6c13624127","","http://www.clemson.edu/cafls/departments/biosci/facilities/campbell_museum.html","","recent vertebrates western South Carolina for most birds and mammals, all of SC for freshwater fishes, amphibians and reptiles, world wide for bird eggs, good collection of crocodiles from Belize","",NA,NA,"recent vertebrates","western South Carolina for most birds and mammals, all of SC for freshwater fishes, amphibians and reptiles, world wide for bird eggs, good collection of crocodiles from Belize","","Stanlee Miller","Curator","smmll@clemson.edu","Biological Sciences Department, 132 Long Hall","Clemson","South Carolina","29634-0314","B&B Campbell Museum building (Kinard Annex)","Clemson","South Carolina","29634-0314","urn:uuid:8b572ce2-3fa6-4c9f-86b7-bf4bdf6364ae","","","","","","",34.5088,-82.6591
+"Clemson University, Bob and Betsy Campbell Museum of Natural History","","","","","CUSC","urn:uuid:aa37599b-af1f-4838-ab3b-7d6c13624127","","http://www.clemson.edu/cafls/departments/biosci/facilities/campbell_museum.html","","recent vertebrates western South Carolina for most birds and mammals
+all of SC for freshwater fishes, amphibians and reptiles
+world wide for bird eggs
+good collection of crocodiles from Belize","",NA,NA,"recent vertebrates","western South Carolina for most birds and mammals
+all of SC for freshwater fishes, amphibians and reptiles
+world wide for bird eggs
+good collection of crocodiles from Belize","","Stanlee Miller","Curator","smmll@clemson.edu","Biological Sciences Department, 132 Long Hall","Clemson","South Carolina","29634-0314","B&B Campbell Museum building (Kinard Annex)","Clemson","South Carolina","29634-0314","urn:uuid:8b572ce2-3fa6-4c9f-86b7-bf4bdf6364ae","","","","","","",34.5088,-82.6591
 "West Virginia Wesleyan College","Entomology","","","","","urn:uuid:aa7ac44e-4fae-4532-83ad-29c899f148af","","","","","",NA,NA,"","","","Katharine B. Gregg","","gregg@wvwc.edu","Department of Biology, 59 College Avenue, Christopher Hall of Sciences","Buckhannon","West Virginia","26201-2600","Department of Biology, 59 College Avenue, Christopher Hall of Sciences","Buckhannon","West Virginia","26201-2600","","","","","","","",38.9871,-80.2236
 "University of Tennessee Knoxville, McClung Museum of Natural History & Culture","MAIN","","","","","urn:uuid:aabc4a52-567f-4f28-8eb7-ed576dad7652","","http://mcclungmuseum.utk.edu/","","","",NA,NA,"","","","","","museum@utk.edu","1327 Circle Park Drive","Knoxville","Tennessee","37996-3200","1327 Circle Park Drive","Knoxville","Tennessee","37996-3200","","","","","","","",35.9535,-83.9268
 "Wake Forest University","Herbarium","8a54c5fa-2900-4859-a2d6-1b7faedafac4","{""recordset"":""8a54c5fa-2900-4859-a2d6-1b7faedafac4""}","WFU<IH>","","urn:uuid:aaf861de-32ca-4b61-9fa5-73ec65afbc25","urn:lsid:biocol.org:col:14717","","","","",NA,NA,"","","","Kathleen A. Kron","Director","kronka@wfu.edu","Biology Department, P.O. Box 7325, Reynolda Station","Winston-Salem","North Carolina","27109","Faculty Drive, Winston Hall.","Winston-Salem","North Carolina","27109","urn:uuid:40eee281-ccae-40bf-8aac-f79df687cbe4","","","","http://sweetgum.nybg.org/science/ih/herbarium_details.php?irn=126973","","",36.1331,-80.2662
