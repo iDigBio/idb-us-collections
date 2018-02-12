@@ -1,6 +1,6 @@
 {
-    "institution": "University of Pennsylvania, Insects of Area Conservacion Guanacaste, northwestern Costa Rica",
-    "collection": "Insect",
+    "institution": "Insects of Area Conservacion Guanacaste, northwestern Costa Rica",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -14,7 +14,7 @@
     "cataloguedSpecimens": null,
     "knownToContainTypes": null,
     "taxonCoverage": "Lepidoptera, Tachinidae, parasitoid Hymenoptera",
-    "geographic_range": "Area de Conservación Guanacaste, northwestern Costa Rica",
+    "geographic_range": "Area de Conservacion Guanacaste, northwestern Costa Rica",
     "collectionExtent": "",
     "contact": "Daniel H. Janzen",
     "contact_role": "Curator",
