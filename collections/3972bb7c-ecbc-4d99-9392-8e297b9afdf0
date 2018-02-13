@@ -1,5 +1,5 @@
 {
-    "institution": "Mississippi State University Herbarium",
+    "institution": "Mississippi State University",
     "collection": "Herbarium",
     "recordsets": "3056112e-97c6-4d0d-b6c2-3c0a9adaca24",
     "recordsetQuery": "{\"recordset\":\"3056112e-97c6-4d0d-b6c2-3c0a9adaca24\"}",
@@ -27,7 +27,7 @@
     "physical_city": "Mississippi State",
     "physical_state": "Mississippi",
     "physical_zip": "39762",
-    "UniqueNameUUID": "urn:uuid:83afc4d7-69c4-42b1-ba57-4b2b3de7f42d",
+    "UniqueNameUUID": "urn:uuid:05069f5a-3298-4dbd-abf9-5485b1e049fa",
     "attributionLogoURL": "",
     "providerManagedID": "",
     "derivedFrom": "",
