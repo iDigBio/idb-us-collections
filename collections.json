@@ -16922,8 +16922,8 @@
 {
     "institution": "Patuxent Research Refuge - Maryland",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "4960f30c-c1c7-490e-966a-61ad02969e38",
+    "recordsetQuery": "{\"recordset\":\"4960f30c-c1c7-490e-966a-61ad02969e38\"}",
     "institution_code": "USFWS",
     "collection_code": "PRR",
     "collection_uuid": "urn:uuid:47ab203c-035e-49c4-a23f-a95e31a498f9",
