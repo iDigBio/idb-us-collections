@@ -2,7 +2,7 @@
   "institution": "Rocky Mountain Biological Laboratory",
   "collection": "Mammals",
   "recordsets": "3bbf3659-4b21-40b7-b74f-f17a60097154",
-  "recordsetQuery": "{"recordset":"3bbf3659-4b21-40b7-b74f-f17a60097154"}",
+  "recordsetQuery": "{\"recordset\":\"3bbf3659-4b21-40b7-b74f-f17a60097154\"}",
   "institution_code": "RMBL",
   "collection_code": "",
   "collection_uuid": "urn:uuid:e2de9afa-95c1-4670-9568-b34017ff2302",
