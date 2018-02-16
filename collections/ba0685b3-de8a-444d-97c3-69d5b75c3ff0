@@ -2,7 +2,7 @@
   "institution": "Abilene Christian University",
   "collection": "Mammals",
   "recordsets": "02edea37-e897-409a-a372-8865460ba9c1",
-  "recordsetQuery": "{\"recordset\":\"02edea37-e897-409a-a372-8865460ba9c1\"}",
+  "recordsetQuery": "",
   "institution_code": "ACUNHC",
   "collection_code": "Mammal",
   "collection_uuid": "urn:uuid:ba0685b3-de8a-444d-97c3-69d5b75c3ff0",
