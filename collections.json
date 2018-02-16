@@ -8604,7 +8604,7 @@
     "collection": "Herbarium",
     "recordsets": "12018be6-3795-43a3-a073-a2b9d60c0af3",
     "recordsetQuery": "{\"recordset\":\"12018be6-3795-43a3-a073-a2b9d60c0af3\"}",
-    "institution_code": "RMBL<IH>",
+    "institution_code": "RMBL",
     "collection_code": "",
     "collection_uuid": "urn:uuid:25a68dbc-5b52-438f-813f-fbbd0c75433e",
     "collection_lsid": "http://grbio.org/cool/m6b1-7k8z",
