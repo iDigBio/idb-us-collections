@@ -1,10 +1,10 @@
 {
     "institution": "University of New Mexico, Museum of Southwestern Biology",
     "collection": "Amphibians and Reptiles",
-    "recordsets": "88271bd3-1985-4fa7-9e33-f82cc24dfad3",
-    "recordsetQuery": "{\"recordset\":\"88271bd3-1985-4fa7-9e33-f82cc24dfad3\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "MSB",
-    "collection_code": "Amphibian And Reptile Specimens",
+    "collection_code": "MSB:Herp",
     "collection_uuid": "urn:uuid:6d3ab4ec-02dd-4aa7-af42-d86a10ea46c8",
     "collection_lsid": "http://grbio.org/cool/appb-7y8a",
     "collection_url": "http://www.msb.unm.edu/",
