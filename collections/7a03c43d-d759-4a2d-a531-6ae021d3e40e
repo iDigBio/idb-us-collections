@@ -1,6 +1,6 @@
 {
     "institution": "Harvard University, The Farlow Herbarium",
-    "collection": "The Farlow Herbarium",
+    "collection": "Herbarium",
     "recordsets": "b000920c-6f7d-49d3-9d0f-2bb630d2e01a, 7450a9e3-ef95-4f9e-8260-09b498d2c5e6",
     "recordsetQuery": "{\"recordset\":[\"b000920c-6f7d-49d3-9d0f-2bb630d2e01a\",\" 7450a9e3-ef95-4f9e-8260-09b498d2c5e6\"],\"collectioncode\":\"FH\"}",
     "institution_code": "Harvard University",

@@ -1,6 +1,6 @@
 {
     "institution": "Santa Barbara Museum of Natural History",
-    "collection": "Mammal Collection",
+    "collection": "Mammals",
     "recordsets": "9d8ced48-62c5-4ce0-99e7-a03550c674c0",
     "recordsetQuery": "{\"recordset\":[\"9d8ced48-62c5-4ce0-99e7-a03550c674c0\"],\"collectioncode\":[\"mam\"]}",
     "institution_code": "SBMNH",

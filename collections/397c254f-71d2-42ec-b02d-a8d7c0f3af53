@@ -1,6 +1,6 @@
 {
     "institution": "Harvard University, Oakes Ames Orchid Herbarium",
-    "collection": "Oakes Ames Orchid Herbarium",
+    "collection": "Herbarium",
     "recordsets": "7450a9e3-ef95-4f9e-8260-09b498d2c5e6",
     "recordsetQuery": "{\"recordset\":[\"7450a9e3-ef95-4f9e-8260-09b498d2c5e6\"],\"collectioncode\":[\"AMES\"]}",
     "institution_code": "Harvard University",

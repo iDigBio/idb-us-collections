@@ -1,6 +1,6 @@
 {
-    "institution": "University of Nebraska Lincoln, University of Nebraska State Museum",
-    "collection": "Division of Botany, C.E. Bessey Herbarium",
+    "institution": "University of Nebraska Lincoln, University of Nebraska State Museum, C.E. Bessey Herbarium",
+    "collection": "Herbarium",
     "recordsets": "bbf5f8ed-f33f-40ba-9d0d-1c24dfec4193, ced8c9bc-e8b5-49e7-860a-289fc913860c, 8f3b62fb-56ec-49e8-9f8f-bb257348291f",
     "recordsetQuery": "{\"recordset\":[\"bbf5f8ed-f33f-40ba-9d0d-1c24dfec4193\",\"ced8c9bc-e8b5-49e7-860a-289fc913860c\",\"8f3b62fb-56ec-49e8-9f8f-bb257348291f\"]}",
     "institution_code": "NEB<IH>",

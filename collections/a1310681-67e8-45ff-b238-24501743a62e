@@ -1,6 +1,6 @@
 {
     "institution": "Cornell University, Plant Pathology Herbarium",
-    "collection": "Plant Pathology Herbarium",
+    "collection": "Herbarium",
     "recordsets": "91c5eec8-0cdc-4be2-9a99-a15ae5ec3edc, 9756b9a4-c070-4359-8a07-2383b09d0d04",
     "recordsetQuery": "{\"recordset\":[\"91c5eec8-0cdc-4be2-9a99-a15ae5ec3edc\",\"9756b9a4-c070-4359-8a07-2383b09d0d04\"]}",
     "institution_code": "CUP",

@@ -1,6 +1,6 @@
 {
     "institution": "University of Illinois, Illinois Natural History Survey",
-    "collection": "Insect collections",
+    "collection": "Insects",
     "recordsets": "dde625e8-cc2a-4877-9ec4-0b8a20dfded9, 57b1a2a3-78ab-4e69-a77e-a8fd4394ee5a",
     "recordsetQuery": "{\"recordset\":[\"dde625e8-cc2a-4877-9ec4-0b8a20dfded9\",\"57b1a2a3-78ab-4e69-a77e-a8fd4394ee5a\"]}",
     "institution_code": "INHS",

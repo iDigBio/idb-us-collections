@@ -1,6 +1,6 @@
 {
-    "institution": "University of Connecticut Biodiversity Research Collections",
-    "collection": "The George Safford Torrey Herbarium",
+    "institution": "University of Connecticut Biodiversity Research Collections, The George Safford Torrey Herbarium",
+    "collection": "Herbarium",
     "recordsets": "abe3903e-ceba-4864-aa5d-bd985c70fa21, fc40fabd-0a70-48fa-b142-79990cd259a5, d1b25dcd-472e-4902-b53c-3b164269e049, e70af26a-fb9e-43ab-96a0-d62a2df37e6d",
     "recordsetQuery": "{\"recordset\":[\"abe3903e-ceba-4864-aa5d-bd985c70fa21\",\"fc40fabd-0a70-48fa-b142-79990cd259a5\",\"d1b25dcd-472e-4902-b53c-3b164269e049\",\"e70af26a-fb9e-43ab-96a0-d62a2df37e6d\"]}",
     "institution_code": "CONN",

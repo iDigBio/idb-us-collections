@@ -1,6 +1,6 @@
 {
-    "institution": "University of Cincinnati",
-    "collection": "Margaret H. Fulford Herbarium",
+    "institution": "University of Cincinnati, Margaret H. Fulford Herbarium",
+    "collection": "Herbarium",
     "recordsets": "540e18dc-09aa-4790-8b47-8d18ae86fabc, 1701a75c-5a57-48c3-84c2-234a53f4c3e2",
     "recordsetQuery": "{\"recordset\":[\"540e18dc-09aa-4790-8b47-8d18ae86fabc\",\"1701a75c-5a57-48c3-84c2-234a53f4c3e2\"]}",
     "institution_code": "CINC<IH>",
