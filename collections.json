@@ -40,8 +40,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Insects",
+    "institution": "University of Delaware",
+    "collection": "Insect collection",
     "recordsets": "2c662e9e-cdc6-4bbf-93a5-1566ceca1af3",
     "recordsetQuery": "{\"recordset\":\"2c662e9e-cdc6-4bbf-93a5-1566ceca1af3\"}",
     "institution_code": "UD",
@@ -160,8 +160,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Tetrapods, Mammals",
+    "institution": "Ohio State University, Museum of Biological Diversity",
+    "collection": "Tetrapods, Mammal Collection",
     "recordsets": "b5d8168e-c310-4870-aa88-eeb3c25256fd",
     "recordsetQuery": "{\"recordset\":\"b5d8168e-c310-4870-aa88-eeb3c25256fd\"}",
     "institution_code": "OSU",
@@ -320,8 +320,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Invertebrates",
+    "institution": "University of Vermont, Zadock Thompson Zoological Collection-Invertebrates",
+    "collection": "Invertebrate collection",
     "recordsets": "96588aed-3b7a-4179-b92b-2159427f4fcb",
     "recordsetQuery": "{\"recordset\":\"96588aed-3b7a-4179-b92b-2159427f4fcb\"}",
     "institution_code": "UVM",
@@ -360,8 +360,8 @@
   }
 ,
 {
-    "institution": "South Dakota State University, C. A. Taylor Herbarium",
-    "collection": "Herbarium",
+    "institution": "South Dakota State University",
+    "collection": "C. A. Taylor Herbarium",
     "recordsets": "cb2973af-0d5a-4fbf-80ab-ec96ede33ef0",
     "recordsetQuery": "{\"recordset\":\"cb2973af-0d5a-4fbf-80ab-ec96ede33ef0\"}",
     "institution_code": "SDC<IH>",
@@ -680,8 +680,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fishes",
+    "institution": "University of Guam Marine Laboratory",
+    "collection": "Collection of Fishes",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -1480,8 +1480,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Malacology and Invertebrate Zoology",
+    "institution": "University of Florida, Florida Museum of Natural History",
+    "collection": "Malacology & Invertebrate Zoology",
     "recordsets": "6bb853ab-e8ea-43b1-bd83-47318fc4c345",
     "recordsetQuery": "{\"recordset\":\"6bb853ab-e8ea-43b1-bd83-47318fc4c345\"}",
     "institution_code": "UF",
@@ -1520,8 +1520,8 @@
   }
 ,
 {
-    "institution": "Cranbrook Institute of Science, Billington Herbarium",
-    "collection": "Herbarium",
+    "institution": "Cranbrook Institute of Science",
+    "collection": "Billington Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "BLH<IH>",
@@ -1640,8 +1640,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Paleontology - Vertebrates and Ichnofossils",
+    "institution": "University of Colorado Museum of Natural History",
+    "collection": "Paleontology - Vertebrates & Ichnofossils",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UCM",
@@ -1720,8 +1720,8 @@
   }
 ,
 {
-    "institution": "Utah State University, Intermountain Herbarium",
-    "collection": "Herbarium",
+    "institution": "Utah State University",
+    "collection": "Intermountain Herbarium",
     "recordsets": "0c15e83e-79ee-4ee3-86e3-e5f98a51dc11, 215eeaf0-0a88-409e-a75d-aec98b7c41eb,b1c7a275-21f6-4b66-895d-d497359b34a1, caaa464d-e290-4761-8550-75edc6d00119",
     "recordsetQuery": "{\"recordset\":[\"0c15e83e-79ee-4ee3-86e3-e5f98a51dc11\",\"215eeaf0-0a88-409e-a75d-aec98b7c41eb\",\"b1c7a275-21f6-4b66-895d-d497359b34a1\",\"caaa464d-e290-4761-8550-75edc6d00119\"]}",
     "institution_code": "UTC<IH>",
@@ -1920,8 +1920,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Paleontology, Fossil Amphibians, Reptiles, and Birds",
+    "institution": "American Museum of Natural History",
+    "collection": "Paleontology, fossil Amphibians, Reptiles, and Birds",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "AMNH",
@@ -2080,8 +2080,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fossil Reptiles and Amphibians",
+    "institution": "Field Museum of Natural History",
+    "collection": "Fossil Reptile & Amphibian Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "FMNH",
@@ -2597,6 +2597,46 @@
     "portalDisplay": "",
     "lat": 38.9574,
     "lon": -95.2459
+  }
+,
+{
+    "institution": "College of Idaho, Orma J. Smith Museum of Natural History",
+    "collection": "MAIN",
+    "recordsets": "",
+    "recordsetQuery": "",
+    "institution_code": "",
+    "collection_code": "",
+    "collection_uuid": "urn:uuid:09bcffc6-1c3e-4a03-b9b1-aca39d2b6f6b",
+    "collection_lsid": "",
+    "collection_url": "https://www.collegeofidaho.edu/cultural-institutions/orma-j-smith-museum-natural-history",
+    "collection_catalog_url": "",
+    "description": "",
+    "descriptionForSpecialists": "",
+    "cataloguedSpecimens": null,
+    "knownToContainTypes": null,
+    "taxonCoverage": "",
+    "geographic_range": "",
+    "collectionExtent": "",
+    "contact": "William Clark",
+    "contact_role": "Director",
+    "contact_email": "bclark@collegeofidaho.edu",
+    "mailing_address": "Boone Science Hall, 2112 Cleveland Blvd",
+    "mailing_city": "Caldwell",
+    "mailing_state": "Idaho",
+    "mailing_zip": "83605",
+    "physical_address": "Boone Science Hall, 2112 Cleveland Blvd",
+    "physical_city": "Caldwell",
+    "physical_state": "Idaho",
+    "physical_zip": "83605",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 43.6642,
+    "lon": -116.7007
   }
 ,
 {
@@ -3560,8 +3600,48 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Non-vertebrate Paleontology Types",
+    "institution": "Gulf Coast Research Laboratory",
+    "collection": "MAIN",
+    "recordsets": "",
+    "recordsetQuery": "",
+    "institution_code": "",
+    "collection_code": "",
+    "collection_uuid": "urn:uuid:0ea6038d-8490-4e26-bdea-6a53e09b54d6",
+    "collection_lsid": "",
+    "collection_url": "http://www.usm.edu/gcrl/museum",
+    "collection_catalog_url": "",
+    "description": "",
+    "descriptionForSpecialists": "",
+    "cataloguedSpecimens": null,
+    "knownToContainTypes": null,
+    "taxonCoverage": "",
+    "geographic_range": "",
+    "collectionExtent": "",
+    "contact": "Sara E. LeCroy",
+    "contact_role": "Curator",
+    "contact_email": "Sara.LeCroy@usm.edu",
+    "mailing_address": "P.O. Box 7000",
+    "mailing_city": "Ocean Springs",
+    "mailing_state": "Mississippi",
+    "mailing_zip": "39564",
+    "physical_address": "703 East Beach Drive.",
+    "physical_city": "Ocean Springs",
+    "physical_state": "Mississippi",
+    "physical_zip": "39564",
+    "UniqueNameUUID": "urn:uuid:06c53d8d-d9da-4155-abe2-bdb624efe2e3",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 30.3935,
+    "lon": -88.7986
+  }
+,
+{
+    "institution": "University of Texas at Austin, Non-vertebrate Paleontology Lab",
+    "collection": "Type Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -3680,8 +3760,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Reptiles and Amphibians",
+    "institution": "Tall Timbers Research Station & Land Conservancy",
+    "collection": "Reptiles & Amphibians",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "TTRS",
@@ -3760,8 +3840,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Vertebrates",
+    "institution": "University of California Museum of Paleontology",
+    "collection": "Vertebrate collection",
     "recordsets": "5ab348ab-439a-4697-925c-d6abe0c09b92",
     "recordsetQuery": "{\"recordset\":\"5ab348ab-439a-4697-925c-d6abe0c09b92\"}",
     "institution_code": "UCMP",
@@ -3880,8 +3960,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Paleobotany",
+    "institution": "University of California Museum of Paleontology",
+    "collection": "Paleobotany collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UCMP",
@@ -4120,8 +4200,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Diatoms",
+    "institution": "Academy of Natural Sciences of Drexel University",
+    "collection": "Diatom Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "DH",
@@ -4200,8 +4280,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Vertebrates",
+    "institution": "Sul Ross State University, James F. Scudday Verterbate Collection",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "SRSC",
@@ -4280,8 +4360,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Invertebrates",
+    "institution": "University of Arizona",
+    "collection": "Invertebrate",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UA",
@@ -4320,8 +4400,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Tetrapods, Reptiles",
+    "institution": "Ohio State University, Museum of Biological Diversity",
+    "collection": "Tetrapods, Reptile Collection",
     "recordsets": "efc8b829-65b0-4fff-b6b2-f1148c68f80d",
     "recordsetQuery": "{\"recordset\":\"efc8b829-65b0-4fff-b6b2-f1148c68f80d\"}",
     "institution_code": "OSU",
@@ -4360,8 +4440,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Eggs",
+    "institution": "University of Oklahoma, Sam Noble Oklahoma State Museum of Natural History",
+    "collection": "Egg",
     "recordsets": "5e926e06-23b7-4461-a86c-e9219f5a3606",
     "recordsetQuery": "{\"recordset\":\"5e926e06-23b7-4461-a86c-e9219f5a3606\"}",
     "institution_code": "OMNH",
@@ -4440,8 +4520,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mollusks",
+    "institution": "University of Tennessee Knoxville, McClung Museum of Natural History & Culture",
+    "collection": "Mollusk",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -4600,8 +4680,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Paleontology",
+    "institution": "University of Illinois, Illinois Natural History Survey",
+    "collection": "Paleontology Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "INHS",
@@ -4640,8 +4720,8 @@
   }
 ,
 {
-    "institution": "University of Utah, Natural History Museum of Utah, Garrett Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of Utah, Natural History Museum of Utah",
+    "collection": "Botany, Garrett Herbarium",
     "recordsets": "2c00c297-9ebd-498a-b701-d3ebde4b49f3",
     "recordsetQuery": "{\"recordset\":\"2c00c297-9ebd-498a-b701-d3ebde4b49f3\"}",
     "institution_code": "UT<IH>",
@@ -4680,8 +4760,8 @@
   }
 ,
 {
-    "institution": "Iowa State University, Ada Hayden Herbarium",
-    "collection": "Herbarium",
+    "institution": "Iowa State University",
+    "collection": "Ada Hayden Herbarium",
     "recordsets": "4b92de1f-866d-4b82-af69-37d46753f289, cf641fbf-fa31-481a-993b-9204f2ee1884, 531537fc-6349-4a20-ae42-540d61797086",
     "recordsetQuery": "{\"recordset\":[\"4b92de1f-866d-4b82-af69-37d46753f289\",\"cf641fbf-fa31-481a-993b-9204f2ee1884\",\"531537fc-6349-4a20-ae42-540d61797086\"]}",
     "institution_code": "ISC<IH>, IA<IH>",
@@ -4920,8 +5000,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fungi",
+    "institution": "University of Illinois, Illinois Natural History Survey",
+    "collection": "Fungarium",
     "recordsets": "e7ac8c4a-64bd-491b-b764-232de9b4bfe5",
     "recordsetQuery": "{\"recordset\":\"e7ac8c4a-64bd-491b-b764-232de9b4bfe5\"}",
     "institution_code": "ILLS (fungi)",
@@ -5120,8 +5200,8 @@
   }
 ,
 {
-    "institution": "Northern Arizona University, Colorado Plateau Biodiversity Center, Laboratory of Paleoecology",
-    "collection": "Paleoecology",
+    "institution": "Northern Arizona University, Colorado Plateau Biodiversity Center",
+    "collection": "Laboratory of Paleoecology",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "NAUF",
@@ -5200,8 +5280,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Vertebrates  (Mammals, Fishes, Birds)",
+    "institution": "Western New Mexico University, Gila Natural History Collections of the Gila Center for Natural History",
+    "collection": "Vertebrate collection (mammals, fish, birds)",
     "recordsets": "929bf047-9ad7-48bd-88fa-c2630d423e8a, 0a8f691f-004d-41d8-89fb-9f808a8268c5, de9a1acc-2ca6-4c36-92af-e7ea8b29c096",
     "recordsetQuery": "{\"recordset\":[\"929bf047-9ad7-48bd-88fa-c2630d423e8a\",\"0a8f691f-004d-41d8-89fb-9f808a8268c5\",\"de9a1acc-2ca6-4c36-92af-e7ea8b29c096\"]}",
     "institution_code": "WNMU",
@@ -5320,8 +5400,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Natural Science",
+    "institution": "Museum of Science & History of Jacksonville",
+    "collection": "Natural Science Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "MOSHJAX",
@@ -5400,8 +5480,8 @@
   }
 ,
 {
-    "institution": "Illinois State University, John Wesley Powell and Dale Birkenholz Natural History collections",
-    "collection": "Natural History",
+    "institution": "Illinois State University",
+    "collection": "John Wesley Powell and Dale Birkenholz Natural History collections",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "ISU",
@@ -5880,8 +5960,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Paleontology",
+    "institution": "Southern Methodist University, Shuler Museum of Paleontology",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "SMU",
@@ -6080,8 +6160,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fishes",
+    "institution": "University of Texas at El Paso Biodiversity Collections",
+    "collection": "Fish",
     "recordsets": "3c6099e4-3a0c-44c8-942a-f44860aea12b",
     "recordsetQuery": "{\"recordset\":\"3c6099e4-3a0c-44c8-942a-f44860aea12b\"}",
     "institution_code": "UTEP",
@@ -6160,8 +6240,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Paleobotany",
+    "institution": "University of Michigan, Museum of Paleontology",
+    "collection": "Paleobotany collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UMMP",
@@ -6357,6 +6437,46 @@
     "portalDisplay": "",
     "lat": 32.4231,
     "lon": -81.7792
+  }
+,
+{
+    "institution": "Emporia State University, Richard H. Schmidt Museum of Natural History",
+    "collection": "MAIN",
+    "recordsets": "",
+    "recordsetQuery": "",
+    "institution_code": "KSTC",
+    "collection_code": "",
+    "collection_uuid": "urn:uuid:1b1f8f6b-f522-4288-b629-11e840229259",
+    "collection_lsid": "",
+    "collection_url": "http://www.emporia.edu/smnh/",
+    "collection_catalog_url": "",
+    "description": "",
+    "descriptionForSpecialists": "",
+    "cataloguedSpecimens": null,
+    "knownToContainTypes": null,
+    "taxonCoverage": "",
+    "geographic_range": "",
+    "collectionExtent": "",
+    "contact": "Bill Jensen",
+    "contact_role": "Curator",
+    "contact_email": "wjensen1@emporia.edu",
+    "mailing_address": "Department of Biological Sciences, 1200 Commercial",
+    "mailing_city": "Emporia",
+    "mailing_state": "Kansas",
+    "mailing_zip": "66801-5087",
+    "physical_address": "Department of Biological Sciences, 1200 Commercial",
+    "physical_city": "Emporia",
+    "physical_state": "Kansas",
+    "physical_zip": "66801-5087",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 38.3966,
+    "lon": -96.1802
   }
 ,
 {
@@ -6560,44 +6680,44 @@
   }
 ,
 {
-    "institution": "City of Alexandria",
-    "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
-    "institution_code": "AVCH",
-    "collection_code": "",
-    "collection_uuid": "urn:uuid:1c730f5a-ee7b-4f63-8434-7f14a001777c",
-    "collection_lsid": "",
-    "collection_url": "",
-    "collection_catalog_url": "",
-    "description": "",
-    "descriptionForSpecialists": "",
-    "cataloguedSpecimens": null,
-    "knownToContainTypes": null,
-    "taxonCoverage": "",
-    "geographic_range": "",
-    "collectionExtent": "4500",
-    "contact": "Roderick Simmons",
-    "contact_role": "Plant Ecologist",
-    "contact_email": "Rod.Simmons@alexandriava.gov",
-    "mailing_address": "Dept. Recreation, Parks, and Cultural Activities (RPCA) 2900-A Business Center Drive",
-    "mailing_city": "Alexandria",
-    "mailing_state": "Virginia",
-    "mailing_zip": "22314",
-    "physical_address": "Dept. Recreation, Parks, and Cultural Activities (RPCA) 2900-A Business Center Drive",
-    "physical_city": "Alexandria",
-    "physical_state": "Virginia",
-    "physical_zip": "22314",
-    "UniqueNameUUID": "urn:uuid:40c1c668-33ec-4798-b610-d25a2af09ac5",
-    "attributionLogoURL": "",
-    "providerManagedID": "",
-    "derivedFrom": "",
-    "sameAs": "http://sweetgum.nybg.org/science/ih/herbarium_details.php?irn=226237",
-    "flags": "",
-    "portalDisplay": "",
-    "lat": 38.8058,
-    "lon": -77.085
-  }
+  "institution": "City of Alexandria",
+  "collection": "Herbarium",
+  "recordsets": "",
+  "recordsetQuery": "",
+  "institution_code": "AVCH",
+  "collection_code": "",
+  "collection_uuid": "urn:uuid:1c730f5a-ee7b-4f63-8434-7f14a001777c",
+  "collection_lsid": "",
+  "collection_url": "",
+  "collection_catalog_url": "",
+  "description": "",
+  "descriptionForSpecialists": "",
+  "cataloguedSpecimens": null,
+  "knownToContainTypes": null,
+  "taxonCoverage": "",
+  "geographic_range": "",
+  "collectionExtent": "4500",
+  "contact": "Roderick Simmons",
+  "contact_role": "Plant Ecologist",
+  "contact_email": "Rod.Simmons@alexandriava.gov",
+  "mailing_address": "Dept. Recreation, Parks, and Cultural Activities (RPCA) 2900-A Business Center Drive",
+  "mailing_city": "Alexandria",
+  "mailing_state": "Virginia",
+  "mailing_zip": "22314",
+  "physical_address": "Dept. Recreation, Parks, and Cultural Activities (RPCA) 2900-A Business Center Drive",
+  "physical_city": "Alexandria",
+  "physical_state": "Virginia",
+  "physical_zip": "22314",
+  "UniqueNameUUID": "urn:uuid:40c1c668-33ec-4798-b610-d25a2af09ac5",
+  "attributionLogoURL": "",
+  "providerManagedID": "",
+  "derivedFrom": "",
+  "sameAs": "http://sweetgum.nybg.org/science/ih/herbarium_details.php?irn=226237",
+  "flags": "",
+  "portalDisplay": "",
+  "lat": 38.8058234,
+  "lon": -77.085017
+}
 ,
 {
     "institution": "Duke University Herbarium",
@@ -7000,8 +7120,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Zoology",
+    "institution": "University of Oregon, The Museum of Natural and Cultural History",
+    "collection": "Zoology collections",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -7040,8 +7160,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Marine Science",
+    "institution": "University of Texas at Austin, Marine Science Institute",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -7280,8 +7400,8 @@
   }
 ,
 {
-    "institution": "Indiana University, Deam Herbarium",
-    "collection": "Herbarium",
+    "institution": "Indiana University",
+    "collection": "Deam Herbarium",
     "recordsets": "2e3a8e5c-eef9-462d-a690-3a91fe111e13, b3d53973-5bac-432a-90d3-7956baa09c5d, 0dab1fc7-ca99-456b-9985-76edbac003e0",
     "recordsetQuery": "{\"recordset\":[\"2e3a8e5c-eef9-462d-a690-3a91fe111e13\",\" b3d53973-5bac-432a-90d3-7956baa09c5d\",\" 0dab1fc7-ca99-456b-9985-76edbac003e0\"]}",
     "institution_code": "IND<IH>",
@@ -7400,8 +7520,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Vertebrate Zoology",
+    "institution": "Western Foundation of Vertebrate Zoology",
+    "collection": "",
     "recordsets": "5ace330b-5888-4a46-a5ac-e428535ed4f3",
     "recordsetQuery": "{\"recordset\":\"5ace330b-5888-4a46-a5ac-e428535ed4f3\"}",
     "institution_code": "WFVZ",
@@ -7680,8 +7800,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Insects",
+    "institution": "Southern Oregon University, Southern Oregon Insect Museum",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -8120,8 +8240,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Bacillus",
+    "institution": "Bacillus Genetic Stock Center",
+    "collection": "Bacillus Genetic Stock Center",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "BGSC",
@@ -8160,8 +8280,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mammals",
+    "institution": "University of Arizona",
+    "collection": "Mammal",
     "recordsets": "552ce2e5-b627-4d6d-b914-6b495d0a79e6",
     "recordsetQuery": "{\"recordset\":\"552ce2e5-b627-4d6d-b914-6b495d0a79e6\"}",
     "institution_code": "UA",
@@ -8240,8 +8360,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fungi and Lichens",
+    "institution": "Field Museum of Natural History",
+    "collection": "Fungi & Lichens",
     "recordsets": "c481fbc6-4bd7-4c50-8537-ba1993d4eb88, 5626f61a-822e-4692-b432-51f53d053e4d",
     "recordsetQuery": "{\"recordset\":[\"c481fbc6-4bd7-4c50-8537-ba1993d4eb88\",\"5626f61a-822e-4692-b432-51f53d053e4d\"]}",
     "institution_code": "FMNH",
@@ -8280,8 +8400,8 @@
   }
 ,
 {
-    "institution": "Purdue University, Purdue Entomological Research Collection",
-    "collection": "Entomology",
+    "institution": "Purdue University",
+    "collection": "Purdue Entomological Research Collection",
     "recordsets": "47ac1531-5213-4848-a32d-5bb396ab9348, 9354db6c-4019-4351-a822-cb87b1b73a44",
     "recordsetQuery": "{\"recordset\":[\"47ac1531-5213-4848-a32d-5bb396ab9348\",\"9354db6c-4019-4351-a822-cb87b1b73a44\"]}",
     "institution_code": "PURD",
@@ -8600,8 +8720,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Birds",
+    "institution": "University of Illinois, Illinois Natural History Survey",
+    "collection": "Bird Collections",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "INHS",
@@ -8640,8 +8760,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Genetic Resources",
+    "institution": "University of Florida, Florida Museum of Natural History",
+    "collection": "Genetic Resources Repository",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UF",
@@ -8680,8 +8800,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Seeds and Fruits",
+    "institution": "California Department of Food and Agriculture",
+    "collection": "CDFA Seed and Fruit Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "CDFA",
@@ -8800,8 +8920,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Geology",
+    "institution": "University of Georgia, Georgia Museum of Natural History",
+    "collection": "Geology collections",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -8960,8 +9080,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fossil Mammals and Synapsids",
+    "institution": "Field Museum of Natural History",
+    "collection": "Fossil Mammals & Synapsids",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "FMNH",
@@ -9000,8 +9120,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Parasitology",
+    "institution": "University of New Mexico, Museum of Southwestern Biology",
+    "collection": "Parasites",
     "recordsets": "41e1a09b-bd55-4d20-a480-5d8187f7afca, b3d3a357-9fa6-453c-9f02-d86a1bbc762a",
     "recordsetQuery": "{\"recordset\":[\"41e1a09b-bd55-4d20-a480-5d8187f7afca\",\"b3d3a357-9fa6-453c-9f02-d86a1bbc762a\"]}",
     "institution_code": "MSB",
@@ -9080,8 +9200,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Paleobotany and Paleoecology",
+    "institution": "Cleveland Museum of Natural History",
+    "collection": "Paleobotany & Paleoecology",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -9640,8 +9760,8 @@
   }
 ,
 {
-    "institution": "Natural History Museum of Los Angeles County, Dinosaur Institute",
-    "collection": "Vertebrate Paleontology",
+    "institution": "Natural History Museum of Los Angeles County",
+    "collection": "Dinosaur Institute",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -9880,8 +10000,8 @@
   }
 ,
 {
-    "institution": "Bernice Pauahi Bishop Museum, Pacific Center for Molecular Biodiversity",
-    "collection": "",
+    "institution": "Bernice Pauahi Bishop Museum",
+    "collection": "Pacific Center for Molecular Biodiversity",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "BPBM",
@@ -10080,8 +10200,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Arthropods",
+    "institution": "Northern Arizona University, Colorado Plateau Biodiversity Center",
+    "collection": "Colorado Plateau Museum of Arthropod Biodiversity",
     "recordsets": "69037495-438d-4dba-bf0f-4878073766f1",
     "recordsetQuery": "{\"recordset\":\"69037495-438d-4dba-bf0f-4878073766f1\"}",
     "institution_code": "NAUF",
@@ -10160,8 +10280,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Vertebrates",
+    "institution": "University of Michigan, Museum of Paleontology",
+    "collection": "Vertebrate collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UMMP",
@@ -10240,8 +10360,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Decapoda",
+    "institution": "New York State Museum",
+    "collection": "Decapoda Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "NYSM",
@@ -10320,8 +10440,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Insects",
+    "institution": "University of Arizona",
+    "collection": "Insect collection",
     "recordsets": "31c140bc-e6f1-4acc-beaf-b825cf288ad9",
     "recordsetQuery": "{\"recordset\":\"31c140bc-e6f1-4acc-beaf-b825cf288ad9\"}",
     "institution_code": "UA",
@@ -10360,8 +10480,8 @@
   }
 ,
 {
-    "institution": "North Dakota State University Insect Reference Collection",
-    "collection": "Insects",
+    "institution": "North Dakota State University",
+    "collection": "North Dakota State Insect Reference Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "NDSU",
@@ -10400,8 +10520,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Lichens",
+    "institution": "Arizona State University",
+    "collection": "Lichen Herbarium",
     "recordsets": "7c927849-94ed-4034-90e9-af34ac0cb47c",
     "recordsetQuery": "{\"recordset\":\"7c927849-94ed-4034-90e9-af34ac0cb47c\"}",
     "institution_code": "ASU",
@@ -10600,8 +10720,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Vascular Plants",
+    "institution": "Missouri Botanical Garden",
+    "collection": "Vascular Herbarium",
     "recordsets": "5386d272-06c6-4027-b5d5-d588c2afe5e5",
     "recordsetQuery": "{\"recordset\":\"5386d272-06c6-4027-b5d5-d588c2afe5e5\"}",
     "institution_code": "MO",
@@ -10680,8 +10800,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Insects",
+    "institution": "Insects of Area Conservacion Guanacaste, northwestern Costa Rica",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "SRNP",
@@ -10840,8 +10960,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Biology",
+    "institution": "Museum of Northern Arizona",
+    "collection": "Biology Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -11080,8 +11200,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Invertebrate Zoology, Arachnida (non-spider) and Myriapoda",
+    "institution": "American Museum of Natural History",
+    "collection": "Invertebrate Zoology, Arachnida (non-spider) & Myriapoda",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "AMNH",
@@ -11240,8 +11360,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Genomic Resources",
+    "institution": "University of Oklahoma, Sam Noble Oklahoma State Museum of Natural History",
+    "collection": "Oklahoma Collection of Genomic Resources",
     "recordsets": "6e6e2b47-fa3e-4bd9-8f1c-105b741d31df",
     "recordsetQuery": "{\"recordset\":\"6e6e2b47-fa3e-4bd9-8f1c-105b741d31df\"}",
     "institution_code": "OMNH",
@@ -11280,8 +11400,8 @@
   }
 ,
 {
-    "institution": "Ohio State University, Museum of Biological Diversity, Borror Laboratory of Bioaccoustics",
-    "collection": "Bioaccoustics",
+    "institution": "Ohio State University, Museum of Biological Diversity",
+    "collection": "Borror Laboratory of Bioaccoustics",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -11520,8 +11640,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fishes",
+    "institution": "University of California Davis, Museum of Wildlife and Fish Biology",
+    "collection": "Fish",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "MFWB",
@@ -11680,8 +11800,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Eggs and Nests",
+    "institution": "California Academy of Sciences",
+    "collection": "Eggs & Nests",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "CAS",
@@ -11760,8 +11880,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Plant Pathogens",
+    "institution": "California Department of Food and Agriculture",
+    "collection": "CDFA Plant Pathogen Collections",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "CDFA",
@@ -11880,8 +12000,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Reptiles and Amphibians",
+    "institution": "University of Central Oklahoma Natural History Museum",
+    "collection": "Reptiles/Amphibians",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "CSU",
@@ -12760,8 +12880,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mollusks",
+    "institution": "University of Illinois, Illinois Natural History Survey",
+    "collection": "Mollusk Collection",
     "recordsets": "7370af7d-07b5-4fc6-9eca-0204b4d6e33e",
     "recordsetQuery": "{\"recordset\":\"7370af7d-07b5-4fc6-9eca-0204b4d6e33e\"}",
     "institution_code": "INHS",
@@ -13080,8 +13200,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Paleontology",
+    "institution": "University of Iowa",
+    "collection": "Paleontology Repository",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "SUI",
@@ -13280,8 +13400,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "Harvard University, Oakes Ames Orchid Herbarium",
+    "collection": "Oakes Ames Orchid Herbarium",
     "recordsets": "7450a9e3-ef95-4f9e-8260-09b498d2c5e6",
     "recordsetQuery": "{\"recordset\":[\"7450a9e3-ef95-4f9e-8260-09b498d2c5e6\"],\"collectioncode\":[\"AMES\"]}",
     "institution_code": "Harvard University",
@@ -13360,8 +13480,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Crustacea",
+    "institution": "University of Illinois, Illinois Natural History Survey",
+    "collection": "Crustacean Collection",
     "recordsets": "ec135c9b-ff89-4f28-aa18-88b16d932d94",
     "recordsetQuery": "{\"recordset\":\"ec135c9b-ff89-4f28-aa18-88b16d932d94\"}",
     "institution_code": "INHS",
@@ -13760,8 +13880,8 @@
   }
 ,
 {
-    "institution": "Putnam Museum and Science Center, Barnes Hebarium",
-    "collection": "Herbarium",
+    "institution": "Putnam Museum and Science Center",
+    "collection": "Barnes Hebarium",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "BDI<IH>",
@@ -13880,8 +14000,8 @@
   }
 ,
 {
-    "institution": "Stanford University, Hopkins Marine Station, Gilbert M. Smith Herbarium",
-    "collection": "Herbarium",
+    "institution": "Stanford University, Hopkins Marine Station",
+    "collection": "Gilbert M. Smith Herbarium",
     "recordsets": "e7db896a-c95b-4a18-99a4-866fff238ca5",
     "recordsetQuery": "{\"recordset\":\"e7db896a-c95b-4a18-99a4-866fff238ca5\"}",
     "institution_code": "GMS<IH>",
@@ -13960,8 +14080,8 @@
   }
 ,
 {
-    "institution": "Museum of Northern Arizona, Walter B. McDougall Herbarium",
-    "collection": "Herbarium",
+    "institution": "Museum of Northern Arizona",
+    "collection": "Walter B. McDougall Herbarium",
     "recordsets": "de5203b1-5a44-4010-948c-b7d33f46397a",
     "recordsetQuery": "{\"recordset\":\"de5203b1-5a44-4010-948c-b7d33f46397a\"}",
     "institution_code": "MNA<IH>",
@@ -14360,8 +14480,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Botany",
+    "institution": "San Bernardino County Museum",
+    "collection": "Botany Section",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -14560,8 +14680,8 @@
   }
 ,
 {
-    "institution": "Wilton Garden Club, Mary Beth Wheeler and Anna Carpenter Herbarium",
-    "collection": "Herbarium",
+    "institution": "Wilton Garden Club",
+    "collection": "Mary Beth Wheeler and Anna Carpenter Herbarium",
     "recordsets": "9a861ebe-f8d7-4eb1-a2c8-3006f07cfec2",
     "recordsetQuery": "{\"recordset\":\"9a861ebe-f8d7-4eb1-a2c8-3006f07cfec2\"}",
     "institution_code": "Wilton Garden Club",
@@ -14640,8 +14760,8 @@
   }
 ,
 {
-    "institution": "Natural History Museum of Los Angeles County, Marine Biodiversity Center",
-    "collection": "Marine Science",
+    "institution": "Natural History Museum of Los Angeles County",
+    "collection": "Marine Biodiversity Center",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "LACM NHMLAC",
@@ -14920,8 +15040,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Tardigrades",
+    "institution": "Fresno City College, Robinson-Winter Museum of Natural History",
+    "collection": "Tardigrade",
     "recordsets": "437826f3-69f9-43d9-b3c3-c0de0e26cd88",
     "recordsetQuery": "{\"recordset\":\"437826f3-69f9-43d9-b3c3-c0de0e26cd88\"}",
     "institution_code": "RWMNH",
@@ -15560,8 +15680,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Amphibians and Reptiles",
+    "institution": "Emporia State University, Richard H. Schmidt Museum of Natural History",
+    "collection": "Amphibians & Reptiles",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "KSTC",
@@ -15680,8 +15800,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Parasitology",
+    "institution": "Denver Museum of Nature & Science",
+    "collection": "Parasite",
     "recordsets": "abf5b4f3-ed39-4bb9-acd6-9ee50acac0ad",
     "recordsetQuery": "{\"recordset\":\"abf5b4f3-ed39-4bb9-acd6-9ee50acac0ad\"}",
     "institution_code": "DMNS",
@@ -16040,8 +16160,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Paleontology - Invertebrates and Plants",
+    "institution": "University of Colorado Museum of Natural History",
+    "collection": "Paleontology - Invertebrates & Plants",
     "recordsets": "d621e959-2633-4ec1-a2a2-5d97cd818b47",
     "recordsetQuery": "{\"recordset\":\"d621e959-2633-4ec1-a2a2-5d97cd818b47\"}",
     "institution_code": "UCM",
@@ -16120,8 +16240,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mammals",
+    "institution": "University of Northern Colorado",
+    "collection": "Mammal Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -16160,8 +16280,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mammals",
+    "institution": "College of the Atlantic, George B. Dorr Museum",
+    "collection": "Mammal",
     "recordsets": "c2c93e11-9235-40b8-b439-895e92ddb5d8",
     "recordsetQuery": "{\"recordset\":\"c2c93e11-9235-40b8-b439-895e92ddb5d8\"}",
     "institution_code": "COA",
@@ -16197,6 +16317,46 @@
     "portalDisplay": "",
     "lat": 44.3924,
     "lon": -68.2201
+  }
+,
+{
+    "institution": "North Museum of Natural History and Science",
+    "collection": "MAIN",
+    "recordsets": "",
+    "recordsetQuery": "",
+    "institution_code": "",
+    "collection_code": "",
+    "collection_uuid": "urn:uuid:4635d7b6-05e3-4575-98eb-651d82a7b529",
+    "collection_lsid": "",
+    "collection_url": "http://www.northmuseum.org/Collections/About/tabid/384/Default.aspx",
+    "collection_catalog_url": "",
+    "description": "",
+    "descriptionForSpecialists": "",
+    "cataloguedSpecimens": null,
+    "knownToContainTypes": null,
+    "taxonCoverage": "",
+    "geographic_range": "",
+    "collectionExtent": "",
+    "contact": "",
+    "contact_role": "",
+    "contact_email": "info@northmuseum.org",
+    "mailing_address": "400 College Avenue",
+    "mailing_city": "Lancaster",
+    "mailing_state": "Pennsylvania",
+    "mailing_zip": "17603-3393",
+    "physical_address": "400 College Avenue",
+    "physical_city": "Lancaster",
+    "physical_state": "Pennsylvania",
+    "physical_zip": "17603-3393",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 40.0431,
+    "lon": -76.3198
   }
 ,
 {
@@ -16240,8 +16400,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "Connecticut Botanical Society",
+    "collection": "Connecticut Botanical Society Herbarium",
     "recordsets": "09edf7d2-e68e-4a42-93da-762f86bb814f",
     "recordsetQuery": "{\"recordset\":\"09edf7d2-e68e-4a42-93da-762f86bb814f\"}",
     "institution_code": "YPM",
@@ -16360,8 +16520,8 @@
   }
 ,
 {
-    "institution": "University of Georgia, Georgia Museum of Natural History, Zooarchaeology Laboratory",
-    "collection": "Zooarchaeology",
+    "institution": "University of Georgia, Georgia Museum of Natural History",
+    "collection": "Zooarchaeology Laboratory",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "GMNH",
@@ -16640,8 +16800,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fishes",
+    "institution": "University of Arizona",
+    "collection": "Fish",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UA",
@@ -16840,8 +17000,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fossil Plants",
+    "institution": "University of Connecticut Biodiversity Research Collections",
+    "collection": "Fossil plants",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UCMS",
@@ -16880,8 +17040,8 @@
   }
 ,
 {
-    "institution": "George Mason University, Ted R. Bradley Herbarium",
-    "collection": "Herbarium",
+    "institution": "George Mason University",
+    "collection": "Ted R. Bradley Herbarium",
     "recordsets": "e794b292-4a94-471e-ab84-6aaef1fea1b3",
     "recordsetQuery": "{\"recordset\":\"e794b292-4a94-471e-ab84-6aaef1fea1b3\"}",
     "institution_code": "GMUF<IH>",
@@ -16960,8 +17120,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herpetology",
+    "institution": "University of California Berkeley, The Museum of Vertebrate Zoology at Berkeley",
+    "collection": "Herpetology Collections",
     "recordsets": "b3976394-a174-4ceb-8d64-3a435d66bde6",
     "recordsetQuery": "{\"recordset\":\"b3976394-a174-4ceb-8d64-3a435d66bde6\"}",
     "institution_code": "MVZ",
@@ -17080,8 +17240,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fossil Vertebrates",
+    "institution": "University of Wyoming, Geological Museum, Collection of Fossil Vertebrates",
+    "collection": "Collection of Fossil Vertebrates",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -17120,8 +17280,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Nests",
+    "institution": "University of Oklahoma, Sam Noble Oklahoma State Museum of Natural History",
+    "collection": "Nest",
     "recordsets": "ad54388f-ad6c-4b88-a718-4a25ad06a06f",
     "recordsetQuery": "{\"recordset\":\"ad54388f-ad6c-4b88-a718-4a25ad06a06f\"}",
     "institution_code": "OMNH",
@@ -17200,8 +17360,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Diatoms",
+    "institution": "University of Montana, The Montana Diatom Collection",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -17360,8 +17520,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Geology",
+    "institution": "University of Wisconsin, Geology Museum",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -17400,8 +17560,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Earth Sciences, Paleontology",
+    "institution": "Chicago Academy of Sciences",
+    "collection": "Earth Science, Paleontology",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "CHAS",
@@ -17520,8 +17680,8 @@
   }
 ,
 {
-    "institution": "University of South Carolina, McKissick Museum, Richard B. Dominick Moth and Butterfly Collection",
-    "collection": "Lepidoptera",
+    "institution": "University of South Carolina, McKissick Museum",
+    "collection": "Richard B. Dominick Moth and Butterfly Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "DMBC",
@@ -17600,8 +17760,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herpetology",
+    "institution": "University of Georgia, Georgia Museum of Natural History",
+    "collection": "Herpetology Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -17677,6 +17837,46 @@
     "portalDisplay": "",
     "lat": 40.0723,
     "lon": -75.2034
+  }
+,
+{
+    "institution": "Harvard University, Museum of Comparative Zoology",
+    "collection": "MAIN",
+    "recordsets": "",
+    "recordsetQuery": "",
+    "institution_code": "MCZ",
+    "collection_code": "",
+    "collection_uuid": "urn:uuid:4ade275a-7df3-4c95-a201-912602323aeb",
+    "collection_lsid": "",
+    "collection_url": "http://www.mcz.harvard.edu/",
+    "collection_catalog_url": "http://mczbase.mcz.harvard.edu",
+    "description": "The MCZ is comprised of ten research collections representing approximately 21-million living and fossil invertebrate and vertebrate specimens. The specific collections are Entomology, Herpetology, Ichthyology, Invertebrate Paleontology, Invertebrate Zoology, Malacology, Mammalogy, Marine Invertebrates, Ornithology, and Vertebrate Paleontology. Worldwide",
+    "descriptionForSpecialists": "",
+    "cataloguedSpecimens": null,
+    "knownToContainTypes": null,
+    "taxonCoverage": "The MCZ is comprised of ten research collections representing approximately 21-million living and fossil invertebrate and vertebrate specimens. The specific collections are Entomology, Herpetology, Ichthyology, Invertebrate Paleontology, Invertebrate Zoology, Malacology, Mammalogy, Marine Invertebrates, Ornithology, and Vertebrate Paleontology.",
+    "geographic_range": "Worldwide",
+    "collectionExtent": "21000000",
+    "contact": "Linda S. Ford",
+    "contact_role": "Director of Collections Operations",
+    "contact_email": "lford@oeb.harvard.edu",
+    "mailing_address": "26 Oxford St",
+    "mailing_city": "Cambridge",
+    "mailing_state": "Massachusetts",
+    "mailing_zip": "02138-0000",
+    "physical_address": "26 Oxford St",
+    "physical_city": "Cambridge",
+    "physical_state": "Massachusetts",
+    "physical_zip": "02138-0000",
+    "UniqueNameUUID": "urn:uuid:ff15a920-4641-4fc6-ab56-d39d3b5112d3",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 42.3784,
+    "lon": -71.1164
   }
 ,
 {
@@ -18080,8 +18280,8 @@
   }
 ,
 {
-    "institution": "University of Nebraska Lincoln, University of Nebraska State Museum, Howard W. Manter Laboratory of Parasitology",
-    "collection": "Parasitology",
+    "institution": "University of Nebraska Lincoln, University of Nebraska State Museum",
+    "collection": "Howard W. Manter Laboratory of Parasitology",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "HWML",
@@ -18120,8 +18320,48 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Zoology",
+    "institution": "San Bernardino County Museum",
+    "collection": "MAIN",
+    "recordsets": "",
+    "recordsetQuery": "",
+    "institution_code": "",
+    "collection_code": "",
+    "collection_uuid": "urn:uuid:4ccf21f3-c82e-48ec-9e9d-fed60427e26a",
+    "collection_lsid": "",
+    "collection_url": "http://www.sbcounty.gov",
+    "collection_catalog_url": "",
+    "description": "",
+    "descriptionForSpecialists": "",
+    "cataloguedSpecimens": null,
+    "knownToContainTypes": null,
+    "taxonCoverage": "",
+    "geographic_range": "",
+    "collectionExtent": "",
+    "contact": "Leonard Hernandez",
+    "contact_role": "Interim Director",
+    "contact_email": "lhernandez@lib.sbcounty.gov",
+    "mailing_address": "2024 Orange Tree Lane",
+    "mailing_city": "Redlands",
+    "mailing_state": "California",
+    "mailing_zip": "92374",
+    "physical_address": "2024 Orange Tree Lane",
+    "physical_city": "Redlands",
+    "physical_state": "California",
+    "physical_zip": "92374",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 34.0673,
+    "lon": -117.2231
+  }
+,
+{
+    "institution": "University of Puerto Rico at Río Piedras, Museum of Zoology",
+    "collection": "Zoological collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UPRRP",
@@ -18840,8 +19080,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Ichthyology",
+    "institution": "University of Georgia, Georgia Museum of Natural History",
+    "collection": "Ichthyology Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -18880,8 +19120,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Zoology",
+    "institution": "Occidental College, Moore Laboratory of Zoology",
+    "collection": "",
     "recordsets": "c2e06358-1f9f-463c-843f-446c0a37fbd0, e165b318-d5f7-40d5-a0d9-82ba3c31060f",
     "recordsetQuery": "{\"recordset\":[\"c2e06358-1f9f-463c-843f-446c0a37fbd0\",\"e165b318-d5f7-40d5-a0d9-82ba3c31060f\"]}",
     "institution_code": "MLZ",
@@ -18920,8 +19160,8 @@
   }
 ,
 {
-    "institution": "University of Texas at Austin, Plant Resource Center, Lundell Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of Texas at Austin, Plant Resource Center",
+    "collection": "Lundell Herbarium",
     "recordsets": "c5b7dae8-b483-4742-9954-d7f9226daa34",
     "recordsetQuery": "{\"recordset\":\"c5b7dae8-b483-4742-9954-d7f9226daa34\"}",
     "institution_code": "LL<IH>",
@@ -18960,8 +19200,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Insects",
+    "institution": "University of Wisconsin-Oshkosh",
+    "collection": "Insect Collection",
     "recordsets": "1d14acd1-20ef-4a55-8206-f04c8a75ea3e",
     "recordsetQuery": "{\"recordset\":\"1d14acd1-20ef-4a55-8206-f04c8a75ea3e\"}",
     "institution_code": "UWO",
@@ -19000,8 +19240,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Insects and Invertebrates",
+    "institution": "University of Connecticut Biodiversity Research Collections",
+    "collection": "Insects & Invertebrates",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UCMS",
@@ -19040,8 +19280,8 @@
   }
 ,
 {
-    "institution": "Ohio Wesleyan University, Jason Swallen Herbarium",
-    "collection": "Herbarium",
+    "institution": "Ohio Wesleyan University",
+    "collection": "Jason Swallen Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "OWU<IH>",
@@ -19280,8 +19520,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mammalogy",
+    "institution": "Texas Tech University, Museum, Natural Science Research Laboratory",
+    "collection": "Mammalogy Collection",
     "recordsets": "433646ab-571a-44f5-820e-25e0736b1113",
     "recordsetQuery": "{\"recordset\":\"433646ab-571a-44f5-820e-25e0736b1113\"}",
     "institution_code": "TTU",
@@ -19320,8 +19560,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Vertebrates",
+    "institution": "University of Vermont, Zadock Thompson Natural History Collection",
+    "collection": "Vertebrate collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UVM",
@@ -19600,8 +19840,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mollusks",
+    "institution": "Ohio State University, Museum of Biological Diversity",
+    "collection": "Molluscs",
     "recordsets": "b5234343-b0f1-472a-9db7-dfa78affd402",
     "recordsetQuery": "{\"recordset\":\"b5234343-b0f1-472a-9db7-dfa78affd402\"}",
     "institution_code": "OSU",
@@ -19680,8 +19920,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Paleontology",
+    "institution": "California State University, Fullerton, and County of Orange, The John D. Cooper Archaeological and Paleontological Center",
+    "collection": "Orange County Paleontology Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "OCPC",
@@ -19880,8 +20120,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "University of California Berkeley, The University and Jepson Herbaria",
+    "collection": "Herbaria",
     "recordsets": "02fceae6-c71c-4db9-8b2f-e235ced6624a, 1bb33d2d-0714-4fc9-968e-b66bab1cf3d3, 35c43eda-1f4a-4713-bb69-e3fbe1bf792f",
     "recordsetQuery": "{\"recordset\":[\"02fceae6-c71c-4db9-8b2f-e235ced6624a\",\"1bb33d2d-0714-4fc9-968e-b66bab1cf3d3\",\"35c43eda-1f4a-4713-bb69-e3fbe1bf792f\"]}",
     "institution_code": "UC",
@@ -20000,8 +20240,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Bryophytes",
+    "institution": "Duke University Herbarium",
+    "collection": "Bryophyte",
     "recordsets": "4830ffb8-669a-4717-bec8-2f2374f52120",
     "recordsetQuery": "{\"recordset\":\"4830ffb8-669a-4717-bec8-2f2374f52120\"}",
     "institution_code": "DUKE<IH>",
@@ -20320,8 +20560,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Paleontology, Fossil Fish",
+    "institution": "American Museum of Natural History",
+    "collection": "Paleontology, fossil Fish",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "AMNH",
@@ -20440,44 +20680,44 @@
   }
 ,
 {
-    "institution": "Plymouth State University",
-    "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
-    "institution_code": "PSH<IH>",
-    "collection_code": "",
-    "collection_uuid": "urn:uuid:55ca11e9-f78f-4d9a-850b-aeebdd12b4b8",
-    "collection_lsid": "",
-    "collection_url": "https://pyrola.org/research/plymouth-state-university-herbarium/",
-    "collection_catalog_url": "",
-    "description": "",
-    "descriptionForSpecialists": "",
-    "cataloguedSpecimens": null,
-    "knownToContainTypes": null,
-    "taxonCoverage": "",
-    "geographic_range": "",
-    "collectionExtent": "",
-    "contact": "Thomas Stoughton",
-    "contact_role": "Research Faculty",
-    "contact_email": "trstoughton@plymouth.edu",
-    "mailing_address": "Boyd Science Center (MSC 48), 17 High Street",
-    "mailing_city": "Plymouth",
-    "mailing_state": "New Hampshire",
-    "mailing_zip": "03264",
-    "physical_address": "17 High Street",
-    "physical_city": "Plymouth",
-    "physical_state": "New Hampshire",
-    "physical_zip": "03264",
-    "UniqueNameUUID": "urn:uuid:842021a6-e128-4f53-ac7f-c3664755700a",
-    "attributionLogoURL": "",
-    "providerManagedID": "",
-    "derivedFrom": "",
-    "sameAs": "http://sweetgum.nybg.org/science/ih/herbarium_details.php?irn=249442",
-    "flags": "",
-    "portalDisplay": "",
-    "lat": 43.7595,
-    "lon": -71.6883
-  }
+  "institution": "Plymouth State University",
+  "collection": "Herbarium",
+  "recordsets": "",
+  "recordsetQuery": "",
+  "institution_code": "PSH<IH>",
+  "collection_code": "",
+  "collection_uuid": "urn:uuid:55ca11e9-f78f-4d9a-850b-aeebdd12b4b8",
+  "collection_lsid": "",
+  "collection_url": "https://pyrola.org/research/plymouth-state-university-herbarium/",
+  "collection_catalog_url": "",
+  "description": "",
+  "descriptionForSpecialists": "",
+  "cataloguedSpecimens": null,
+  "knownToContainTypes": null,
+  "taxonCoverage": "",
+  "geographic_range": "",
+  "collectionExtent": "",
+  "contact": "Thomas Stoughton",
+  "contact_role": "Research Faculty",
+  "contact_email": "trstoughton@plymouth.edu",
+  "mailing_address": "Boyd Science Center (MSC 48), 17 High Street",
+  "mailing_city": "Plymouth",
+  "mailing_state": "New Hampshire",
+  "mailing_zip": "03264",
+  "physical_address": "17 High Street",
+  "physical_city": "Plymouth",
+  "physical_state": "New Hampshire",
+  "physical_zip": "03264",
+  "UniqueNameUUID": "urn:uuid:842021a6-e128-4f53-ac7f-c3664755700a",
+  "attributionLogoURL": "",
+  "providerManagedID": "",
+  "derivedFrom": "",
+  "sameAs": "http://sweetgum.nybg.org/science/ih/herbarium_details.php?irn=249442",
+  "flags": "",
+  "portalDisplay": "",
+  "lat": 43.7595034,
+  "lon": -71.6882543
+}
 ,
 {
     "institution": "Bryce Canyon National Park, Cedar Breaks National Monument, and Zion National Park",
@@ -20640,8 +20880,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mammalogy",
+    "institution": "University of Georgia, Georgia Museum of Natural History",
+    "collection": "Mammalogy Collections",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -20680,8 +20920,8 @@
   }
 ,
 {
-    "institution": "California Department of Food and Agriculture, California State Collection of Arthropods",
-    "collection": "Arthropods",
+    "institution": "California Department of Food and Agriculture",
+    "collection": "California State Collection of Arthropods",
     "recordsets": "5975bbda-cd92-4084-8a09-ce1e28e6164f",
     "recordsetQuery": "{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"csca\"}",
     "institution_code": "CDFA",
@@ -20720,8 +20960,8 @@
   }
 ,
 {
-    "institution": "New York State Museum, The Natural and Cultural History Illustration Collection",
-    "collection": "Illustrations",
+    "institution": "New York State Museum",
+    "collection": "The Natural and Cultural History Illustration Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "NYSM",
@@ -21360,8 +21600,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Microfossils",
+    "institution": "University of California Museum of Paleontology",
+    "collection": "Microfossil collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UCMP",
@@ -21480,8 +21720,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Birds and Mammals",
+    "institution": "Emporia State University, Richard H. Schmidt Museum of Natural History",
+    "collection": "Birds & Mammals",
     "recordsets": "013c6135-cb98-45f5-ad86-98e4050481a8, c9316f11-d955-4472-a276-6a26a6514590",
     "recordsetQuery": "{\"recordset\":[\"013c6135-cb98-45f5-ad86-98e4050481a8\",\"c9316f11-d955-4472-a276-6a26a6514590\"]}",
     "institution_code": "KSTC",
@@ -21840,8 +22080,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "Patricia Ledlie Herbarium",
+    "collection": "",
     "recordsets": "4520451d-bd3b-4095-b777-24a420d442c1",
     "recordsetQuery": "{\"recordset\":\"4520451d-bd3b-4095-b777-24a420d442c1\"}",
     "institution_code": "LEDLIE<IH>",
@@ -21960,8 +22200,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Genomic Resources",
+    "institution": "University of New Mexico, Museum of Southwestern Biology",
+    "collection": "Genomic resources",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "MSB",
@@ -22320,8 +22560,8 @@
   }
 ,
 {
-    "institution": "Central Connecticut State University, Orville Bissett Herbarium",
-    "collection": "Herbarium",
+    "institution": "Central Connecticut State University",
+    "collection": "Orville Bissett Herbarium",
     "recordsets": "90739622-5232-4048-8121-9af9ec69604f",
     "recordsetQuery": "{\"recordset\":\"90739622-5232-4048-8121-9af9ec69604f\"}",
     "institution_code": "CCSU<IH>",
@@ -22440,8 +22680,8 @@
   }
 ,
 {
-    "institution": "Smithsonian Institution National Museum of Natural History, United States National Herbarium",
-    "collection": "Herbarium",
+    "institution": "Smithsonian Institution National Museum of Natural History",
+    "collection": "Botany, United States National Herbarium",
     "recordsets": "a6eee223-cf3b-4079-8bb2-b77dad8cae9d",
     "recordsetQuery": "{\"recordset\":\"a6eee223-cf3b-4079-8bb2-b77dad8cae9d\",\"collectioncode\":\"Botany\"}",
     "institution_code": "US",
@@ -22520,8 +22760,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Zoology",
+    "institution": "Florida State University Coastal and Marine Laboratory",
+    "collection": "Zoological Collection",
     "recordsets": "fa83c2bd-926c-42f1-8cd4-d57c5fd21f33",
     "recordsetQuery": "{\"recordset\":\"fa83c2bd-926c-42f1-8cd4-d57c5fd21f33\"}",
     "institution_code": "",
@@ -22600,8 +22840,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Insects",
+    "institution": "University of Hawaii at Manoa, Insect Museum",
+    "collection": "Insect",
     "recordsets": "cf42855e-a54a-4488-a79e-beac086ba1d4",
     "recordsetQuery": "{\"recordset\":\"cf42855e-a54a-4488-a79e-beac086ba1d4\"}",
     "institution_code": "UHM",
@@ -23080,8 +23320,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Arthropods",
+    "institution": "Illinois Natural History Survey, International Soybean Arthropod Collection",
+    "collection": "Arthropod",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "ISAC",
@@ -23440,8 +23680,8 @@
   }
 ,
 {
-    "institution": "California Polytechnic State University, San Luis Obispo, Robert F. Hoover Herbarium",
-    "collection": "Herbarium",
+    "institution": "California Polytechnic State University, San Luis Obispo",
+    "collection": "Robert F. Hoover Herbarium",
     "recordsets": "ea9d9c05-11b3-4514-898e-66bd8560ec5b",
     "recordsetQuery": "{\"recordset\":\"ea9d9c05-11b3-4514-898e-66bd8560ec5b\"}",
     "institution_code": "OBI<IH>",
@@ -23800,8 +24040,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fishes",
+    "institution": "Humboldt State University, Department of Fisheries Biology",
+    "collection": "Fish",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "HSU",
@@ -23840,8 +24080,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Arthropods",
+    "institution": "University of Georgia, Georgia Museum of Natural History",
+    "collection": "Collection of Arthropods",
     "recordsets": "879d475f-4b76-4d18-8cf6-a7e5a6d44926",
     "recordsetQuery": "{\"recordset\":\"879d475f-4b76-4d18-8cf6-a7e5a6d44926\",\"collectioncode\":\"UGCA\"}",
     "institution_code": "GMNH",
@@ -24440,8 +24680,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Sharks",
+    "institution": "Save Our Seas Shark Research Center, Nova Southeastern University",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "SOSSRC",
@@ -24640,8 +24880,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Paleontology",
+    "institution": "University of Montana",
+    "collection": "UM Paleontology Center",
     "recordsets": "bf049384-ffe2-4418-a1a3-fc5552ba850f",
     "recordsetQuery": "{\"recordset\":\"bf049384-ffe2-4418-a1a3-fc5552ba850f\"}",
     "institution_code": "UMPC",
@@ -24760,8 +25000,8 @@
   }
 ,
 {
-    "institution": "Georgia Southern University, The U.S. National Tick Collection",
-    "collection": "Ticks",
+    "institution": "Georgia Southern University",
+    "collection": "The U.S. National Tick Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "USNTC",
@@ -24920,8 +25160,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "Black Rock Forest Consortium",
+    "collection": "herbarium",
     "recordsets": "c96ca51c-908e-41cc-ae10-ac1fb72ca3d9",
     "recordsetQuery": "{\"recordset\":\"c96ca51c-908e-41cc-ae10-ac1fb72ca3d9\"}",
     "institution_code": "BRFC",
@@ -25000,8 +25240,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Insects",
+    "institution": "USDA/ARS, Invasive Insect Biocontrol and Behavior Laboratory",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "IBL",
@@ -25120,8 +25360,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "University of South Florida",
+    "collection": "USF Herbarium",
     "recordsets": "0072bf11-a354-4998-8730-c0cb4cfc9517, 1c8ec291-8067-4b48-848b-410c2c768420, 07c47dd3-a0a9-434a-b144-71c32996f278, f1cf8457-237e-487a-9d13-5de7d81b9de4, 837d99c6-3045-4ba3-8951-643ddb3d6676",
     "recordsetQuery": "{\"recordset\":[\"0072bf11-a354-4998-8730-c0cb4cfc9517\",\"1c8ec291-8067-4b48-848b-410c2c768420\",\"07c47dd3-a0a9-434a-b144-71c32996f278\",\"f1cf8457-237e-487a-9d13-5de7d81b9de4\",\"837d99c6-3045-4ba3-8951-643ddb3d6676\"]}",
     "institution_code": "USF<IH>",
@@ -25520,8 +25760,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Invertebrates",
+    "institution": "Fort Hays State University, Sternberg Museum",
+    "collection": "Invertebrate",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "FHSM",
@@ -25680,8 +25920,8 @@
   }
 ,
 {
-    "institution": "Pittsburg State University, Theodore M. Sperry Herbarium",
-    "collection": "Herbarium",
+    "institution": "Pittsburg State University",
+    "collection": "Theodore M. Sperry Herbarium",
     "recordsets": "44328ef7-fc7f-4ff6-b51b-ed9049857e11, 664bd710-8791-4dba-a3b6-000a1b140951",
     "recordsetQuery": "{\"recordset\":[\"44328ef7-fc7f-4ff6-b51b-ed9049857e11\",\" 664bd710-8791-4dba-a3b6-000a1b140951\"]}",
     "institution_code": "KSP<IH>",
@@ -25840,8 +26080,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mammals",
+    "institution": "Santa Barbara Museum of Natural History",
+    "collection": "Mammal Collection",
     "recordsets": "9d8ced48-62c5-4ce0-99e7-a03550c674c0",
     "recordsetQuery": "{\"recordset\":[\"9d8ced48-62c5-4ce0-99e7-a03550c674c0\"],\"collectioncode\":[\"mam\"]}",
     "institution_code": "SBMNH",
@@ -26000,8 +26240,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "Morton Arboretum",
+    "collection": "",
     "recordsets": "6ac89a16-4604-4a78-9047-dcc57e5c0130, 99b04c9f-908e-42bd-92bc-41aa94b72949, 14f8f83f-7a0c-458c-b6d5-6da7dc8eaa0a",
     "recordsetQuery": "{\"recordset\":[\"6ac89a16-4604-4a78-9047-dcc57e5c0130\",\"99b04c9f-908e-42bd-92bc-41aa94b72949\",\"14f8f83f-7a0c-458c-b6d5-6da7dc8eaa0a\"]}",
     "institution_code": "MOR",
@@ -26160,8 +26400,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Reptiles and Amphibians",
+    "institution": "University of Michigan, Museum of Zoology",
+    "collection": "Reptiles & Amphibians",
     "recordsets": "348f4784-4786-45be-8d0f-85f2b189eba8",
     "recordsetQuery": "{\"recordset\":\"348f4784-4786-45be-8d0f-85f2b189eba8\"}",
     "institution_code": "UMMZ",
@@ -26680,7 +26920,7 @@
   }
 ,
 {
-    "institution": "",
+    "institution": "Cincinnati Museum Center, Geier Collections & Research Center",
     "collection": "Zoology",
     "recordsets": "e3efdab9-2200-480c-8960-e163ee23dddf, 65c412fe-1f9f-4f10-aa75-9845b66ef235",
     "recordsetQuery": "{\"recordset\":[\"e3efdab9-2200-480c-8960-e163ee23dddf\",\"65c412fe-1f9f-4f10-aa75-9845b66ef235\"]}",
@@ -26760,8 +27000,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fishes",
+    "institution": "Museum of Cultural and Natural History",
+    "collection": "Fish",
     "recordsets": "b8e6077e-ae92-481f-a018-ed18bcefb62d",
     "recordsetQuery": "{\"recordset\":\"b8e6077e-ae92-481f-a018-ed18bcefb62d\"}",
     "institution_code": "MCNH",
@@ -27080,8 +27320,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Paleontology",
+    "institution": "Museum of Northern Arizona",
+    "collection": "Paleontology Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "MNA",
@@ -27280,8 +27520,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Amphibians and Reptiles",
+    "institution": "Auburn University Museum of Natural History",
+    "collection": "Amphibian and Reptile Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -27520,8 +27760,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Birds",
+    "institution": "Delaware Museum of Natural History",
+    "collection": "Bird department",
     "recordsets": "605bb19b-7564-4e6d-a5df-8ec841d68ba0",
     "recordsetQuery": "{\"recordset\":\"605bb19b-7564-4e6d-a5df-8ec841d68ba0\"}",
     "institution_code": "DMNH",
@@ -27720,8 +27960,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Ornithology",
+    "institution": "Santa Barbara Museum of Natural History",
+    "collection": "Ornithology Collection",
     "recordsets": "9d8ced48-62c5-4ce0-99e7-a03550c674c0",
     "recordsetQuery": "{\"recordset\":[\"9d8ced48-62c5-4ce0-99e7-a03550c674c0\"],\"collectioncode\":[\"av\",\"os\"]}",
     "institution_code": "SBMNH",
@@ -27760,8 +28000,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Geology",
+    "institution": "Rutgers University, Geology Museum",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -27800,8 +28040,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Birds",
+    "institution": "College of the Atlantic, George B. Dorr Museum",
+    "collection": "Bird",
     "recordsets": "185e82f5-6b63-4eae-9b91-fb9f73a3d494",
     "recordsetQuery": "{\"recordset\":\"185e82f5-6b63-4eae-9b91-fb9f73a3d494\"}",
     "institution_code": "COA",
@@ -28000,8 +28240,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "Harvard University, The Farlow Herbarium",
+    "collection": "The Farlow Herbarium",
     "recordsets": "b000920c-6f7d-49d3-9d0f-2bb630d2e01a, 7450a9e3-ef95-4f9e-8260-09b498d2c5e6",
     "recordsetQuery": "{\"recordset\":[\"b000920c-6f7d-49d3-9d0f-2bb630d2e01a\",\" 7450a9e3-ef95-4f9e-8260-09b498d2c5e6\"],\"collectioncode\":\"FH\"}",
     "institution_code": "Harvard University",
@@ -28120,8 +28360,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mollusks",
+    "institution": "Delaware Museum of Natural History",
+    "collection": "Mollusk department",
     "recordsets": "97058091-eb35-401b-b286-18465761f832",
     "recordsetQuery": "{\"recordset\":\"97058091-eb35-401b-b286-18465761f832\"}",
     "institution_code": "DMNH",
@@ -28280,8 +28520,8 @@
   }
 ,
 {
-    "institution": "University of Minnesota Duluth, Olga Lakela Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of Minnesota Duluth, Herbarium",
+    "collection": "Olga Lakela Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "DUL<IH>",
@@ -28400,8 +28640,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "Harvard University, Economic Herbarium of Oakes Ames",
+    "collection": "Economic Herbarium of Oakes Ames",
     "recordsets": "7450a9e3-ef95-4f9e-8260-09b498d2c5e6",
     "recordsetQuery": "{\"recordset\":\"7450a9e3-ef95-4f9e-8260-09b498d2c5e6\",\"collectioncode\":\"ECON\"}",
     "institution_code": "Harvard University",
@@ -28520,8 +28760,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fishes",
+    "institution": "University of Hawaii at Manoa",
+    "collection": "Fish",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UHM",
@@ -28680,8 +28920,8 @@
   }
 ,
 {
-    "institution": "University of Florida, Florida Museum of Natural History, McGuire Center for Lepidoptera & Biodiversity",
-    "collection": "Lepidoptera",
+    "institution": "University of Florida, Florida Museum of Natural History",
+    "collection": "McGuire Center for Lepidoptera & Biodiversity",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UF",
@@ -29120,8 +29360,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mycology",
+    "institution": "University of Georgia, Georgia Museum of Natural History",
+    "collection": "Mycological Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "GAM<IH>",
@@ -29160,8 +29400,8 @@
   }
 ,
 {
-    "institution": "University of California Berkeley, The Museum of Vertebrate Zoology at Berkeley, Hildebrand Collection",
-    "collection": "Vertebrates",
+    "institution": "University of California Berkeley, The Museum of Vertebrate Zoology at Berkeley",
+    "collection": "Hildebrand Collection",
     "recordsets": "c530ad19-9847-4ea7-a807-f6753c3936d6",
     "recordsetQuery": "{\"recordset\":\"c530ad19-9847-4ea7-a807-f6753c3936d6\"}",
     "institution_code": "MVZ",
@@ -29520,8 +29760,8 @@
   }
 ,
 {
-    "institution": "Delaware State University, Claude E. Phililips Herbarium",
-    "collection": "Herbarium",
+    "institution": "Delaware State University",
+    "collection": "Claude E. Phililips Herbarium",
     "recordsets": "910eadc8-8131-428c-b28a-91d0e2890f1d",
     "recordsetQuery": "{\"recordset\":[\"910eadc8-8131-428c-b28a-91d0e2890f1d\"]}",
     "institution_code": "DOV<IH>",
@@ -29560,8 +29800,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Bees",
+    "institution": "USGS PWRC Native Bee Inventory and Monitoring Lab",
+    "collection": "USGS Native Bee Inventory and Monitoring Lab collection",
     "recordsets": "a549ceb3-f2ba-4eea-b597-94dd392c1914, 7c3067c3-c229-4e73-b4aa-c187997ee530",
     "recordsetQuery": "{\"recordset\":[\"a549ceb3-f2ba-4eea-b597-94dd392c1914\",\"7c3067c3-c229-4e73-b4aa-c187997ee530\"]}",
     "institution_code": "BIML",
@@ -29960,8 +30200,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mammals",
+    "institution": "University of Alabama, Alabama Museum of Natural History",
+    "collection": "Mammal",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "ALMNH",
@@ -30120,8 +30360,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Invertebrate Paleontology",
+    "institution": "Ohio University",
+    "collection": "Invertebrate Paleontology Collection",
     "recordsets": "0d05a365-36e8-4150-a350-23ed33f79b17",
     "recordsetQuery": "{\"recordset\":\"0d05a365-36e8-4150-a350-23ed33f79b17\"}",
     "institution_code": "OUIP",
@@ -30400,8 +30640,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "Harvard University, Arnold Arboretum of Harvard University",
+    "collection": "Herbarium of the Arnold Arboretum",
     "recordsets": "7450a9e3-ef95-4f9e-8260-09b498d2c5e6",
     "recordsetQuery": "{\"recordset\":[\"7450a9e3-ef95-4f9e-8260-09b498d2c5e6\"],\"collectioncode\":[\"A\"]}",
     "institution_code": "Harvard University",
@@ -30480,8 +30720,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Amphibians and Reptiles",
+    "institution": "University of Illinois Museum of Natural History",
+    "collection": "Amphibians, Reptiles",
     "recordsets": "e80009a0-8a2a-499a-976f-f04869b05ce9",
     "recordsetQuery": "{\"recordset\":\"e80009a0-8a2a-499a-976f-f04869b05ce9\"}",
     "institution_code": "UIMNH",
@@ -30920,8 +31160,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Arthropods",
+    "institution": "Michigan State University, Albert J. Cook Arthropod Research Collection",
+    "collection": "Arthropod",
     "recordsets": "87017793-00dc-4f5d-b95b-09e7d17327cc",
     "recordsetQuery": "{\"recordset\":\"87017793-00dc-4f5d-b95b-09e7d17327cc\"}",
     "institution_code": "MSUC",
@@ -31200,8 +31440,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Bees",
+    "institution": "USDA/ARS, Bee Biology and Systematics Laboratory",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "BLCU",
@@ -31280,8 +31520,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mammals",
+    "institution": "Portland State University, Vertebrate Biology Museum",
+    "collection": "Mammal",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "PSU",
@@ -31320,8 +31560,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Invertebrate Paleontology",
+    "institution": "University of Nebraska Lincoln, University of Nebraska State Museum",
+    "collection": "Division of Invertebrate Paleontology",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -31640,8 +31880,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Arthropods",
+    "institution": "University of Notre Dame, Museum of Boidiversity",
+    "collection": "Arthropod",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -31920,8 +32160,8 @@
   }
 ,
 {
-    "institution": "San Francisco State University, The Harry D. Thiers Herbarium",
-    "collection": "Herbarium",
+    "institution": "San Francisco State University",
+    "collection": "The Harry D. Thiers Herbarium",
     "recordsets": "46374ee7-7c70-48d8-bf16-2e6c1626565e",
     "recordsetQuery": "{\"recordset\":\"46374ee7-7c70-48d8-bf16-2e6c1626565e\"}",
     "institution_code": "SFSU",
@@ -32000,8 +32240,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Tetrapods, Amphibians",
+    "institution": "Ohio State University, Museum of Biological Diversity",
+    "collection": "Tetrapods, Amphibian Collection",
     "recordsets": "da1ef9b1-761b-4bc3-8ac0-b9a109101f5f",
     "recordsetQuery": "{\"recordset\":\"da1ef9b1-761b-4bc3-8ac0-b9a109101f5f\"}",
     "institution_code": "OSU",
@@ -32120,8 +32360,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fossil Birds",
+    "institution": "Field Museum of Natural History",
+    "collection": "Fossil Bird Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "FMNH",
@@ -32160,8 +32400,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "Herbarium Amanitarum Rooseveltensis",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "RET",
@@ -32200,8 +32440,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herpetology, Ornithology, Mammalogy",
+    "institution": "Humboldt State University, Vertebrate Museum",
+    "collection": "Herpetology/Ornithology/Mammalogy",
     "recordsets": "c4f0b43b-1a43-43bc-b302-2aecd37d8054, a2f11cb7-2862-4d0d-aefd-47ea67efd8fd, 83fede4d-f1d0-4748-84e5-f24083c7ba3c, e1c453ac-0479-405c-9742-03a511b33e60",
     "recordsetQuery": "{\"recordset\":[\"c4f0b43b-1a43-43bc-b302-2aecd37d8054\",\"a2f11cb7-2862-4d0d-aefd-47ea67efd8fd\",\"83fede4d-f1d0-4748-84e5-f24083c7ba3c\",\"e1c453ac-0479-405c-9742-03a511b33e60\"]}",
     "institution_code": "HSU",
@@ -32480,8 +32720,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mammals",
+    "institution": "University of Illinois, Illinois Natural History Survey",
+    "collection": "Mammal Collection",
     "recordsets": "da4681c3-64ba-4c99-8575-6cf0b2e55468",
     "recordsetQuery": "{\"recordset\":\"da4681c3-64ba-4c99-8575-6cf0b2e55468\"}",
     "institution_code": "INHS",
@@ -32760,8 +33000,8 @@
   }
 ,
 {
-    "institution": "Western New Mexico University, Gila Natural History Collections of the Gila Center for Natural History, Dale A. Zimmerman Herbarium",
-    "collection": "Herbarium",
+    "institution": "Western New Mexico University, Gila Natural History Collections of the Gila Center for Natural History",
+    "collection": "Dale A. Zimmerman Herbarium",
     "recordsets": "1549b662-ec36-436a-8593-76f7642ec9e4",
     "recordsetQuery": "{\"recordset\":\"1549b662-ec36-436a-8593-76f7642ec9e4\"}",
     "institution_code": "SNM<IH>",
@@ -32880,8 +33120,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Vertebrate Paleontology",
+    "institution": "University of Nebraska Lincoln, University of Nebraska State Museum",
+    "collection": "Division of Vertebrate Paleontology",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -33600,8 +33840,8 @@
   }
 ,
 {
-    "institution": "University of Georgia, Georgia Museum of Natural History, Department of Plant Biology Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of Georgia, Georgia Museum of Natural History",
+    "collection": "Department of Plant Biology Herbarium",
     "recordsets": "beab5209-9628-4d4d-851e-2bc9bb1a0105",
     "recordsetQuery": "{\"recordset\":\"beab5209-9628-4d4d-851e-2bc9bb1a0105\"}",
     "institution_code": "GA<IH>",
@@ -33760,8 +34000,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Osteichtyes and Chrondricthy",
+    "institution": "University of Northern Colorado",
+    "collection": "Osteichtyes & Chrondricthys collections",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -33800,8 +34040,8 @@
   }
 ,
 {
-    "institution": "Louisiana State University, Museum of Natural Science, Louisiana State Arthropod Museum",
-    "collection": "Arthropods",
+    "institution": "Louisiana State University, Museum of Natural Science",
+    "collection": "Louisiana State Arthropod Museum",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "LSAM",
@@ -34280,8 +34520,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mycology",
+    "institution": "New York State Museum",
+    "collection": "Mycological Collections Herbarium",
     "recordsets": "a2a17035-1e6c-46df-9178-a610df825336",
     "recordsetQuery": "{\"recordset\":\"a2a17035-1e6c-46df-9178-a610df825336\"}",
     "institution_code": "NYS",
@@ -34320,8 +34560,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Invertebrates",
+    "institution": "University of California Museum of Paleontology",
+    "collection": "Invertebrate collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UCMP",
@@ -34560,8 +34800,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "University of California Santa Barbara, Cheadle Center for Biodiversity and Ecological Restoration",
+    "collection": "Oaks",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "CCBER",
@@ -34640,8 +34880,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Vascular Plants",
+    "institution": "Boise State University, Snake River Plains Herbarium",
+    "collection": "Vascular plants",
     "recordsets": "f84d528a-7d08-467e-b532-ace707316f1d",
     "recordsetQuery": "{\"recordset\":\"f84d528a-7d08-467e-b532-ace707316f1d\"}",
     "institution_code": "SRP<IH>",
@@ -34720,8 +34960,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fishes",
+    "institution": "University of Arkansas, University Museum",
+    "collection": "Fish",
     "recordsets": "55d60f69-eee9-4386-952a-805dfb71830a",
     "recordsetQuery": "{\"recordset\":\"55d60f69-eee9-4386-952a-805dfb71830a\"}",
     "institution_code": "UAFMC",
@@ -34880,8 +35120,8 @@
   }
 ,
 {
-    "institution": "University of Nebraska Lincoln, University of Nebraska State Museum, C.E. Bessey Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of Nebraska Lincoln, University of Nebraska State Museum",
+    "collection": "Division of Botany, C.E. Bessey Herbarium",
     "recordsets": "bbf5f8ed-f33f-40ba-9d0d-1c24dfec4193, ced8c9bc-e8b5-49e7-860a-289fc913860c, 8f3b62fb-56ec-49e8-9f8f-bb257348291f",
     "recordsetQuery": "{\"recordset\":[\"bbf5f8ed-f33f-40ba-9d0d-1c24dfec4193\",\"ced8c9bc-e8b5-49e7-860a-289fc913860c\",\"8f3b62fb-56ec-49e8-9f8f-bb257348291f\"]}",
     "institution_code": "NEB<IH>",
@@ -35000,8 +35240,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mammals, Birds, Eggs, Nests",
+    "institution": "Humboldt State University, Wildlife Museum",
+    "collection": "Mammals/Birds/Eggs/Nests",
     "recordsets": "fd8dae05-5c60-455e-ac8d-ace2649d6cbe, 46be8190-0533-4fc7-9cab-1faa26d9906e, a3173073-2467-4365-9d32-17122929e27e",
     "recordsetQuery": "{\"recordset\":[\"fd8dae05-5c60-455e-ac8d-ace2649d6cbe\",\"46be8190-0533-4fc7-9cab-1faa26d9906e\",\"a3173073-2467-4365-9d32-17122929e27e\"]}",
     "institution_code": "HSU",
@@ -35160,8 +35400,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Lichens",
+    "institution": "University of Maine Herbarium",
+    "collection": "Lichen",
     "recordsets": "0fcbf959-b714-4ba2-8152-0c1440e31323",
     "recordsetQuery": "{\"recordset\":\"0fcbf959-b714-4ba2-8152-0c1440e31323\"}",
     "institution_code": "",
@@ -35720,8 +35960,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Vertebrate Paleontology",
+    "institution": "University of Texas at Austin, Vertebrate Paleontology Laboratory",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -35760,8 +36000,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Invertebrates",
+    "institution": "Texas Tech University, Museum, Natural Science Research Laboratory",
+    "collection": "Invertebrate Collection",
     "recordsets": "5e893602-84ca-4c8c-bac1-99111c777582",
     "recordsetQuery": "{\"recordset\":\"5e893602-84ca-4c8c-bac1-99111c777582\"}",
     "institution_code": "TTU",
@@ -36080,8 +36320,8 @@
   }
 ,
 {
-    "institution": "University of Northern Iowa, Grant Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of Northern Iowa",
+    "collection": "Grant Herbarium",
     "recordsets": "1720ead7-9d20-4179-8998-2a59b8bfa8d7",
     "recordsetQuery": "{\"recordset\":\"1720ead7-9d20-4179-8998-2a59b8bfa8d7\"}",
     "institution_code": "ISTC<IH>",
@@ -36560,8 +36800,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "Cornell University, Plant Pathology Herbarium",
+    "collection": "Plant Pathology Herbarium",
     "recordsets": "91c5eec8-0cdc-4be2-9a99-a15ae5ec3edc, 9756b9a4-c070-4359-8a07-2383b09d0d04",
     "recordsetQuery": "{\"recordset\":[\"91c5eec8-0cdc-4be2-9a99-a15ae5ec3edc\",\"9756b9a4-c070-4359-8a07-2383b09d0d04\"]}",
     "institution_code": "CUP",
@@ -36880,8 +37120,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Paleontology",
+    "institution": "Paleontological Research Institution and its Museum of the Earth",
+    "collection": "",
     "recordsets": "e27f0218-47e0-41bc-9086-9d9169096e90",
     "recordsetQuery": "{\"recordset\":\"e27f0218-47e0-41bc-9086-9d9169096e90\"}",
     "institution_code": "PRI",
@@ -36920,8 +37160,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Reptiles and Amphibians",
+    "institution": "California Polytechnic University, San Luis Obispo",
+    "collection": "Reptile and Amphibian Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -37200,8 +37440,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Eggs and Nests",
+    "institution": "Denver Museum of Nature & Science",
+    "collection": "Eggs & Nests",
     "recordsets": "a8add96d-651c-488e-8ca3-ed3f85c7a117",
     "recordsetQuery": "{\"recordset\":\"a8add96d-651c-488e-8ca3-ed3f85c7a117\"}",
     "institution_code": "DMNS",
@@ -37400,8 +37640,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mineralogy",
+    "institution": "Eastern New Mexico University, Miles Mineral Museum",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -37520,8 +37760,8 @@
   }
 ,
 {
-    "institution": "Northern Kentucky University, John W. Thieret Herbarium",
-    "collection": "Herbarium",
+    "institution": "Northern Kentucky University",
+    "collection": "John W. Thieret Herbarium",
     "recordsets": "2941b767-e90b-41b9-9627-6e589e0c0c85",
     "recordsetQuery": "{\"recordset\":\"2941b767-e90b-41b9-9627-6e589e0c0c85\"}",
     "institution_code": "KNK<IH>",
@@ -37840,8 +38080,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Vertebrates",
+    "institution": "Northern Arizona University, Colorado Plateau Biodiversity Center",
+    "collection": "The Vertebrate Division",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "NAUF",
@@ -38000,8 +38240,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Insects and Arachnids",
+    "institution": "University of New Hampshire",
+    "collection": "Insect and Arachnid",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UNHP",
@@ -38480,8 +38720,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fishes",
+    "institution": "University of California Santa Cruz",
+    "collection": "Fish",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -38560,8 +38800,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Invertebrates",
+    "institution": "University of Georgia, Georgia Museum of Natural History",
+    "collection": "Invertebrate Collections",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UGCA",
@@ -38677,6 +38917,46 @@
     "portalDisplay": "",
     "lat": 38.9871,
     "lon": -80.2236
+  }
+,
+{
+    "institution": "University of Tennessee Knoxville, McClung Museum of Natural History & Culture",
+    "collection": "MAIN",
+    "recordsets": "",
+    "recordsetQuery": "",
+    "institution_code": "",
+    "collection_code": "",
+    "collection_uuid": "urn:uuid:aabc4a52-567f-4f28-8eb7-ed576dad7652",
+    "collection_lsid": "",
+    "collection_url": "http://mcclungmuseum.utk.edu/",
+    "collection_catalog_url": "",
+    "description": "",
+    "descriptionForSpecialists": "",
+    "cataloguedSpecimens": null,
+    "knownToContainTypes": null,
+    "taxonCoverage": "",
+    "geographic_range": "",
+    "collectionExtent": "",
+    "contact": "",
+    "contact_role": "",
+    "contact_email": "museum@utk.edu",
+    "mailing_address": "1327 Circle Park Drive",
+    "mailing_city": "Knoxville",
+    "mailing_state": "Tennessee",
+    "mailing_zip": "37996-3200",
+    "physical_address": "1327 Circle Park Drive",
+    "physical_city": "Knoxville",
+    "physical_state": "Tennessee",
+    "physical_zip": "37996-3200",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 35.9535,
+    "lon": -83.9268
   }
 ,
 {
@@ -38800,8 +39080,8 @@
   }
 ,
 {
-    "institution": "Louisiana State University Shreveport, Museum of Life Sciences",
-    "collection": "Life Sciences",
+    "institution": "Louisiana State University Shreveport",
+    "collection": "Museum of Life Sciences",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -38920,8 +39200,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Insects",
+    "institution": "University of Illinois, Illinois Natural History Survey",
+    "collection": "Insect collections",
     "recordsets": "dde625e8-cc2a-4877-9ec4-0b8a20dfded9, 57b1a2a3-78ab-4e69-a77e-a8fd4394ee5a",
     "recordsetQuery": "{\"recordset\":[\"dde625e8-cc2a-4877-9ec4-0b8a20dfded9\",\"57b1a2a3-78ab-4e69-a77e-a8fd4394ee5a\"]}",
     "institution_code": "INHS",
@@ -39080,8 +39360,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Insects",
+    "institution": "Iowa State University",
+    "collection": "Insect",
     "recordsets": "d3412433-4df9-4828-89e0-73956898f749",
     "recordsetQuery": "{\"recordset\":\"d3412433-4df9-4828-89e0-73956898f749\"}",
     "institution_code": "ISUI",
@@ -39280,6 +39560,46 @@
   }
 ,
 {
+    "institution": "Angelo State University, Angelo State Natural History Collections",
+    "collection": "MAIN",
+    "recordsets": "",
+    "recordsetQuery": "",
+    "institution_code": "ASNHC",
+    "collection_code": "",
+    "collection_uuid": "urn:uuid:af16c65d-653e-4e13-8de2-d92ca0164e28",
+    "collection_lsid": "",
+    "collection_url": "http://www.angelo.edu/dept/biology/asnhc/",
+    "collection_catalog_url": "",
+    "description": "",
+    "descriptionForSpecialists": "",
+    "cataloguedSpecimens": null,
+    "knownToContainTypes": null,
+    "taxonCoverage": "",
+    "geographic_range": "",
+    "collectionExtent": "",
+    "contact": "Marcia A. Revelez",
+    "contact_role": "Collections Manager",
+    "contact_email": "mrevelez@angelo.edu",
+    "mailing_address": "Department of Biology, Angelo State University, ASU Station",
+    "mailing_city": "San Angelo",
+    "mailing_state": "Texas",
+    "mailing_zip": "76909",
+    "physical_address": "Department of Biology, Angelo State University, ASU Station #10890",
+    "physical_city": "San Angelo",
+    "physical_state": "Texas",
+    "physical_zip": "76909",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 31.8854,
+    "lon": -100.2922
+  }
+,
+{
     "institution": "Nevada State Museum, Las Vegas",
     "collection": "Herbarium, Butterflies, Paleontology",
     "recordsets": "",
@@ -39440,8 +39760,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "University of Washington, Burke Museum of Natural History and Culture",
+    "collection": "University of Washington Herbarium",
     "recordsets": "9368e302-f8e7-4714-aed4-db2faa861e5c, beecd160-a96c-46fc-bdce-7dcb7024d473, f1a78c0f-449c-45fa-9472-0b92cc2a58da, 4ef6540c-e6cf-4678-bc43-b57435354de0, 8b0c1f4b-9de7-4521-98c2-983e0bfd33c7",
     "recordsetQuery": "{\"recordset\":[\"9368e302-f8e7-4714-aed4-db2faa861e5c\",\"beecd160-a96c-46fc-bdce-7dcb7024d473\",\"f1a78c0f-449c-45fa-9472-0b92cc2a58da\",\"4ef6540c-e6cf-4678-bc43-b57435354de0\",\"8b0c1f4b-9de7-4521-98c2-983e0bfd33c7\"]}",
     "institution_code": "WTU<IH>",
@@ -39560,8 +39880,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Vertebrates",
+    "institution": "Henderson State University",
+    "collection": "Collection of Vertebrates",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -39840,8 +40160,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Geology",
+    "institution": "Scripps Institution of Oceanography",
+    "collection": "Geological Collections",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "SIO",
@@ -40160,7 +40480,7 @@
   }
 ,
 {
-    "institution": "",
+    "institution": "Ohio State University, Museum of Biological Diversity",
     "collection": "Tetrapods, Birds",
     "recordsets": "3b9ecf1e-3c04-4d8b-84cd-9ae48e70e13a",
     "recordsetQuery": "{\"recordset\":\"3b9ecf1e-3c04-4d8b-84cd-9ae48e70e13a\"}",
@@ -40200,8 +40520,8 @@
   }
 ,
 {
-    "institution": "California State University, Chico, Vertebrate Museum",
-    "collection": "Mammals",
+    "institution": "California State University, Chico",
+    "collection": "Vertebrate Museum, Mammals",
     "recordsets": "8660ce9a-31c9-48ee-b5bc-9e6ba248ec0f",
     "recordsetQuery": "{\"recordset\":\"8660ce9a-31c9-48ee-b5bc-9e6ba248ec0f\"}",
     "institution_code": "CSUC",
@@ -40560,8 +40880,8 @@
   }
 ,
 {
-    "institution": "California Polytechnic University, San Luis Obispo, Aryan Roest Natural History Collection",
-    "collection": "Natural History",
+    "institution": "California Polytechnic University, San Luis Obispo",
+    "collection": "Aryan Roest Natural History Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -40680,8 +41000,8 @@
   }
 ,
 {
-    "institution": "Louisiana State University Shreveport, D. T. MacRoberts Herbarium",
-    "collection": "Herbarium",
+    "institution": "Louisiana State University Shreveport",
+    "collection": "D.T. MacRoberts Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "LSUS",
@@ -40720,8 +41040,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Amphibians and Reptiles",
+    "institution": "Sam Houston State University, The Sam Houston State Vertebrate Museum",
+    "collection": "Amphibians & Reptiles",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "SHSVM",
@@ -41000,8 +41320,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Health Sciences Images",
+    "institution": "Denver Museum of Nature & Science",
+    "collection": "Health Sciences Collection images",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "DMNS",
@@ -41240,8 +41560,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Geology",
+    "institution": "University of Oregon, The Museum of Natural and Cultural History",
+    "collection": "Geology collections",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -41520,8 +41840,8 @@
   }
 ,
 {
-    "institution": "University of Washington, Botanic Gardens, Otis Douglas Hyde Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of Washington, Botanic Gardens",
+    "collection": "Otis Douglas Hyde Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "WTUH<IH>",
@@ -41720,8 +42040,8 @@
   }
 ,
 {
-    "institution": "University of Kansas, Biodiversity Institute and Natural History Museum, Snow Entomological Museum",
-    "collection": "Entomology",
+    "institution": "University of Kansas, Biodiversity Institute and Natural History Museum",
+    "collection": "Entomology, Snow Entomological Museum",
     "recordsets": "568e209f-d072-4fd6-8b64-27954b0fd731, 2e65e24b-b7e2-40a4-a40c-09edafc1e3f4",
     "recordsetQuery": "{\"recordset\":[\"568e209f-d072-4fd6-8b64-27954b0fd731\",\"2e65e24b-b7e2-40a4-a40c-09edafc1e3f4\"]}",
     "institution_code": "KU",
@@ -41760,8 +42080,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Reptiles and Amphibians",
+    "institution": "University of Massachusetts Amherst",
+    "collection": "Reptiles/Amphibians",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -42120,8 +42440,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fossils",
+    "institution": "College of Idaho, Orma J. Smith Museum of Natural History",
+    "collection": "Fossil",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -42280,44 +42600,44 @@
   }
 ,
 {
-    "institution": "Abilene Christian University",
-    "collection": "Mammals",
-    "recordsets": "02edea37-e897-409a-a372-8865460ba9c1",
-    "recordsetQuery": "{\"recordset\":\"02edea37-e897-409a-a372-8865460ba9c1\"}",
-    "institution_code": "ACUNHC",
-    "collection_code": "Mammal",
-    "collection_uuid": "urn:uuid:ba0685b3-de8a-444d-97c3-69d5b75c3ff0",
-    "collection_lsid": "",
-    "collection_url": "",
-    "collection_catalog_url": "",
-    "description": "",
-    "descriptionForSpecialists": "",
-    "cataloguedSpecimens": null,
-    "knownToContainTypes": null,
-    "taxonCoverage": "",
-    "geographic_range": "",
-    "collectionExtent": "",
-    "contact": "Tom Lee",
-    "contact_role": "Collection Manager",
-    "contact_email": "leet@acu.edu",
-    "mailing_address": "1600 Campus Court",
-    "mailing_city": "Abilene",
-    "mailing_state": "Texas",
-    "mailing_zip": "79699-7868",
-    "physical_address": "1600 Campus Court",
-    "physical_city": "Abilene",
-    "physical_state": "Texas",
-    "physical_zip": "79699-7868",
-    "UniqueNameUUID": "",
-    "attributionLogoURL": "",
-    "providerManagedID": "",
-    "derivedFrom": "",
-    "sameAs": "",
-    "flags": "",
-    "portalDisplay": "",
-    "lat": 32.4658,
-    "lon": -99.7116
-  }
+  "institution": "Abilene Christian University",
+  "collection": "Mammals",
+  "recordsets": "02edea37-e897-409a-a372-8865460ba9c1",
+  "recordsetQuery": "{\"recordset\":\"02edea37-e897-409a-a372-8865460ba9c1\"}",
+  "institution_code": "ACUNHC",
+  "collection_code": "Mammal",
+  "collection_uuid": "urn:uuid:ba0685b3-de8a-444d-97c3-69d5b75c3ff0",
+  "collection_lsid": "",
+  "collection_url": "",
+  "collection_catalog_url": "",
+  "description": "",
+  "descriptionForSpecialists": "",
+  "cataloguedSpecimens": null,
+  "knownToContainTypes": null,
+  "taxonCoverage": "",
+  "geographic_range": "",
+  "collectionExtent": "",
+  "contact": "Tom Lee",
+  "contact_role": "Collection Manager",
+  "contact_email": "leet@acu.edu",
+  "mailing_address": "1600 Campus Court",
+  "mailing_city": "Abilene",
+  "mailing_state": "Texas",
+  "mailing_zip": "79699-7868",
+  "physical_address": "1600 Campus Court",
+  "physical_city": "Abilene",
+  "physical_state": "Texas",
+  "physical_zip": "79699-7868",
+  "UniqueNameUUID": "",
+  "attributionLogoURL": "",
+  "providerManagedID": "",
+  "derivedFrom": "",
+  "sameAs": "",
+  "flags": "",
+  "portalDisplay": "",
+  "lat": 32.4658,
+  "lon": -99.7116
+}
 ,
 {
     "institution": "California Academy of Sciences",
@@ -42360,8 +42680,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Eggs",
+    "institution": "Delaware Museum of Natural History",
+    "collection": "Egg",
     "recordsets": "66fc2613-3189-42ed-b230-ed772e8ff748",
     "recordsetQuery": "{\"recordset\":\"66fc2613-3189-42ed-b230-ed772e8ff748\"}",
     "institution_code": "DMNH",
@@ -42840,8 +43160,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fishes",
+    "institution": "University of Illinois, Illinois Natural History Survey",
+    "collection": "Fish collections",
     "recordsets": "45544aa4-8762-4bf0-bfc6-890d08dc6ead",
     "recordsetQuery": "{\"recordset\":\"45544aa4-8762-4bf0-bfc6-890d08dc6ead\"}",
     "institution_code": "INHS",
@@ -43000,8 +43320,8 @@
   }
 ,
 {
-    "institution": "Northern Arizona University, Colorado Plateau Biodiversity Center, Museum of Marine Invertebrates and Molluscs",
-    "collection": "Marine Invertebrates and Molluscs",
+    "institution": "Northern Arizona University, Colorado Plateau Biodiversity Center",
+    "collection": "Museum of Marine Invertebrates and Molluscs",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "NAUF",
@@ -43440,8 +43760,8 @@
   }
 ,
 {
-    "institution": "University of Cincinnati, Margaret H. Fulford Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of Cincinnati",
+    "collection": "Margaret H. Fulford Herbarium",
     "recordsets": "540e18dc-09aa-4790-8b47-8d18ae86fabc, 1701a75c-5a57-48c3-84c2-234a53f4c3e2",
     "recordsetQuery": "{\"recordset\":[\"540e18dc-09aa-4790-8b47-8d18ae86fabc\",\"1701a75c-5a57-48c3-84c2-234a53f4c3e2\"]}",
     "institution_code": "CINC<IH>",
@@ -44120,8 +44440,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "Harvard University, New England Botanical Club Herbarium",
+    "collection": "New England Botanical Club Herbarium",
     "recordsets": "7450a9e3-ef95-4f9e-8260-09b498d2c5e6",
     "recordsetQuery": "{\"recordset\":[\"7450a9e3-ef95-4f9e-8260-09b498d2c5e6\"],\"collectioncode\":[\"NEBC\"]}",
     "institution_code": "Harvard University",
@@ -44480,8 +44800,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Zoology",
+    "institution": "University of Nebraska Lincoln, University of Nebraska State Museum",
+    "collection": "Division of Zoology",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -44840,8 +45160,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Genetic Resources",
+    "institution": "Texas Tech University, Museum, Natural Science Research Laboratory",
+    "collection": "Genetic Resources Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "TTU",
@@ -44920,8 +45240,8 @@
   }
 ,
 {
-    "institution": "Cornell University, Laboratory of Ornithology, Macaulay Library",
-    "collection": "Ornithology",
+    "institution": "Cornell University, Laboratory of Ornithology",
+    "collection": "Macaulay Library",
     "recordsets": "da67ebd9-52de-444d-b114-e23c03111ac6",
     "recordsetQuery": "{\"recordset\":\"da67ebd9-52de-444d-b114-e23c03111ac6\"}",
     "institution_code": "CLO",
@@ -45080,8 +45400,8 @@
   }
 ,
 {
-    "institution": "University of Idaho, William F. Barr Entomological Museum",
-    "collection": "Entomology",
+    "institution": "University of Idaho",
+    "collection": "William F. Barr Entomological Museum",
     "recordsets": "b985f284-eac5-4efe-8a7c-c726cdf7cf33",
     "recordsetQuery": "{\"recordset\":\"b985f284-eac5-4efe-8a7c-c726cdf7cf33\"}",
     "institution_code": "WFBM",
@@ -45120,8 +45440,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mollusks",
+    "institution": "College of Idaho, Orma J. Smith Museum of Natural History",
+    "collection": "Mollusca",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -45240,8 +45560,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Birds",
+    "institution": "University of Alaska Anchorage Avian Collection",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UAAAC",
@@ -45920,8 +46240,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "Harvard University, The Gray Herbarium",
+    "collection": "The Gray Herbarium",
     "recordsets": "7450a9e3-ef95-4f9e-8260-09b498d2c5e6",
     "recordsetQuery": "{\"recordset\":[\"7450a9e3-ef95-4f9e-8260-09b498d2c5e6\"],\"collectioncode\":[\"GH\"]}",
     "institution_code": "Harvard University",
@@ -46560,8 +46880,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fishes",
+    "institution": "Gulf Coast Research Laboratory",
+    "collection": "Fish collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -46640,8 +46960,8 @@
   }
 ,
 {
-    "institution": "California Academy of Sciences, Center for Comparative Genomics",
-    "collection": "Comparative Genomics",
+    "institution": "California Academy of Sciences",
+    "collection": "Center for Comparative Genomics",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "CAS",
@@ -46760,8 +47080,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "Cornell University, Herbarium of the L.H. Bailey Hortorium",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "BH",
@@ -46840,8 +47160,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Birds",
+    "institution": "Texas Tech University, Museum, Natural Science Research Laboratory",
+    "collection": "Bird Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "TTU",
@@ -46880,8 +47200,8 @@
   }
 ,
 {
-    "institution": "Tulane University, Museum of Natural History, Royal D. Suttkus Fish collection",
-    "collection": "Fishes",
+    "institution": "Tulane University, Museum of Natural History",
+    "collection": "Royal D. Suttkus Fish collection",
     "recordsets": "bc13ff8e-6f31-4f3d-b47a-38e3ce8a2194",
     "recordsetQuery": "{\"recordset\":\"bc13ff8e-6f31-4f3d-b47a-38e3ce8a2194\"}",
     "institution_code": "TU",
@@ -47120,8 +47440,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Birds",
+    "institution": "University of California Berkeley, The Museum of Vertebrate Zoology at Berkeley",
+    "collection": "Bird Collections",
     "recordsets": "19daf0a7-5e37-41e6-97f8-4494553c358c, 654e092c-edbd-456c-8cce-2bcbdff71a04",
     "recordsetQuery": "{\"recordset\":[\"19daf0a7-5e37-41e6-97f8-4494553c358c\",\"654e092c-edbd-456c-8cce-2bcbdff71a04\"]}",
     "institution_code": "MVZ",
@@ -47440,8 +47760,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Paleontology, Fossil Mammals",
+    "institution": "American Museum of Natural History",
+    "collection": "Paleontology, fossil Mammals",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "AMNH",
@@ -47520,8 +47840,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Parasitology",
+    "institution": "USDA/ARS, US National Parasite Collection",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -47640,8 +47960,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Nematodes",
+    "institution": "California Department of Food and Agriculture",
+    "collection": "CDFA Nematode Collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "CDFA",
@@ -47720,8 +48040,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fungi and Lichens",
+    "institution": "University of Central Oklahoma Natural History Museum",
+    "collection": "Fungi/Lichens",
     "recordsets": "79be41bc-8142-485a-9d57-d6195f9a7c81",
     "recordsetQuery": "{\"recordset\":\"79be41bc-8142-485a-9d57-d6195f9a7c81\"}",
     "institution_code": "CSU",
@@ -47840,8 +48160,8 @@
   }
 ,
 {
-    "institution": "University of Vermont, The Pringle Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of Vermont",
+    "collection": "The Pringle Herbarium",
     "recordsets": "f33e9494-7b3c-4ac6-a735-59693b5a9638, fd14095c-3658-4e00-8cec-729a89459e92, 401fec56-515d-4fa8-87d1-507e742f4f6f, ba54ba45-caac-4708-a389-ac94642976f8, 3027c437-cdb3-4072-9410-5a46ec3b1fd5, 6d4b658a-90b4-4639-8b06-b7f07637f6aa",
     "recordsetQuery": "{\"recordset\":[\"f33e9494-7b3c-4ac6-a735-59693b5a9638\",\"fd14095c-3658-4e00-8cec-729a89459e92\",\"401fec56-515d-4fa8-87d1-507e742f4f6f\",\"ba54ba45-caac-4708-a389-ac94642976f8\",\"3027c437-cdb3-4072-9410-5a46ec3b1fd5\",\"6d4b658a-90b4-4639-8b06-b7f07637f6aa\"]}",
     "institution_code": "VT<IH>",
@@ -48160,8 +48480,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mollusks",
+    "institution": "Brigham Young University, Monte L. Bean Life Science Museum",
+    "collection": "Mollusk",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "BYU",
@@ -48200,8 +48520,8 @@
   }
 ,
 {
-    "institution": "University of Kansas, Biodiversity Institute and Natural History Museum, R. L. McGregor Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of Kansas, Biodiversity Institute and Natural History Museum",
+    "collection": "Botany, R. L. McGregor Herbarium",
     "recordsets": "cd5bc13d-ee5c-4b68-a550-37edb3e7899d, 9c1d51f2-067e-452b-a52b-ea7b03e50e25, d7b285d4-2643-45ee-9302-b0c3d51dda5c",
     "recordsetQuery": "{\"recordset\":[\"cd5bc13d-ee5c-4b68-a550-37edb3e7899d\",\" 9c1d51f2-067e-452b-a52b-ea7b03e50e25\",\" d7b285d4-2643-45ee-9302-b0c3d51dda5c\"]}",
     "institution_code": "KU",
@@ -48320,8 +48640,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Invertebrates",
+    "institution": "Stanford University, Hopkins Marine Station",
+    "collection": "Invertebrate",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -48360,8 +48680,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Amphibians and Reptiles",
+    "institution": "University of Illinois, Illinois Natural History Survey",
+    "collection": "Amphibian and Reptile Collection",
     "recordsets": "be34dbd9-5d54-4837-9f49-ff423eb18e8b",
     "recordsetQuery": "{\"recordset\":\"be34dbd9-5d54-4837-9f49-ff423eb18e8b\"}",
     "institution_code": "INHS",
@@ -48480,8 +48800,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "Texas A&M University, Department of Biology Herbarium",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "TAMU<IH>",
@@ -48680,8 +49000,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Arthropods",
+    "institution": "Oregon State Arthropod Collection",
+    "collection": "",
     "recordsets": "e40bcf8a-0d64-4d88-a02d-fa047b195e8b",
     "recordsetQuery": "{\"recordset\":\"e40bcf8a-0d64-4d88-a02d-fa047b195e8b\"}",
     "institution_code": "OSAC",
@@ -48760,8 +49080,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "California Department of Food and Agriculture",
+    "collection": "CDFA Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "CDFA",
@@ -48920,8 +49240,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mammalogy",
+    "institution": "New York State Museum",
+    "collection": "Mammalogy Collections",
     "recordsets": "5c861676-8285-4a04-b1c5-94ce73342320",
     "recordsetQuery": "{\"recordset\":\"5c861676-8285-4a04-b1c5-94ce73342320\"}",
     "institution_code": "NYSM",
@@ -49200,8 +49520,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Micropaleontology",
+    "institution": "University of Michigan, Museum of Paleontology",
+    "collection": "Micropaleontology collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UMMP",
@@ -49320,8 +49640,8 @@
   }
 ,
 {
-    "institution": "University of Texas at Arlington, Amphibian and Reptile Diversity Research Center",
-    "collection": "Amphibians and Reptiles",
+    "institution": "University of Texas at Arlington",
+    "collection": "Amphibian and Reptile Diversity Research Center",
     "recordsets": "0377a9ab-eea0-4580-8c6a-a33c88647122",
     "recordsetQuery": "{\"recordset\":\"0377a9ab-eea0-4580-8c6a-a33c88647122\"}",
     "institution_code": "UTA",
@@ -49400,8 +49720,8 @@
   }
 ,
 {
-    "institution": "Louisiana State University, Museum of Natural Science, Bernard Lowy Mycological Herbarium",
-    "collection": "Herbarium",
+    "institution": "Louisiana State University, Museum of Natural Science",
+    "collection": "Bernard Lowy Mycological Herbarium",
     "recordsets": "7ad07cff-f782-4ddf-b780-3a757cdb77e0",
     "recordsetQuery": "{\"recordset\":\"7ad07cff-f782-4ddf-b780-3a757cdb77e0\"}",
     "institution_code": "LSUM",
@@ -49760,8 +50080,8 @@
   }
 ,
 {
-    "institution": "University of South Carolina, A.C. Moore Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of South Carolina",
+    "collection": "A.C. Moore Herbarium",
     "recordsets": "83ad8494-136b-485a-87d4-8ce01dd6a8de, 8e4ff036-d38e-455f-a0fe-4ac50823f4fb, fb4cc282-eba5-4156-b7c7-df41e0581b68, e5f377de-c662-4eec-a4d4-b41b18441f3a",
     "recordsetQuery": "{\"recordset\":[\"83ad8494-136b-485a-87d4-8ce01dd6a8de\",\" 8e4ff036-d38e-455f-a0fe-4ac50823f4fb\",\" fb4cc282-eba5-4156-b7c7-df41e0581b68\",\" e5f377de-c662-4eec-a4d4-b41b18441f3a\"]}",
     "institution_code": "USCH<IH>",
@@ -49800,8 +50120,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Parasitology",
+    "institution": "Texas A&M University, Biodiversity Research and Teaching Collections",
+    "collection": "Parasites",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "TCWC",
@@ -49880,8 +50200,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Bryophytes",
+    "institution": "New York State Museum",
+    "collection": "Bryophyte Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "NYS",
@@ -50000,8 +50320,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Natural History",
+    "institution": "Worcester Museum of Natural History d.b.a. EcoTarium",
+    "collection": "Natural History Collection",
     "recordsets": "11170c5e-033a-4410-aed1-3dee2458bc43",
     "recordsetQuery": "{\"recordset\":\"11170c5e-033a-4410-aed1-3dee2458bc43\"}",
     "institution_code": "WMNH",
@@ -50960,8 +51280,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Invertebrates",
+    "institution": "University of Michigan, Museum of Paleontology",
+    "collection": "Invertebrate collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UMMP",
@@ -51000,8 +51320,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Parasitology",
+    "institution": "University of Connecticut Biodiversity Research Collections",
+    "collection": "Parasites",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UCMS",
@@ -51040,8 +51360,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "Kansas State University Herbarium",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "KSC",
@@ -51320,8 +51640,8 @@
   }
 ,
 {
-    "institution": "Northern Arizona University, Colorado Plateau Biodiversity Center, Deaver Herbarium",
-    "collection": "Herbarium",
+    "institution": "Northern Arizona University, Colorado Plateau Biodiversity Center",
+    "collection": "Deaver Herbarium",
     "recordsets": "b531ea59-025d-4c29-9d23-99ae75bcd55f",
     "recordsetQuery": "{\"recordset\":\"b531ea59-025d-4c29-9d23-99ae75bcd55f\"}",
     "institution_code": "ASC<IH>",
@@ -51440,8 +51760,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fungi",
+    "institution": "Denver Botanic Gardens, Sam Mitchel Herbarium of Fungi",
+    "collection": "Fungarium",
     "recordsets": "fdf7bb59-aad2-4f10-879f-6c0e7d3baa64",
     "recordsetQuery": "{\"recordset\":\"fdf7bb59-aad2-4f10-879f-6c0e7d3baa64\"}",
     "institution_code": "DBG<IH>",
@@ -51480,8 +51800,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Invertebrates",
+    "institution": "University of Northern Colorado",
+    "collection": "Invertebrate collections",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -51640,8 +51960,8 @@
   }
 ,
 {
-    "institution": "South Dakota School of Mines & Technology, Museum of Geology",
-    "collection": "Geology",
+    "institution": "South Dakota School of Mines & Technology",
+    "collection": "Museum of Geology",
     "recordsets": "db3181c9-48dd-489f-96ab-a5888f5a938c, 4dfb5828-3653-4604-ac00-db1e1da98b02, 7757c07f-18fd-45c2-84cc-60bd3742e100",
     "recordsetQuery": "{\"recordset\":[\"db3181c9-48dd-489f-96ab-a5888f5a938c\",\"4dfb5828-3653-4604-ac00-db1e1da98b02\",\"7757c07f-18fd-45c2-84cc-60bd3742e100\"]}",
     "institution_code": "",
@@ -51920,44 +52240,44 @@
   }
 ,
 {
-    "institution": "Rocky Mountain Biological Laboratory",
-    "collection": "Mammals",
-    "recordsets": "3bbf3659-4b21-40b7-b74f-f17a60097154",
-    "recordsetQuery": "{\"recordset\":\"3bbf3659-4b21-40b7-b74f-f17a60097154\"}",
-    "institution_code": "RMBL",
-    "collection_code": "",
-    "collection_uuid": "urn:uuid:e2de9afa-95c1-4670-9568-b34017ff2302",
-    "collection_lsid": "",
-    "collection_url": "",
-    "collection_catalog_url": "",
-    "description": "",
-    "descriptionForSpecialists": "",
-    "cataloguedSpecimens": null,
-    "knownToContainTypes": null,
-    "taxonCoverage": "",
-    "geographic_range": "",
-    "collectionExtent": "",
-    "contact": "C.F. Rick Williams",
-    "contact_role": "Curator",
-    "contact_email": "willcha2@isu.edu",
-    "mailing_address": "P.O. Box 519",
-    "mailing_city": "Crested Butte",
-    "mailing_state": "Colorado",
-    "mailing_zip": "81224",
-    "physical_address": "8000 County Road 317",
-    "physical_city": "Crested Butte",
-    "physical_state": "Colorado",
-    "physical_zip": "81224",
-    "UniqueNameUUID": "urn:uuid:d444f68b-7130-4b5b-b073-cc49c8c8804d",
-    "attributionLogoURL": "",
-    "providerManagedID": "",
-    "derivedFrom": "",
-    "sameAs": "",
-    "flags": "",
-    "portalDisplay": "",
-    "lat": 38.9592,
-    "lon": -106.9898
-  }
+  "institution": "Rocky Mountain Biological Laboratory",
+  "collection": "Mammals",
+  "recordsets": "3bbf3659-4b21-40b7-b74f-f17a60097154",
+  "recordsetQuery": "{\"recordset\":\"3bbf3659-4b21-40b7-b74f-f17a60097154\"}",
+  "institution_code": "RMBL",
+  "collection_code": "",
+  "collection_uuid": "urn:uuid:e2de9afa-95c1-4670-9568-b34017ff2302",
+  "collection_lsid": "",
+  "collection_url": "",
+  "collection_catalog_url": "",
+  "description": "",
+  "descriptionForSpecialists": "",
+  "cataloguedSpecimens": null,
+  "knownToContainTypes": null,
+  "taxonCoverage": "",
+  "geographic_range": "",
+  "collectionExtent": "",
+  "contact": "C.F. Rick Williams",
+  "contact_role": "Curator",
+  "contact_email": "willcha2@isu.edu",
+  "mailing_address": "P.O. Box 519",
+  "mailing_city": "Crested Butte",
+  "mailing_state": "Colorado",
+  "mailing_zip": "81224",
+  "physical_address": "8000 County Road 317",
+  "physical_city": "Crested Butte",
+  "physical_state": "Colorado",
+  "physical_zip": "81224",
+  "UniqueNameUUID": "urn:uuid:d444f68b-7130-4b5b-b073-cc49c8c8804d",
+  "attributionLogoURL": "",
+  "providerManagedID": "",
+  "derivedFrom": "",
+  "sameAs": "",
+  "flags": "",
+  "portalDisplay": "",
+  "lat": 38.9592,
+  "lon": -106.9898
+}
 ,
 {
     "institution": "Maryland Department of Natural Resources",
@@ -52000,8 +52320,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Bryophytes",
+    "institution": "Missouri Botanical Garden",
+    "collection": "Bryophyte Herbarium",
     "recordsets": "5386d272-06c6-4027-b5d5-d588c2afe5e5",
     "recordsetQuery": "{\"recordset\":\"5386d272-06c6-4027-b5d5-d588c2afe5e5\"}",
     "institution_code": "MO<IH>",
@@ -52240,8 +52560,8 @@
   }
 ,
 {
-    "institution": "Duke University Marine Lab, Natural History Resource Center (NHRC)",
-    "collection": "Natural History",
+    "institution": "Duke University Marine Lab",
+    "collection": "Natural History Resource Center (NHRC)",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "DUML",
@@ -52920,8 +53240,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Mammals",
+    "institution": "University of California Berkeley, The Museum of Vertebrate Zoology at Berkeley",
+    "collection": "Mammal Collections",
     "recordsets": "fcbcb214-cd62-4453-af56-b4b49161a261",
     "recordsetQuery": "{\"recordset\":\"fcbcb214-cd62-4453-af56-b4b49161a261\"}",
     "institution_code": "MVZ",
@@ -53160,8 +53480,8 @@
   }
 ,
 {
-    "institution": "University of Connecticut Biodiversity Research Collections, The George Safford Torrey Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of Connecticut Biodiversity Research Collections",
+    "collection": "The George Safford Torrey Herbarium",
     "recordsets": "abe3903e-ceba-4864-aa5d-bd985c70fa21, fc40fabd-0a70-48fa-b142-79990cd259a5, d1b25dcd-472e-4902-b53c-3b164269e049, e70af26a-fb9e-43ab-96a0-d62a2df37e6d",
     "recordsetQuery": "{\"recordset\":[\"abe3903e-ceba-4864-aa5d-bd985c70fa21\",\"fc40fabd-0a70-48fa-b142-79990cd259a5\",\"d1b25dcd-472e-4902-b53c-3b164269e049\",\"e70af26a-fb9e-43ab-96a0-d62a2df37e6d\"]}",
     "institution_code": "CONN",
@@ -53240,8 +53560,8 @@
   }
 ,
 {
-    "institution": "University of Arizona, The Robert L. Gilbertson Mycological Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of Arizona",
+    "collection": "The Robert L. Gilbertson Mycological Herbarium",
     "recordsets": "15aa4812-aad2-4b26-a1d8-d4f8d79e6163",
     "recordsetQuery": "{\"recordset\":\"15aa4812-aad2-4b26-a1d8-d4f8d79e6163\"}",
     "institution_code": "ARIZ<IH>",
@@ -53280,8 +53600,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "Auburn University Museum of Natural History",
+    "collection": "The Freeman Herbarium",
     "recordsets": "364a24d9-d4a8-4e0b-8e50-07b90f844548, 29b8da72-4420-4f65-b755-a006a23cf65a, 3d2b5be0-7c1d-4693-9226-94bc0061123b, 18c215c3-c02f-47e9-bb66-196c33c8f672",
     "recordsetQuery": "{\"recordset\":[\"364a24d9-d4a8-4e0b-8e50-07b90f844548\",\"29b8da72-4420-4f65-b755-a006a23cf65a\",\"3d2b5be0-7c1d-4693-9226-94bc0061123b\",\"18c215c3-c02f-47e9-bb66-196c33c8f672\"]}",
     "institution_code": "AUA<IH>",
@@ -53600,8 +53920,8 @@
   }
 ,
 {
-    "institution": "Ohio State University, Museum of Biological Diversity, C. A. Triplehorn Insect Collection",
-    "collection": "Insects",
+    "institution": "Ohio State University, Museum of Biological Diversity",
+    "collection": "C.A. Triplehorn Insect Collection",
     "recordsets": "fc628e53-5fdf-4436-9782-bf637d812b48",
     "recordsetQuery": "{\"recordset\":\"fc628e53-5fdf-4436-9782-bf637d812b48\"}",
     "institution_code": "OSU",
@@ -53640,8 +53960,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Invertebrates",
+    "institution": "Gulf Coast Research Laboratory",
+    "collection": "Invertebrate collection",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -53760,8 +54080,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Eggs",
+    "institution": "College of the Atlantic, George B. Dorr Museum",
+    "collection": "Egg",
     "recordsets": "43fc7071-8c60-450a-a940-91f363781aa9",
     "recordsetQuery": "{\"recordset\":\"43fc7071-8c60-450a-a940-91f363781aa9\"}",
     "institution_code": "COA",
@@ -53800,8 +54120,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Paleontology",
+    "institution": "University of Oregon, The Museum of Natural and Cultural History",
+    "collection": "Paleontology collections",
     "recordsets": "667c2736-bcd3-4a6a-abf4-db5d2dc815c4",
     "recordsetQuery": "{\"recordset\":\"667c2736-bcd3-4a6a-abf4-db5d2dc815c4\"}",
     "institution_code": "UOMNH",
@@ -53840,8 +54160,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Entomology",
+    "institution": "American Entomological Institute",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "AEI",
@@ -54080,8 +54400,8 @@
   }
 ,
 {
-    "institution": "Arizona State University, Frank F. Hasbrouck Insect Collection",
-    "collection": "Insects",
+    "institution": "Arizona State University",
+    "collection": "Frank F. Hasbrouck Insect Collection",
     "recordsets": "ab4b6a2b-a90a-44ce-95a1-2c44c911fcc6",
     "recordsetQuery": "{\"recordset\":\"ab4b6a2b-a90a-44ce-95a1-2c44c911fcc6\"}",
     "institution_code": "ASU",
@@ -54600,8 +54920,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Freshwater Invertebrates",
+    "institution": "Mississippi Museum of Natural Science",
+    "collection": "Freshwater invertebrates",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "MMNS",
@@ -55280,8 +55600,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Invertebrates",
+    "institution": "University of Puerto Rico Mayagüez",
+    "collection": "Invertebrate Collection",
     "recordsets": "2b89de41-42bd-46c6-ab61-d386f855f7fb",
     "recordsetQuery": "{\"recordset\":\"2b89de41-42bd-46c6-ab61-d386f855f7fb\"}",
     "institution_code": "UPRM",
@@ -55560,8 +55880,8 @@
   }
 ,
 {
-    "institution": "Kent State University, Theodore M. Sperry Herbarium",
-    "collection": "Herbarium",
+    "institution": "Kent State University",
+    "collection": "Tom S. & Miwako K. Cooperrider",
     "recordsets": "dad057a8-0648-4e11-9652-740ce7f86d62",
     "recordsetQuery": "{\"recordset\":\"dad057a8-0648-4e11-9652-740ce7f86d62\"}",
     "institution_code": "KE<IH>",
@@ -55960,8 +56280,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Entomology",
+    "institution": "Rutgers University, Entomological Museum",
+    "collection": "",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -57160,8 +57480,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Fishes",
+    "institution": "Emporia State University, Richard H. Schmidt Museum of Natural History",
+    "collection": "Fish",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "KSTC",
@@ -57317,6 +57637,46 @@
     "portalDisplay": "",
     "lat": 36.1042,
     "lon": -115.1485
+  }
+,
+{
+    "institution": "Earlham College, Joseph Moore Museum",
+    "collection": "MAIN",
+    "recordsets": "",
+    "recordsetQuery": "",
+    "institution_code": "JMM",
+    "collection_code": "",
+    "collection_uuid": "urn:uuid:fd0a59e6-63b9-4660-8406-8f5162d29250",
+    "collection_lsid": "",
+    "collection_url": "http://www.earlham.edu/joseph-moore-museum/",
+    "collection_catalog_url": "",
+    "description": "",
+    "descriptionForSpecialists": "",
+    "cataloguedSpecimens": null,
+    "knownToContainTypes": null,
+    "taxonCoverage": "",
+    "geographic_range": "",
+    "collectionExtent": "",
+    "contact": "Heather Lerner",
+    "contact_role": "Director",
+    "contact_email": "lernehe@earlham.edu",
+    "mailing_address": "Drawer 143, Earlham College, 801 National Road West",
+    "mailing_city": "Richmond",
+    "mailing_state": "Indiana",
+    "mailing_zip": "47374",
+    "physical_address": "Drawer 143, Earlham College, 801 National Road West",
+    "physical_city": "Richmond",
+    "physical_state": "Indiana",
+    "physical_zip": "47374",
+    "UniqueNameUUID": "",
+    "attributionLogoURL": "",
+    "providerManagedID": "",
+    "derivedFrom": "",
+    "sameAs": "",
+    "flags": "",
+    "portalDisplay": "",
+    "lat": 39.8253,
+    "lon": -84.9097
   }
 ,
 {
@@ -57640,8 +58000,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Ornithology",
+    "institution": "University of Georgia, Georgia Museum of Natural History",
+    "collection": "Ornithology Collections",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
@@ -57680,8 +58040,8 @@
   }
 ,
 {
-    "institution": "",
-    "collection": "Nematodes",
+    "institution": "University of California Davis, Department of Nematology",
+    "collection": "Nematode",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "UCDNC",
@@ -57760,8 +58120,8 @@
   }
 ,
 {
-    "institution": "University of Hawaii at Manoa, Department of Botany, Hawaiian Algal Biodiversity Laboratory",
-    "collection": "Algae",
+    "institution": "University of Hawaii at Manoa",
+    "collection": "Department of Botany, Hawaiian Algal Biodiversity Laboratory",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "",
