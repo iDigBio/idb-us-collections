@@ -1,6 +1,6 @@
 {
     "institution": "Field Museum of Natural History",
-    "collection": "Fungi & Lichens",
+    "collection": "Fungi and Lichens",
     "recordsets": "c481fbc6-4bd7-4c50-8537-ba1993d4eb88, 5626f61a-822e-4692-b432-51f53d053e4d",
     "recordsetQuery": "{\"recordset\":[\"c481fbc6-4bd7-4c50-8537-ba1993d4eb88\",\"5626f61a-822e-4692-b432-51f53d053e4d\"]}",
     "institution_code": "FMNH",

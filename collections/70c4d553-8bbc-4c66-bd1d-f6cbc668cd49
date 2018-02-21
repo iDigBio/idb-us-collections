@@ -1,6 +1,6 @@
 {
     "institution": "Morton Arboretum",
-    "collection": "",
+    "collection": "Herbarium",
     "recordsets": "6ac89a16-4604-4a78-9047-dcc57e5c0130, 99b04c9f-908e-42bd-92bc-41aa94b72949, 14f8f83f-7a0c-458c-b6d5-6da7dc8eaa0a",
     "recordsetQuery": "{\"recordset\":[\"6ac89a16-4604-4a78-9047-dcc57e5c0130\",\"99b04c9f-908e-42bd-92bc-41aa94b72949\",\"14f8f83f-7a0c-458c-b6d5-6da7dc8eaa0a\"]}",
     "institution_code": "MOR",

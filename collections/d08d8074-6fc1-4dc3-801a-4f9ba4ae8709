@@ -1,6 +1,6 @@
 {
     "institution": "University of California Berkeley, The Museum of Vertebrate Zoology at Berkeley",
-    "collection": "Bird Collections",
+    "collection": "Birds",
     "recordsets": "19daf0a7-5e37-41e6-97f8-4494553c358c, 654e092c-edbd-456c-8cce-2bcbdff71a04",
     "recordsetQuery": "{\"recordset\":[\"19daf0a7-5e37-41e6-97f8-4494553c358c\",\"654e092c-edbd-456c-8cce-2bcbdff71a04\"]}",
     "institution_code": "MVZ",
