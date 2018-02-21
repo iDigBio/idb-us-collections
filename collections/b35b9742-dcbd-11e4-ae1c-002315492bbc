@@ -1,6 +1,6 @@
 {
-    "institution": "California State University, Chico, Vertebrate Museum",
-    "collection": "Mammals",
+    "institution": "California State University, Chico",
+    "collection": "Vertebrate Museum, Mammals",
     "recordsets": "8660ce9a-31c9-48ee-b5bc-9e6ba248ec0f",
     "recordsetQuery": "{\"recordset\":\"8660ce9a-31c9-48ee-b5bc-9e6ba248ec0f\"}",
     "institution_code": "CSUC",

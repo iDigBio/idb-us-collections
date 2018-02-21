@@ -1,6 +1,6 @@
 {
-    "institution": "University of South Carolina, A.C. Moore Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of South Carolina",
+    "collection": "A.C. Moore Herbarium",
     "recordsets": "83ad8494-136b-485a-87d4-8ce01dd6a8de, 8e4ff036-d38e-455f-a0fe-4ac50823f4fb, fb4cc282-eba5-4156-b7c7-df41e0581b68, e5f377de-c662-4eec-a4d4-b41b18441f3a",
     "recordsetQuery": "{\"recordset\":[\"83ad8494-136b-485a-87d4-8ce01dd6a8de\",\" 8e4ff036-d38e-455f-a0fe-4ac50823f4fb\",\" fb4cc282-eba5-4156-b7c7-df41e0581b68\",\" e5f377de-c662-4eec-a4d4-b41b18441f3a\"]}",
     "institution_code": "USCH<IH>",

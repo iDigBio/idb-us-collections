@@ -1,6 +1,6 @@
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "University of South Florida",
+    "collection": "USF Herbarium",
     "recordsets": "0072bf11-a354-4998-8730-c0cb4cfc9517, 1c8ec291-8067-4b48-848b-410c2c768420, 07c47dd3-a0a9-434a-b144-71c32996f278, f1cf8457-237e-487a-9d13-5de7d81b9de4, 837d99c6-3045-4ba3-8951-643ddb3d6676",
     "recordsetQuery": "{\"recordset\":[\"0072bf11-a354-4998-8730-c0cb4cfc9517\",\"1c8ec291-8067-4b48-848b-410c2c768420\",\"07c47dd3-a0a9-434a-b144-71c32996f278\",\"f1cf8457-237e-487a-9d13-5de7d81b9de4\",\"837d99c6-3045-4ba3-8951-643ddb3d6676\"]}",
     "institution_code": "USF<IH>",

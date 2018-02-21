@@ -1,6 +1,6 @@
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "Auburn University Museum of Natural History",
+    "collection": "The Freeman Herbarium",
     "recordsets": "364a24d9-d4a8-4e0b-8e50-07b90f844548, 29b8da72-4420-4f65-b755-a006a23cf65a, 3d2b5be0-7c1d-4693-9226-94bc0061123b, 18c215c3-c02f-47e9-bb66-196c33c8f672",
     "recordsetQuery": "{\"recordset\":[\"364a24d9-d4a8-4e0b-8e50-07b90f844548\",\"29b8da72-4420-4f65-b755-a006a23cf65a\",\"3d2b5be0-7c1d-4693-9226-94bc0061123b\",\"18c215c3-c02f-47e9-bb66-196c33c8f672\"]}",
     "institution_code": "AUA<IH>",

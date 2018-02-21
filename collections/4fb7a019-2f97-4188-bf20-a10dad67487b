@@ -1,6 +1,6 @@
 {
-    "institution": "University of Texas at Austin, Plant Resource Center, Lundell Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of Texas at Austin, Plant Resource Center",
+    "collection": "Lundell Herbarium",
     "recordsets": "c5b7dae8-b483-4742-9954-d7f9226daa34",
     "recordsetQuery": "{\"recordset\":\"c5b7dae8-b483-4742-9954-d7f9226daa34\"}",
     "institution_code": "LL<IH>",

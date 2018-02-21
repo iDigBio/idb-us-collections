@@ -1,6 +1,6 @@
 {
-    "institution": "",
-    "collection": "Fungi",
+    "institution": "Denver Botanic Gardens, Sam Mitchel Herbarium of Fungi",
+    "collection": "Fungarium",
     "recordsets": "fdf7bb59-aad2-4f10-879f-6c0e7d3baa64",
     "recordsetQuery": "{\"recordset\":\"fdf7bb59-aad2-4f10-879f-6c0e7d3baa64\"}",
     "institution_code": "DBG<IH>",

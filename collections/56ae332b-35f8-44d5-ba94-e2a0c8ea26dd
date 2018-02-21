@@ -1,6 +1,6 @@
 {
-    "institution": "California Department of Food and Agriculture, California State Collection of Arthropods",
-    "collection": "Arthropods",
+    "institution": "California Department of Food and Agriculture",
+    "collection": "California State Collection of Arthropods",
     "recordsets": "5975bbda-cd92-4084-8a09-ce1e28e6164f",
     "recordsetQuery": "{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"csca\"}",
     "institution_code": "CDFA",

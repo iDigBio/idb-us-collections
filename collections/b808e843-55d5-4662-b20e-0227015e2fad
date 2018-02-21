@@ -1,6 +1,6 @@
 {
-    "institution": "University of Kansas, Biodiversity Institute and Natural History Museum, Snow Entomological Museum",
-    "collection": "Entomology",
+    "institution": "University of Kansas, Biodiversity Institute and Natural History Museum",
+    "collection": "Entomology, Snow Entomological Museum",
     "recordsets": "568e209f-d072-4fd6-8b64-27954b0fd731, 2e65e24b-b7e2-40a4-a40c-09edafc1e3f4",
     "recordsetQuery": "{\"recordset\":[\"568e209f-d072-4fd6-8b64-27954b0fd731\",\"2e65e24b-b7e2-40a4-a40c-09edafc1e3f4\"]}",
     "institution_code": "KU",

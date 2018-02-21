@@ -1,6 +1,6 @@
 {
-    "institution": "",
-    "collection": "Mammals, Birds, Eggs, Nests",
+    "institution": "Humboldt State University, Wildlife Museum",
+    "collection": "Mammals/Birds/Eggs/Nests",
     "recordsets": "fd8dae05-5c60-455e-ac8d-ace2649d6cbe, 46be8190-0533-4fc7-9cab-1faa26d9906e, a3173073-2467-4365-9d32-17122929e27e",
     "recordsetQuery": "{\"recordset\":[\"fd8dae05-5c60-455e-ac8d-ace2649d6cbe\",\"46be8190-0533-4fc7-9cab-1faa26d9906e\",\"a3173073-2467-4365-9d32-17122929e27e\"]}",
     "institution_code": "HSU",
