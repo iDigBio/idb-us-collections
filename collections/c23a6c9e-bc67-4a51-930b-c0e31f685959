@@ -1,6 +1,6 @@
 {
-    "institution": "",
-    "collection": "Herbarium",
+    "institution": "Harvard University, New England Botanical Club Herbarium",
+    "collection": "New England Botanical Club Herbarium",
     "recordsets": "7450a9e3-ef95-4f9e-8260-09b498d2c5e6",
     "recordsetQuery": "{\"recordset\":[\"7450a9e3-ef95-4f9e-8260-09b498d2c5e6\"],\"collectioncode\":[\"NEBC\"]}",
     "institution_code": "Harvard University",

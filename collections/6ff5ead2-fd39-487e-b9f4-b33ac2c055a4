@@ -1,6 +1,6 @@
 {
-    "institution": "Pittsburg State University, Theodore M. Sperry Herbarium",
-    "collection": "Herbarium",
+    "institution": "Pittsburg State University",
+    "collection": "Theodore M. Sperry Herbarium",
     "recordsets": "44328ef7-fc7f-4ff6-b51b-ed9049857e11, 664bd710-8791-4dba-a3b6-000a1b140951",
     "recordsetQuery": "{\"recordset\":[\"44328ef7-fc7f-4ff6-b51b-ed9049857e11\",\" 664bd710-8791-4dba-a3b6-000a1b140951\"]}",
     "institution_code": "KSP<IH>",

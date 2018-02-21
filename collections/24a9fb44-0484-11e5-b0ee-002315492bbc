@@ -1,6 +1,6 @@
 {
-    "institution": "Purdue University, Purdue Entomological Research Collection",
-    "collection": "Entomology",
+    "institution": "Purdue University",
+    "collection": "Purdue Entomological Research Collection",
     "recordsets": "47ac1531-5213-4848-a32d-5bb396ab9348, 9354db6c-4019-4351-a822-cb87b1b73a44",
     "recordsetQuery": "{\"recordset\":[\"47ac1531-5213-4848-a32d-5bb396ab9348\",\"9354db6c-4019-4351-a822-cb87b1b73a44\"]}",
     "institution_code": "PURD",

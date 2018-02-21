@@ -1,6 +1,6 @@
 {
-    "institution": "",
-    "collection": "Vertebrates  (Mammals, Fishes, Birds)",
+    "institution": "Western New Mexico University, Gila Natural History Collections of the Gila Center for Natural History",
+    "collection": "Vertebrate collection (mammals, fish, birds)",
     "recordsets": "929bf047-9ad7-48bd-88fa-c2630d423e8a, 0a8f691f-004d-41d8-89fb-9f808a8268c5, de9a1acc-2ca6-4c36-92af-e7ea8b29c096",
     "recordsetQuery": "{\"recordset\":[\"929bf047-9ad7-48bd-88fa-c2630d423e8a\",\"0a8f691f-004d-41d8-89fb-9f808a8268c5\",\"de9a1acc-2ca6-4c36-92af-e7ea8b29c096\"]}",
     "institution_code": "WNMU",

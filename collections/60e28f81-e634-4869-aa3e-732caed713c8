@@ -1,6 +1,6 @@
 {
-    "institution": "Smithsonian Institution National Museum of Natural History, United States National Herbarium",
-    "collection": "Herbarium",
+    "institution": "Smithsonian Institution National Museum of Natural History",
+    "collection": "Botany, United States National Herbarium",
     "recordsets": "a6eee223-cf3b-4079-8bb2-b77dad8cae9d",
     "recordsetQuery": "{\"recordset\":\"a6eee223-cf3b-4079-8bb2-b77dad8cae9d\",\"collectioncode\":\"Botany\"}",
     "institution_code": "US",

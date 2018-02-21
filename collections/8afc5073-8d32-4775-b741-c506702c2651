@@ -1,6 +1,6 @@
 {
-    "institution": "",
-    "collection": "Herpetology, Ornithology, Mammalogy",
+    "institution": "Humboldt State University, Vertebrate Museum",
+    "collection": "Herpetology/Ornithology/Mammalogy",
     "recordsets": "c4f0b43b-1a43-43bc-b302-2aecd37d8054, a2f11cb7-2862-4d0d-aefd-47ea67efd8fd, 83fede4d-f1d0-4748-84e5-f24083c7ba3c, e1c453ac-0479-405c-9742-03a511b33e60",
     "recordsetQuery": "{\"recordset\":[\"c4f0b43b-1a43-43bc-b302-2aecd37d8054\",\"a2f11cb7-2862-4d0d-aefd-47ea67efd8fd\",\"83fede4d-f1d0-4748-84e5-f24083c7ba3c\",\"e1c453ac-0479-405c-9742-03a511b33e60\"]}",
     "institution_code": "HSU",

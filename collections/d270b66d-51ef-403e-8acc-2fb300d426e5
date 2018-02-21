@@ -1,6 +1,6 @@
 {
-    "institution": "University of Vermont, The Pringle Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of Vermont",
+    "collection": "The Pringle Herbarium",
     "recordsets": "f33e9494-7b3c-4ac6-a735-59693b5a9638, fd14095c-3658-4e00-8cec-729a89459e92, 401fec56-515d-4fa8-87d1-507e742f4f6f, ba54ba45-caac-4708-a389-ac94642976f8, 3027c437-cdb3-4072-9410-5a46ec3b1fd5, 6d4b658a-90b4-4639-8b06-b7f07637f6aa",
     "recordsetQuery": "{\"recordset\":[\"f33e9494-7b3c-4ac6-a735-59693b5a9638\",\"fd14095c-3658-4e00-8cec-729a89459e92\",\"401fec56-515d-4fa8-87d1-507e742f4f6f\",\"ba54ba45-caac-4708-a389-ac94642976f8\",\"3027c437-cdb3-4072-9410-5a46ec3b1fd5\",\"6d4b658a-90b4-4639-8b06-b7f07637f6aa\"]}",
     "institution_code": "VT<IH>",

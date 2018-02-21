@@ -1,6 +1,6 @@
 {
-    "institution": "University of Kansas, Biodiversity Institute and Natural History Museum, R. L. McGregor Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of Kansas, Biodiversity Institute and Natural History Museum",
+    "collection": "Botany, R. L. McGregor Herbarium",
     "recordsets": "cd5bc13d-ee5c-4b68-a550-37edb3e7899d, 9c1d51f2-067e-452b-a52b-ea7b03e50e25, d7b285d4-2643-45ee-9302-b0c3d51dda5c",
     "recordsetQuery": "{\"recordset\":[\"cd5bc13d-ee5c-4b68-a550-37edb3e7899d\",\" 9c1d51f2-067e-452b-a52b-ea7b03e50e25\",\" d7b285d4-2643-45ee-9302-b0c3d51dda5c\"]}",
     "institution_code": "KU",

@@ -1,6 +1,6 @@
 {
-    "institution": "University of Utah, Natural History Museum of Utah, Garrett Herbarium",
-    "collection": "Herbarium",
+    "institution": "University of Utah, Natural History Museum of Utah",
+    "collection": "Botany, Garrett Herbarium",
     "recordsets": "2c00c297-9ebd-498a-b701-d3ebde4b49f3",
     "recordsetQuery": "{\"recordset\":\"2c00c297-9ebd-498a-b701-d3ebde4b49f3\"}",
     "institution_code": "UT<IH>",
