@@ -1,6 +1,6 @@
 {
-    "institution": "Indiana University",
-    "collection": "Deam Herbarium",
+    "institution": "Indiana University, Deam Herbarium",
+    "collection": "Herbarium",
     "recordsets": "2e3a8e5c-eef9-462d-a690-3a91fe111e13, b3d53973-5bac-432a-90d3-7956baa09c5d, 0dab1fc7-ca99-456b-9985-76edbac003e0",
     "recordsetQuery": "{\"recordset\":[\"2e3a8e5c-eef9-462d-a690-3a91fe111e13\",\" b3d53973-5bac-432a-90d3-7956baa09c5d\",\" 0dab1fc7-ca99-456b-9985-76edbac003e0\"]}",
     "institution_code": "IND<IH>",

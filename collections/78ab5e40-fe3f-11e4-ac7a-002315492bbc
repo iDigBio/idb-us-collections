@@ -1,6 +1,6 @@
 {
-    "institution": "Santa Barbara Museum of Natural History",
-    "collection": "Ornithology Collection",
+    "institution": "",
+    "collection": "Ornithology",
     "recordsets": "9d8ced48-62c5-4ce0-99e7-a03550c674c0",
     "recordsetQuery": "{\"recordset\":[\"9d8ced48-62c5-4ce0-99e7-a03550c674c0\"],\"collectioncode\":[\"av\",\"os\"]}",
     "institution_code": "SBMNH",

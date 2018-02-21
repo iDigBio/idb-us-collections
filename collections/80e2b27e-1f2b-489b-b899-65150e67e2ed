@@ -1,6 +1,6 @@
 {
-    "institution": "USGS PWRC Native Bee Inventory and Monitoring Lab",
-    "collection": "USGS Native Bee Inventory and Monitoring Lab collection",
+    "institution": "",
+    "collection": "Bees",
     "recordsets": "a549ceb3-f2ba-4eea-b597-94dd392c1914, 7c3067c3-c229-4e73-b4aa-c187997ee530",
     "recordsetQuery": "{\"recordset\":[\"a549ceb3-f2ba-4eea-b597-94dd392c1914\",\"7c3067c3-c229-4e73-b4aa-c187997ee530\"]}",
     "institution_code": "BIML",

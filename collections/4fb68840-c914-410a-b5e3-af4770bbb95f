@@ -1,6 +1,6 @@
 {
-    "institution": "Occidental College, Moore Laboratory of Zoology",
-    "collection": "",
+    "institution": "",
+    "collection": "Zoology",
     "recordsets": "c2e06358-1f9f-463c-843f-446c0a37fbd0, e165b318-d5f7-40d5-a0d9-82ba3c31060f",
     "recordsetQuery": "{\"recordset\":[\"c2e06358-1f9f-463c-843f-446c0a37fbd0\",\"e165b318-d5f7-40d5-a0d9-82ba3c31060f\"]}",
     "institution_code": "MLZ",

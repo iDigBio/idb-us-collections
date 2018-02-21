@@ -1,6 +1,6 @@
 {
-    "institution": "George Mason University",
-    "collection": "Ted R. Bradley Herbarium",
+    "institution": "George Mason University, Ted R. Bradley Herbarium",
+    "collection": "Herbarium",
     "recordsets": "e794b292-4a94-471e-ab84-6aaef1fea1b3",
     "recordsetQuery": "{\"recordset\":\"e794b292-4a94-471e-ab84-6aaef1fea1b3\"}",
     "institution_code": "GMUF<IH>",

@@ -1,6 +1,6 @@
 {
-    "institution": "Museum of Northern Arizona",
-    "collection": "Walter B. McDougall Herbarium",
+    "institution": "Museum of Northern Arizona, Walter B. McDougall Herbarium",
+    "collection": "Herbarium",
     "recordsets": "de5203b1-5a44-4010-948c-b7d33f46397a",
     "recordsetQuery": "{\"recordset\":\"de5203b1-5a44-4010-948c-b7d33f46397a\"}",
     "institution_code": "MNA<IH>",

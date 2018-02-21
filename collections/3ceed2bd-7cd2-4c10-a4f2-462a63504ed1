@@ -1,6 +1,6 @@
 {
-    "institution": "Stanford University, Hopkins Marine Station",
-    "collection": "Gilbert M. Smith Herbarium",
+    "institution": "Stanford University, Hopkins Marine Station, Gilbert M. Smith Herbarium",
+    "collection": "Herbarium",
     "recordsets": "e7db896a-c95b-4a18-99a4-866fff238ca5",
     "recordsetQuery": "{\"recordset\":\"e7db896a-c95b-4a18-99a4-866fff238ca5\"}",
     "institution_code": "GMS<IH>",
