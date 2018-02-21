@@ -1,6 +1,6 @@
 {
-    "institution": "University of New Mexico, Museum of Southwestern Biology",
-    "collection": "Parasites",
+    "institution": "",
+    "collection": "Parasitology",
     "recordsets": "41e1a09b-bd55-4d20-a480-5d8187f7afca, b3d3a357-9fa6-453c-9f02-d86a1bbc762a",
     "recordsetQuery": "{\"recordset\":[\"41e1a09b-bd55-4d20-a480-5d8187f7afca\",\"b3d3a357-9fa6-453c-9f02-d86a1bbc762a\"]}",
     "institution_code": "MSB",

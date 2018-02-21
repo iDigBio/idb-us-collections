@@ -1,6 +1,6 @@
 {
-    "institution": "Utah State University",
-    "collection": "Intermountain Herbarium",
+    "institution": "Utah State University, Intermountain Herbarium",
+    "collection": "Herbarium",
     "recordsets": "0c15e83e-79ee-4ee3-86e3-e5f98a51dc11, 215eeaf0-0a88-409e-a75d-aec98b7c41eb,b1c7a275-21f6-4b66-895d-d497359b34a1, caaa464d-e290-4761-8550-75edc6d00119",
     "recordsetQuery": "{\"recordset\":[\"0c15e83e-79ee-4ee3-86e3-e5f98a51dc11\",\"215eeaf0-0a88-409e-a75d-aec98b7c41eb\",\"b1c7a275-21f6-4b66-895d-d497359b34a1\",\"caaa464d-e290-4761-8550-75edc6d00119\"]}",
     "institution_code": "UTC<IH>",

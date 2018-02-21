@@ -1,6 +1,6 @@
 {
-    "institution": "University of Georgia, Georgia Museum of Natural History",
-    "collection": "Department of Plant Biology Herbarium",
+    "institution": "University of Georgia, Georgia Museum of Natural History, Department of Plant Biology Herbarium",
+    "collection": "Herbarium",
     "recordsets": "beab5209-9628-4d4d-851e-2bc9bb1a0105",
     "recordsetQuery": "{\"recordset\":\"beab5209-9628-4d4d-851e-2bc9bb1a0105\"}",
     "institution_code": "GA<IH>",

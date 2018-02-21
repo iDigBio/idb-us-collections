@@ -1,6 +1,6 @@
 {
-    "institution": "University of Arizona",
-    "collection": "The Robert L. Gilbertson Mycological Herbarium",
+    "institution": "University of Arizona, The Robert L. Gilbertson Mycological Herbarium",
+    "collection": "Herbarium",
     "recordsets": "15aa4812-aad2-4b26-a1d8-d4f8d79e6163",
     "recordsetQuery": "{\"recordset\":\"15aa4812-aad2-4b26-a1d8-d4f8d79e6163\"}",
     "institution_code": "ARIZ<IH>",

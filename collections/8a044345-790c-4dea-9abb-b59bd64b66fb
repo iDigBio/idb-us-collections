@@ -1,6 +1,6 @@
 {
-    "institution": "San Francisco State University",
-    "collection": "The Harry D. Thiers Herbarium",
+    "institution": "San Francisco State University, The Harry D. Thiers Herbarium",
+    "collection": "Herbarium",
     "recordsets": "46374ee7-7c70-48d8-bf16-2e6c1626565e",
     "recordsetQuery": "{\"recordset\":\"46374ee7-7c70-48d8-bf16-2e6c1626565e\"}",
     "institution_code": "SFSU",
