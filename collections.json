@@ -8362,8 +8362,8 @@
 {
     "institution": "Staten Island Institute of Arts and Sciences / Staten Island Museum",
     "collection": "Entomology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "5975bbda-cd92-4084-8a09-ce1e28e6164f",
+    "recordsetQuery": "{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"SIIS\"}",
     "institution_code": "SIIS",
     "collection_code": "",
     "collection_uuid": "urn:uuid:2523c985-5ba8-4d6d-908b-db7f525582a7",
