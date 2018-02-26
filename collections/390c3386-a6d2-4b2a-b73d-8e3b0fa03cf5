@@ -1,6 +1,6 @@
 {
     "institution": "Arizona State Museum",
-    "collection": "",
+    "collection": "Zooarchaeology",
     "recordsets": "",
     "recordsetQuery": "",
     "institution_code": "ASM",
@@ -17,8 +17,8 @@
     "geographic_range": "",
     "collectionExtent": "",
     "contact": "Suzanne Eckert",
-    "contact_role": "Acting Head of Collections",
-    "contact_email": "????",
+    "contact_role": "Associate Curator/Head of Collections",
+    "contact_email": "sleckert@email.arizona.edu",
     "mailing_address": "1013 E. University Boulevard",
     "mailing_city": "Tucson",
     "mailing_state": "Arizona",
