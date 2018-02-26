@@ -1960,7 +1960,7 @@
   }
 ,
 {
-    "institution": "Lynchburg College, Ramsey-Freer Herbarium",
+    "institution": "Lynchburg College",
     "collection": "Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
@@ -5040,7 +5040,7 @@
   }
 ,
 {
-    "institution": "Eastern Kentucky University",
+    "institution": "Eastern Kentucky University, Ronald L. Jones Herbarium",
     "collection": "Herbarium",
     "recordsets": "20360fae-574a-4d63-b9f6-47b1cc07fd22",
     "recordsetQuery": "{\"recordset\":\"20360fae-574a-4d63-b9f6-47b1cc07fd22\"}",
