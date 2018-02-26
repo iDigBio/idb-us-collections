@@ -40322,8 +40322,8 @@
 {
     "institution": "Florida State Collection of Arthropods, The Museum of Entomology",
     "collection": "Entomology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "5975bbda-cd92-4084-8a09-ce1e28e6164f",
+    "recordsetQuery": "{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"FSCA\"}",
     "institution_code": "FSCA",
     "collection_code": "",
     "collection_uuid": "urn:uuid:b3d80966-655b-409e-a022-bcba68bc7639",
