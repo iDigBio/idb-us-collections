@@ -1,9 +1,9 @@
 {
     "institution": "University of Massachusetts Amherst",
     "collection": "Insects",
-    "recordsets": "5975bbda-cd92-4084-8a09-ce1e28e6164f",
-    "recordsetQuery": "{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"umam\"}",
-    "institution_code": "UMAM",
+    "recordsets": "",
+    "recordsetQuery": "",
+    "institution_code": "UMA",
     "collection_code": "",
     "collection_uuid": "urn:uuid:34c95b4c-8386-4a92-badc-22968d96fc24",
     "collection_lsid": "",
