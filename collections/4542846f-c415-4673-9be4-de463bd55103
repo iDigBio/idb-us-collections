@@ -1,8 +1,8 @@
 {
     "institution": "University of Kentucky, College of Agriculture, Department of Entomology",
     "collection": "Entomology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "5975bbda-cd92-4084-8a09-ce1e28e6164f",
+    "recordsetQuery": "{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"uk\"}",
     "institution_code": "UK",
     "collection_code": "",
     "collection_uuid": "urn:uuid:4542846f-c415-4673-9be4-de463bd55103",
