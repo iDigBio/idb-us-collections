@@ -2,7 +2,7 @@
     "institution": "Wichita State University Biodiversity Laboratory",
     "collection": "Entomology",
     "recordsets": "e9607b87-6dcb-4ffa-a4bf-d17ac197ca70",
-    "recordsetQuery": "",
+    "recordsetQuery": "{\"recordset\":\"e9607b87-6dcb-4ffa-a4bf-d17ac197ca70\"}",
     "institution_code": "WICH",
     "collection_code": "WICHI",
     "collection_uuid": "urn:uuid:08022e0b-b6c0-494e-a301-fe76c2143b91",
