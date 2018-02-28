@@ -2,7 +2,7 @@
     "institution": "Academy of Natural Sciences of Drexel University",
     "collection": "Entomology",
     "recordsets": "e73fedf0-90ee-4c6d-88dd-49399878fc54, 5975bbda-cd92-4084-8a09-ce1e28e6164f",
-    "recordsetQuery": "[{\"recordset\":\"e73fedf0-90ee-4c6d-88dd-49399878fc54\"},{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"ansp\”}]",
+    "recordsetQuery": "[{\"recordset\":\"e73fedf0-90ee-4c6d-88dd-49399878fc54\"},{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"ansp\"}]",
     "institution_code": "ANSP",
     "collection_code": "",
     "collection_uuid": "urn:uuid:048130fb-f013-4297-abfe-648a2bf4b28e",
