@@ -1,8 +1,8 @@
 {
     "institution": "Carnegie Museum of Natural History",
     "collection": "Invertebrate Zoology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "5975bbda-cd92-4084-8a09-ce1e28e6164f",
+    "recordsetQuery": "{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"cmnh\"}"
     "institution_code": "CM",
     "collection_code": "",
     "collection_uuid": "urn:uuid:a95d0f01-5513-4325-a541-f77fa78490e5",
