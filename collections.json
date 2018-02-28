@@ -42883,7 +42883,7 @@
     "institution": "Bureau of Land Management, Mother Lode Field Office",
     "collection": "Bees",
     "recordsets": "0df55e93-0fce-4ba6-a344-1d9918b60816",
-    "recordsetQuery": "",
+    "recordsetQuery": "{\"recordset\":\"0df55e93-0fce-4ba6-a344-1d9918b60816\"}",
     "institution_code": "BLM",
     "collection_code": "MLFO",
     "collection_uuid": "urn:uuid:bc958340-a6c0-4980-b898-4c814bfd7afe",
