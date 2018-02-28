@@ -31003,7 +31003,7 @@
     "institution": "University of North Carolina at Asheville",
     "collection": "Herbarium",
     "recordsets": "312cf3f1-2913-4c63-9ba8-0b870cd3c120",
-    "recordsetQuery": "{\"recordset\":\"312cf3f1-2913-4c63-9ba8-0b870cd3c120\"}",
+    "recordsetQuery": "",
     "institution_code": "UNCA",
     "collection_code": "",
     "collection_uuid": "urn:uuid:86cc64f7-7479-4ddb-bb02-b336111d94d6",
