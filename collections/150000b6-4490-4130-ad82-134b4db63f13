@@ -2,7 +2,7 @@
     "institution": "University of Wyoming",
     "collection": "Entomology",
     "recordsets": "ebd4ee05-1c41-46ab-9ef2-8937ea4f6112",
-    "recordsetQuery": "",
+    "recordsetQuery": "{\"recordset\":\"ebd4ee05-1c41-46ab-9ef2-8937ea4f6112\"}",
     "institution_code": "UWYMED",
     "collection_code": "ENT",
     "collection_uuid": "urn:uuid:150000b6-4490-4130-ad82-134b4db63f13",
