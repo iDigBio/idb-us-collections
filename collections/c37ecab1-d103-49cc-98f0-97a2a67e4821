@@ -1,8 +1,8 @@
 {
     "institution": "Cornell University",
     "collection": "Insects",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "5975bbda-cd92-4084-8a09-ce1e28e6164f",
+    "recordsetQuery": "{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"cuic\"}",
     "institution_code": "CUIC",
     "collection_code": "",
     "collection_uuid": "urn:uuid:c37ecab1-d103-49cc-98f0-97a2a67e4821",
