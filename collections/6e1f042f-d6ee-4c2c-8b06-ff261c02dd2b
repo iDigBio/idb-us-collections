@@ -2,7 +2,7 @@
     "institution": "Dugway Proving Ground Natural History",
     "collection": "Entomology",
     "recordsets": "9d9b81f1-3a9a-4515-b741-a145293f1fef",
-    "recordsetQuery": "",
+    "recordsetQuery": "{\"recordset\":\"9d9b81f1-3a9a-4515-b741-a145293f1fef\"}",
     "institution_code": "DUGWAY",
     "collection_code": "DUG-ENT",
     "collection_uuid": "urn:uuid:6e1f042f-d6ee-4c2c-8b06-ff261c02dd2b",
