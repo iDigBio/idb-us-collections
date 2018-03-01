@@ -1,8 +1,8 @@
 {
     "institution": "Bernice Pauahi Bishop Museum",
     "collection": "Entomology",
-    "recordsets": "a6e02b78-6fc6-4cb6-bb87-8d5a443f2c2a",
-    "recordsetQuery": "{\"recordset\":[\"a6e02b78-6fc6-4cb6-bb87-8d5a443f2c2a\"],\"collectioncode\":[\"ENT\",\"ENTTYP\"]}",
+    "recordsets": "a6e02b78-6fc6-4cb6-bb87-8d5a443f2c2a, 5975bbda-cd92-4084-8a09-ce1e28e6164f",
+    "recordsetQuery": "[{\"recordset\":[\"a6e02b78-6fc6-4cb6-bb87-8d5a443f2c2a\"],\"collectioncode\":[\"ENT\",\"ENTTYP\"]},{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"bpbm\"}]",
     "institution_code": "BPBM",
     "collection_code": "ENT, ENTTYP",
     "collection_uuid": "urn:uuid:ef629c33-d504-4c92-9183-0dcbfe11efa3",
