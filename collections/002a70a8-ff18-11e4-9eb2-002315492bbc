@@ -1,8 +1,8 @@
 {
     "institution": "University of Delaware",
     "collection": "Insects",
-    "recordsets": "2c662e9e-cdc6-4bbf-93a5-1566ceca1af3",
-    "recordsetQuery": "{\"recordset\":\"2c662e9e-cdc6-4bbf-93a5-1566ceca1af3\"}",
+    "recordsets": "2c662e9e-cdc6-4bbf-93a5-1566ceca1af3, 5975bbda-cd92-4084-8a09-ce1e28e6164f",
+    "recordsetQuery": "[{\"recordset\":\"2c662e9e-cdc6-4bbf-93a5-1566ceca1af3\"},{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"udcc\"}]",
     "institution_code": "UD",
     "collection_code": "UDCC",
     "collection_uuid": "urn:uuid:002a70a8-ff18-11e4-9eb2-002315492bbc",
