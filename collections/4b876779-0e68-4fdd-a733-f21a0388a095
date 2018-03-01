@@ -1,8 +1,8 @@
 {
     "institution": "Mississippi State University, Mississippi Entomological Museum",
     "collection": "Entomology",
-    "recordsets": "8eabbc48-2b30-419d-bd8f-eece9185eca1, 5975bbda-cd92-4084-8a09-ce1e28e6164f",
-    "recordsetQuery": "[{\"recordset\":\"8eabbc48-2b30-419d-bd8f-eece9185eca1\"},{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"memu\"}]",
+    "recordsets": "8eabbc48-2b30-419d-bd8f-eece9185eca1",
+    "recordsetQuery": "{\"recordset\":\"8eabbc48-2b30-419d-bd8f-eece9185eca1\"}",
     "institution_code": "MISSA",
     "collection_code": "MEM",
     "collection_uuid": "urn:uuid:4b876779-0e68-4fdd-a733-f21a0388a095",
