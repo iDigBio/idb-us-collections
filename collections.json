@@ -5722,8 +5722,8 @@
 {
     "institution": "Smithsonian Institution National Museum of Natural History",
     "collection": "Entomology",
-    "recordsets": "a6eee223-cf3b-4079-8bb2-b77dad8cae9d",
-    "recordsetQuery": "{\"recordset\":\"a6eee223-cf3b-4079-8bb2-b77dad8cae9d\",\"collectioncode\":\"entomology\"}",
+    "recordsets": "a6eee223-cf3b-4079-8bb2-b77dad8cae9d, 5975bbda-cd92-4084-8a09-ce1e28e6164f",
+    "recordsetQuery": "[{\"recordset\":\"a6eee223-cf3b-4079-8bb2-b77dad8cae9d\",\"collectioncode\":\"entomology\"},{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"usnm\"}]",
     "institution_code": "USNM",
     "collection_code": "Entomology",
     "collection_uuid": "urn:uuid:18e3cd08-a962-4f0a-b72c-9a0b3600c5ad",
