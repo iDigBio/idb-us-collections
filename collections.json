@@ -14842,8 +14842,8 @@
 {
     "institution": "California Academy of Sciences",
     "collection": "Entomology",
-    "recordsets": "87c45c90-ba1d-409e-a9d7-9baf5a5cbb1c, ded380b5-1ba2-4089-8e0c-0aa1b4140785, 5975bbda-cd92-4084-8a09-ce1e28e6164f",
-    "recordsetQuery": "[{\"recordset\":[\"87c45c90-ba1d-409e-a9d7-9baf5a5cbb1c\",\"ded380b5-1ba2-4089-8e0c-0aa1b4140785\"]},{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"cas\"}]",
+    "recordsets": "87c45c90-ba1d-409e-a9d7-9baf5a5cbb1c, ded380b5-1ba2-4089-8e0c-0aa1b4140785",
+    "recordsetQuery": "{\"recordset\":[\"87c45c90-ba1d-409e-a9d7-9baf5a5cbb1c\",\"ded380b5-1ba2-4089-8e0c-0aa1b4140785\"]}",
     "institution_code": "CAS",
     "collection_code": "ENT",
     "collection_uuid": "urn:uuid:402c39b4-53e9-4c92-acbb-cd287623366a",
@@ -48162,8 +48162,8 @@
 {
     "institution": "Colorado State University, C.P. Gillette Museum of Arthropod Diversity",
     "collection": "Arthropods",
-    "recordsets": "92dd8c8e-c048-4f0a-9b5d-2ee627d2f553",
-    "recordsetQuery": "{\"recordset\":\"92dd8c8e-c048-4f0a-9b5d-2ee627d2f553\"}",
+    "recordsets": "92dd8c8e-c048-4f0a-9b5d-2ee627d2f553, 5975bbda-cd92-4084-8a09-ce1e28e6164f",
+    "recordsetQuery": "[{\"recordset\":\"92dd8c8e-c048-4f0a-9b5d-2ee627d2f553\"},{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"csuc\"}]",
     "institution_code": "CSU",
     "collection_code": "CSUC",
     "collection_uuid": "urn:uuid:d3d9f08e-235b-49e9-9cf7-54d7479a7167",
