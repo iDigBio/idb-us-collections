@@ -42,8 +42,8 @@
 {
     "institution": "University of Delaware",
     "collection": "Insects",
-    "recordsets": "2c662e9e-cdc6-4bbf-93a5-1566ceca1af3",
-    "recordsetQuery": "{\"recordset\":\"2c662e9e-cdc6-4bbf-93a5-1566ceca1af3\"}",
+    "recordsets": "2c662e9e-cdc6-4bbf-93a5-1566ceca1af3, 5975bbda-cd92-4084-8a09-ce1e28e6164f",
+    "recordsetQuery": "[{\"recordset\":\"2c662e9e-cdc6-4bbf-93a5-1566ceca1af3\"},{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"udcc\"}]",
     "institution_code": "UD",
     "collection_code": "UDCC",
     "collection_uuid": "urn:uuid:002a70a8-ff18-11e4-9eb2-002315492bbc",
@@ -48802,8 +48802,8 @@
 {
     "institution": "Oregon State Arthropod Collection",
     "collection": "Arthropods",
-    "recordsets": "e40bcf8a-0d64-4d88-a02d-fa047b195e8b, 5975bbda-cd92-4084-8a09-ce1e28e6164f",
-    "recordsetQuery": "[{\"recordset\":\"e40bcf8a-0d64-4d88-a02d-fa047b195e8b\"},{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"osac\"}]",
+    "recordsets": "e40bcf8a-0d64-4d88-a02d-fa047b195e8b",
+    "recordsetQuery": "{\"recordset\":\"e40bcf8a-0d64-4d88-a02d-fa047b195e8b\"}",
     "institution_code": "OSAC",
     "collection_code": "",
     "collection_uuid": "urn:uuid:d69ec61c-86ef-4624-a6c3-ea11d9596b42",
