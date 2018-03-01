@@ -31040,7 +31040,7 @@
   }
 ,
 {
-    "institution": "University of Wisconsin-Green Bay",
+    "institution": "University of Wisconsin-Green Bay, Gary A. Fewless Herbarium",
     "collection": "Herbarium",
     "recordsets": "",
     "recordsetQuery": "",
@@ -31059,7 +31059,7 @@
     "collectionExtent": "",
     "contact": "Gary Fewless",
     "contact_role": "",
-    "contact_email": "",
+    "contact_email": "fewlessg@uwgb.edu",
     "mailing_address": "MAC 212, 2420 Nicolet Drive",
     "mailing_city": "Green Bay",
     "mailing_state": "Wisconsin",
