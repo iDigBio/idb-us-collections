@@ -17802,8 +17802,8 @@
 {
     "institution": "Mississippi State University, Mississippi Entomological Museum",
     "collection": "Entomology",
-    "recordsets": "8eabbc48-2b30-419d-bd8f-eece9185eca1",
-    "recordsetQuery": "{\"recordset\":\"8eabbc48-2b30-419d-bd8f-eece9185eca1\"}",
+    "recordsets": "8eabbc48-2b30-419d-bd8f-eece9185eca1, 5975bbda-cd92-4084-8a09-ce1e28e6164f",
+    "recordsetQuery": "[{\"recordset\":\"8eabbc48-2b30-419d-bd8f-eece9185eca1\"},{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"memu\"}]",
     "institution_code": "MISSA",
     "collection_code": "MEM",
     "collection_uuid": "urn:uuid:4b876779-0e68-4fdd-a733-f21a0388a095",
@@ -30642,8 +30642,8 @@
 {
     "institution": "University of California Berkeley, Essig Museum of Entomology",
     "collection": "Entomology",
-    "recordsets": "a68df423-aae9-4f4b-8a42-a36124627a53, 5975bbda-cd92-4084-8a09-ce1e28e6164f",
-    "recordsetQuery": "[{\"recordset\":\"a68df423-aae9-4f4b-8a42-a36124627a53\"},{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"ucb\"}]",
+    "recordsets": "a68df423-aae9-4f4b-8a42-a36124627a53",
+    "recordsetQuery": "{\"recordset\":\"a68df423-aae9-4f4b-8a42-a36124627a53\"}",
     "institution_code": "EMEC",
     "collection_code": "",
     "collection_uuid": "urn:uuid:8589debc-b421-4b33-93da-dc53b35dfd7e",
