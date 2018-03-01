@@ -1,8 +1,8 @@
 {
     "institution": "University of California Berkeley, Essig Museum of Entomology",
     "collection": "Entomology",
-    "recordsets": "a68df423-aae9-4f4b-8a42-a36124627a53",
-    "recordsetQuery": "{\"recordset\":\"a68df423-aae9-4f4b-8a42-a36124627a53\"}",
+    "recordsets": "a68df423-aae9-4f4b-8a42-a36124627a53, 5975bbda-cd92-4084-8a09-ce1e28e6164f",
+    "recordsetQuery": "[{\"recordset\":\"a68df423-aae9-4f4b-8a42-a36124627a53\"},{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"ucb\"}]",
     "institution_code": "EMEC",
     "collection_code": "",
     "collection_uuid": "urn:uuid:8589debc-b421-4b33-93da-dc53b35dfd7e",
