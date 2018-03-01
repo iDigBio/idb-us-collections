@@ -1,8 +1,8 @@
 {
     "institution": "Colorado State University, C.P. Gillette Museum of Arthropod Diversity",
     "collection": "Arthropods",
-    "recordsets": "92dd8c8e-c048-4f0a-9b5d-2ee627d2f553, 5975bbda-cd92-4084-8a09-ce1e28e6164f",
-    "recordsetQuery": "[{\"recordset\":\"92dd8c8e-c048-4f0a-9b5d-2ee627d2f553\"},{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"institutioncode\":\"csuc\"}]",
+    "recordsets": "92dd8c8e-c048-4f0a-9b5d-2ee627d2f553",
+    "recordsetQuery": "{\"recordset\":\"92dd8c8e-c048-4f0a-9b5d-2ee627d2f553\"}",
     "institution_code": "CSU",
     "collection_code": "CSUC",
     "collection_uuid": "urn:uuid:d3d9f08e-235b-49e9-9cf7-54d7479a7167",
