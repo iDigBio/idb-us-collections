@@ -23362,8 +23362,8 @@
 {
     "institution": "University of New Mexico, Museum of Southwestern Biology",
     "collection": "Fishes",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "10d835b1-1062-4236-9329-444ed81f624f",
+    "recordsetQuery": "{\"recordset\":\"10d835b1-1062-4236-9329-444ed81f624f\"}",
     "institution_code": "MSB",
     "collection_code": "",
     "collection_uuid": "urn:uuid:65c612e9-63c6-43d1-acc6-fb3e024f4eb1",
