@@ -28202,8 +28202,8 @@
 {
     "institution": "Denver Museum of Nature & Science",
     "collection": "Insects",
-    "recordsets": "5aac25d2-bcfb-4084-a700-584311ea539d",
-    "recordsetQuery": "{\"recordset\":\"5aac25d2-bcfb-4084-a700-584311ea539d\"}",
+    "recordsets": "55b17f44-8c6b-4dc5-a31d-d9955b425790",
+    "recordsetQuery": "{\"recordset\":\"55b17f44-8c6b-4dc5-a31d-d9955b425790\"}",
     "institution_code": "DMNS",
     "collection_code": "",
     "collection_uuid": "urn:uuid:7abab24c-6a25-42db-b5ce-f64a86860236",
@@ -56162,8 +56162,8 @@
 {
     "institution": "Denver Museum of Nature & Science",
     "collection": "Arachnids",
-    "recordsets": "5aac25d2-bcfb-4084-a700-584311ea539d",
-    "recordsetQuery": "{\"recordset\":\"5aac25d2-bcfb-4084-a700-584311ea539d\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "DMNS",
     "collection_code": "ZA",
     "collection_uuid": "urn:uuid:f74f334a-d4a6-47a9-8d21-a1bd32489855",
