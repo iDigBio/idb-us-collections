@@ -1,8 +1,8 @@
 {
     "institution": "Bartlett Arboretum",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "64b54f96-91f0-4442-b6de-173aa1a5c31b",
+    "recordsetQuery": "{\"recordset\":\"64b54f96-91f0-4442-b6de-173aa1a5c31b\"}",
     "institution_code": "BART<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:83a735ef-f148-4a1c-a548-21612548b11c",
