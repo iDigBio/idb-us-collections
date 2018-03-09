@@ -1,8 +1,8 @@
 {
     "institution": "University of Massachusetts Amherst",
     "collection": "Herbarium",
-    "recordsets": "0272afc1-36ee-4899-8c28-dde9d8a211d9, d78d13a7-3852-4244-ba34-86ef5765fa99",
-    "recordsetQuery": "{\"recordset\":[\"0272afc1-36ee-4899-8c28-dde9d8a211d9\",\" d78d13a7-3852-4244-ba34-86ef5765fa99\"]}",
+    "recordsets": "0272afc1-36ee-4899-8c28-dde9d8a211d9",
+    "recordsetQuery": "{\"recordset\":\"0272afc1-36ee-4899-8c28-dde9d8a211d9\"}",
     "institution_code": "MASS<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:e69e5d07-dc65-4b34-b762-dcf469433b86",
