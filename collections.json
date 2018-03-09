@@ -47842,8 +47842,8 @@
 {
     "institution": "Boston University, Stuart K. Harris Herbarium",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "a69decc7-76ba-496a-a66e-f91049c02cf0",
+    "recordsetQuery": "{\"recordset\":\"a69decc7-76ba-496a-a66e-f91049c02cf0\"}",
     "institution_code": "BSN<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:d20ec68a-0488-11e5-b0ee-002315492bbc",
