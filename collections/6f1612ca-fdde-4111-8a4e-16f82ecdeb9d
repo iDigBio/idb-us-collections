@@ -2,7 +2,7 @@
     "institution": "Broward College",
     "collection": "Entomology",
     "recordsets": "f4666aa7-93f0-41f7-83c2-497af7a06887",
-    "recordsetQuery": ""{\"recordset\":\"f4666aa7-93f0-41f7-83c2-497af7a06887\"}"",
+    "recordsetQuery": "{\"recordset\":\"f4666aa7-93f0-41f7-83c2-497af7a06887\"}",
     "institution_code": "BROW",
     "collection_code": "BRIC",
     "collection_uuid": "urn:uuid:6f1612ca-fdde-4111-8a4e-16f82ecdeb9d",
