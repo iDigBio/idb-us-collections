@@ -1,8 +1,8 @@
 {
     "institution": "Western Connecticut State University",
     "collection": "Herbarium",
-    "recordsets": "282fe9c2-d6cb-4325-b3b5-b70ab1d22bbb",
-    "recordsetQuery": "{\"recordset\":\"282fe9c2-d6cb-4325-b3b5-b70ab1d22bbb\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "WCSU<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:1404cea6-83c5-4df4-ad22-8dd655b2d425",
