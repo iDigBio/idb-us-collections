@@ -7842,10 +7842,10 @@
 {
     "institution": "Carnegie Museum of Natural History",
     "collection": "Mollusks",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "77e7e6bd-7822-4b84-a46b-39a06abdac2e",
+    "recordsetQuery": "{\"recordset\":\"77e7e6bd-7822-4b84-a46b-39a06abdac2e\"}",
     "institution_code": "CM",
-    "collection_code": "",
+    "collection_code": "Mollusks",
     "collection_uuid": "urn:uuid:22a11d6f-30fc-45bb-a8f8-f15e0326f4c9",
     "collection_lsid": "",
     "collection_url": "http://www.carnegiemnh.org/mollusks/index.html",
