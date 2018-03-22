@@ -38762,8 +38762,8 @@
 {
     "institution": "University of California Santa Barbara, Cheadle Center for Biodiversity and Ecological Restoration",
     "collection": "Vascular Plants",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "0b17c21a-f7e2-4967-bdf8-60cf9b06c721",
+    "recordsetQuery": "{\"recordset\":\"0b17c21a-f7e2-4967-bdf8-60cf9b06c721\",\"institutioncode\":\"ucsb\"}",
     "institution_code": "UCSB<IH>",
     "collection_code": "UCSB",
     "collection_uuid": "urn:uuid:ab8fa5e2-5f06-460a-9119-3a9522392027",
