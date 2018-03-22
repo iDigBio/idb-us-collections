@@ -47042,8 +47042,8 @@
 {
     "institution": "University of California Santa Cruz",
     "collection": "Plants",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "0b17c21a-f7e2-4967-bdf8-60cf9b06c721",
+    "recordsetQuery": "{\"recordset\":\"0b17c21a-f7e2-4967-bdf8-60cf9b06c721\",\"institutioncode\":\"UCSC\"}",
     "institution_code": "UCSC<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:cf051cd8-d8ee-44fb-87ac-2a5d7523da2a",
