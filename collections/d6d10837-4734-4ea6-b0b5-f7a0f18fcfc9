@@ -10,7 +10,7 @@
     "collection_url": "http://www.cdfa.ca.gov/plant/ppd/herbarium.html",
     "collection_catalog_url": "http://ucjeps.berkeley.edu/consortium/",
     "description": "CDA. Founded in 1921, the Botany Lab and Herbarium of the California Department of Food and Agriculture (Plant Pest Diagnostics Center) serves as the plant diagnostic and identification service for California, and is the repository for the state collection of noxious weed and agricultural plant specimens. Size of collection: 55,000 plant specimens. Notable collections include those of M. K. Bellue, T. C. Fuller, G. Douglas Barbe, G. F. Hrusa, D. G. Kelch, and G. L. Stout (plant disease collection, BPS). The CDFA Seed Herbarium has ca. 50,000 accessions in the Seed and Fruit Collection (CDA SFC). Notable collections include those of M. K. Bellue, B. Crampton, P. B. Kennedy, D. Baxter, B. M. Browning, D. Decker-Walters, and C. Dremann.",
-    "descriptionForSpecialists": "Contact information:Genevieve Walden, Curator and Senior Plant Taxonomist, Botany Lab and Herbarium, CDA, BPS (genevieve.walden@cdfa.ca.gov) https://cdfa.ca.gov/plant/ppd/herbarium.html Deborah J. Meyer, Curator and Senior Seed Botanist, California State Seed Lab and Herbarium, CDA-SFC (deborah.meyer@cdfa.ca.gov). https://www.cdfa.ca.gov/plant/ppd/seedherbarium.html",
+    "descriptionForSpecialists": "Contact information:Genevieve Walden, Curator and Senior Plant Taxonomist, Botany Lab and Herbarium, CDA, BPS (genevieve.walden@cdfa.ca.gov). Deborah J. Meyer, Curator and Senior Seed Botanist, California State Seed Lab and Herbarium, CDA-SFC (deborah.meyer@cdfa.ca.gov).",
     "cataloguedSpecimens": 50000,
     "knownToContainTypes": true,
     "taxonCoverage": "California agriculture, weeds, seeds",
