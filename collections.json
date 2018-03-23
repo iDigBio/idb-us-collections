@@ -39202,8 +39202,8 @@
 {
   "institution": "Eastern Michigan University, T. L. Hankinson Vertebrate Museum",
   "collection": "Mammals",
-  "recordsets": "",
-  "recordsetQuery": "",
+  "recordsets": "b0099c3d-bc60-42ae-a9a1-d602a2b1e965",
+  "recordsetQuery": "{\"recordset\":\"b0099c3d-bc60-42ae-a9a1-d602a2b1e965\"}",
   "institution_code": "EMU",
   "collection_code": "",
   "collection_uuid": "urn:uuid:aeb6ba68-911b-44d9-923c-a2d5f3a2d7a4",
