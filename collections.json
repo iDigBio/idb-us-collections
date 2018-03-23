@@ -49762,8 +49762,8 @@
 {
     "institution": "University of California Berkeley, Sagehen Creek Field Station",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "0b17c21a-f7e2-4967-bdf8-60cf9b06c721",
+    "recordsetQuery": "{\"recordset\":\"0b17c21a-f7e2-4967-bdf8-60cf9b06c721\",\"institutioncode\":\"SCFS\"}",
     "institution_code": "SCFS<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:d9f724f0-1b6f-4f7d-a790-b8b3a0c1d602",
