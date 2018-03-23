@@ -1,8 +1,8 @@
 {
     "institution": "American Museum of Natural History",
     "collection": "Invertebrate Zoology, Hemiptera",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "5975bbda-cd92-4084-8a09-ce1e28e6164f",
+    "recordsetQuery": "{\"recordset\":\"5975bbda-cd92-4084-8a09-ce1e28e6164f\",\"collectioncode\":\"AMNH\",\"order\":\"hemiptera\"}",
     "institution_code": "AMNH",
     "collection_code": "",
     "collection_uuid": "urn:uuid:b2fc44ce-77b0-4d21-8226-0ca19d35780c",
