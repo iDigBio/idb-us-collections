@@ -35442,8 +35442,8 @@
 {
     "institution": "Catalina Island Conservancy",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "0b17c21a-f7e2-4967-bdf8-60cf9b06c721",
+    "recordsetQuery": "{\"recordset\":\"0b17c21a-f7e2-4967-bdf8-60cf9b06c721\",\"institutioncode\":\"CATA\"}",
     "institution_code": "CATA<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:9bbafd74-4ffc-4dfb-94e5-b71b93ac9b2a",
