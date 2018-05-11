@@ -4842,8 +4842,8 @@
 {
     "institution": "University of California Riverside",
     "collection": "Herbarium",
-    "recordsets": "0b17c21a-f7e2-4967-bdf8-60cf9b06c721",
-    "recordsetQuery": "{\"recordset\":\"0b17c21a-f7e2-4967-bdf8-60cf9b06c721\",\"institutioncode\":\"UCR\"}",
+    "recordsets": "dd1b8c0b-280f-4cd3-979a-ad7464c5c9b5",
+    "recordsetQuery": "[{\"recordset\":\"0b17c21a-f7e2-4967-bdf8-60cf9b06c721\",\"institutioncode\":\"UCR\"},{\"recordset\":\"dd1b8c0b-280f-4cd3-979a-ad7464c5c9b5\"}]",
     "institution_code": "UCR<IH>",
     "collection_code": "UCR-",
     "collection_uuid": "urn:uuid:158eb658-1c5c-4c46-ae82-c3086a90fc90",
