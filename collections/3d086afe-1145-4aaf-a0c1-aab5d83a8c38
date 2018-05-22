@@ -1,8 +1,8 @@
 {
     "institution": "Natural History Museum of Los Angeles County",
     "collection": "Invertebrate Paleontology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "5082e6c8-8f5b-4bf6-a930-e3e6de7bf6fb",
+    "recordsetQuery": "{\"recordset\":\"5082e6c8-8f5b-4bf6-a930-e3e6de7bf6fb\"}",
     "institution_code": "LACM",
     "collection_code": "LACMIP",
     "collection_uuid": "urn:uuid:3d086afe-1145-4aaf-a0c1-aab5d83a8c38",
