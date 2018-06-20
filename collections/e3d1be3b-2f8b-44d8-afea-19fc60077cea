@@ -2,7 +2,7 @@
     "institution": "Missouri Botanical Garden",
     "collection": "Bryophytes",
     "recordsets": "5386d272-06c6-4027-b5d5-d588c2afe5e5",
-    "recordsetQuery": "{\"recordset\":\"5386d272-06c6-4027-b5d5-d588c2afe5e5\"}",
+    "recordsetQuery": "{\"recordset\":\"5386d272-06c6-4027-b5d5-d588c2afe5e5\",\"phylum\":[\"bryophyta\",\"marchantiophyta\",\"anthocerotophyta\",\"charophyta\",\"rhodophyta\"]}",
     "institution_code": "MO<IH>",
     "collection_code": "MO",
     "collection_uuid": "urn:uuid:e3d1be3b-2f8b-44d8-afea-19fc60077cea",
