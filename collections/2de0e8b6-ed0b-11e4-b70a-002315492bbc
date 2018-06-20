@@ -2,7 +2,7 @@
     "institution": "Missouri Botanical Garden",
     "collection": "Vascular Plants",
     "recordsets": "5386d272-06c6-4027-b5d5-d588c2afe5e5",
-    "recordsetQuery": "{\"recordset\":\"5386d272-06c6-4027-b5d5-d588c2afe5e5\"}",
+    "recordsetQuery": "{\"recordset\":\"5386d272-06c6-4027-b5d5-d588c2afe5e5\",\"class\":\"tracheophyta\"}",
     "institution_code": "MO",
     "collection_code": "MO-",
     "collection_uuid": "urn:uuid:2de0e8b6-ed0b-11e4-b70a-002315492bbc",
