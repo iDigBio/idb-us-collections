@@ -1,8 +1,8 @@
 {
     "institution": "Buffalo Museum of Science, The Clinton Herbarium",
     "collection": "Botany",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "d478c23a-1993-443d-85ea-308870606626",
+    "recordsetQuery": "{\"recordset\":\"d478c23a-1993-443d-85ea-308870606626\"}",
     "institution_code": "BUF<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:b9161333-5e61-45d7-a95b-7d80931a79d2",
