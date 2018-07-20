@@ -13562,8 +13562,8 @@
 {
   "institution": "University of Kansas, Biodiversity Institute and Natural History Museum",
   "collection": "Paleobotany",
-  "recordsets": "",
-  "recordsetQuery": "",
+  "recordsets": "b1f0612a-bc21-424f-b9c1-3bba69ad4f54",
+  "recordsetQuery": "{\"recordset\":\"b1f0612a-bc21-424f-b9c1-3bba69ad4f54\"}",
   "institution_code": "KU",
   "collection_code": "KUPB",
   "collection_uuid": "urn:uuid:3a791e1f-68a9-41d1-954e-8b7f0ea99ce5",
