@@ -1,8 +1,8 @@
 {
     "institution": "University of Michigan, Museum of Zoology",
     "collection": "Mollusks",
-    "recordsets": "c94a06a5-df24-4546-adba-4f7940661826",
-    "recordsetQuery": "{\"recordset\":\"c94a06a5-df24-4546-adba-4f7940661826\"}",
+    "recordsets": "9c5fea92-a28b-4b6e-94b5-9c939f7369a2,c94a06a5-df24-4546-adba-4f7940661826",
+    "recordsetQuery": "{\"recordset\":[\"9c5fea92-a28b-4b6e-94b5-9c939f7369a2\",\"c94a06a5-df24-4546-adba-4f7940661826\"]}",
     "institution_code": "UMMZ",
     "collection_code": "MOL",
     "collection_uuid": "urn:uuid:eea73f48-0204-4d6e-a475-edd0f794e1b0",
