@@ -43362,8 +43362,8 @@
 {
 "institution": "Central Michigan University Museum of Cultural and Natural History",
 "collection": "Bird",
-"recordsets": "1ea6c281-e2ca-4e79-80b7-63e27812044c",
-"recordsetQuery": "{\"recordset\":\"1ea6c281-e2ca-4e79-80b7-63e27812044c\"}",
+"recordsets": "https://www.idigbio.org/portal/recordsets/1ea6c281-e2ca-4e79-80b7-63e27812044c",
+"recordsetQuery": "{\"recordset\":\"https://www.idigbio.org/portal/recordsets/1ea6c281-e2ca-4e79-80b7-63e27812044c\"}",
 "institution_code": "MCNH",
 "collection_code": "Bird",
 "collection_uuid": "urn:uuid:bcf57731-e702-4b44-ac52-9a078bab7e42",
