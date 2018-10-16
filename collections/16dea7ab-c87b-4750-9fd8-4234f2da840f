@@ -12,7 +12,7 @@
     "description": "Modern pollen, mostly from western United States",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 2800,
-    "knownToContainTypes": FALSE,
+    "knownToContainTypes": false,
     "taxonCoverage": "Modern pollen largely from western US, Alaska, Mexico with smaller collections from Spain and other places.",
     "geographic_range": "",
     "collectionExtent": "",
