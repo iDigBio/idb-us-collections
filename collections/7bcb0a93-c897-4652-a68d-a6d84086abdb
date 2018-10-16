@@ -2,7 +2,7 @@
     "institution": "Bernice Pauahi Bishop Museum",
     "collection": "Vertebrate Zoology",
     "recordsets": "a6e02b78-6fc6-4cb6-bb87-8d5a443f2c2a",
-    "recordsetQuery": "{\"recordset\":\"a6e02b78-6fc6-4cb6-bb87-8d5a443f2c2a\",\"collectioncode\":[\"HERP-IND\",\" HERP-BPBM-NONE\",\" HERP-BPBM-NONE*\",\" HERP-BBM\",\" VZ-BBM-\",\" VZ-BBM-BO\",\" VZ-BBM-BSIP\",\" VZ-BBM-HK\",\" VZ-BBM-ISA\",\" VZ-BBM-KO\",\" VZ-BBM-LA\",\" VZ-BBM-NG\",\" VZ-BBM-NP\",\" VZ-BBM-PI\",\" VZ-BBM-PI*\",\" VZ-BBM-SA\",\" VZ-BBM-TA\",\" VZ-BBM-TH\",\" VZ-BBM-X\",\" VZ-BBM\",\" VZ-BBN-NG\",\" VZ-BM-NG\",\" VZ-BPBM-NONE\",\" VZ-BPBM-NONE*\",\" VZ-BPBM-X\",\" VZ-BPBM\",\" VZ-MISSING\",\" VZ-PNG\"]}",
+    "recordsetQuery": "{\"recordset\":\"a6e02b78-6fc6-4cb6-bb87-8d5a443f2c2a\",\"collectioncode\":[\"HERP-IND\",\"HERP-BPBM-NONE\",\"HERP-BPBM-NONE*\",\"HERP-BBM\",\"VZ-BBM-\",\"VZ-BBM-BO\",\"VZ-BBM-BSIP\",\"VZ-BBM-HK\",\"VZ-BBM-ISA\",\"VZ-BBM-KO\",\"VZ-BBM-LA\",\"VZ-BBM-NG\",\"VZ-BBM-NP\",\"VZ-BBM-PI\",\"VZ-BBM-PI*\",\"VZ-BBM-SA\",\"VZ-BBM-TA\",\"VZ-BBM-TH\",\"VZ-BBM-X\",\"VZ-BBM\",\"VZ-BBN-NG\",\"VZ-BM-NG\",\"VZ-BPBM-NONE\",\"VZ-BPBM-NONE*\",\"VZ-BPBM-X\",\"VZ-BPBM\",\"VZ-MISSING\",\"VZ-PNG\"]}",
     "institution_code": "BPBM",
     "collection_code": "HERP-IND, HERP-BPBM-NONE, HERP-BPBM-NONE*, HERP-BBM, VZ-BBM-, VZ-BBM-BO, VZ-BBM-BSIP, VZ-BBM-HK, VZ-BBM-ISA, VZ-BBM-KO, VZ-BBM-LA, VZ-BBM-NG, VZ-BBM-NP, VZ-BBM-PI, VZ-BBM-PI*, VZ-BBM-SA, VZ-BBM-TA, VZ-BBM-TH, VZ-BBM-X, VZ-BBM, VZ-BBN-NG, VZ-BM-NG, VZ-BPBM-NONE, VZ-BPBM-NONE*, VZ-BPBM-X, VZ-BPBM, VZ-MISSING, VZ-PNG",
     "collection_uuid": "urn:uuid:7bcb0a93-c897-4652-a68d-a6d84086abdb",
