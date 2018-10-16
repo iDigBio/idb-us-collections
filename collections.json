@@ -9123,7 +9123,7 @@
     "institution": "Bernice Pauahi Bishop Museum",
     "collection": "Invertebrate Zoology",
     "recordsets": "a6e02b78-6fc6-4cb6-bb87-8d5a443f2c2a",
-    "recordsetQuery": "{\"recordset\":\"a6e02b78-6fc6-4cb6-bb87-8d5a443f2c2a\",\"collectioncode\":[\"A\",\" B\",\" C\",\" D\",\" E\",\" F\",\" G\",\" H\",\" K\",\" L\",\" M\",\" N\",\" P\",\" R\",\" S\",\" SC\",\" T\",\" U\",\" W\",\" X\",\" Y\"]}",
+    "recordsetQuery": "{\"recordset\":\"a6e02b78-6fc6-4cb6-bb87-8d5a443f2c2a\",\"collectioncode\":[\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"G\",\"H\",\"K\",\"L\",\"M\",\"N\",\"P\",\"R\",\"S\",\"SC\",\"T\",\"U\",\"W\",\"X\",\"Y\"]}",
     "institution_code": "BPBM",
     "collection_code": "A, B, C, D, E, F, G, H, K, L, M, N, P, R, S, SC, T, U, W, X, Y",
     "collection_uuid": "urn:uuid:27283e37-8041-45d7-9407-29ce6fddbbc6",
