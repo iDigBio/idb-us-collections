@@ -19762,8 +19762,8 @@
 {
     "institution": "Appalachian State University, I. W. Carpenter, Jr. Herbarium",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "e23109b4-e143-437c-b329-3dff7cb35488",
+    "recordsetQuery": "{\"recordset\":\"e23109b4-e143-437c-b329-3dff7cb35488\"}",
     "institution_code": "BOON<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:52a67359-9c1d-4654-8ee4-33cedbeee733",
