@@ -41442,8 +41442,8 @@
 {
     "institution": "University of California Santa Barbara, Cheadle Center for Biodiversity and Ecological Restoration",
     "collection": "Entomology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "65007e62-740c-4302-ba20-260fe68da291",
+    "recordsetQuery": "{\"recordset\":\"65007e62-740c-4302-ba20-260fe68da291\"}",
     "institution_code": "CCBER",
     "collection_code": "UCSB",
     "collection_uuid": "urn:uuid:b5b9ba46-ff0e-4b36-8477-1df1151ce91a",
