@@ -46963,7 +46963,7 @@
     "institution": "Smithsonian Institution National Museum of Natural History",
     "collection": "Vertebrate Zoology, Amphibians and Reptiles",
     "recordsets": "a6eee223-cf3b-4079-8bb2-b77dad8cae9d",
-    "recordsetQuery": "{\"recordset\":\"a6eee223-cf3b-4079-8bb2-b77dad8cae9d\",\"collectioncode\":\"Amphibians and Reptiles\"}",
+    "recordsetQuery": "{\"recordset\":\"a6eee223-cf3b-4079-8bb2-b77dad8cae9d\",\"collectioncode\":\"Amphibians & Reptiles\"}",
     "institution_code": "USNM",
     "collection_code": "Amphibians and Reptiles",
     "collection_uuid": "urn:uuid:cc104cbf-fd8e-4801-9b71-36731a7db1a0",
