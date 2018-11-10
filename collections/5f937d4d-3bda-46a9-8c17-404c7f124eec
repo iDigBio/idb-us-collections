@@ -2,7 +2,7 @@
     "institution": "Harvard University, Museum of Comparative Zoology",
     "collection": "Entomology",
     "recordsets": "9ace4c05-d930-45c7-8d2d-0cadff1ea32b, 271a9ce9-c6d3-4b63-a722-cb0adc48863f",
-    "recordsetQuery": "{\"recordset\":[\"9ace4c05-d930-45c7-8d2d-0cadff1ea32b\",\"271a9ce9-c6d3-4b63-a722-cb0adc48863f\"],\"collectioncode\":\"Ent\"}",
+    "recordsetQuery": "{\"recordset\":[\"9ace4c05-d930-45c7-8d2d-0cadff1ea32b\",\" 271a9ce9-c6d3-4b63-a722-cb0adc48863f\"],\"collectioncode\":\"Ent\"}",
     "institution_code": "MCZ",
     "collection_code": "Ent",
     "collection_uuid": "urn:uuid:5f937d4d-3bda-46a9-8c17-404c7f124eec",

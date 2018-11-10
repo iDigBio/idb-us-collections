@@ -1,8 +1,8 @@
 {
     "institution": "Cornell University, Museum of Vertebrates",
     "collection": "Reptiles",
-    "recordsets": "7d47b53b-0a12-40e6-b57c-676021a2b18f",
-    "recordsetQuery": "{\"recordset\":\"7d47b53b-0a12-40e6-b57c-676021a2b18f\"}",
+    "recordsets": "80daac2f-e496-4c65-b196-6be7a9c4c98e",
+    "recordsetQuery": "{\"recordset\":\"80daac2f-e496-4c65-b196-6be7a9c4c98e\"}",
     "institution_code": "CUMV",
     "collection_code": "Reptile specimens",
     "collection_uuid": "urn:uuid:66519605-19fc-4440-a5ae-d97673502a1b",
