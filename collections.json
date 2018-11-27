@@ -7722,8 +7722,8 @@
 {
     "institution": "University of Wisconsin, Insect Research Collection",
     "collection": "Entomology",
-    "recordsets": "b761d317-a36e-4a05-a5f4-bd3e3963daf6",
-    "recordsetQuery": "{\"recordset\":\"b761d317-a36e-4a05-a5f4-bd3e3963daf6\"}",
+    "recordsets": "b761d317-a36e-4a05-a5f4-bd3e3963daf6,ae04a8bb-eb28-4671-839b-62dde372353e",
+    "recordsetQuery": "{\"recordset\":[\"b761d317-a36e-4a05-a5f4-bd3e3963daf6\",\"ae04a8bb-eb28-4671-839b-62dde372353e\"]}",
     "institution_code": "WISC",
     "collection_code": "WIRC",
     "collection_uuid": "urn:uuid:21672781-fef6-49e9-9c98-5843cb6e6e5e",
