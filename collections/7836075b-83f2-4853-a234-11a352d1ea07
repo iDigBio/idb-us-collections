@@ -9,13 +9,13 @@
     "collection_lsid": "http://grbio.org/cool/ywsm-eq6q",
     "collection_url": "http://www.delmnh.org/birds/",
     "collection_catalog_url": "",
-    "description": "The bird collection consists of approximately 67,000 study skins, 11,000 skeletons and 2,600 spread wings. We also maintain a small tissue collection containing samples from eastern North American taxa. The collection, worldwide in scope, has especially strong collections of U.S., Philippine and Central and South American birds. The holdings represent about 4,000 bird species. About 140 taxa are in the type collection. Extinct species are also represented. Formation of the collection began when the Museum was founded in 1957. Among the collections that can be found here are those of George Miksch Sutton, Allan R. Phillips, Olin S. Pettingill, T.D. Burleigh, D.S. Rabor, M. Hachisuka, and Sibley’s Yale-Peabody Expedition. We also maintain an archive that contains field notes and other documentation from some of these collectors.",
+    "description": "Coverage of most families of birds. Worldwide, with strengths for skins/skeletons in United States, Philippines, Central and South America. Egg collection strengths in UK, British Colonies, and United States.",
     "descriptionForSpecialists": "",
-    "cataloguedSpecimens": 76000,
-    "knownToContainTypes": true,
-    "taxonCoverage": "",
-    "geographic_range": "Worldwide, with strengths for skins/skeletons in United States, Philippines, Central and South America.",
-    "collectionExtent": "76,000 study skins, skeletons and spread wings. Less than 500 tissue samples.",
+    "cataloguedSpecimens": 112000,
+    "knownToContainTypes": null,
+    "taxonCoverage": "Coverage of most families of birds.",
+    "geographic_range": "Worldwide, with strengths for skins/skeletons in United States, Philippines, Central and South America. Egg collection strengths in UK, British Colonies, and United States.",
+    "collectionExtent": "112000",
     "contact": "Jean Woods",
     "contact_role": "Curator",
     "contact_email": "jwoods@delmnh.org",
@@ -34,6 +34,6 @@
     "sameAs": "",
     "flags": "",
     "portalDisplay": "",
-    "lat": 39.798326,
-    "lon": -75.609474
+    "lat": 39.7651,
+    "lon": -75.5821
   }

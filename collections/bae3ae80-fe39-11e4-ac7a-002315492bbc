@@ -9,13 +9,13 @@
     "collection_lsid": "http://grbio.org/cool/w6fs-cpf5",
     "collection_url": "http://www.delmnh.org/birds/",
     "collection_catalog_url": "",
-    "description": "The egg collection consists of approximately 36,000 clutches representing over 2,000 species. The collection is worldwide in scope, with particularly strong coverage of Florida (USA), Europe, and former British Colonies. Formation of the collection began when the Museum was founded in 1957. Among the egg collections that can be found here are those of Captain Vivian Hewitt, Jeremiah Matthews Goodall, John \"Jack\" G. Gordon, D.F.S. MacArthur, A. H. Paget-Wilkes, Dr. Percy Rendall, Edward Charles Stuart-Baker, and Donald & Wray Nicholson.",
+    "description": "Coverage of most families of birds. Worldwide, with strengths for skins/skeletons in United States, Philippines, Central and South America. Egg collection strengths in UK, British Colonies, and United States.",
     "descriptionForSpecialists": "",
-    "cataloguedSpecimens": 33500,
-    "knownToContainTypes": false,
-    "taxonCoverage": "Strengths in Falconidae, Accipitridae, and Alcidae",
-    "geographic_range": "Worldwide, with strengths strengths in Great Britain, former British Colonies, and United States.",
-    "collectionExtent": "36,000 clutches and approximately 200 nests.",
+    "cataloguedSpecimens": 112000,
+    "knownToContainTypes": null,
+    "taxonCoverage": "Coverage of most families of birds.",
+    "geographic_range": "Worldwide, with strengths for skins/skeletons in United States, Philippines, Central and South America. Egg collection strengths in UK, British Colonies, and United States.",
+    "collectionExtent": "112000",
     "contact": "Jean Woods",
     "contact_role": "Curator",
     "contact_email": "jwoods@delmnh.org",
@@ -34,6 +34,6 @@
     "sameAs": "",
     "flags": "",
     "portalDisplay": "",
-    "lat": 39.798274,
-    "lon": -75.609474
+    "lat": 39.7651,
+    "lon": -75.5821
   }
