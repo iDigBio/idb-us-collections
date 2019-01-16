@@ -52162,8 +52162,8 @@
 {
   "institution": "Hawaii Department of Agriculture, Plant Pest Control Branch",
   "collection": "Zoological Reference",
-  "recordsets": "",
-  "recordsetQuery": "",
+  "recordsets": "95e9354e-9f06-4156-b69d-0279ae1f7baa",
+  "recordsetQuery": "{\"recordset\":\"95e9354e-9f06-4156-b69d-0279ae1f7baa\"}",
   "institution_code": "HDOA",
   "collection_code": "HDOAPPC",
   "collection_uuid": "urn:uuid:e08178aa-9d13-4fa5-8302-f7837fbee3fc",
