@@ -14402,8 +14402,8 @@
 {
     "institution": "Virginia Institute of Marine Science, Nunnally Ichtyology Collection",
     "collection": "Fishes",
-    "recordsets": "6649f781-fc4a-410f-a366-208e16241942",
-    "recordsetQuery": "{\"recordset\":\"6649f781-fc4a-410f-a366-208e16241942\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "VIMS",
     "collection_code": "VIMS",
     "collection_uuid": "urn:uuid:3e3f3c3b-47e5-427f-a577-3332e2765885",
@@ -39122,8 +39122,8 @@
 {
     "institution": "West Virginia Wesleyan College",
     "collection": "Entomology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "58d0090c-167e-4d7a-8ad5-c50681626692",
+    "recordsetQuery": "{\"recordset\":\"58d0090c-167e-4d7a-8ad5-c50681626692\"}",
     "institution_code": "",
     "collection_code": "",
     "collection_uuid": "urn:uuid:aa7ac44e-4fae-4532-83ad-29c899f148af",
