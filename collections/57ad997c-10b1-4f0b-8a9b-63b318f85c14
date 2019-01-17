@@ -1,8 +1,8 @@
 {
     "institution": "University of Guam Insect Collection",
     "collection": "Insects",
-    "recordsets": "656d1c9a-cbb7-4dde-ac24-62323af5b831",
-    "recordsetQuery": "{\"recordset\":\"656d1c9a-cbb7-4dde-ac24-62323af5b831\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "ESUG",
     "collection_code": "",
     "collection_uuid": "urn:uuid:57ad997c-10b1-4f0b-8a9b-63b318f85c14",
