@@ -21683,7 +21683,7 @@
     "institution": "Virginia Museum of Natural History",
     "collection": "Vertebrate Paleontology",
     "recordsets": "c882214e-8ba4-482b-9998-070b5547dc54, 09a76937-b01a-4f4a-aefd-825876453015",
-    "recordsetQuery": "{\"recordset\":[\"c882214e-8ba4-482b-9998-070b5547dc54\",\"09a76937-b01a-4f4a-aefd-825876453015 \"]}",
+    "recordsetQuery": "{\"recordset\":[\"c882214e-8ba4-482b-9998-070b5547dc54\",\"09a76937-b01a-4f4a-aefd-825876453015\"]}",
     "institution_code": "VMNH",
     "collection_code": "",
     "collection_uuid": "urn:uuid:5ac97912-6a0e-4705-801a-be22fcdab888",
