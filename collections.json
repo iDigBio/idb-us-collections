@@ -19642,8 +19642,8 @@
 {
     "institution": "Virginia Museum of Natural History",
     "collection": "Paleobotany",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "bdaa6842-3055-465e-82f6-da577e987cde",
+    "recordsetQuery": "{\"recordset\":\"bdaa6842-3055-465e-82f6-da577e987cde\"}",
     "institution_code": "VMNH",
     "collection_code": "",
     "collection_uuid": "urn:uuid:51c9dcbc-bce3-4b0b-acaa-feea0dad14cb",
@@ -55522,8 +55522,8 @@
 {
     "institution": "Virginia Museum of Natural History",
     "collection": "Invertebrate Paleontology",
-    "recordsets": "a2a7754b-2346-496d-b681-eb754ef32b9e, 4c46db9d-74d7-4e45-9ed2-0da40ec6b44f",
-    "recordsetQuery": "{\"recordset\":[\"a2a7754b-2346-496d-b681-eb754ef32b9e\",\"4c46db9d-74d7-4e45-9ed2-0da40ec6b44f\"]}",
+    "recordsets": "a2a7754b-2346-496d-b681-eb754ef32b9e",
+    "recordsetQuery": "{\"recordset\":\"a2a7754b-2346-496d-b681-eb754ef32b9e\"}",
     "institution_code": "VMNH",
     "collection_code": "Invertebrate Paleontology",
     "collection_uuid": "urn:uuid:f17e9b6b-ef1e-40d9-8618-eee2da65c443",

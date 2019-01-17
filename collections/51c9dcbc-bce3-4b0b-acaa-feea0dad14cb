@@ -1,8 +1,8 @@
 {
     "institution": "Virginia Museum of Natural History",
     "collection": "Paleobotany",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "bdaa6842-3055-465e-82f6-da577e987cde",
+    "recordsetQuery": "{\"recordset\":\"bdaa6842-3055-465e-82f6-da577e987cde\"}",
     "institution_code": "VMNH",
     "collection_code": "",
     "collection_uuid": "urn:uuid:51c9dcbc-bce3-4b0b-acaa-feea0dad14cb",
