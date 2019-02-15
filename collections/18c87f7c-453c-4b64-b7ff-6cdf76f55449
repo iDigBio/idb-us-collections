@@ -12,7 +12,7 @@
     "description": "Regional - birds, mammals, herps & plants of Washington & Oregon region.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 89500,
-    "knownToContainTypes": FALSE,
+    "knownToContainTypes": false,
     "taxonCoverage": "mammals, birds, reptiles, amphibians, insects",
     "geographic_range": "Regional - birds, mammals, herps & plants of Washington & Oregon region.",
     "collectionExtent": "89,500",
