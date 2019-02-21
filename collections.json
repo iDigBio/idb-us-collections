@@ -46960,7 +46960,7 @@
   }
 ,
 {
-    "institution": "University of Wyoming, Biodiversity Institute, Museum of Vertebrates",
+    "institution": "University of Wyoming, Museum of Vertebrates",
     "collection": "Vertebrates",
     "recordsets": "62c35d43-f15c-451d-a8be-1b9c6928b8bd, 984cbaa8-d801-4aa9-ad57-ec469f103a2f, 7400877a-13b8-423d-9074-5371a8234157",
     "recordsetQuery": "{\"recordset\":[\"62c35d43-f15c-451d-a8be-1b9c6928b8bd\",\"984cbaa8-d801-4aa9-ad57-ec469f103a2f\",\"7400877a-13b8-423d-9074-5371a8234157\"]}",
@@ -46968,7 +46968,7 @@
     "collection_code": "",
     "collection_uuid": "urn:uuid:cbb7db5c-f836-47da-aee5-14640abc7df1",
     "collection_lsid": "",
-    "collection_url": "http://www.uwyo.edu/berrycenter/vertebrate/index.html",
+    "collection_url": "http://www.uwymv.org/",
     "collection_catalog_url": "",
     "description": "",
     "descriptionForSpecialists": "",
