@@ -38802,8 +38802,8 @@
 {
     "institution": "University of North Carolina at Pembroke",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "69d150df-eba4-4ab3-9156-71cb0db41830",
+    "recordsetQuery": "{\"recordset\":\"69d150df-eba4-4ab3-9156-71cb0db41830\"}",
     "institution_code": "PEMB<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:9befee53-1348-4c19-9cc8-2337965db4a5",
@@ -63162,8 +63162,8 @@
 {
     "institution": "Armsrong State University",
     "collection": "Herbarium",
-    "recordsets": "43c69d2a-0fd2-4d34-a1ef-50d0f9c01353",
-    "recordsetQuery": "{\"recordset\":\"43c69d2a-0fd2-4d34-a1ef-50d0f9c01353\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "AASU",
     "collection_code": "",
     "collection_uuid": "urn:uuid:ff2609de-2514-4a61-8b78-4f35e9e00372",
