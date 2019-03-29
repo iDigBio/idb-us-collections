@@ -1,8 +1,8 @@
 {
     "institution": "Weymouth Woods - Sandhills Nature Preserve",
     "collection": "Herbarium",
-    "recordsets": "a0ec3ce6-fc8a-48b7-9105-cecf27602e37",
-    "recordsetQuery": "{\"recordset\":\"a0ec3ce6-fc8a-48b7-9105-cecf27602e37\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "WEWO<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:58a3a08a-7218-4931-8408-3f934a7fd638",

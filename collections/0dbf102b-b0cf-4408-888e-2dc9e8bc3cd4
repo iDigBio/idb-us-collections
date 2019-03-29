@@ -1,8 +1,8 @@
 {
     "institution": "East Tennessee State University",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "21b563bc-70c2-46d5-bce8-2489db2db3d8",
+    "recordsetQuery": "{\"recordset\":\"21b563bc-70c2-46d5-bce8-2489db2db3d8\"}",
     "institution_code": "ETSU<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:0dbf102b-b0cf-4408-888e-2dc9e8bc3cd4",
