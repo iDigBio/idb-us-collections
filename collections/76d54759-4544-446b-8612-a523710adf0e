@@ -1,8 +1,8 @@
 {
     "institution": "East Carolina University",
     "collection": "Herbarium",
-    "recordsets": "f5d395b8-c3c9-43df-b4ff-63d65c6a971e",
-    "recordsetQuery": "{\"recordset\":\"f5d395b8-c3c9-43df-b4ff-63d65c6a971e\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "ECUH<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:76d54759-4544-446b-8612-a523710adf0e",

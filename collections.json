@@ -29122,8 +29122,8 @@
 {
     "institution": "East Carolina University",
     "collection": "Herbarium",
-    "recordsets": "f5d395b8-c3c9-43df-b4ff-63d65c6a971e",
-    "recordsetQuery": "{\"recordset\":\"f5d395b8-c3c9-43df-b4ff-63d65c6a971e\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "ECUH<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:76d54759-4544-446b-8612-a523710adf0e",
@@ -63162,8 +63162,8 @@
 {
     "institution": "Armsrong State University",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "43c69d2a-0fd2-4d34-a1ef-50d0f9c01353",
+    "recordsetQuery": "{\"recordset\":\"43c69d2a-0fd2-4d34-a1ef-50d0f9c01353\"}",
     "institution_code": "AASU",
     "collection_code": "",
     "collection_uuid": "urn:uuid:ff2609de-2514-4a61-8b78-4f35e9e00372",
