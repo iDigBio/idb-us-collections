@@ -22602,8 +22602,8 @@
 {
     "institution": "Weymouth Woods - Sandhills Nature Preserve",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "a0ec3ce6-fc8a-48b7-9105-cecf27602e37",
+    "recordsetQuery": "{\"recordset\":\"a0ec3ce6-fc8a-48b7-9105-cecf27602e37\"}",
     "institution_code": "WEWO<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:58a3a08a-7218-4931-8408-3f934a7fd638",
@@ -38802,8 +38802,8 @@
 {
     "institution": "University of North Carolina at Pembroke",
     "collection": "Herbarium",
-    "recordsets": "69d150df-eba4-4ab3-9156-71cb0db41830",
-    "recordsetQuery": "{\"recordset\":\"69d150df-eba4-4ab3-9156-71cb0db41830\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "PEMB<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:9befee53-1348-4c19-9cc8-2337965db4a5",
