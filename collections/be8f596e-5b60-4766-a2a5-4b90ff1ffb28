@@ -1,8 +1,8 @@
 {
     "institution": "University of Louisiana at Monroe",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "e60301d9-9b40-483f-92de-065769b9d3dd",
+    "recordsetQuery": "{\"recordset\":\"e60301d9-9b40-483f-92de-065769b9d3dd\"}",
     "institution_code": "NLU<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:be8f596e-5b60-4766-a2a5-4b90ff1ffb28",
