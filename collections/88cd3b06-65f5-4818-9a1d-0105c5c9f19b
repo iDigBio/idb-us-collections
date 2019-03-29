@@ -1,8 +1,8 @@
 {
     "institution": "Georgia Southern University",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "98ece30d-bf85-4122-b872-7786031b457f",
+    "recordsetQuery": "{\"recordset\":\"98ece30d-bf85-4122-b872-7786031b457f\"}",
     "institution_code": "GAS",
     "collection_code": "",
     "collection_uuid": "urn:uuid:88cd3b06-65f5-4818-9a1d-0105c5c9f19b",
