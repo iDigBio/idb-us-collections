@@ -6882,8 +6882,8 @@
 {
     "institution": "Fort Hays State University, Sternberg Museum",
     "collection": "Paleontology",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "d6f12b28-bb9f-44f9-9000-08f644658bf8, 560ba8f5-0dab-46f6-985d-7b37397344cd",
+    "recordsetQuery": "{\"recordset\":[\"560ba8f5-0dab-46f6-985d-7b37397344cd\",\"d6f12b28-bb9f-44f9-9000-08f644658bf8\"]}",
     "institution_code": "FHSM",
     "collection_code": "VP (vertebrate paleontology), IP (invertebrate paleontology)",
     "collection_uuid": "urn:uuid:1be73175-688d-42c6-9093-45061f1eac2b",
