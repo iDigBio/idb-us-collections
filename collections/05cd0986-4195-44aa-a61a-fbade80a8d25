@@ -1,8 +1,8 @@
 {
     "institution": "University of Colorado Museum of Natural History",
     "collection": "Paleontology - Vertebrates and Ichnofossils",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "540b0fd9-6b39-4217-9e9a-5f452fb6318d",
+    "recordsetQuery": "{\"recordset\":\"540b0fd9-6b39-4217-9e9a-5f452fb6318d\"}",
     "institution_code": "UCM",
     "collection_code": "VP",
     "collection_uuid": "urn:uuid:05cd0986-4195-44aa-a61a-fbade80a8d25",
