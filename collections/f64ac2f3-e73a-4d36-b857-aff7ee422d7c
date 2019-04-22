@@ -1,8 +1,8 @@
 {
     "institution": "University of Michigan, Museum of Zoology",
     "collection": "Insects",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "a47eacbb-22d0-4a8b-8853-989b26fd8290",
+    "recordsetQuery": "{\"recordset\":\"a47eacbb-22d0-4a8b-8853-989b26fd8290\"}",
     "institution_code": "UMMZ",
     "collection_code": "",
     "collection_uuid": "urn:uuid:f64ac2f3-e73a-4d36-b857-aff7ee422d7c",
