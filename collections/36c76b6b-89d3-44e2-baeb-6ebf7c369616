@@ -1,8 +1,8 @@
 {
     "institution": "University of Tennessee Herbarium",
     "collection": "Vascular Plants",
-    "recordsets": "bdf65f9c-a730-4083-bd8d-a2def3037637",
-    "recordsetQuery": "{\"recordset\":\"bdf65f9c-a730-4083-bd8d-a2def3037637\"}",
+    "recordsets": "d53132e6-7997-4850-8607-4fec5a3f9c3f, bdf65f9c-a730-4083-bd8d-a2def3037637",
+    "recordsetQuery": "{\"recordset\":[\"d53132e6-7997-4850-8607-4fec5a3f9c3f\",\" bdf65f9c-a730-4083-bd8d-a2def3037637\"]}",
     "institution_code": "TENN",
     "collection_code": "",
     "collection_uuid": "urn:uuid:36c76b6b-89d3-44e2-baeb-6ebf7c369616",

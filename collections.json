@@ -6362,8 +6362,8 @@
 {
     "institution": "University of Tennessee, Chattanooga",
     "collection": "Herbarium",
-    "recordsets": "120d557c-c5be-474d-98f0-1ba00ae16b40",
-    "recordsetQuery": "{\"recordset\":\"120d557c-c5be-474d-98f0-1ba00ae16b40\"}",
+    "recordsets": "",
+    "recordsetQuery": "",
     "institution_code": "UCHT<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:1a0db038-e2d7-4934-9fcc-9fa32bb0a6d3",
@@ -13362,8 +13362,8 @@
 {
     "institution": "University of Tennessee Herbarium",
     "collection": "Vascular Plants",
-    "recordsets": "bdf65f9c-a730-4083-bd8d-a2def3037637",
-    "recordsetQuery": "{\"recordset\":\"bdf65f9c-a730-4083-bd8d-a2def3037637\"}",
+    "recordsets": "d53132e6-7997-4850-8607-4fec5a3f9c3f, bdf65f9c-a730-4083-bd8d-a2def3037637",
+    "recordsetQuery": "{\"recordset\":[\"d53132e6-7997-4850-8607-4fec5a3f9c3f\",\" bdf65f9c-a730-4083-bd8d-a2def3037637\"]}",
     "institution_code": "TENN",
     "collection_code": "",
     "collection_uuid": "urn:uuid:36c76b6b-89d3-44e2-baeb-6ebf7c369616",
