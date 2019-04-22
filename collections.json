@@ -6362,8 +6362,8 @@
 {
     "institution": "University of Tennessee, Chattanooga",
     "collection": "Herbarium",
-    "recordsets": "",
-    "recordsetQuery": "",
+    "recordsets": "120d557c-c5be-474d-98f0-1ba00ae16b40",
+    "recordsetQuery": "{\"recordset\":\"120d557c-c5be-474d-98f0-1ba00ae16b40\"}",
     "institution_code": "UCHT<IH>",
     "collection_code": "",
     "collection_uuid": "urn:uuid:1a0db038-e2d7-4934-9fcc-9fa32bb0a6d3",
