@@ -8,7 +8,9 @@ iDigBio publishes a list of US Collections, via the [iDigBio Portal](https://www
 
 [Published collections JSON Endpoint](http://idigbio.github.io/idb-us-collections/collections.json)
 
+## Setup
 
+see `setup.md`
 
 ## Project Structure
 Collections should each have their own JSON file, named by their collection UUID, and be formatted similar to this:
