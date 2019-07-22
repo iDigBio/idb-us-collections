@@ -59,3 +59,5 @@ Failed:   0
 Warnings: 0
 Skipped:  0
 ```
+
+Note that `update-json-index.sh` cannot yet be run locally, so this is the end of the local process for now.

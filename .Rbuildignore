@@ -8,8 +8,7 @@
 ^stub\.json$
 
 # added 2019-07-22.  Not sure the Rbuildignore is actually used
-# but keeping for now and cp to .Rbuildignore which actually 
-# gets picked up
+# but keeping for now
 ^Rbuildignore$
 ^buildCSV\.R$
 ^idbCollections_0\..*\.tar\.gz$
