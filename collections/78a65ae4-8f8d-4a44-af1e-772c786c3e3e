@@ -10,7 +10,6 @@
     "collection_url": "http://www.statenislandmuseum.org",
     "collection_catalog_url": "http://midatlanticherbaria.org/portal/collections/misc/collprofiles.php?collid=335",
     "description": "The Staten Island Museum herbarium (SIM) contains over 25,000 specimens, focused on the flora of Staten Island and the northeastern United States. It is a complete record of the flora of Staten Island, from the 1860s to the present. The core of the herbarium was donated by co-founders Arthur Hollick and Nathaniel Lord Britton, and is composed of specimens they collected during the 1870s-1880s. Specialized sub-collections include hybrid oaks (Hollick/Britton/Davis) and hybrid violets and ferns (Philip Dowell). Aside from vascular plants, the collection also contains mosses, lichens, algae, fungi and slime molds.",
-	"descriptionForSpecialists",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": 26109,
     "knownToContainTypes": No,
