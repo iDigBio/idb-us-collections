@@ -7,14 +7,14 @@
     "collection_code": "CFC",
     "collection_uuid": "urn:uuid:ec507154-629b-41d6-810a-8ffbf75ec12b",
     "collection_lsid": "",
-    "collection_url": "http://natural-history.uoregon.edu/collections/paleontology-collections",
-    "collection_catalog_url": "",
-    "description": "",
+    "collection_url": "https://mnch.uoregon.edu/collections/paleontology-collections",
+	"collection_catalog_url": "http://paleo.uoregon.edu/condon/",
+	"description": "Fossils and comparative biological collections housed at the University of Oregon Museum of Natural and Cultural History. The Condon Fossil Collection is the official state repository for fossils in Oregon. Our collections are Oregon and Pacific-Northwest focused, but include specimens from all seven continents and the world ocean.",
     "descriptionForSpecialists": "",
     "cataloguedSpecimens": null,
     "knownToContainTypes": null,
-    "taxonCoverage": "",
-    "geographic_range": "",
+    "taxonCoverage": "Oregon cenozoic fossils",
+    "geographic_range": "Global",
     "collectionExtent": "",
     "contact": "Greg Retallack",
     "contact_role": "Co-Director",
@@ -34,6 +34,6 @@
     "sameAs": "",
     "flags": "",
     "portalDisplay": "",
-    "lat": 44.0433,
-    "lon": -123.0684
+	"lat": 44.043,
+	"lon": -123.0681
   }
