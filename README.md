@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/iDigBio/idb-us-collections.svg?branch=master)](https://travis-ci.org/iDigBio/idb-us-collections)
+[![Build Status](https://travis-ci.com/iDigBio/idb-us-collections.svg?branch=master)](https://travis-ci.org/iDigBio/idb-us-collections)
+
+note: this repo is no longer in use.
 
 # iDigBio: US Collections 
 
